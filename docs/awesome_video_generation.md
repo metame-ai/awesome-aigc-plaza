@@ -8,6 +8,21 @@
 
 
 ## Video Generation
+- **Video-LaVIT: Unified Video-Language Pre-training with Decoupled
+  Visual-Motional Tokenization**, `arXiv, 2402.03161`, [arxiv](http://arxiv.org/abs/2402.03161v2), [pdf](http://arxiv.org/pdf/2402.03161v2.pdf), cication: [**-1**](None)
+
+	 *Yang Jin, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang* · ([video-lavit.github](https://video-lavit.github.i))
+- **Direct-a-Video: Customized Video Generation with User-Directed Camera
+  Movement and Object Motion**, `arXiv, 2402.03162`, [arxiv](http://arxiv.org/abs/2402.03162v1), [pdf](http://arxiv.org/pdf/2402.03162v1.pdf), cication: [**-1**](None)
+
+	 *Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao* · ([direct-a-video.github](https://direct-a-video.github.io/))
+- **Boximator: Generating Rich and Controllable Motions for Video Synthesis**, `arXiv, 2402.01566`, [arxiv](http://arxiv.org/abs/2402.01566v1), [pdf](http://arxiv.org/pdf/2402.01566v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Wang, Yuchen Zhang, Jiaxin Zou, Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li*
+- **InteractiveVideo: User-Centric Controllable Video Generation with
+  Synergistic Multimodal Instructions**, `arXiv, 2402.03040`, [arxiv](http://arxiv.org/abs/2402.03040v1), [pdf](http://arxiv.org/pdf/2402.03040v1.pdf), cication: [**-1**](None)
+
+	 *Yiyuan Zhang, Yuhao Kang, Zhixin Zhang, Xiaohan Ding, Sanyuan Zhao, Xiangyu Yue* · ([InteractiveVideo](https://github.com/invictus717/InteractiveVideo) - invictus717) ![Star](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Star)
 - **AnimateLCM: Accelerating the Animation of Personalized Diffusion Models
   and Adapters with Decoupled Consistency Learning**, `arXiv, 2402.00769`, [arxiv](http://arxiv.org/abs/2402.00769v1), [pdf](http://arxiv.org/pdf/2402.00769v1.pdf), cication: [**-1**](None)
 
@@ -214,6 +229,8 @@
 - **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**, `arXiv, 2310.12190`, [arxiv](http://arxiv.org/abs/2310.12190v2), [pdf](http://arxiv.org/pdf/2310.12190v2.pdf), cication: [**8**](https://scholar.google.com/scholar?cites=6804708590492344727&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Jinbo Xing, Menghan Xia, Yong Zhang, Haoxin Chen, Wangbo Yu, Hanyuan Liu, Xintao Wang, Tien-Tsin Wong, Ying Shan* · ([doubiiu.github](https://doubiiu.github.io/projects/DynamiCrafter/)) · ([DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - Doubiiu) ![Star](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Doubiiu/DynamiCrafter))
+
+	 · ([huggingface](https://huggingface.co/Doubiiu/DynamiCrafter_1024))
 - **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, `arXiv, 2312.03793`, [arxiv](http://arxiv.org/abs/2312.03793v1), [pdf](http://arxiv.org/pdf/2312.03793v1.pdf), cication: [**-1**](None)
 
 	 *Jiwen Yu, Xiaodong Cun, Chenyang Qi, Yong Zhang, Xintao Wang, Ying Shan, Jian Zhang* · ([vvictoryuki.github](https://vvictoryuki.github.io/animatezero.github.io/))
