@@ -8,6 +8,12 @@
 
 
 ## Video Generation
+- **Magic-Me: Identity-Specific Video Customized Diffusion**, `arXiv, 2402.09368`, [arxiv](http://arxiv.org/abs/2402.09368v1), [pdf](http://arxiv.org/pdf/2402.09368v1.pdf), cication: [**-1**](None)
+
+	 *Ze Ma, Daquan Zhou, Chun-Hsiao Yeh, Xue-She Wang, Xiuyu Li, Huanrui Yang, Zhen Dong, Kurt Keutzer, Jiashi Feng* · ([Magic-Me](https://github.com/Zhen-Dong/Magic-Me) - Zhen-Dong) ![Star](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)
+- **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**, `arXiv, 2402.04324`, [arxiv](http://arxiv.org/abs/2402.04324v1), [pdf](http://arxiv.org/pdf/2402.04324v1.pdf), cication: [**-1**](None)
+
+	 *Weiming Ren, Harry Yang, Ge Zhang, Cong Wei, Xinrun Du, Stephen Huang, Wenhu Chen*
 - **Video-LaVIT: Unified Video-Language Pre-training with Decoupled
   Visual-Motional Tokenization**, `arXiv, 2402.03161`, [arxiv](http://arxiv.org/abs/2402.03161v2), [pdf](http://arxiv.org/pdf/2402.03161v2.pdf), cication: [**-1**](None)
 
@@ -201,6 +207,9 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Animated Stickers: Bringing Stickers to Life with Video Diffusion**, `arXiv, 2402.06088`, [arxiv](http://arxiv.org/abs/2402.06088v1), [pdf](http://arxiv.org/pdf/2402.06088v1.pdf), cication: [**-1**](None)
+
+	 *David Yan, Winnie Zhang, Luxin Zhang, Anmol Kalia, Dingkang Wang, Ankit Ramchandani, Miao Liu, Albert Pumarola, Edgar Schoenfeld, Elliot Blanchard*
 - **Motion-I2V: Consistent and Controllable Image-to-Video Generation with
   Explicit Motion Modeling**, `arXiv, 2401.15977`, [arxiv](http://arxiv.org/abs/2401.15977v2), [pdf](http://arxiv.org/pdf/2401.15977v2.pdf), cication: [**-1**](None)
 
