@@ -8,6 +8,7 @@
 
 
 ## Video Generation
+- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - **Magic-Me: Identity-Specific Video Customized Diffusion**, `arXiv, 2402.09368`, [arxiv](http://arxiv.org/abs/2402.09368v1), [pdf](http://arxiv.org/pdf/2402.09368v1.pdf), cication: [**-1**](None)
 
 	 *Ze Ma, Daquan Zhou, Chun-Hsiao Yeh, Xue-She Wang, Xiuyu Li, Huanrui Yang, Zhen Dong, Kurt Keutzer, Jiashi Feng* · ([Magic-Me](https://github.com/Zhen-Dong/Magic-Me) - Zhen-Dong) ![Star](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)
@@ -328,5 +329,6 @@
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 ## Other
+- [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
 - [VideoPoet｜LLM带来真正的视觉智能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495446&idx=1&sn=4089da3bd1dd316cf56b65ab693d5677&poc_token=HE85t2WjjLn1_BtacLx6xHH-RLg8xAVsmHpv96WR)
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
