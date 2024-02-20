@@ -8,6 +8,7 @@
 
 
 ## Video Generation
+- [**AnimateLCM-SVD-xt**](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) - wangfuyun 🤗
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - **Magic-Me: Identity-Specific Video Customized Diffusion**, `arXiv, 2402.09368`, [arxiv](http://arxiv.org/abs/2402.09368v1), [pdf](http://arxiv.org/pdf/2402.09368v1.pdf), cication: [**-1**](None)
 
