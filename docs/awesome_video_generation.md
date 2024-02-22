@@ -6,6 +6,10 @@
 	- [Video Editting](#video-editting)
 	- [Other](#other)
 
+## Survey
+- **A Survey on Generative Diffusion Model**, `ieee transactions on knowledge and data engineering, 2024`, [arxiv](http://arxiv.org/abs/2209.02646v10), [pdf](http://arxiv.org/pdf/2209.02646v10.pdf), cication: [**121**](https://scholar.google.com/scholar?cites=16128994104714577384&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
 - [**AnimateLCM-SVD-xt**](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) - wangfuyun 🤗
@@ -330,6 +334,7 @@
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 ## Other
+- [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618)
 - [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
 - [VideoPoet｜LLM带来真正的视觉智能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495446&idx=1&sn=4089da3bd1dd316cf56b65ab693d5677&poc_token=HE85t2WjjLn1_BtacLx6xHH-RLg8xAVsmHpv96WR)
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
