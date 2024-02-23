@@ -12,6 +12,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video
+  Synthesis**, `arXiv, 2402.14797`, [arxiv](http://arxiv.org/abs/2402.14797v1), [pdf](http://arxiv.org/pdf/2402.14797v1.pdf), cication: [**-1**](None)
+
+	 *Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Ekaterina Deyneka, Tsai-Shien Chen, Anil Kag, Yuwei Fang, Aleksei Stoliar, Elisa Ricci, Jian Ren* · ([snap-research.github](https://snap-research.github.io/snapvideo/))
 - [**AnimateLCM-SVD-xt**](https://huggingface.co/wangfuyun/AnimateLCM-SVD-xt) - wangfuyun 🤗
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - **Magic-Me: Identity-Specific Video Customized Diffusion**, `arXiv, 2402.09368`, [arxiv](http://arxiv.org/abs/2402.09368v1), [pdf](http://arxiv.org/pdf/2402.09368v1.pdf), cication: [**-1**](None)
