@@ -337,6 +337,12 @@
 - **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**, `arXiv, 2306.07954`, [arxiv](http://arxiv.org/abs/2306.07954v2), [pdf](http://arxiv.org/pdf/2306.07954v2.pdf), cication: [**48**](https://scholar.google.com/scholar?cites=4772856106441552899&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
+
+## Toolkits
+- [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)
+
+	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
+
 ## Other
 - [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618)
 - [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
