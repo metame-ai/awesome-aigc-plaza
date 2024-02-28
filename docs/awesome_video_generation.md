@@ -12,6 +12,14 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [[2402.17139] Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139)
+- **Sora Generates Videos with Stunning Geometrical Consistency**, `arXiv, 2402.17403`, [arxiv](http://arxiv.org/abs/2402.17403v1), [pdf](http://arxiv.org/pdf/2402.17403v1.pdf), cication: [**-1**](None)
+
+	 *Xuanyi Li, Daquan Zhou, Chenxu Zhang, Shaodong Wei, Qibin Hou, Ming-Ming Cheng* · ([sora-geometrical-consistency.github](https://sora-geometrical-consistency.github.io/))
+- **Sora: A Review on Background, Technology, Limitations, and Opportunities
+  of Large Vision Models**, `arXiv, 2402.17177`, [arxiv](http://arxiv.org/abs/2402.17177v1), [pdf](http://arxiv.org/pdf/2402.17177v1.pdf), cication: [**-1**](None)
+
+	 *Yixin Liu, Kai Zhang, Yuan Li, Zhiling Yan, Chujie Gao, Ruoxi Chen, Zhengqing Yuan, Yue Huang, Hanchi Sun, Jianfeng Gao*
 - **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video
   Synthesis**, `arXiv, 2402.14797`, [arxiv](http://arxiv.org/abs/2402.14797v1), [pdf](http://arxiv.org/pdf/2402.14797v1.pdf), cication: [**-1**](None)
 
