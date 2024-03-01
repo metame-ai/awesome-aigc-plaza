@@ -12,7 +12,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [[2402.17139] Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139)
+- **Video as the New Language for Real-World Decision Making**, `arXiv, 2402.17139`, [arxiv](http://arxiv.org/abs/2402.17139v1), [pdf](http://arxiv.org/pdf/2402.17139v1.pdf), cication: [**-1**](None)
+
+	 *Sherry Yang, Jacob Walker, Jack Parker-Holder, Yilun Du, Jake Bruce, Andre Barreto, Pieter Abbeel, Dale Schuurmans*
 - **Sora Generates Videos with Stunning Geometrical Consistency**, `arXiv, 2402.17403`, [arxiv](http://arxiv.org/abs/2402.17403v1), [pdf](http://arxiv.org/pdf/2402.17403v1.pdf), cication: [**-1**](None)
 
 	 *Xuanyi Li, Daquan Zhou, Chenxu Zhang, Shaodong Wei, Qibin Hou, Ming-Ming Cheng* · ([sora-geometrical-consistency.github](https://sora-geometrical-consistency.github.io/))
