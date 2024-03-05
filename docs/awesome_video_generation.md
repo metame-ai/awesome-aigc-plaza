@@ -7,14 +7,17 @@
 	- [Other](#other)
 
 ## Survey
+- [**sorareview**](https://github.com/lichao-sun/sorareview) - lichao-sun ![Star](https://img.shields.io/github/stars/lichao-sun/sorareview.svg?style=social&label=Star)
+
+	 *The official GitHub page for the review paper "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models".*
 - **A Survey on Generative Diffusion Model**, `ieee transactions on knowledge and data engineering, 2024`, [arxiv](http://arxiv.org/abs/2209.02646v10), [pdf](http://arxiv.org/pdf/2209.02646v10.pdf), cication: [**121**](https://scholar.google.com/scholar?cites=16128994104714577384&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- **Video as the New Language for Real-World Decision Making**, `arXiv, 2402.17139`, [arxiv](http://arxiv.org/abs/2402.17139v1), [pdf](http://arxiv.org/pdf/2402.17139v1.pdf), cication: [**-1**](None)
+- [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - PKU-YuanGroup ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)
 
-	 *Sherry Yang, Jacob Walker, Jack Parker-Holder, Yilun Du, Jake Bruce, Andre Barreto, Pieter Abbeel, Dale Schuurmans*
+	 *This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.*
 - **Sora Generates Videos with Stunning Geometrical Consistency**, `arXiv, 2402.17403`, [arxiv](http://arxiv.org/abs/2402.17403v1), [pdf](http://arxiv.org/pdf/2402.17403v1.pdf), cication: [**-1**](None)
 
 	 *Xuanyi Li, Daquan Zhou, Chenxu Zhang, Shaodong Wei, Qibin Hou, Ming-Ming Cheng* · ([sora-geometrical-consistency.github](https://sora-geometrical-consistency.github.io/))
@@ -354,6 +357,7 @@
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
 
 ## Other
+- [去魅Sora: OpenAI 鲜肉小组的小试牛刀](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495615&idx=1&sn=195542f7c0cb64e0c81fa54a6726b442)
 - [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618)
 - [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
 - [VideoPoet｜LLM带来真正的视觉智能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495446&idx=1&sn=4089da3bd1dd316cf56b65ab693d5677&poc_token=HE85t2WjjLn1_BtacLx6xHH-RLg8xAVsmHpv96WR)
