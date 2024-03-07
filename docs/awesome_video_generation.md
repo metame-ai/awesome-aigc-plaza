@@ -15,6 +15,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Tuning-Free Noise Rectification for High Fidelity Image-to-Video
+  Generation**, `arXiv, 2403.02827`, [arxiv](http://arxiv.org/abs/2403.02827v1), [pdf](http://arxiv.org/pdf/2403.02827v1.pdf), cication: [**-1**](None)
+
+	 *Weijie Li, Litong Gong, Yiran Zhu, Fanda Fan, Biao Wang, Tiezheng Ge, Bo Zheng* · ([noise-rectification.github](https://noise-rectification.github.io))
 - [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - PKU-YuanGroup ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)
 
 	 *This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.*
@@ -230,6 +234,9 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **AtomoVideo: High Fidelity Image-to-Video Generation**, `arXiv, 2403.01800`, [arxiv](http://arxiv.org/abs/2403.01800v2), [pdf](http://arxiv.org/pdf/2403.01800v2.pdf), cication: [**-1**](None)
+
+	 *Litong Gong, Yiran Zhu, Weijie Li, Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng* · ([atomo-video.github](https://atomo-video.github.io/))
 - **Animated Stickers: Bringing Stickers to Life with Video Diffusion**, `arXiv, 2402.06088`, [arxiv](http://arxiv.org/abs/2402.06088v1), [pdf](http://arxiv.org/pdf/2402.06088v1.pdf), cication: [**-1**](None)
 
 	 *David Yan, Winnie Zhang, Luxin Zhang, Anmol Kalia, Dingkang Wang, Ankit Ramchandani, Miao Liu, Albert Pumarola, Edgar Schoenfeld, Elliot Blanchard*
