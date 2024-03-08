@@ -15,6 +15,12 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Pix2Gif: Motion-Guided Diffusion for GIF Generation**, `arXiv, 2403.04634`, [arxiv](http://arxiv.org/abs/2403.04634v1), [pdf](http://arxiv.org/pdf/2403.04634v1.pdf), cication: [**-1**](None)
+
+	 *Hitesh Kandala, Jianfeng Gao, Jianwei Yang*
+- [**Open-Sora**](https://github.com/hpcaitech/Open-Sora) - hpcaitech ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)
+
+	 *Building your own video generation model like OpenAI's Sora*
 - **Tuning-Free Noise Rectification for High Fidelity Image-to-Video
   Generation**, `arXiv, 2403.02827`, [arxiv](http://arxiv.org/abs/2403.02827v1), [pdf](http://arxiv.org/pdf/2403.02827v1.pdf), cication: [**-1**](None)
 
@@ -364,8 +370,9 @@
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
 
 ## Other
-- [去魅Sora: OpenAI 鲜肉小组的小试牛刀](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495615&idx=1&sn=195542f7c0cb64e0c81fa54a6726b442)
-- [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618)
+- [Sora 时代的 AI 视频生成何去何从？ | 机器之心](https://www.jiqizhixin.com/articles/2024-03-07-5)
+- [去魅Sora: OpenAI 鲜肉小组的小试牛刀](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495615&idx=1&sn=195542f7c0cb64e0c81fa54a6726bkkkk442)
+- [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618kk)
 - [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
 - [VideoPoet｜LLM带来真正的视觉智能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495446&idx=1&sn=4089da3bd1dd316cf56b65ab693d5677&poc_token=HE85t2WjjLn1_BtacLx6xHH-RLg8xAVsmHpv96WR)
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
