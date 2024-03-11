@@ -15,6 +15,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **VideoElevator: Elevating Video Generation Quality with Versatile
+  Text-to-Image Diffusion Models**, `arXiv, 2403.05438`, [arxiv](http://arxiv.org/abs/2403.05438v1), [pdf](http://arxiv.org/pdf/2403.05438v1.pdf), cication: [**-1**](None)
+
+	 *Yabo Zhang, Yuxiang Wei, Xianhui Lin, Zheng Hui, Peiran Ren, Xuansong Xie, Xiangyang Ji, Wangmeng Zuo* · ([VideoElevator](https://github.com/YBYBZhang/VideoElevator) - YBYBZhang) ![Star](https://img.shields.io/github/stars/YBYBZhang/VideoElevator.svg?style=social&label=Star)
 - **Pix2Gif: Motion-Guided Diffusion for GIF Generation**, `arXiv, 2403.04634`, [arxiv](http://arxiv.org/abs/2403.04634v1), [pdf](http://arxiv.org/pdf/2403.04634v1.pdf), cication: [**-1**](None)
 
 	 *Hitesh Kandala, Jianfeng Gao, Jianwei Yang*
@@ -376,3 +380,6 @@
 - [AI视频年大爆发！Gen-2/Pika成时代爆款，2023年AI视频生成领域的现状全盘点](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652443771&idx=2&sn=ca19aa545677e812915e7e67e0c3e250)
 - [VideoPoet｜LLM带来真正的视觉智能](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495446&idx=1&sn=4089da3bd1dd316cf56b65ab693d5677&poc_token=HE85t2WjjLn1_BtacLx6xHH-RLg8xAVsmHpv96WR)
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
+
+## Product
+- [Sora 竞争对手融资数千万美元，目前可免费“薅” | 机器之心](https://www.jiqizhixin.com/articles/2024-03-08-7)
