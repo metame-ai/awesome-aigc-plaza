@@ -7,6 +7,10 @@
 	- [Other](#other)
 
 ## Survey
+- **Sora as an AGI World Model? A Complete Survey on Text-to-Video
+  Generation**, `arXiv, 2403.05131`, [arxiv](http://arxiv.org/abs/2403.05131v1), [pdf](http://arxiv.org/pdf/2403.05131v1.pdf), cication: [**-1**](None)
+
+	 *Joseph Cho, Fachrina Dewi Puspitasari, Sheng Zheng, Jingyao Zheng, Lik-Hang Lee, Tae-Ho Kim, Choong Seon Hong, Chaoning Zhang*
 - [**sorareview**](https://github.com/lichao-sun/sorareview) - lichao-sun ![Star](https://img.shields.io/github/stars/lichao-sun/sorareview.svg?style=social&label=Star)
 
 	 *The official GitHub page for the review paper "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models".*
@@ -244,6 +248,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [[2403.05659] Audio-Synchronized Visual Animation](https://arxiv.org/abs/2403.05659)
+
+	 · ([lzhangbj.github](https://lzhangbj.github.io/projects/asva/asva.html))
+- [[2403.07420] DragAnything: Motion Control for Anything using Entity Representation](https://arxiv.org/abs/2403.07420)
 - **AtomoVideo: High Fidelity Image-to-Video Generation**, `arXiv, 2403.01800`, [arxiv](http://arxiv.org/abs/2403.01800v2), [pdf](http://arxiv.org/pdf/2403.01800v2.pdf), cication: [**-1**](None)
 
 	 *Litong Gong, Yiran Zhu, Weijie Li, Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng* · ([atomo-video.github](https://atomo-video.github.io/))
@@ -319,6 +327,10 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
+- **FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video
+  Editing**, `arXiv, 2403.06269`, [arxiv](http://arxiv.org/abs/2403.06269v1), [pdf](http://arxiv.org/pdf/2403.06269v1.pdf), cication: [**-1**](None)
+
+	 *Youyuan Zhang, Xuan Ju, James J. Clark*
 - **Anything in Any Scene: Photorealistic Video Object Insertion**, `arXiv, 2401.17509`, [arxiv](http://arxiv.org/abs/2401.17509v1), [pdf](http://arxiv.org/pdf/2401.17509v1.pdf), cication: [**-1**](None)
 
 	 *Chen Bai, Zeman Shao, Guoxiang Zhang, Di Liang, Jie Yang, Zhuorui Zhang, Yujian Guo, Chengzhang Zhong, Yiqiao Qiu, Zhendong Wang* · ([anythinginanyscene.github](https://anythinginanyscene.github.io))
@@ -368,6 +380,12 @@
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 
+## Datasets
+- **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
+  Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v1), [pdf](http://arxiv.org/pdf/2403.06098v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Wang, Yi Yang*
+
 ## Toolkits
 - [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)
 
@@ -382,4 +400,6 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [清华系多模态大模型公司刚刚融了数亿元！放话"今年达到Sora效果" | 量子位](https://www.qbitai.com/2024/03/127279.html)
+- [国产Sora来了，4K 60帧15秒视频刷新纪录！500亿美元短剧出海市场被撬动](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454101&idx=1&sn=a317255d4989a37a91000c81945792d6)
 - [Sora 竞争对手融资数千万美元，目前可免费“薅” | 机器之心](https://www.jiqizhixin.com/articles/2024-03-08-7)
