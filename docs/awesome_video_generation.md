@@ -19,6 +19,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **AesopAgent: Agent-driven Evolutionary System on Story-to-Video
+  Production**, `arXiv, 2403.07952`, [arxiv](http://arxiv.org/abs/2403.07952v1), [pdf](http://arxiv.org/pdf/2403.07952v1.pdf), cication: [**-1**](None)
+
+	 *Jiuniu Wang, Zehua Du, Yuyuan Zhao, Bo Yuan, Kexiang Wang, Jian Liang, Yaxi Zhao, Yihen Lu, Gengliang Li, Junlong Gao*
 - **VideoElevator: Elevating Video Generation Quality with Versatile
   Text-to-Image Diffusion Models**, `arXiv, 2403.05438`, [arxiv](http://arxiv.org/abs/2403.05438v1), [pdf](http://arxiv.org/pdf/2403.05438v1.pdf), cication: [**-1**](None)
 
@@ -248,10 +252,20 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text
+  and Image Inputs**, `arXiv, 2403.07944`, [arxiv](http://arxiv.org/abs/2403.07944v1), [pdf](http://arxiv.org/pdf/2403.07944v1.pdf), cication: [**-1**](None)
+
+	 *Deshun Yang, Luhui Hu, Yu Tian, Zihao Li, Chris Kelly, Bang Yang, Cindy Yang, Yuexian Zou*
+- **Follow-Your-Click: Open-domain Regional Image Animation via Short
+  Prompts**, `arXiv, 2403.08268`, [arxiv](http://arxiv.org/abs/2403.08268v1), [pdf](http://arxiv.org/pdf/2403.08268v1.pdf), cication: [**-1**](None)
+
+	 *Yue Ma, Yingqing He, Hongfa Wang, Andong Wang, Chenyang Qi, Chengfei Cai, Xiu Li, Zhifeng Li, Heung-Yeung Shum, Wei Liu* · ([follow-your-click.github](https://follow-your-click.github.io/))
 - [[2403.05659] Audio-Synchronized Visual Animation](https://arxiv.org/abs/2403.05659)
 
 	 · ([lzhangbj.github](https://lzhangbj.github.io/projects/asva/asva.html))
-- [[2403.07420] DragAnything: Motion Control for Anything using Entity Representation](https://arxiv.org/abs/2403.07420)
+- **DragAnything: Motion Control for Anything using Entity Representation**, `arXiv, 2403.07420`, [arxiv](http://arxiv.org/abs/2403.07420v2), [pdf](http://arxiv.org/pdf/2403.07420v2.pdf), cication: [**-1**](None)
+
+	 *Weijia Wu, Zhuang Li, Yuchao Gu, Rui Zhao, Yefei He, David Junhao Zhang, Mike Zheng Shou, Yan Li, Tingting Gao, Di Zhang*
 - **AtomoVideo: High Fidelity Image-to-Video Generation**, `arXiv, 2403.01800`, [arxiv](http://arxiv.org/abs/2403.01800v2), [pdf](http://arxiv.org/pdf/2403.01800v2.pdf), cication: [**-1**](None)
 
 	 *Litong Gong, Yiran Zhu, Weijie Li, Xiaoyang Kang, Biao Wang, Tiezheng Ge, Bo Zheng* · ([atomo-video.github](https://atomo-video.github.io/))

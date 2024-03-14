@@ -7,7 +7,9 @@
 
 
 ## Image to 3D
-- [[2403.06738] V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738)
+- **V3D: Video Diffusion Models are Effective 3D Generators**, `arXiv, 2403.06738`, [arxiv](http://arxiv.org/abs/2403.06738v1), [pdf](http://arxiv.org/pdf/2403.06738v1.pdf), cication: [**-1**](None)
+
+	 *Zilong Chen, Yikai Wang, Feng Wang, Zhengyi Wang, Huaping Liu*
 
 	 · ([V3D](https://github.com/heheyas/V3D) - heheyas) ![Star](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Star)
 - **CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction
