@@ -341,6 +341,7 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
+- [Fetching Title#ht5i](https://arxiv.org/abs/2403.09334)
 - **FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video
   Editing**, `arXiv, 2403.06269`, [arxiv](http://arxiv.org/abs/2403.06269v1), [pdf](http://arxiv.org/pdf/2403.06269v1.pdf), cication: [**-1**](None)
 

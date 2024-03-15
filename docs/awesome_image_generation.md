@@ -13,6 +13,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [[2403.09055] StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control](https://arxiv.org/abs/2403.09055)
+
+	 · ([StreamMultiDiffusion](https://github.com/ironjr/StreamMultiDiffusion) - ironjr) ![Star](https://img.shields.io/github/stars/ironjr/StreamMultiDiffusion.svg?style=social&label=Star)
 - **FaceChain-SuDe: Building Derived Class to Inherit Category Attributes
   for One-shot Subject-Driven Generation**, `arXiv, 2403.06775`, [arxiv](http://arxiv.org/abs/2403.06775v1), [pdf](http://arxiv.org/pdf/2403.06775v1.pdf), cication: [**-1**](None)
 
@@ -37,5 +40,8 @@
 - **MDTv2: Masked Diffusion Transformer is a Strong Image Synthesizer**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.14389v2), [pdf](http://arxiv.org/pdf/2303.14389v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=265826374435029950&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shanghua Gao, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan* · ([MDT](https://github.com/sail-sg/MDT) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/MDT.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454525&idx=3&sn=fdd95d9f3de58caa7ad0c8bfbe07f548))
+	 
+## Text Rendering
+- [[2403.09622] Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622)
 
 ## Projects
