@@ -260,7 +260,9 @@
   Prompts**, `arXiv, 2403.08268`, [arxiv](http://arxiv.org/abs/2403.08268v1), [pdf](http://arxiv.org/pdf/2403.08268v1.pdf), cication: [**-1**](None)
 
 	 *Yue Ma, Yingqing He, Hongfa Wang, Andong Wang, Chenyang Qi, Chengfei Cai, Xiu Li, Zhifeng Li, Heung-Yeung Shum, Wei Liu* · ([follow-your-click.github](https://follow-your-click.github.io/))
-- [[2403.05659] Audio-Synchronized Visual Animation](https://arxiv.org/abs/2403.05659)
+- **Audio-Synchronized Visual Animation**, `arXiv, 2403.05659`, [arxiv](http://arxiv.org/abs/2403.05659v1), [pdf](http://arxiv.org/pdf/2403.05659v1.pdf), cication: [**-1**](None)
+
+	 *Lin Zhang, Shentong Mo, Yijing Zhang, Pedro Morgado*
 
 	 · ([lzhangbj.github](https://lzhangbj.github.io/projects/asva/asva.html))
 - **DragAnything: Motion Control for Anything using Entity Representation**, `arXiv, 2403.07420`, [arxiv](http://arxiv.org/abs/2403.07420v2), [pdf](http://arxiv.org/pdf/2403.07420v2.pdf), cication: [**-1**](None)
@@ -341,7 +343,9 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
-- [Fetching Title#ht5i](https://arxiv.org/abs/2403.09334)
+- **Video Editing via Factorized Diffusion Distillation**, `arXiv, 2403.09334`, [arxiv](http://arxiv.org/abs/2403.09334v1), [pdf](http://arxiv.org/pdf/2403.09334v1.pdf), cication: [**-1**](None)
+
+	 *Uriel Singer, Amit Zohar, Yuval Kirstain, Shelly Sheynin, Adam Polyak, Devi Parikh, Yaniv Taigman*
 - **FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video
   Editing**, `arXiv, 2403.06269`, [arxiv](http://arxiv.org/abs/2403.06269v1), [pdf](http://arxiv.org/pdf/2403.06269v1.pdf), cication: [**-1**](None)
 
