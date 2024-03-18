@@ -28,6 +28,9 @@
 - **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**, `arXiv, 2402.05408`, [arxiv](http://arxiv.org/abs/2402.05408v2), [pdf](http://arxiv.org/pdf/2402.05408v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6982678976661726233&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dewei Zhou, You Li, Fan Ma, Xiaoting Zhang, Yi Yang* · ([MIGC](https://github.com/limuloo/MIGC) - limuloo) ![Star](https://img.shields.io/github/stars/limuloo/MIGC.svg?style=social&label=Star)
+- [[2401.12596] UniHDA: A Unified and Versatile Framework for Multi-Modal Hybrid Domain Adaptation](https://arxiv.org/abs/2401.12596)
+
+	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
 - **Multistep Consistency Models**, `arXiv, 2403.06807`, [arxiv](http://arxiv.org/abs/2403.06807v1), [pdf](http://arxiv.org/pdf/2403.06807v1.pdf), cication: [**-1**](None)

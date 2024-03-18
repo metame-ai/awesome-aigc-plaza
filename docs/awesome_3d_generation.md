@@ -4,9 +4,10 @@
 
 
 ## Text to 3D
-
+- [[2403.09981] Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981)
 
 ## Image to 3D
+- [[2403.10395] Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding](https://arxiv.org/abs/2403.10395)
 - **V3D: Video Diffusion Models are Effective 3D Generators**, `arXiv, 2403.06738`, [arxiv](http://arxiv.org/abs/2403.06738v1), [pdf](http://arxiv.org/pdf/2403.06738v1.pdf), cication: [**-1**](None)
 
 	 *Zilong Chen, Yikai Wang, Feng Wang, Zhengyi Wang, Huaping Liu*

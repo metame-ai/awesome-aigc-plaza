@@ -252,6 +252,7 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [[2403.10179] Animate Your Motion: Turning Still Images into Dynamic Videos](https://arxiv.org/abs/2403.10179)
 - **WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text
   and Image Inputs**, `arXiv, 2403.07944`, [arxiv](http://arxiv.org/abs/2403.07944v1), [pdf](http://arxiv.org/pdf/2403.07944v1.pdf), cication: [**-1**](None)
 
@@ -304,6 +305,8 @@
 	 *Jinbo Xing, Menghan Xia, Yong Zhang, Haoxin Chen, Wangbo Yu, Hanyuan Liu, Xintao Wang, Tien-Tsin Wong, Ying Shan* · ([doubiiu.github](https://doubiiu.github.io/projects/DynamiCrafter/)) · ([DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - Doubiiu) ![Star](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/Doubiiu/DynamiCrafter))
 
 	 · ([huggingface](https://huggingface.co/Doubiiu/DynamiCrafter_1024))
+
+	 · ([huggingface](https://huggingface.co/spaces/Doubiiu/DynamiCrafter_interp_loop))
 - **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, `arXiv, 2312.03793`, [arxiv](http://arxiv.org/abs/2312.03793v1), [pdf](http://arxiv.org/pdf/2312.03793v1.pdf), cication: [**-1**](None)
 
 	 *Jiwen Yu, Xiaodong Cun, Chenyang Qi, Yong Zhang, Xintao Wang, Ying Shan, Jian Zhang* · ([vvictoryuki.github](https://vvictoryuki.github.io/animatezero.github.io/))
