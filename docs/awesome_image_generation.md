@@ -13,6 +13,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **LightIt: Illumination Modeling and Control for Diffusion Models**, `arXiv, 2403.10615`, [arxiv](http://arxiv.org/abs/2403.10615v1), [pdf](http://arxiv.org/pdf/2403.10615v1.pdf), cication: [**-1**](None)
+
+	 *Peter Kocsis, Julien Philip, Kalyan Sunkavalli, Matthias Nießner, Yannick Hold-Geoffroy*
 - **StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based
   Semantic Control**, `arXiv, 2403.09055`, [arxiv](http://arxiv.org/abs/2403.09055v1), [pdf](http://arxiv.org/pdf/2403.09055v1.pdf), cication: [**-1**](None)
 
@@ -28,11 +31,15 @@
 - **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**, `arXiv, 2402.05408`, [arxiv](http://arxiv.org/abs/2402.05408v2), [pdf](http://arxiv.org/pdf/2402.05408v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6982678976661726233&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Dewei Zhou, You Li, Fan Ma, Xiaoting Zhang, Yi Yang* · ([MIGC](https://github.com/limuloo/MIGC) - limuloo) ![Star](https://img.shields.io/github/stars/limuloo/MIGC.svg?style=social&label=Star)
-- [[2401.12596] UniHDA: A Unified and Versatile Framework for Multi-Modal Hybrid Domain Adaptation](https://arxiv.org/abs/2401.12596)
+- **UniHDA: A Unified and Versatile Framework for Multi-Modal Hybrid Domain
+  Adaptation**, `arXiv, 2401.12596`, [arxiv](http://arxiv.org/abs/2401.12596v2), [pdf](http://arxiv.org/pdf/2401.12596v2.pdf), cication: [**-1**](None)
+
+	 *Hengjia Li, Yang Liu, Yuqi Lin, Zhanwei Zhang, Yibo Zhao, weihang Pan, Tu Zheng, Zheng Yang, Yuchun Jiang, Boxi Wu*
 
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- [[2403.12015] Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://arxiv.org/abs/2403.12015)
 - **Multistep Consistency Models**, `arXiv, 2403.06807`, [arxiv](http://arxiv.org/abs/2403.06807v1), [pdf](http://arxiv.org/pdf/2403.06807v1.pdf), cication: [**-1**](None)
 
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
@@ -55,4 +62,18 @@
 
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
+## Personlazation
+- [[2403.11781] Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm](https://arxiv.org/abs/2403.11781)
+
 ## Projects
+- [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
+
+## Toolkits
+- [**rembg-webapp-tutorial**](https://github.com/codediodeio/rembg-webapp-tutorial) - codediodeio ![Star](https://img.shields.io/github/stars/codediodeio/rembg-webapp-tutorial.svg?style=social&label=Star)
+
+	 *a simple webapp with rembg*
+- [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star)
+
+	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
