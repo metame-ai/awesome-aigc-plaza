@@ -1,8 +1,9 @@
 # Awesome Image Generation
 
 ## Survey
+- **Controllable Generation with Text-to-Image Diffusion Models: A Survey**, `arXiv, 2403.04279`, [arxiv](http://arxiv.org/abs/2403.04279v1), [pdf](http://arxiv.org/pdf/2403.04279v1.pdf), cication: [**-1**](None)
 
-
+	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
 - **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**, `arXiv, 2403.05135`, [arxiv](http://arxiv.org/abs/2403.05135v1), [pdf](http://arxiv.org/pdf/2403.05135v1.pdf), cication: [**-1**](None)
@@ -22,6 +23,8 @@
 	 *Jaerin Lee, Daniel Sungho Jung, Kanggeon Lee, Kyoung Mu Lee*
 
 	 · ([StreamMultiDiffusion](https://github.com/ironjr/StreamMultiDiffusion) - ironjr) ![Star](https://img.shields.io/github/stars/ironjr/StreamMultiDiffusion.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/ironjr/SemanticPalette))
 - **FaceChain-SuDe: Building Derived Class to Inherit Category Attributes
   for One-shot Subject-Driven Generation**, `arXiv, 2403.06775`, [arxiv](http://arxiv.org/abs/2403.06775v1), [pdf](http://arxiv.org/pdf/2403.06775v1.pdf), cication: [**-1**](None)
 
@@ -39,12 +42,18 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
-- [[2403.12015] Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://arxiv.org/abs/2403.12015)
+- **Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion
+  Distillation**, `arXiv, 2403.12015`, [arxiv](http://arxiv.org/abs/2403.12015v1), [pdf](http://arxiv.org/pdf/2403.12015v1.pdf), cication: [**-1**](None)
+
+	 *Axel Sauer, Frederic Boesel, Tim Dockhorn, Andreas Blattmann, Patrick Esser, Robin Rombach*
 - **Multistep Consistency Models**, `arXiv, 2403.06807`, [arxiv](http://arxiv.org/abs/2403.06807v1), [pdf](http://arxiv.org/pdf/2403.06807v1.pdf), cication: [**-1**](None)
 
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **One-Step Image Translation with Text-to-Image Models**, `arXiv, 2403.12036`, [arxiv](http://arxiv.org/abs/2403.12036v1), [pdf](http://arxiv.org/pdf/2403.12036v1.pdf), cication: [**-1**](None)
+
+	 *Gaurav Parmar, Taesung Park, Srinivasa Narasimhan, Jun-Yan Zhu* · ([img2img-turbo](https://github.com/GaParmar/img2img-turbo) - GaParmar) ![Star](https://img.shields.io/github/stars/GaParmar/img2img-turbo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/gparmar/img2img-turbo-sketch))
 - **One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and
   Erasing Applications**, `arXiv, 2312.16145`, [arxiv](http://arxiv.org/abs/2312.16145v2), [pdf](http://arxiv.org/pdf/2312.16145v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=1848795327329358939&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -63,7 +72,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
-- [[2403.11781] Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm](https://arxiv.org/abs/2403.11781)
+- **Infinite-ID: Identity-preserved Personalization via ID-semantics
+  Decoupling Paradigm**, `arXiv, 2403.11781`, [arxiv](http://arxiv.org/abs/2403.11781v1), [pdf](http://arxiv.org/pdf/2403.11781v1.pdf), cication: [**-1**](None)
+
+	 *Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li*
 
 ## Projects
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗

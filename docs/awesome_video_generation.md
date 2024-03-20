@@ -252,6 +252,9 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **AnimateDiff-Lightning: Cross-Model Diffusion Distillation**, `arXiv, 2403.12706`, [arxiv](http://arxiv.org/abs/2403.12706v1), [pdf](http://arxiv.org/pdf/2403.12706v1.pdf), cication: [**-1**](None)
+
+	 *Shanchuan Lin, Xiao Yang*
 - **Animate Your Motion: Turning Still Images into Dynamic Videos**, `arXiv, 2403.10179`, [arxiv](http://arxiv.org/abs/2403.10179v1), [pdf](http://arxiv.org/pdf/2403.10179v1.pdf), cication: [**-1**](None)
 
 	 *Mingxiao Li, Bo Wan, Marie-Francine Moens, Tinne Tuytelaars*
@@ -348,6 +351,9 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
+- **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**, `arXiv, 2403.12962`, [arxiv](http://arxiv.org/abs/2403.12962v1), [pdf](http://arxiv.org/pdf/2403.12962v1.pdf), cication: [**-1**](None)
+
+	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy*
 - **Video Editing via Factorized Diffusion Distillation**, `arXiv, 2403.09334`, [arxiv](http://arxiv.org/abs/2403.09334v1), [pdf](http://arxiv.org/pdf/2403.09334v1.pdf), cication: [**-1**](None)
 
 	 *Uriel Singer, Amit Zohar, Yuval Kirstain, Shelly Sheynin, Adam Polyak, Devi Parikh, Yaniv Taigman*
