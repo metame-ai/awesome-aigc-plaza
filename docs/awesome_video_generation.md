@@ -19,6 +19,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**, `arXiv, 2403.13248`, [arxiv](http://arxiv.org/abs/2403.13248v1), [pdf](http://arxiv.org/pdf/2403.13248v1.pdf), cication: [**-1**](None)
+
+	 *Zhengqing Yuan, Ruoxi Chen, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun* · ([Mora](https://github.com/lichao-sun/Mora) - lichao-sun) ![Star](https://img.shields.io/github/stars/lichao-sun/Mora.svg?style=social&label=Star)
 - **AesopAgent: Agent-driven Evolutionary System on Story-to-Video
   Production**, `arXiv, 2403.07952`, [arxiv](http://arxiv.org/abs/2403.07952v1), [pdf](http://arxiv.org/pdf/2403.07952v1.pdf), cication: [**-1**](None)
 
@@ -255,6 +258,8 @@
 - **AnimateDiff-Lightning: Cross-Model Diffusion Distillation**, `arXiv, 2403.12706`, [arxiv](http://arxiv.org/abs/2403.12706v1), [pdf](http://arxiv.org/pdf/2403.12706v1.pdf), cication: [**-1**](None)
 
 	 *Shanchuan Lin, Xiao Yang*
+
+	 · ([huggingface](https://huggingface.co/spaces/ByteDance/AnimateDiff-Lightning))
 - **Animate Your Motion: Turning Still Images into Dynamic Videos**, `arXiv, 2403.10179`, [arxiv](http://arxiv.org/abs/2403.10179v1), [pdf](http://arxiv.org/pdf/2403.10179v1.pdf), cication: [**-1**](None)
 
 	 *Mingxiao Li, Bo Wan, Marie-Francine Moens, Tinne Tuytelaars*
@@ -351,6 +356,10 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
+- **Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific
+  Adaptation**, `arXiv, 2403.13745`, [arxiv](http://arxiv.org/abs/2403.13745v1), [pdf](http://arxiv.org/pdf/2403.13745v1.pdf), cication: [**-1**](None)
+
+	 *Fu-Yun Wang, Xiaoshi Wu, Zhaoyang Huang, Xiaoyu Shi, Dazhong Shen, Guanglu Song, Yu Liu, Hongsheng Li*
 - **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**, `arXiv, 2403.12962`, [arxiv](http://arxiv.org/abs/2403.12962v1), [pdf](http://arxiv.org/pdf/2403.12962v1.pdf), cication: [**-1**](None)
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy*

@@ -16,6 +16,10 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **Compress3D: a Compressed Latent Space for 3D Generation from a Single
+  Image**, `arXiv, 2403.13524`, [arxiv](http://arxiv.org/abs/2403.13524v1), [pdf](http://arxiv.org/pdf/2403.13524v1.pdf), cication: [**-1**](None)
+
+	 *Bowen Zhang, Tianyu Yang, Yu Li, Lei Zhang, Xi Zhao*
 - **SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image
   using Latent Video Diffusion**, `arXiv, 2403.12008`, [arxiv](http://arxiv.org/abs/2403.12008v1), [pdf](http://arxiv.org/pdf/2403.12008v1.pdf), cication: [**-1**](None)
 

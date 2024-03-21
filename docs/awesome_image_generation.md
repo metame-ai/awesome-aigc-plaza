@@ -51,6 +51,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos**, `arXiv, 2403.13044`, [arxiv](http://arxiv.org/abs/2403.13044v1), [pdf](http://arxiv.org/pdf/2403.13044v1.pdf), cication: [**-1**](None)
+
+	 *Hadi Alzayer, Zhihao Xia, Xuaner Zhang, Eli Shechtman, Jia-Bin Huang, Michael Gharbi*
 - **One-Step Image Translation with Text-to-Image Models**, `arXiv, 2403.12036`, [arxiv](http://arxiv.org/abs/2403.12036v1), [pdf](http://arxiv.org/pdf/2403.12036v1.pdf), cication: [**-1**](None)
 
 	 *Gaurav Parmar, Taesung Park, Srinivasa Narasimhan, Jun-Yan Zhu* · ([img2img-turbo](https://github.com/GaParmar/img2img-turbo) - GaParmar) ![Star](https://img.shields.io/github/stars/GaParmar/img2img-turbo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/gparmar/img2img-turbo-sketch))
@@ -60,6 +63,11 @@
 	 *Mengyao Lyu, Yuhong Yang, Haiwen Hong, Hui Chen, Xuan Jin, Yuan He, Hui Xue, Jungong Han, Guiguang Ding*
 
 	 · ([SPM](https://github.com/Con6924/SPM) - Con6924) ![Star](https://img.shields.io/github/stars/Con6924/SPM.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-13))
+
+## Architecture
+- **ZigMa: Zigzag Mamba Diffusion Model**, `arXiv, 2403.13802`, [arxiv](http://arxiv.org/abs/2403.13802v1), [pdf](http://arxiv.org/pdf/2403.13802v1.pdf), cication: [**-1**](None)
+
+	 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer*
 
 ## DiT
 - **MDTv2: Masked Diffusion Transformer is a Strong Image Synthesizer**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.14389v2), [pdf](http://arxiv.org/pdf/2303.14389v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=265826374435029950&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -72,6 +80,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of
+  Text-to-Image Models**, `arXiv, 2403.13535`, [arxiv](http://arxiv.org/abs/2403.13535v1), [pdf](http://arxiv.org/pdf/2403.13535v1.pdf), cication: [**-1**](None)
+
+	 *Siying Cui, Jiankang Deng, Jia Guo, Xiang An, Yongle Zhao, Xinyu Wei, Ziyong Feng*
 - **Infinite-ID: Identity-preserved Personalization via ID-semantics
   Decoupling Paradigm**, `arXiv, 2403.11781`, [arxiv](http://arxiv.org/abs/2403.11781v1), [pdf](http://arxiv.org/pdf/2403.11781v1.pdf), cication: [**-1**](None)
 
