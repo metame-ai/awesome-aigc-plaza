@@ -19,6 +19,11 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+
+- **Efficient Video Diffusion Models via Content-Frame Motion-Latent
+  Decomposition**, `arXiv, 2403.14148`, [arxiv](http://arxiv.org/abs/2403.14148v1), [pdf](http://arxiv.org/pdf/2403.14148v1.pdf), cication: [**-1**](None)
+
+	 *Sihyun Yu, Weili Nie, De-An Huang, Boyi Li, Jinwoo Shin, Anima Anandkumar*
 - **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**, `arXiv, 2403.13248`, [arxiv](http://arxiv.org/abs/2403.13248v1), [pdf](http://arxiv.org/pdf/2403.13248v1.pdf), cication: [**-1**](None)
 
 	 *Zhengqing Yuan, Ruoxi Chen, Zhaoxu Li, Haolong Jia, Lifang He, Chi Wang, Lichao Sun* · ([Mora](https://github.com/lichao-sun/Mora) - lichao-sun) ![Star](https://img.shields.io/github/stars/lichao-sun/Mora.svg?style=social&label=Star)
@@ -255,6 +260,13 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Explorative Inbetweening of Time and Space**, `arXiv, 2403.14611`, [arxiv](http://arxiv.org/abs/2403.14611v1), [pdf](http://arxiv.org/pdf/2403.14611v1.pdf), cication: [**-1**](None)
+
+	 *Haiwen Feng, Zheng Ding, Zhihao Xia, Simon Niklaus, Victoria Abrevaya, Michael J. Black, Xuaner Zhang* · ([time-reversal.github](https://time-reversal.github.io))
+- **StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained
+  StyleGAN**, `arXiv, 2403.14186`, [arxiv](http://arxiv.org/abs/2403.14186v1), [pdf](http://arxiv.org/pdf/2403.14186v1.pdf), cication: [**-1**](None)
+
+	 *Jongwoo Choi, Kwanggyoon Seo, Amirsaman Ashtari, Junyong Noh*
 - **AnimateDiff-Lightning: Cross-Model Diffusion Distillation**, `arXiv, 2403.12706`, [arxiv](http://arxiv.org/abs/2403.12706v1), [pdf](http://arxiv.org/pdf/2403.12706v1.pdf), cication: [**-1**](None)
 
 	 *Shanchuan Lin, Xiao Yang*
@@ -356,6 +368,9 @@
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 
 ## Video Editting
+- **AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**, `arXiv, 2403.14468`, [arxiv](http://arxiv.org/abs/2403.14468v1), [pdf](http://arxiv.org/pdf/2403.14468v1.pdf), cication: [**-1**](None)
+
+	 *Max Ku, Cong Wei, Weiming Ren, Huan Yang, Wenhu Chen*
 - **Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific
   Adaptation**, `arXiv, 2403.13745`, [arxiv](http://arxiv.org/abs/2403.13745v1), [pdf](http://arxiv.org/pdf/2403.13745v1.pdf), cication: [**-1**](None)
 
@@ -363,6 +378,8 @@
 - **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**, `arXiv, 2403.12962`, [arxiv](http://arxiv.org/abs/2403.12962v1), [pdf](http://arxiv.org/pdf/2403.12962v1.pdf), cication: [**-1**](None)
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy*
+
+	 · ([fresco](https://github.com/williamyang1991/fresco) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/fresco.svg?style=social&label=Star)
 - **Video Editing via Factorized Diffusion Distillation**, `arXiv, 2403.09334`, [arxiv](http://arxiv.org/abs/2403.09334v1), [pdf](http://arxiv.org/pdf/2403.09334v1.pdf), cication: [**-1**](None)
 
 	 *Uriel Singer, Amit Zohar, Yuval Kirstain, Shelly Sheynin, Adam Polyak, Devi Parikh, Yaniv Taigman*

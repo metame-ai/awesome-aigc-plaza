@@ -4,6 +4,9 @@
 
 
 ## Text to 3D
+- **DreamReward: Text-to-3D Generation with Human Preference**, `arXiv, 2403.14613`, [arxiv](http://arxiv.org/abs/2403.14613v1), [pdf](http://arxiv.org/pdf/2403.14613v1.pdf), cication: [**-1**](None)
+
+	 *Junliang Ye, Fangfu Liu, Qixiu Li, Zhengyi Wang, Yikai Wang, Xinzhou Wang, Yueqi Duan, Jun Zhu*
 - **GVGEN: Text-to-3D Generation with Volumetric Representation**, `arXiv, 2403.12957`, [arxiv](http://arxiv.org/abs/2403.12957v1), [pdf](http://arxiv.org/pdf/2403.12957v1.pdf), cication: [**-1**](None)
 
 	 *Xianglong He, Junyi Chen, Sida Peng, Di Huang, Yangguang Li, Xiaoshui Huang, Chun Yuan, Wanli Ouyang, Tong He*
@@ -16,6 +19,10 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware
+  Diffusion Guidance**, `arXiv, 2403.12409`, [arxiv](http://arxiv.org/abs/2403.12409v1), [pdf](http://arxiv.org/pdf/2403.12409v1.pdf), cication: [**-1**](None)
+
+	 *Yongwei Chen, Tengfei Wang, Tong Wu, Xingang Pan, Kui Jia, Ziwei Liu* · ([cyw-3d.github](https://cyw-3d.github.io/ComboVerse/))
 - **Compress3D: a Compressed Latent Space for 3D Generation from a Single
   Image**, `arXiv, 2403.13524`, [arxiv](http://arxiv.org/abs/2403.13524v1), [pdf](http://arxiv.org/pdf/2403.13524v1.pdf), cication: [**-1**](None)
 
@@ -48,6 +55,14 @@
   Model**, `arXiv, 2403.05034`, [arxiv](http://arxiv.org/abs/2403.05034v1), [pdf](http://arxiv.org/pdf/2403.05034v1.pdf), cication: [**-1**](None)
 
 	 *Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, Shuo Chen, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu*
+
+## 3D Editting
+- **Gaussian Frosting: Editable Complex Radiance Fields with Real-Time
+  Rendering**, `arXiv, 2403.14554`, [arxiv](http://arxiv.org/abs/2403.14554v1), [pdf](http://arxiv.org/pdf/2403.14554v1.pdf), cication: [**-1**](None)
+
+	 *Antoine Guédon, Vincent Lepetit*
+
+
 
 ## Extra Reference
 - [Trending 3D Demos - a ysharma Collection](https://huggingface.co/collections/ysharma/trending-3d-demos-65f87404544586e693d16a6b)

@@ -1,6 +1,10 @@
 # Awesome Image Generation
 
 ## Survey
+- **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality
+  Metrics**, `arXiv, 2403.11821`, [arxiv](http://arxiv.org/abs/2403.11821v1), [pdf](http://arxiv.org/pdf/2403.11821v1.pdf), cication: [**-1**](None)
+
+	 *Sebastian Hartwig, Dominik Engel, Leon Sick, Hannah Kniesel, Tristan Payer, Poonam, Timo Ropinski*
 - **Controllable Generation with Text-to-Image Diffusion Models: A Survey**, `arXiv, 2403.04279`, [arxiv](http://arxiv.org/abs/2403.04279v1), [pdf](http://arxiv.org/pdf/2403.04279v1.pdf), cication: [**-1**](None)
 
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
@@ -51,6 +55,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **ReNoise: Real Image Inversion Through Iterative Noising**, `arXiv, 2403.14602`, [arxiv](http://arxiv.org/abs/2403.14602v1), [pdf](http://arxiv.org/pdf/2403.14602v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Garibi, Or Patashnik, Andrey Voynov, Hadar Averbuch-Elor, Daniel Cohen-Or*
 - **Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos**, `arXiv, 2403.13044`, [arxiv](http://arxiv.org/abs/2403.13044v1), [pdf](http://arxiv.org/pdf/2403.13044v1.pdf), cication: [**-1**](None)
 
 	 *Hadi Alzayer, Zhihao Xia, Xuaner Zhang, Eli Shechtman, Jia-Bin Huang, Michael Gharbi*
@@ -80,6 +87,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **OMG: Occlusion-friendly Personalized Multi-concept Generation in
+  Diffusion Models**, `arXiv, 2403.10983`, [arxiv](http://arxiv.org/abs/2403.10983v1), [pdf](http://arxiv.org/pdf/2403.10983v1.pdf), cication: [**-1**](None)
+
+	 *Zhe Kong, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo* · ([omg](https://github.com/kongzhecn/omg) - kongzhecn) ![Star](https://img.shields.io/github/stars/kongzhecn/omg.svg?style=social&label=Star)
 - **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of
   Text-to-Image Models**, `arXiv, 2403.13535`, [arxiv](http://arxiv.org/abs/2403.13535v1), [pdf](http://arxiv.org/pdf/2403.13535v1.pdf), cication: [**-1**](None)
 
@@ -88,6 +99,17 @@
   Decoupling Paradigm**, `arXiv, 2403.11781`, [arxiv](http://arxiv.org/abs/2403.11781v1), [pdf](http://arxiv.org/pdf/2403.11781v1.pdf), cication: [**-1**](None)
 
 	 *Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li*
+
+## Super Resolution
+- **APISR: Anime Production Inspired Real-World Anime Super-Resolution**, `arXiv, 2403.01598`, [arxiv](http://arxiv.org/abs/2403.01598v1), [pdf](http://arxiv.org/pdf/2403.01598v1.pdf), cication: [**-1**](None)
+
+	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
+
+## Try-On
+- **Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence
+  Alignment**, `arXiv, 2403.12965`, [arxiv](http://arxiv.org/abs/2403.12965v1), [pdf](http://arxiv.org/pdf/2403.12965v1.pdf), cication: [**-1**](None)
+
+	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
 ## Projects
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
