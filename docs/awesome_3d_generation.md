@@ -3,7 +3,15 @@
 ## Survey
 
 
+## 3D Generation
+- **ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars**, `arXiv, 2403.15383`, [arxiv](http://arxiv.org/abs/2403.15383v1), [pdf](http://arxiv.org/pdf/2403.15383v1.pdf), cication: [**-1**](None)
+
+	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
+
 ## Text to 3D
+- **LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**, `arXiv, 2403.15385`, [arxiv](http://arxiv.org/abs/2403.15385v1), [pdf](http://arxiv.org/pdf/2403.15385v1.pdf), cication: [**-1**](None)
+
+	 *Kevin Xie, Jonathan Lorraine, Tianshi Cao, Jun Gao, James Lucas, Antonio Torralba, Sanja Fidler, Xiaohui Zeng*
 - **DreamReward: Text-to-3D Generation with Human Preference**, `arXiv, 2403.14613`, [arxiv](http://arxiv.org/abs/2403.14613v1), [pdf](http://arxiv.org/pdf/2403.14613v1.pdf), cication: [**-1**](None)
 
 	 *Junliang Ye, Fangfu Liu, Qixiu Li, Zhengyi Wang, Yikai Wang, Xinzhou Wang, Yueqi Duan, Jun Zhu*
@@ -62,6 +70,15 @@
 
 	 *Antoine Guédon, Vincent Lepetit*
 
+
+## Reconstruction
+- **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**, `arXiv, 2403.14627`, [arxiv](http://arxiv.org/abs/2403.14627v1), [pdf](http://arxiv.org/pdf/2403.14627v1.pdf), cication: [**-1**](None)
+
+	 *Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai* · ([mvsplat](https://github.com/donydchen/mvsplat) - donydchen) ![Star](https://img.shields.io/github/stars/donydchen/mvsplat.svg?style=social&label=Star)
+- **GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction
+  and Generation**, `arXiv, 2403.14621`, [arxiv](http://arxiv.org/abs/2403.14621v1), [pdf](http://arxiv.org/pdf/2403.14621v1.pdf), cication: [**-1**](None)
+
+	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 
 ## Extra Reference

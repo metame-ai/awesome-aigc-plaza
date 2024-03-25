@@ -19,7 +19,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation
+  from Text**, `arXiv, 2403.14773`, [arxiv](http://arxiv.org/abs/2403.14773v1), [pdf](http://arxiv.org/pdf/2403.14773v1.pdf), cication: [**-1**](None)
 
+	 *Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, Hayk Poghosyan, Vahram Tadevosyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi* · ([StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - Picsart-AI-Research) ![Star](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Star)
 - **Efficient Video Diffusion Models via Content-Frame Motion-Latent
   Decomposition**, `arXiv, 2403.14148`, [arxiv](http://arxiv.org/abs/2403.14148v1), [pdf](http://arxiv.org/pdf/2403.14148v1.pdf), cication: [**-1**](None)
 
@@ -260,6 +263,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Champ: Controllable and Consistent Human Image Animation with 3D
+  Parametric Guidance**, `arXiv, 2403.14781`, [arxiv](http://arxiv.org/abs/2403.14781v1), [pdf](http://arxiv.org/pdf/2403.14781v1.pdf), cication: [**-1**](None)
+
+	 *Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu* · ([fudan-generative-vision.github](https://fudan-generative-vision.github.io/champ)) · ([champ](https://github.com/fudan-generative-vision/champ) - fudan-generative-vision) ![Star](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)
 - **Explorative Inbetweening of Time and Space**, `arXiv, 2403.14611`, [arxiv](http://arxiv.org/abs/2403.14611v1), [pdf](http://arxiv.org/pdf/2403.14611v1.pdf), cication: [**-1**](None)
 
 	 *Haiwen Feng, Zheng Ding, Zhihao Xia, Simon Niklaus, Victoria Abrevaya, Michael J. Black, Xuaner Zhang* · ([time-reversal.github](https://time-reversal.github.io))
@@ -446,6 +453,12 @@
 - [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)
 
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
+
+
+## Projects
+- [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) - harry0703 ![Star](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=social&label=Star)
+
+	 *利用大模型，一键生成短视频*
 
 ## Other
 - [Sora 时代的 AI 视频生成何去何从？ | 机器之心](https://www.jiqizhixin.com/articles/2024-03-07-5)
