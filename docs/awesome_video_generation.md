@@ -7,6 +7,7 @@
 	- [Other](#other)
 
 ## Survey
+- [[2403.16407] A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)
 - **Sora as an AGI World Model? A Complete Survey on Text-to-Video
   Generation**, `arXiv, 2403.05131`, [arxiv](http://arxiv.org/abs/2403.05131v1), [pdf](http://arxiv.org/pdf/2403.05131v1.pdf), cication: [**-1**](None)
 
@@ -263,6 +264,9 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [[2403.17005] TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](https://arxiv.org/abs/2403.17005)
+
+	 · ([trip-i2v.github](https://trip-i2v.github.io/TRIP/))
 - **Champ: Controllable and Consistent Human Image Animation with 3D
   Parametric Guidance**, `arXiv, 2403.14781`, [arxiv](http://arxiv.org/abs/2403.14781v1), [pdf](http://arxiv.org/pdf/2403.14781v1.pdf), cication: [**-1**](None)
 

@@ -18,6 +18,7 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [[2403.16990] Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation](https://arxiv.org/abs/2403.16990)
 - **LightIt: Illumination Modeling and Control for Diffusion Models**, `arXiv, 2403.10615`, [arxiv](http://arxiv.org/abs/2403.10615v1), [pdf](http://arxiv.org/pdf/2403.10615v1.pdf), cication: [**-1**](None)
 
 	 *Peter Kocsis, Julien Philip, Kalyan Sunkavalli, Matthias Nießner, Yannick Hold-Geoffroy*
@@ -46,6 +47,7 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- [[2403.16627] SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions](https://arxiv.org/abs/2403.16627)
 - **Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion
   Distillation**, `arXiv, 2403.12015`, [arxiv](http://arxiv.org/abs/2403.12015v1), [pdf](http://arxiv.org/pdf/2403.12015v1.pdf), cication: [**-1**](None)
 
@@ -87,6 +89,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- [[2403.17008] FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)
+
+	 · ([jshilong.github](https://jshilong.github.io/flashface-page))
 - **OMG: Occlusion-friendly Personalized Multi-concept Generation in
   Diffusion Models**, `arXiv, 2403.10983`, [arxiv](http://arxiv.org/abs/2403.10983v1), [pdf](http://arxiv.org/pdf/2403.10983v1.pdf), cication: [**-1**](None)
 
@@ -115,6 +120,11 @@
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
+
+## Optimization
+- [[2312.02696] Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)
+
+	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
 ## Toolkits
 - [**rembg-webapp-tutorial**](https://github.com/codediodeio/rembg-webapp-tutorial) - codediodeio ![Star](https://img.shields.io/github/stars/codediodeio/rembg-webapp-tutorial.svg?style=social&label=Star)
