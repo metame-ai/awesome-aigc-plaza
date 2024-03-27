@@ -7,7 +7,9 @@
 	- [Other](#other)
 
 ## Survey
-- [[2403.16407] A Survey on Long Video Generation: Challenges, Methods, and Prospects](https://arxiv.org/abs/2403.16407)
+- **A Survey on Long Video Generation: Challenges, Methods, and Prospects**, `arXiv, 2403.16407`, [arxiv](http://arxiv.org/abs/2403.16407v1), [pdf](http://arxiv.org/pdf/2403.16407v1.pdf), cication: [**-1**](None)
+
+	 *Chengxuan Li, Di Huang, Zeyu Lu, Yang Xiao, Qingqi Pei, Lei Bai*
 - **Sora as an AGI World Model? A Complete Survey on Text-to-Video
   Generation**, `arXiv, 2403.05131`, [arxiv](http://arxiv.org/abs/2403.05131v1), [pdf](http://arxiv.org/pdf/2403.05131v1.pdf), cication: [**-1**](None)
 
@@ -24,6 +26,8 @@
   from Text**, `arXiv, 2403.14773`, [arxiv](http://arxiv.org/abs/2403.14773v1), [pdf](http://arxiv.org/pdf/2403.14773v1.pdf), cication: [**-1**](None)
 
 	 *Roberto Henschel, Levon Khachatryan, Daniil Hayrapetyan, Hayk Poghosyan, Vahram Tadevosyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi* · ([StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - Picsart-AI-Research) ![Star](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Star)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652460909&idx=5&sn=495c83341f50bec67316855f61d6bdd8))
 - **Efficient Video Diffusion Models via Content-Frame Motion-Latent
   Decomposition**, `arXiv, 2403.14148`, [arxiv](http://arxiv.org/abs/2403.14148v1), [pdf](http://arxiv.org/pdf/2403.14148v1.pdf), cication: [**-1**](None)
 
@@ -264,7 +268,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
-- [[2403.17005] TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](https://arxiv.org/abs/2403.17005)
+- **TRIP: Temporal Residual Learning with Image Noise Prior for
+  Image-to-Video Diffusion Models**, `arXiv, 2403.17005`, [arxiv](http://arxiv.org/abs/2403.17005v1), [pdf](http://arxiv.org/pdf/2403.17005v1.pdf), cication: [**-1**](None)
+
+	 *Zhongwei Zhang, Fuchen Long, Yingwei Pan, Zhaofan Qiu, Ting Yao, Yang Cao, Tao Mei*
 
 	 · ([trip-i2v.github](https://trip-i2v.github.io/TRIP/))
 - **Champ: Controllable and Consistent Human Image Animation with 3D
@@ -465,6 +472,7 @@
 	 *利用大模型，一键生成短视频*
 
 ## Other
+- [再谈复现 Sora：被仰望与被遗忘的 | 机器之心](https://www.jiqizhixin.com/articles/2024-03-27-5)
 - [Sora 时代的 AI 视频生成何去何从？ | 机器之心](https://www.jiqizhixin.com/articles/2024-03-07-5)
 - [去魅Sora: OpenAI 鲜肉小组的小试牛刀](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495615&idx=1&sn=195542f7c0cb64e0c81fa54a6726bkkkk442)
 - [OpenAI文生视频方案Sora技术浅析](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495581&idx=2&sn=12e2f966688e61d81d8265bcd7ed8618kk)

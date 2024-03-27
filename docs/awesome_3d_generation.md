@@ -9,7 +9,9 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
-- [[2403.17001] VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation](https://arxiv.org/abs/2403.17001)
+- **VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**, `arXiv, 2403.17001`, [arxiv](http://arxiv.org/abs/2403.17001v1), [pdf](http://arxiv.org/pdf/2403.17001v1.pdf), cication: [**-1**](None)
+
+	 *Yang Chen, Yingwei Pan, Haibo Yang, Ting Yao, Tao Mei*
 
 	 · ([vp3d-cvpr24.github](https://vp3d-cvpr24.github.io))
 - **LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**, `arXiv, 2403.15385`, [arxiv](http://arxiv.org/abs/2403.15385v1), [pdf](http://arxiv.org/pdf/2403.15385v1.pdf), cication: [**-1**](None)
@@ -83,6 +85,10 @@
 
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
+## 4D Generation
+- **TC4D: Trajectory-Conditioned Text-to-4D Generation**, `arXiv, 2403.17920`, [arxiv](http://arxiv.org/abs/2403.17920v1), [pdf](http://arxiv.org/pdf/2403.17920v1.pdf), cication: [**-1**](None)
+
+	 *Sherwin Bahmani, Xian Liu, Yifan Wang, Ivan Skorokhodov, Victor Rong, Ziwei Liu, Xihui Liu, Jeong Joon Park, Sergey Tulyakov, Gordon Wetzstein* · ([sherwinbahmani.github](https://sherwinbahmani.github.io/tc4d))
 
 ## Other
 - [BuildBox 4 Announced - AI Powered 3D Game Engine – GameFromScratch.com](https://gamefromscratch.com/buildbox-4-announced-ai-powered-3d-game-engine/)

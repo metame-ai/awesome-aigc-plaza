@@ -18,7 +18,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
-- [[2403.16990] Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation](https://arxiv.org/abs/2403.16990)
+- **Be Yourself: Bounded Attention for Multi-Subject Text-to-Image
+  Generation**, `arXiv, 2403.16990`, [arxiv](http://arxiv.org/abs/2403.16990v1), [pdf](http://arxiv.org/pdf/2403.16990v1.pdf), cication: [**-1**](None)
+
+	 *Omer Dahary, Or Patashnik, Kfir Aberman, Daniel Cohen-Or*
 - **LightIt: Illumination Modeling and Control for Diffusion Models**, `arXiv, 2403.10615`, [arxiv](http://arxiv.org/abs/2403.10615v1), [pdf](http://arxiv.org/pdf/2403.10615v1.pdf), cication: [**-1**](None)
 
 	 *Peter Kocsis, Julien Philip, Kalyan Sunkavalli, Matthias Nießner, Yannick Hold-Geoffroy*
@@ -47,7 +50,9 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
-- [[2403.16627] SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions](https://arxiv.org/abs/2403.16627)
+- **SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**, `arXiv, 2403.16627`, [arxiv](http://arxiv.org/abs/2403.16627v1), [pdf](http://arxiv.org/pdf/2403.16627v1.pdf), cication: [**-1**](None)
+
+	 *Yuda Song, Zehao Sun, Xuanwu Yin*
 - **Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion
   Distillation**, `arXiv, 2403.12015`, [arxiv](http://arxiv.org/abs/2403.12015v1), [pdf](http://arxiv.org/pdf/2403.12015v1.pdf), cication: [**-1**](None)
 
@@ -89,7 +94,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
-- [[2403.17008] FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)
+- **FlashFace: Human Image Personalization with High-fidelity Identity
+  Preservation**, `arXiv, 2403.17008`, [arxiv](http://arxiv.org/abs/2403.17008v1), [pdf](http://arxiv.org/pdf/2403.17008v1.pdf), cication: [**-1**](None)
+
+	 *Shilong Zhang, Lianghua Huang, Xi Chen, Yifei Zhang, Zhi-Fan Wu, Yutong Feng, Wei Wang, Yujun Shen, Yu Liu, Ping Luo*
 
 	 · ([jshilong.github](https://jshilong.github.io/flashface-page))
 - **OMG: Occlusion-friendly Personalized Multi-concept Generation in
@@ -122,7 +130,12 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
-- [[2312.02696] Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)
+- **Improving Text-to-Image Consistency via Automatic Prompt Optimization**, `arXiv, 2403.17804`, [arxiv](http://arxiv.org/abs/2403.17804v1), [pdf](http://arxiv.org/pdf/2403.17804v1.pdf), cication: [**-1**](None)
+
+	 *Oscar Mañas, Pietro Astolfi, Melissa Hall, Candace Ross, Jack Urbanek, Adina Williams, Aishwarya Agrawal, Adriana Romero-Soriano, Michal Drozdzal*
+- **Analyzing and Improving the Training Dynamics of Diffusion Models**, `arXiv, 2312.02696`, [arxiv](http://arxiv.org/abs/2312.02696v2), [pdf](http://arxiv.org/pdf/2312.02696v2.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=3838550793208248689&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo Aila, Samuli Laine*
 
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
