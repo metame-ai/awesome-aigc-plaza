@@ -18,6 +18,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Implicit Style-Content Separation using B-LoRA**, `arXiv, 2403.14572`, [arxiv](http://arxiv.org/abs/2403.14572v1), [pdf](http://arxiv.org/pdf/2403.14572v1.pdf), cication: [**-1**](None)
+
+	 *Yarden Frenkel, Yael Vinker, Ariel Shamir, Daniel Cohen-Or* · ([B-LoRA](https://github.com/yardenfren1996/B-LoRA) - yardenfren1996) ![Star](https://img.shields.io/github/stars/yardenfren1996/B-LoRA.svg?style=social&label=Star) · ([b-lora.github](https://b-lora.github.io/B-LoRA/))
 - **Be Yourself: Bounded Attention for Multi-Subject Text-to-Image
   Generation**, `arXiv, 2403.16990`, [arxiv](http://arxiv.org/abs/2403.16990v1), [pdf](http://arxiv.org/pdf/2403.16990v1.pdf), cication: [**-1**](None)
 
@@ -62,6 +65,11 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image
+  Editing**, `arXiv, 2403.18605`, [arxiv](http://arxiv.org/abs/2403.18605v1), [pdf](http://arxiv.org/pdf/2403.18605v1.pdf), cication: [**-1**](None)
+
+	 *Trong-Tung Nguyen, Duc-Anh Nguyen, Anh Tran, Cuong Pham* · ([flex-edit.github](https://flex-edit.github.io/))
+- [[2403.18818] ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion](https://arxiv.org/abs/2403.18818)
 - **ReNoise: Real Image Inversion Through Iterative Noising**, `arXiv, 2403.14602`, [arxiv](http://arxiv.org/abs/2403.14602v1), [pdf](http://arxiv.org/pdf/2403.14602v1.pdf), cication: [**-1**](None)
 
 	 *Daniel Garibi, Or Patashnik, Andrey Voynov, Hadar Averbuch-Elor, Daniel Cohen-Or*
@@ -146,3 +154,8 @@
 - [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star)
 
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
+
+## Tutorials
+- **Tutorial on Diffusion Models for Imaging and Vision**, `arXiv, 2403.18103`, [arxiv](http://arxiv.org/abs/2403.18103v1), [pdf](http://arxiv.org/pdf/2403.18103v1.pdf), cication: [**-1**](None)
+
+	 *Stanley H. Chan*

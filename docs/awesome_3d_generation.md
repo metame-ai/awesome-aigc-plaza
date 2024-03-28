@@ -4,6 +4,9 @@
 
 
 ## 3D Generation
+- **Garment3DGen: 3D Garment Stylization and Texture Generation**, `arXiv, 2403.18816`, [arxiv](http://arxiv.org/abs/2403.18816v1), [pdf](http://arxiv.org/pdf/2403.18816v1.pdf), cication: [**-1**](None)
+
+	 *Nikolaos Sarafianos, Tuur Stuyck, Xiaoyu Xiang, Yilei Li, Jovan Popovic, Rakesh Ranjan*
 - **ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars**, `arXiv, 2403.15383`, [arxiv](http://arxiv.org/abs/2403.15383v1), [pdf](http://arxiv.org/pdf/2403.15383v1.pdf), cication: [**-1**](None)
 
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
@@ -77,6 +80,10 @@
 
 
 ## Reconstruction
+- **Gamba: Marry Gaussian Splatting with Mamba for single view 3D
+  reconstruction**, `arXiv, 2403.18795`, [arxiv](http://arxiv.org/abs/2403.18795v1), [pdf](http://arxiv.org/pdf/2403.18795v1.pdf), cication: [**-1**](None)
+
+	 *Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang*
 - **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**, `arXiv, 2403.14627`, [arxiv](http://arxiv.org/abs/2403.14627v1), [pdf](http://arxiv.org/pdf/2403.14627v1.pdf), cication: [**-1**](None)
 
 	 *Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai* · ([mvsplat](https://github.com/donydchen/mvsplat) - donydchen) ![Star](https://img.shields.io/github/stars/donydchen/mvsplat.svg?style=social&label=Star)
