@@ -69,7 +69,10 @@
   Editing**, `arXiv, 2403.18605`, [arxiv](http://arxiv.org/abs/2403.18605v1), [pdf](http://arxiv.org/pdf/2403.18605v1.pdf), cication: [**-1**](None)
 
 	 *Trong-Tung Nguyen, Duc-Anh Nguyen, Anh Tran, Cuong Pham* · ([flex-edit.github](https://flex-edit.github.io/))
-- [[2403.18818] ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion](https://arxiv.org/abs/2403.18818)
+- **ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object
+  Removal and Insertion**, `arXiv, 2403.18818`, [arxiv](http://arxiv.org/abs/2403.18818v1), [pdf](http://arxiv.org/pdf/2403.18818v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen*
 - **ReNoise: Real Image Inversion Through Iterative Noising**, `arXiv, 2403.14602`, [arxiv](http://arxiv.org/abs/2403.14602v1), [pdf](http://arxiv.org/pdf/2403.14602v1.pdf), cication: [**-1**](None)
 
 	 *Daniel Garibi, Or Patashnik, Andrey Voynov, Hadar Averbuch-Elor, Daniel Cohen-Or*
