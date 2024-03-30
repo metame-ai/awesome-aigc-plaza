@@ -18,6 +18,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed
+  Dual-Branch Diffusion**, `arXiv, 2403.06976`, [arxiv](http://arxiv.org/abs/2403.06976v1), [pdf](http://arxiv.org/pdf/2403.06976v1.pdf), cication: [**-1**](None)
+
+	 *Xuan Ju, Xian Liu, Xintao Wang, Yuxuan Bian, Ying Shan, Qiang Xu* · ([BrushNet](https://github.com/TencentARC/BrushNet) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/BrushNet.svg?style=social&label=Star)
 - **Implicit Style-Content Separation using B-LoRA**, `arXiv, 2403.14572`, [arxiv](http://arxiv.org/abs/2403.14572v1), [pdf](http://arxiv.org/pdf/2403.14572v1.pdf), cication: [**-1**](None)
 
 	 *Yarden Frenkel, Yael Vinker, Ariel Shamir, Daniel Cohen-Or* · ([B-LoRA](https://github.com/yardenfren1996/B-LoRA) - yardenfren1996) ![Star](https://img.shields.io/github/stars/yardenfren1996/B-LoRA.svg?style=social&label=Star) · ([b-lora.github](https://b-lora.github.io/B-LoRA/))
@@ -100,11 +104,17 @@
 	 *Shanghua Gao, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan* · ([MDT](https://github.com/sail-sg/MDT) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/MDT.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454525&idx=3&sn=fdd95d9f3de58caa7ad0c8bfbe07f548))
 	 
 ## Text Rendering
+- **TextCraftor: Your Text Encoder Can be Image Quality Controller**, `arXiv, 2403.18978`, [arxiv](http://arxiv.org/abs/2403.18978v1), [pdf](http://arxiv.org/pdf/2403.18978v1.pdf), cication: [**-1**](None)
+
+	 *Yanyu Li, Xian Liu, Anil Kag, Ju Hu, Yerlan Idelbayev, Dhritiman Sagar, Yanzhi Wang, Sergey Tulyakov, Jian Ren*
 - **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**, `arXiv, 2403.09622`, [arxiv](http://arxiv.org/abs/2403.09622v1), [pdf](http://arxiv.org/pdf/2403.09622v1.pdf), cication: [**-1**](None)
 
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **Arc2Face: A Foundation Model of Human Faces**, `arXiv, 2403.11641`, [arxiv](http://arxiv.org/abs/2403.11641v1), [pdf](http://arxiv.org/pdf/2403.11641v1.pdf), cication: [**-1**](None)
+
+	 *Foivos Paraperas Papantoniou, Alexandros Lattas, Stylianos Moschoglou, Jiankang Deng, Bernhard Kainz, Stefanos Zafeiriou* · ([arc2face.github](https://arc2face.github.io/)) · ([Arc2Face](https://github.com/foivospar/Arc2Face) - foivospar) ![Star](https://img.shields.io/github/stars/foivospar/Arc2Face.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/FoivosPar/Arc2Face))
 - **FlashFace: Human Image Personalization with High-fidelity Identity
   Preservation**, `arXiv, 2403.17008`, [arxiv](http://arxiv.org/abs/2403.17008v1), [pdf](http://arxiv.org/pdf/2403.17008v1.pdf), cication: [**-1**](None)
 

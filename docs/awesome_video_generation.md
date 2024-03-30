@@ -353,6 +353,10 @@
 - **LivePhoto: Real Image Animation with Text-guided Motion Control**, `arXiv, 2312.02928`, [arxiv](http://arxiv.org/abs/2312.02928v1), [pdf](http://arxiv.org/pdf/2312.02928v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8753439023160233505&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xi Chen, Zhiheng Liu, Mengting Chen, Yutong Feng, Yu Liu, Yujun Shen, Hengshuang Zhao* · ([LivePhoto](https://github.com/XavierCHEN34/LivePhoto) - XavierCHEN34) ![Star](https://img.shields.io/github/stars/XavierCHEN34/LivePhoto.svg?style=social&label=Star) · ([xavierchen34.github](https://xavierchen34.github.io/LivePhoto-Page/))
+- **PIA: Your Personalized Image Animator via Plug-and-Play Modules in
+  Text-to-Image Models**, `arXiv, 2312.13964`, [arxiv](http://arxiv.org/abs/2312.13964v3), [pdf](http://arxiv.org/pdf/2312.13964v3.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=17538941768586839512&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yiming Zhang, Zhening Xing, Yanhong Zeng, Youqing Fang, Kai Chen* · ([PIA](https://github.com/open-mmlab/PIA) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/PIA.svg?style=social&label=Star)
 - **MagicAnimate: Temporally Consistent Human Image Animation using
   Diffusion Model**, `arXiv, 2311.16498`, [arxiv](http://arxiv.org/abs/2311.16498v1), [pdf](http://arxiv.org/pdf/2311.16498v1.pdf), cication: [**-1**](None)
 
@@ -384,7 +388,6 @@
   Videos**, `arXiv, 2304.01186`, [arxiv](http://arxiv.org/abs/2304.01186v2), [pdf](http://arxiv.org/pdf/2304.01186v2.pdf), cication: [**31**](https://scholar.google.com/scholar?cites=13651603424932960809&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
-
 ## Video Editting
 - **AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**, `arXiv, 2403.14468`, [arxiv](http://arxiv.org/abs/2403.14468v1), [pdf](http://arxiv.org/pdf/2403.14468v1.pdf), cication: [**-1**](None)
 
@@ -467,6 +470,9 @@
 
 
 ## Projects
+- [**VGen**](https://github.com/ali-vilab/VGen) - ali-vilab ![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)
+
+	 *Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models*
 - [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) - harry0703 ![Star](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=social&label=Star)
 
 	 *利用大模型，一键生成短视频*
