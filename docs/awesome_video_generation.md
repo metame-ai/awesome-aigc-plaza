@@ -22,6 +22,7 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [Fetching Title#vloj](https://arxiv.org/abs/2404.00234)
 - **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation
   from Text**, `arXiv, 2403.14773`, [arxiv](http://arxiv.org/abs/2403.14773v1), [pdf](http://arxiv.org/pdf/2403.14773v1.pdf), cication: [**-1**](None)
 
@@ -487,6 +488,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [PixVerse - Create breath-taking videos with PixVerse AI](https://pixverse.ai/)
 - [清华系多模态大模型公司刚刚融了数亿元！放话"今年达到Sora效果" | 量子位](https://www.qbitai.com/2024/03/127279.html)
 - [国产Sora来了，4K 60帧15秒视频刷新纪录！500亿美元短剧出海市场被撬动](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454101&idx=1&sn=a317255d4989a37a91000c81945792d6)
 - [Sora 竞争对手融资数千万美元，目前可免费“薅” | 机器之心](https://www.jiqizhixin.com/articles/2024-03-08-7)

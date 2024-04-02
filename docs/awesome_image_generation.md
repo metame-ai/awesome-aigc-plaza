@@ -18,6 +18,14 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**, `arXiv, 2403.17377`, [arxiv](http://arxiv.org/abs/2403.17377v1), [pdf](http://arxiv.org/pdf/2403.17377v1.pdf), cication: [**-1**](None)
+
+	 *Donghoon Ahn, Hyoungwon Cho, Jaewon Min, Wooseok Jang, Jungwoo Kim, SeonHwa Kim, Hyun Hee Park, Kyong Hwan Jin, Seungryong Kim* · ([ku-cvlab.github](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/))
+- [Fetching Title#m7rs](https://arxiv.org/abs/2404.01143)
+- [[2404.01197] Getting it Right: Improving Spatial Consistency in Text-to-Image Models](https://arxiv.org/abs/2404.01197)
+- **Relation Rectification in Diffusion Model**, `arXiv, 2403.20249`, [arxiv](http://arxiv.org/abs/2403.20249v1), [pdf](http://arxiv.org/pdf/2403.20249v1.pdf), cication: [**-1**](None)
+
+	 *Yinwei Wu, Xingyi Yang, Xinchao Wang* · ([RRNet](https://github.com/WUyinwei-hah/RRNet) - WUyinwei-hah) ![Star](https://img.shields.io/github/stars/WUyinwei-hah/RRNet.svg?style=social&label=Star) · ([wuyinwei-hah.github](https://wuyinwei-hah.github.io/rrnet.github.io/))
 - **BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed
   Dual-Branch Diffusion**, `arXiv, 2403.06976`, [arxiv](http://arxiv.org/abs/2403.06976v1), [pdf](http://arxiv.org/pdf/2403.06976v1.pdf), cication: [**-1**](None)
 
@@ -151,6 +159,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Rethinking FID: Towards a Better Evaluation Metric for Image Generation**, `arXiv, 2401.09603`, [arxiv](http://arxiv.org/abs/2401.09603v2), [pdf](http://arxiv.org/pdf/2401.09603v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=13719089543049798984&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sadeep Jayasumana, Srikumar Ramalingam, Andreas Veit, Daniel Glasner, Ayan Chakrabarti, Sanjiv Kumar* · ([google-research](https://github.com/google-research/google-research/tree/master/cmmd) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
 - **Improving Text-to-Image Consistency via Automatic Prompt Optimization**, `arXiv, 2403.17804`, [arxiv](http://arxiv.org/abs/2403.17804v1), [pdf](http://arxiv.org/pdf/2403.17804v1.pdf), cication: [**-1**](None)
 
 	 *Oscar Mañas, Pietro Astolfi, Melissa Hall, Candace Ross, Jack Urbanek, Adina Williams, Aishwarya Agrawal, Adriana Romero-Soriano, Michal Drozdzal*
@@ -167,6 +178,9 @@
 - [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star)
 
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
+
+## Products
+- [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
 
 ## Tutorials
 - **Tutorial on Diffusion Models for Imaging and Vision**, `arXiv, 2403.18103`, [arxiv](http://arxiv.org/abs/2403.18103v1), [pdf](http://arxiv.org/pdf/2403.18103v1.pdf), cication: [**-1**](None)
