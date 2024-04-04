@@ -22,7 +22,12 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [Fetching Title#vloj](https://arxiv.org/abs/2404.00234)
+- **CameraCtrl: Enabling Camera Control for Text-to-Video Generation**, `arXiv, 2404.02101`, [arxiv](http://arxiv.org/abs/2404.02101v1), [pdf](http://arxiv.org/pdf/2404.02101v1.pdf), cication: [**-1**](None)
+
+	 *Hao He, Yinghao Xu, Yuwei Guo, Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang* · ([hehao13.github](https://hehao13.github.io/projects-CameraCtrl))
+- **Grid Diffusion Models for Text-to-Video Generation**, `arXiv, 2404.00234`, [arxiv](http://arxiv.org/abs/2404.00234v1), [pdf](http://arxiv.org/pdf/2404.00234v1.pdf), cication: [**-1**](None)
+
+	 *Taegyeong Lee, Soyeong Kwon, Taehwan Kim*
 - **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation
   from Text**, `arXiv, 2403.14773`, [arxiv](http://arxiv.org/abs/2403.14773v1), [pdf](http://arxiv.org/pdf/2403.14773v1.pdf), cication: [**-1**](None)
 

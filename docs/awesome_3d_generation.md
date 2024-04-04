@@ -4,7 +4,10 @@
 
 
 ## 3D Generation
-- [[2404.00345] MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text](https://arxiv.org/abs/2404.00345)
+- **MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview
+  and Text**, `arXiv, 2404.00345`, [arxiv](http://arxiv.org/abs/2404.00345v1), [pdf](http://arxiv.org/pdf/2404.00345v1.pdf), cication: [**-1**](None)
+
+	 *Takayuki Hara, Tatsuya Harada*
 - **Garment3DGen: 3D Garment Stylization and Texture Generation**, `arXiv, 2403.18816`, [arxiv](http://arxiv.org/abs/2403.18816v1), [pdf](http://arxiv.org/pdf/2403.18816v1.pdf), cication: [**-1**](None)
 
 	 *Nikolaos Sarafianos, Tuur Stuyck, Xiaoyu Xiang, Yilei Li, Jovan Popovic, Rakesh Ranjan*
@@ -36,7 +39,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
-- [[2404.00987] FlexiDreamer: Single Image-to-3D Generation with FlexiCubes](https://arxiv.org/abs/2404.00987)
+- **FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**, `arXiv, 2404.00987`, [arxiv](http://arxiv.org/abs/2404.00987v1), [pdf](http://arxiv.org/pdf/2404.00987v1.pdf), cication: [**-1**](None)
+
+	 *Ruowen Zhao, Zhengyi Wang, Yikai Wang, Zihan Zhou, Jun Zhu* · ([FlexiDreamer](https://github.com/zhaorw02/FlexiDreamer) - zhaorw02) ![Star](https://img.shields.io/github/stars/zhaorw02/FlexiDreamer.svg?style=social&label=Star) · ([flexidreamer.github](https://flexidreamer.github.io/))
 - **ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware
   Diffusion Guidance**, `arXiv, 2403.12409`, [arxiv](http://arxiv.org/abs/2403.12409v1), [pdf](http://arxiv.org/pdf/2403.12409v1.pdf), cication: [**-1**](None)
 

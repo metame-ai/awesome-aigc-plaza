@@ -10,6 +10,13 @@
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
+- **Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**, `arXiv, 2403.03206`, [arxiv](http://arxiv.org/abs/2403.03206v1), [pdf](http://arxiv.org/pdf/2403.03206v1.pdf), cication: [**-1**](None)
+
+	 *Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel*
+	- This work enhances rectified flow models for high-resolution text-to-image synthesis by improving noise sampling and introducing a novel transformer-based architecture that enhances text comprehension and image quality, showing better performance through extensive evaluation and human preference ratings.
+- **CosmicMan: A Text-to-Image Foundation Model for Humans**, `arXiv, 2404.01294`, [arxiv](http://arxiv.org/abs/2404.01294v1), [pdf](http://arxiv.org/pdf/2404.01294v1.pdf), cication: [**-1**](None)
+
+	 *Shikai Li, Jianglin Fu, Kaiyuan Liu, Wentao Wang, Kwan-Yee Lin, Wayne Wu* · ([CosmicMan](https://github.com/cosmicman-cvpr2024/CosmicMan/blob/main) - cosmicman-cvpr2024) ![Star](https://img.shields.io/github/stars/cosmicman-cvpr2024/CosmicMan.svg?style=social&label=Star) · ([cosmicman-cvpr2024.github](https://cosmicman-cvpr2024.github.io/))
 - **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**, `arXiv, 2403.05135`, [arxiv](http://arxiv.org/abs/2403.05135v1), [pdf](http://arxiv.org/pdf/2403.05135v1.pdf), cication: [**-1**](None)
 
 	 *Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu*
@@ -21,8 +28,12 @@
 - **Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**, `arXiv, 2403.17377`, [arxiv](http://arxiv.org/abs/2403.17377v1), [pdf](http://arxiv.org/pdf/2403.17377v1.pdf), cication: [**-1**](None)
 
 	 *Donghoon Ahn, Hyoungwon Cho, Jaewon Min, Wooseok Jang, Jungwoo Kim, SeonHwa Kim, Hyun Hee Park, Kyong Hwan Jin, Seungryong Kim* · ([ku-cvlab.github](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/))
-- [Fetching Title#m7rs](https://arxiv.org/abs/2404.01143)
-- [[2404.01197] Getting it Right: Improving Spatial Consistency in Text-to-Image Models](https://arxiv.org/abs/2404.01197)
+- **Condition-Aware Neural Network for Controlled Image Generation**, `arXiv, 2404.01143`, [arxiv](http://arxiv.org/abs/2404.01143v1), [pdf](http://arxiv.org/pdf/2404.01143v1.pdf), cication: [**-1**](None)
+
+	 *Han Cai, Muyang Li, Zhuoyang Zhang, Qinsheng Zhang, Ming-Yu Liu, Song Han*
+- **Getting it Right: Improving Spatial Consistency in Text-to-Image Models**, `arXiv, 2404.01197`, [arxiv](http://arxiv.org/abs/2404.01197v1), [pdf](http://arxiv.org/pdf/2404.01197v1.pdf), cication: [**-1**](None)
+
+	 *Agneet Chatterjee, Gabriela Ben Melech Stan, Estelle Aflalo, Sayak Paul, Dhruba Ghosh, Tejas Gokhale, Ludwig Schmidt, Hannaneh Hajishirzi, Vasudev Lal, Chitta Baral* · ([huggingface](https://huggingface.co/SPRIGHT-T2I/spright-t2i-sd2)) · ([spright-t2i.github](https://t.co/xanpTfKhzY))
 - **Relation Rectification in Diffusion Model**, `arXiv, 2403.20249`, [arxiv](http://arxiv.org/abs/2403.20249v1), [pdf](http://arxiv.org/pdf/2403.20249v1.pdf), cication: [**-1**](None)
 
 	 *Yinwei Wu, Xingyi Yang, Xinchao Wang* · ([RRNet](https://github.com/WUyinwei-hah/RRNet) - WUyinwei-hah) ![Star](https://img.shields.io/github/stars/WUyinwei-hah/RRNet.svg?style=social&label=Star) · ([wuyinwei-hah.github](https://wuyinwei-hah.github.io/rrnet.github.io/))
@@ -143,6 +154,9 @@
 	 *Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li*
 
 ## Super Resolution
+- [**upscayl**](https://github.com/upscayl/upscayl) - upscayl ![Star](https://img.shields.io/github/stars/upscayl/upscayl.svg?style=social&label=Star)
+
+	 *🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.*
 - **APISR: Anime Production Inspired Real-World Anime Super-Resolution**, `arXiv, 2403.01598`, [arxiv](http://arxiv.org/abs/2403.01598v1), [pdf](http://arxiv.org/pdf/2403.01598v1.pdf), cication: [**-1**](None)
 
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
@@ -159,9 +173,10 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
-- **Rethinking FID: Towards a Better Evaluation Metric for Image Generation**, `arXiv, 2401.09603`, [arxiv](http://arxiv.org/abs/2401.09603v2), [pdf](http://arxiv.org/pdf/2401.09603v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=13719089543049798984&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+- **Bigger is not Always Better: Scaling Properties of Latent Diffusion
+  Models**, `arXiv, 2404.01367`, [arxiv](http://arxiv.org/abs/2404.01367v1), [pdf](http://arxiv.org/pdf/2404.01367v1.pdf), cication: [**-1**](None)
 
-	 *Sadeep Jayasumana, Srikumar Ramalingam, Andreas Veit, Daniel Glasner, Ayan Chakrabarti, Sanjiv Kumar* · ([google-research](https://github.com/google-research/google-research/tree/master/cmmd) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
+	 *Kangfu Mei, Zhengzhong Tu, Mauricio Delbracio, Hossein Talebi, Vishal M. Patel, Peyman Milanfar*
 - **Improving Text-to-Image Consistency via Automatic Prompt Optimization**, `arXiv, 2403.17804`, [arxiv](http://arxiv.org/abs/2403.17804v1), [pdf](http://arxiv.org/pdf/2403.17804v1.pdf), cication: [**-1**](None)
 
 	 *Oscar Mañas, Pietro Astolfi, Melissa Hall, Candace Ross, Jack Urbanek, Adina Williams, Aishwarya Agrawal, Adriana Romero-Soriano, Michal Drozdzal*
@@ -178,6 +193,14 @@
 - [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star)
 
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
+
+## Evaluation
+- **Rethinking FID: Towards a Better Evaluation Metric for Image Generation**, `arXiv, 2401.09603`, [arxiv](http://arxiv.org/abs/2401.09603v2), [pdf](http://arxiv.org/pdf/2401.09603v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=13719089543049798984&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sadeep Jayasumana, Srikumar Ramalingam, Andreas Veit, Daniel Glasner, Ayan Chakrabarti, Sanjiv Kumar* · ([google-research](https://github.com/google-research/google-research/tree/master/cmmd) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)
+- **Measuring Style Similarity in Diffusion Models**, `arXiv, 2404.01292`, [arxiv](http://arxiv.org/abs/2404.01292v1), [pdf](http://arxiv.org/pdf/2404.01292v1.pdf), cication: [**-1**](None)
+
+	 *Gowthami Somepalli, Anubhav Gupta, Kamal Gupta, Shramay Palta, Micah Goldblum, Jonas Geiping, Abhinav Shrivastava, Tom Goldstein* · ([CSD](https://github.com/learn2phoenix/CSD) - learn2phoenix) ![Star](https://img.shields.io/github/stars/learn2phoenix/CSD.svg?style=social&label=Star)
 
 ## Products
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
