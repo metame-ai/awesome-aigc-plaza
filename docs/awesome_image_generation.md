@@ -1,5 +1,25 @@
 # Awesome Image Generation
 
+- [Awesome Image Generation](#awesome-image-generation)
+	- [Survey](#survey)
+	- [Generation](#generation)
+	- [Control Generation](#control-generation)
+	- [Efficiency](#efficiency)
+	- [Editting](#editting)
+	- [Architecture](#architecture)
+	- [DiT](#dit)
+	- [Text Rendering](#text-rendering)
+	- [Personlazation](#personlazation)
+	- [Super Resolution](#super-resolution)
+	- [Try-On](#try-on)
+	- [Projects](#projects)
+	- [Optimization](#optimization)
+	- [Toolkits](#toolkits)
+	- [Evaluation](#evaluation)
+	- [Products](#products)
+	- [Tutorials](#tutorials)
+
+
 ## Survey
 - **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality
   Metrics**, `arXiv, 2403.11821`, [arxiv](http://arxiv.org/abs/2403.11821v1), [pdf](http://arxiv.org/pdf/2403.11821v1.pdf), cication: [**-1**](None)

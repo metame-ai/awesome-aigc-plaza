@@ -1,10 +1,15 @@
 # Awesome Video Generation
 
 - [Awesome Video Generation](#awesome-video-generation)
+	- [Survey](#survey)
 	- [Video Generation](#video-generation)
 	- [Animation](#animation)
 	- [Video Editting](#video-editting)
+	- [Datasets](#datasets)
+	- [Toolkits](#toolkits)
+	- [Projects](#projects)
 	- [Other](#other)
+	- [Product](#product)
 
 ## Survey
 - **A Survey on Long Video Generation: Challenges, Methods, and Prospects**, `arXiv, 2403.16407`, [arxiv](http://arxiv.org/abs/2403.16407v1), [pdf](http://arxiv.org/pdf/2403.16407v1.pdf), cication: [**-1**](None)

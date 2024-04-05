@@ -1,5 +1,17 @@
 # Awesome 3D generation
 
+- [Awesome 3D generation](#awesome-3d-generation)
+	- [Survey](#survey)
+	- [3D Generation](#3d-generation)
+	- [Text to 3D](#text-to-3d)
+	- [Image to 3D](#image-to-3d)
+	- [3D Editting](#3d-editting)
+	- [Reconstruction](#reconstruction)
+	- [4D Generation](#4d-generation)
+	- [Other](#other)
+	- [Extra Reference](#extra-reference)
+
+
 ## Survey
 
 
