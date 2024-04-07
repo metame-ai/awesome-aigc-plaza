@@ -403,6 +403,8 @@
 - **AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**, `arXiv, 2403.14468`, [arxiv](http://arxiv.org/abs/2403.14468v1), [pdf](http://arxiv.org/pdf/2403.14468v1.pdf), cication: [**-1**](None)
 
 	 *Max Ku, Cong Wei, Weiming Ren, Huan Yang, Wenhu Chen*
+
+	 · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/AnyV2V/)) · ([AnyV2V](https://github.com/TIGER-AI-Lab/AnyV2V) - TIGER-AI-Lab) ![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/AnyV2V.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/TIGER-Lab/AnyV2V))
 - **Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific
   Adaptation**, `arXiv, 2403.13745`, [arxiv](http://arxiv.org/abs/2403.13745v1), [pdf](http://arxiv.org/pdf/2403.13745v1.pdf), cication: [**-1**](None)
 
@@ -498,7 +500,9 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Storytelling Transformed | LTX Studio](https://ltx.studio/)
 - [PixVerse - Create breath-taking videos with PixVerse AI](https://pixverse.ai/)
+
 - [清华系多模态大模型公司刚刚融了数亿元！放话"今年达到Sora效果" | 量子位](https://www.qbitai.com/2024/03/127279.html)
 - [国产Sora来了，4K 60帧15秒视频刷新纪录！500亿美元短剧出海市场被撬动](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454101&idx=1&sn=a317255d4989a37a91000c81945792d6)
 - [Sora 竞争对手融资数千万美元，目前可免费“薅” | 机器之心](https://www.jiqizhixin.com/articles/2024-03-08-7)

@@ -30,10 +30,18 @@
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
+- **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept
+  Matching**, `arXiv, 2404.03653`, [arxiv](http://arxiv.org/abs/2404.03653v1), [pdf](http://arxiv.org/pdf/2404.03653v1.pdf), cication: [**-1**](None)
+
+	 *Dongzhi Jiang, Guanglu Song, Xiaoshi Wu, Renrui Zhang, Dazhong Shen, Zhuofan Zong, Yu Liu, Hongsheng Li* · ([CoMat](https://github.com/CaraJ7/CoMat) - CaraJ7) ![Star](https://img.shields.io/github/stars/CaraJ7/CoMat.svg?style=social&label=Star)
+- **Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale
+  Prediction**, `arXiv, 2404.02905`, [arxiv](http://arxiv.org/abs/2404.02905v1), [pdf](http://arxiv.org/pdf/2404.02905v1.pdf), cication: [**-1**](None)
+
+	 *Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang* · ([VAR](https://github.com/FoundationVision/VAR) - FoundationVision) ![Star](https://img.shields.io/github/stars/FoundationVision/VAR.svg?style=social&label=Star)
 - **Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**, `arXiv, 2403.03206`, [arxiv](http://arxiv.org/abs/2403.03206v1), [pdf](http://arxiv.org/pdf/2403.03206v1.pdf), cication: [**-1**](None)
 
 	 *Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel*
-	- This work enhances rectified flow models for high-resolution text-to-image synthesis by improving noise sampling and introducing a novel transformer-based architecture that enhances text comprehension and image quality, showing better performance through extensive evaluation and human preference ratings.
+	- `This work enhances rectified flow models for high-resolution text-to-image synthesis by improving noise sampling and introducing a novel transformer-based architecture that enhances text comprehension and image quality, showing better performance through extensive evaluation and human preference ratings.`
 - **CosmicMan: A Text-to-Image Foundation Model for Humans**, `arXiv, 2404.01294`, [arxiv](http://arxiv.org/abs/2404.01294v1), [pdf](http://arxiv.org/pdf/2404.01294v1.pdf), cication: [**-1**](None)
 
 	 *Shikai Li, Jianglin Fu, Kaiyuan Liu, Wentao Wang, Kwan-Yee Lin, Wayne Wu* · ([CosmicMan](https://github.com/cosmicman-cvpr2024/CosmicMan/blob/main) - cosmicman-cvpr2024) ![Star](https://img.shields.io/github/stars/cosmicman-cvpr2024/CosmicMan.svg?style=social&label=Star) · ([cosmicman-cvpr2024.github](https://cosmicman-cvpr2024.github.io/))
@@ -96,6 +104,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion
+  Models**, `arXiv, 2404.02747`, [arxiv](http://arxiv.org/abs/2404.02747v1), [pdf](http://arxiv.org/pdf/2404.02747v1.pdf), cication: [**-1**](None)
+
+	 *Wentian Zhang, Haozhe Liu, Jinheng Xie, Francesco Faccio, Mike Zheng Shou, Jürgen Schmidhuber* · ([t-gate](https://github.com/haozheliu-st/t-gate) - haozheliu-st) ![Star](https://img.shields.io/github/stars/haozheliu-st/t-gate.svg?style=social&label=Star)
 - **SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**, `arXiv, 2403.16627`, [arxiv](http://arxiv.org/abs/2403.16627v1), [pdf](http://arxiv.org/pdf/2403.16627v1.pdf), cication: [**-1**](None)
 
 	 *Yuda Song, Zehao Sun, Xuanwu Yin*
@@ -108,6 +120,13 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image
+  Generation**, `arXiv, 2404.02733`, [arxiv](http://arxiv.org/abs/2404.02733v1), [pdf](http://arxiv.org/pdf/2404.02733v1.pdf), cication: [**-1**](None)
+
+	 *Haofan Wang, Qixun Wang, Xu Bai, Zekui Qin, Anthony Chen* · ([instantstyle](https://github.com/instantstyle/instantstyle?tab=readme-ov-file) - instantstyle) ![Star](https://img.shields.io/github/stars/instantstyle/instantstyle.svg?style=social&label=Star)
+- **Learning Inclusion Matching for Animation Paint Bucket Colorization**, `arXiv, 2403.18342`, [arxiv](http://arxiv.org/abs/2403.18342v1), [pdf](http://arxiv.org/pdf/2403.18342v1.pdf), cication: [**-1**](None)
+
+	 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy* · ([BasicPBC](https://github.com/ykdai/BasicPBC) - ykdai) ![Star](https://img.shields.io/github/stars/ykdai/BasicPBC.svg?style=social&label=Star)
 - **FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image
   Editing**, `arXiv, 2403.18605`, [arxiv](http://arxiv.org/abs/2403.18605v1), [pdf](http://arxiv.org/pdf/2403.18605v1.pdf), cication: [**-1**](None)
 
@@ -172,6 +191,10 @@
   Decoupling Paradigm**, `arXiv, 2403.11781`, [arxiv](http://arxiv.org/abs/2403.11781v1), [pdf](http://arxiv.org/pdf/2403.11781v1.pdf), cication: [**-1**](None)
 
 	 *Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li*
+- **SSR-Encoder: Encoding Selective Subject Representation for
+  Subject-Driven Generation**, `arXiv, 2312.16272`, [arxiv](http://arxiv.org/abs/2312.16272v2), [pdf](http://arxiv.org/pdf/2312.16272v2.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
 - [**upscayl**](https://github.com/upscayl/upscayl) - upscayl ![Star](https://img.shields.io/github/stars/upscayl/upscayl.svg?style=social&label=Star)
@@ -193,6 +216,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **On the Scalability of Diffusion-based Text-to-Image Generation**, `arXiv, 2404.02883`, [arxiv](http://arxiv.org/abs/2404.02883v1), [pdf](http://arxiv.org/pdf/2404.02883v1.pdf), cication: [**-1**](None)
+
+	 *Hao Li, Yang Zou, Ying Wang, Orchid Majumder, Yusheng Xie, R. Manmatha, Ashwin Swaminathan, Zhuowen Tu, Stefano Ermon, Stefano Soatto*
 - **Bigger is not Always Better: Scaling Properties of Latent Diffusion
   Models**, `arXiv, 2404.01367`, [arxiv](http://arxiv.org/abs/2404.01367v1), [pdf](http://arxiv.org/pdf/2404.01367v1.pdf), cication: [**-1**](None)
 
@@ -229,3 +255,5 @@
 - **Tutorial on Diffusion Models for Imaging and Vision**, `arXiv, 2403.18103`, [arxiv](http://arxiv.org/abs/2403.18103v1), [pdf](http://arxiv.org/pdf/2403.18103v1.pdf), cication: [**-1**](None)
 
 	 *Stanley H. Chan*
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
