@@ -481,7 +481,6 @@
 
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
 
-
 ## Projects
 - [**VGen**](https://github.com/ali-vilab/VGen) - ali-vilab ![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)
 
@@ -491,6 +490,8 @@
 	 *利用大模型，一键生成短视频*
 
 ## Other
+- [Tim Brooks and Bill Peebles  from the OpenAI Sora team @ AGI House keynote](https://twitter.com/agihouse_org/status/1776827897892024734)
+
 - [再谈复现 Sora：被仰望与被遗忘的 | 机器之心](https://www.jiqizhixin.com/articles/2024-03-27-5)
 - [Sora 时代的 AI 视频生成何去何从？ | 机器之心](https://www.jiqizhixin.com/articles/2024-03-07-5)
 - [去魅Sora: OpenAI 鲜肉小组的小试牛刀](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495615&idx=1&sn=195542f7c0cb64e0c81fa54a6726bkkkk442)

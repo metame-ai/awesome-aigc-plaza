@@ -51,6 +51,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **The More You See in 2D, the More You Perceive in 3D**, `arXiv, 2404.03652`, [arxiv](http://arxiv.org/abs/2404.03652v1), [pdf](http://arxiv.org/pdf/2404.03652v1.pdf), cication: [**-1**](None)
+
+	 *Xinyang Han, Zelin Gao, Angjoo Kanazawa, Shubham Goel, Yossi Gandelsman* · ([sap3d.github](https://sap3d.github.io/)) · ([Sap3D](https://github.com/sap3d/Sap3D) - sap3d) ![Star](https://img.shields.io/github/stars/sap3d/Sap3D.svg?style=social&label=Star)
 - [PointInfinity: Resolution-Invariant Point Diffusion Models](https://zixuanh.com/projects/pointinfinity/paper.pdf)
 
 	 · ([zixuanh](https://zixuanh.com/projects/pointinfinity))

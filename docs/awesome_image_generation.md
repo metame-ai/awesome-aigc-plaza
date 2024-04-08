@@ -216,6 +216,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**, `arXiv, 2404.03673`, [arxiv](http://arxiv.org/abs/2404.03673v1), [pdf](http://arxiv.org/pdf/2404.03673v1.pdf), cication: [**-1**](None)
+
+	 *Owen Oertell, Jonathan D. Chang, Yiyi Zhang, Kianté Brantley, Wen Sun* · ([rlcm.owenoertell](https://rlcm.owenoertell.com))
 - **On the Scalability of Diffusion-based Text-to-Image Generation**, `arXiv, 2404.02883`, [arxiv](http://arxiv.org/abs/2404.02883v1), [pdf](http://arxiv.org/pdf/2404.02883v1.pdf), cication: [**-1**](None)
 
 	 *Hao Li, Yang Zou, Ying Wang, Orchid Majumder, Yusheng Xie, R. Manmatha, Ashwin Swaminathan, Zhuowen Tu, Stefano Ermon, Stefano Soatto*
