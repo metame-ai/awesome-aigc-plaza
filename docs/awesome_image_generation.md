@@ -53,6 +53,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **HairFastGAN: Realistic and Robust Hair Transfer with a Fast
+  Encoder-Based Approach**, `arXiv, 2404.01094`, [arxiv](http://arxiv.org/abs/2404.01094v1), [pdf](http://arxiv.org/pdf/2404.01094v1.pdf), cication: [**-1**](None)
+
+	 *Maxim Nikolaev, Mikhail Kuznetsov, Dmitry Vetrov, Aibek Alanov* · ([HairFastGAN](https://github.com/AIRI-Institute/HairFastGAN?tab=readme-ov-file) - AIRI-Institute) ![Star](https://img.shields.io/github/stars/AIRI-Institute/HairFastGAN.svg?style=social&label=Star)
 - **Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**, `arXiv, 2403.17377`, [arxiv](http://arxiv.org/abs/2403.17377v1), [pdf](http://arxiv.org/pdf/2403.17377v1.pdf), cication: [**-1**](None)
 
 	 *Donghoon Ahn, Hyoungwon Cho, Jaewon Min, Wooseok Jang, Jungwoo Kim, SeonHwa Kim, Hyun Hee Park, Kyong Hwan Jin, Seungryong Kim* · ([ku-cvlab.github](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/))
@@ -104,6 +108,9 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **BinaryDM: Towards Accurate Binarization of Diffusion Model**, `arXiv, 2404.05662`, [arxiv](http://arxiv.org/abs/2404.05662v1), [pdf](http://arxiv.org/pdf/2404.05662v1.pdf), cication: [**-1**](None)
+
+	 *Xingyu Zheng, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Xianglong Liu* · ([BinaryDM](https://github.com/Xingyu-Zheng/BinaryDM) - Xingyu-Zheng) ![Star](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM.svg?style=social&label=Star)
 - **Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion
   Models**, `arXiv, 2404.02747`, [arxiv](http://arxiv.org/abs/2404.02747v1), [pdf](http://arxiv.org/pdf/2404.02747v1.pdf), cication: [**-1**](None)
 
@@ -120,6 +127,10 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual
+  Editing**, `arXiv, 2404.05717`, [arxiv](http://arxiv.org/abs/2404.05717v1), [pdf](http://arxiv.org/pdf/2404.05717v1.pdf), cication: [**-1**](None)
+
+	 *Jing Gu, Yilin Wang, Nanxuan Zhao, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang*
 - **InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image
   Generation**, `arXiv, 2404.02733`, [arxiv](http://arxiv.org/abs/2404.02733v1), [pdf](http://arxiv.org/pdf/2404.02733v1.pdf), cication: [**-1**](None)
 
@@ -152,6 +163,12 @@
 	 · ([SPM](https://github.com/Con6924/SPM) - Con6924) ![Star](https://img.shields.io/github/stars/Con6924/SPM.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-13))
 
 ## Architecture
+- **YaART: Yet Another ART Rendering Technology**, `arXiv, 2404.05666`, [arxiv](http://arxiv.org/abs/2404.05666v1), [pdf](http://arxiv.org/pdf/2404.05666v1.pdf), cication: [**-1**](None)
+
+	 *Sergey Kastryulin, Artem Konev, Alexander Shishenya, Eugene Lyapustin, Artem Khurshudov, Alexander Tselousov, Nikita Vinokurov, Denis Kuznedelev, Alexander Markovich, Grigoriy Livshits*
+- **Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models**, `arXiv, 2404.04478`, [arxiv](http://arxiv.org/abs/2404.04478v1), [pdf](http://arxiv.org/pdf/2404.04478v1.pdf), cication: [**-1**](None)
+
+	 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang*
 - **ZigMa: Zigzag Mamba Diffusion Model**, `arXiv, 2403.13802`, [arxiv](http://arxiv.org/abs/2403.13802v1), [pdf](http://arxiv.org/pdf/2403.13802v1.pdf), cication: [**-1**](None)
 
 	 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer*
@@ -170,6 +187,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**, `arXiv, 2404.05674`, [arxiv](http://arxiv.org/abs/2404.05674v1), [pdf](http://arxiv.org/pdf/2404.05674v1.pdf), cication: [**-1**](None)
+
+	 *Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang*
+- [**face-to-all**](https://huggingface.co/spaces/multimodalart/face-to-all) - multimodalart 🤗
 - **Arc2Face: A Foundation Model of Human Faces**, `arXiv, 2403.11641`, [arxiv](http://arxiv.org/abs/2403.11641v1), [pdf](http://arxiv.org/pdf/2403.11641v1.pdf), cication: [**-1**](None)
 
 	 *Foivos Paraperas Papantoniou, Alexandros Lattas, Stylianos Moschoglou, Jiankang Deng, Bernhard Kainz, Stefanos Zafeiriou* · ([arc2face.github](https://arc2face.github.io/)) · ([Arc2Face](https://github.com/foivospar/Arc2Face) - foivospar) ![Star](https://img.shields.io/github/stars/foivospar/Arc2Face.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/FoivosPar/Arc2Face))
@@ -197,6 +218,10 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
+- **BeyondScene: Higher-Resolution Human-Centric Scene Generation With
+  Pretrained Diffusion**, `arXiv, 2404.04544`, [arxiv](http://arxiv.org/abs/2404.04544v1), [pdf](http://arxiv.org/pdf/2404.04544v1.pdf), cication: [**-1**](None)
+
+	 *Gwanghyun Kim, Hayeon Kim, Hoigi Seo, Dong Un Kang, Se Young Chun*
 - [**upscayl**](https://github.com/upscayl/upscayl) - upscayl ![Star](https://img.shields.io/github/stars/upscayl/upscayl.svg?style=social&label=Star)
 
 	 *🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.*
@@ -216,6 +241,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Aligning Diffusion Models by Optimizing Human Utility**, `arXiv, 2404.04465`, [arxiv](http://arxiv.org/abs/2404.04465v1), [pdf](http://arxiv.org/pdf/2404.04465v1.pdf), cication: [**-1**](None)
+
+	 *Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka*
 - **RL for Consistency Models: Faster Reward Guided Text-to-Image Generation**, `arXiv, 2404.03673`, [arxiv](http://arxiv.org/abs/2404.03673v1), [pdf](http://arxiv.org/pdf/2404.03673v1.pdf), cication: [**-1**](None)
 
 	 *Owen Oertell, Jonathan D. Chang, Yiyi Zhang, Kianté Brantley, Wen Sun* · ([rlcm.owenoertell](https://rlcm.owenoertell.com))

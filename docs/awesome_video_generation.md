@@ -27,6 +27,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**, `arXiv, 2404.05014`, [arxiv](http://arxiv.org/abs/2404.05014v1), [pdf](http://arxiv.org/pdf/2404.05014v1.pdf), cication: [**-1**](None)
+
+	 *Shenghai Yuan, Jinfa Huang, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*
 - **CameraCtrl: Enabling Camera Control for Text-to-Video Generation**, `arXiv, 2404.02101`, [arxiv](http://arxiv.org/abs/2404.02101v1), [pdf](http://arxiv.org/pdf/2404.02101v1.pdf), cication: [**-1**](None)
 
 	 *Hao He, Yinghao Xu, Yuwei Guo, Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang* · ([hehao13.github](https://hehao13.github.io/projects-CameraCtrl))
@@ -364,6 +367,10 @@
 - **LivePhoto: Real Image Animation with Text-guided Motion Control**, `arXiv, 2312.02928`, [arxiv](http://arxiv.org/abs/2312.02928v1), [pdf](http://arxiv.org/pdf/2312.02928v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=8753439023160233505&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xi Chen, Zhiheng Liu, Mengting Chen, Yutong Feng, Yu Liu, Yujun Shen, Hengshuang Zhao* · ([LivePhoto](https://github.com/XavierCHEN34/LivePhoto) - XavierCHEN34) ![Star](https://img.shields.io/github/stars/XavierCHEN34/LivePhoto.svg?style=social&label=Star) · ([xavierchen34.github](https://xavierchen34.github.io/LivePhoto-Page/))
+- **Generative Rendering: Controllable 4D-Guided Video Generation with 2D
+  Diffusion Models**, `arXiv, 2312.01409`, [arxiv](http://arxiv.org/abs/2312.01409v1), [pdf](http://arxiv.org/pdf/2312.01409v1.pdf), cication: [**-1**](None)
+
+	 *Shengqu Cai, Duygu Ceylan, Matheus Gadelha, Chun-Hao Paul Huang, Tuanfeng Yang Wang, Gordon Wetzstein*
 - **PIA: Your Personalized Image Animator via Plug-and-Play Modules in
   Text-to-Image Models**, `arXiv, 2312.13964`, [arxiv](http://arxiv.org/abs/2312.13964v3), [pdf](http://arxiv.org/pdf/2312.13964v3.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=17538941768586839512&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -501,6 +508,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Higgsfield.ai](https://higgsfield.ai/Blog/we-ve-raised-8m-in-seed-funding-to-unlock-personalized-ai-video-creation-and-creativity)
 - [Storytelling Transformed | LTX Studio](https://ltx.studio/)
 - [PixVerse - Create breath-taking videos with PixVerse AI](https://pixverse.ai/)
 
