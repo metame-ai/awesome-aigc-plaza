@@ -172,6 +172,9 @@
 - **ZigMa: Zigzag Mamba Diffusion Model**, `arXiv, 2403.13802`, [arxiv](http://arxiv.org/abs/2403.13802v1), [pdf](http://arxiv.org/pdf/2403.13802v1.pdf), cication: [**-1**](None)
 
 	 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer*
+- **The Missing U for Efficient Diffusion Models**, `arXiv, 2310.20092`, [arxiv](http://arxiv.org/abs/2310.20092v4), [pdf](http://arxiv.org/pdf/2310.20092v4.pdf), cication: [**-1**](None)
+
+	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
 - **MDTv2: Masked Diffusion Transformer is a Strong Image Synthesizer**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.14389v2), [pdf](http://arxiv.org/pdf/2303.14389v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=265826374435029950&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
@@ -236,6 +239,7 @@
 	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
 ## Projects
+- [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
@@ -272,6 +276,9 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- [Evaluating Text-to-Visual Generation with Image-to-Text Generation](https://linzhiqiu.github.io/papers/vqascore/)
+
+	 · ([t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - linzhiqiu) ![Star](https://img.shields.io/github/stars/linzhiqiu/t2v_metrics.svg?style=social&label=Star)
 - **Rethinking FID: Towards a Better Evaluation Metric for Image Generation**, `arXiv, 2401.09603`, [arxiv](http://arxiv.org/abs/2401.09603v2), [pdf](http://arxiv.org/pdf/2401.09603v2.pdf), cication: [**7**](https://scholar.google.com/scholar?cites=13719089543049798984&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Sadeep Jayasumana, Srikumar Ramalingam, Andreas Veit, Daniel Glasner, Ayan Chakrabarti, Sanjiv Kumar* · ([google-research](https://github.com/google-research/google-research/tree/master/cmmd) - google-research) ![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)

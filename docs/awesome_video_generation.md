@@ -282,6 +282,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via
+  Subject Alignment**, `arXiv, 2404.04946`, [arxiv](http://arxiv.org/abs/2404.04946v1), [pdf](http://arxiv.org/pdf/2404.04946v1.pdf), cication: [**-1**](None)
+
+	 *Yuanfeng Xu, Yuhao Chen, Zhongzhan Huang, Zijian He, Guangrun Wang, Philip Torr, Liang Lin* · ([AnimateZoo](https://github.com/JustinXu0/AnimateZoo) - JustinXu0) ![Star](https://img.shields.io/github/stars/JustinXu0/AnimateZoo.svg?style=social&label=Star) · ([justinxu0.github](https://justinxu0.github.io/AnimateZoo/))
 - **TRIP: Temporal Residual Learning with Image Noise Prior for
   Image-to-Video Diffusion Models**, `arXiv, 2403.17005`, [arxiv](http://arxiv.org/abs/2403.17005v1), [pdf](http://arxiv.org/pdf/2403.17005v1.pdf), cication: [**-1**](None)
 
@@ -497,6 +501,7 @@
 	 *利用大模型，一键生成短视频*
 
 ## Other
+- [Introducing Steerable Motion 1.3 - drive videos with batches of images - now higher detail, smoother motion and with better control!](https://www.reddit.com/r/StableDiffusion/comments/1bzakf3/introducing_steerable_motion_13_drive_videos_with/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the)
 - [Tim Brooks and Bill Peebles  from the OpenAI Sora team @ AGI House keynote](https://twitter.com/agihouse_org/status/1776827897892024734)
 
 - [再谈复现 Sora：被仰望与被遗忘的 | 机器之心](https://www.jiqizhixin.com/articles/2024-03-27-5)
