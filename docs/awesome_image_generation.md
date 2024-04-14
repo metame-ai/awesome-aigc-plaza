@@ -114,6 +114,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Applying Guidance in a Limited Interval Improves Sample and Distribution
+  Quality in Diffusion Models**, `arXiv, 2404.07724`, [arxiv](http://arxiv.org/abs/2404.07724v1), [pdf](http://arxiv.org/pdf/2404.07724v1.pdf), cication: [**-1**](None)
+
+	 *Tuomas Kynkäänniemi, Miika Aittala, Tero Karras, Samuli Laine, Timo Aila, Jaakko Lehtinen*
 - **BinaryDM: Towards Accurate Binarization of Diffusion Model**, `arXiv, 2404.05662`, [arxiv](http://arxiv.org/abs/2404.05662v1), [pdf](http://arxiv.org/pdf/2404.05662v1.pdf), cication: [**-1**](None)
 
 	 *Xingyu Zheng, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Xianglong Liu* · ([BinaryDM](https://github.com/Xingyu-Zheng/BinaryDM) - Xingyu-Zheng) ![Star](https://img.shields.io/github/stars/Xingyu-Zheng/BinaryDM.svg?style=social&label=Star)

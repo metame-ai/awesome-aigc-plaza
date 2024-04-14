@@ -28,6 +28,10 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic
+  Gaussian Splatting**, `arXiv, 2404.06903`, [arxiv](http://arxiv.org/abs/2404.06903v1), [pdf](http://arxiv.org/pdf/2404.06903v1.pdf), cication: [**-1**](None)
+
+	 *Shijie Zhou, Zhiwen Fan, Dejia Xu, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi* · ([dreamscene360.github](http://dreamscene360.github.io/))
 - **RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth
   Diffusion**, `arXiv, 2404.07199`, [arxiv](http://arxiv.org/abs/2404.07199v1), [pdf](http://arxiv.org/pdf/2404.07199v1.pdf), cication: [**-1**](None)
 
@@ -55,6 +59,12 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**, `arXiv, 2404.06780`, [arxiv](http://arxiv.org/abs/2404.06780v1), [pdf](http://arxiv.org/pdf/2404.06780v1.pdf), cication: [**-1**](None)
+
+	 *Fan Lu, Kwan-Yee Lin, Yan Xu, Hongsheng Li, Guang Chen, Changjun Jiang* · ([urbanarchitect.github](https://urbanarchitect.github.io))
+- **Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**, `arXiv, 2404.06429`, [arxiv](http://arxiv.org/abs/2404.06429v1), [pdf](http://arxiv.org/pdf/2404.06429v1.pdf), cication: [**-1**](None)
+
+	 *Fan Yang, Jianfeng Zhang, Yichun Shi, Bowen Chen, Chenxu Zhang, Huichao Zhang, Xiaofeng Yang, Jiashi Feng, Guosheng Lin* · ([magic-research.github](https://magic-research.github.io/magic-boost/))
 - **Hash3D: Training-free Acceleration for 3D Generation**, `arXiv, 2404.06091`, [arxiv](http://arxiv.org/abs/2404.06091v1), [pdf](http://arxiv.org/pdf/2404.06091v1.pdf), cication: [**-1**](None)
 
 	 *Xingyi Yang, Xinchao Wang*
@@ -112,6 +122,9 @@
 
 
 ## Reconstruction
+- **Reconstructing Hand-Held Objects in 3D**, `arXiv, 2404.06507`, [arxiv](http://arxiv.org/abs/2404.06507v2), [pdf](http://arxiv.org/pdf/2404.06507v2.pdf), cication: [**-1**](None)
+
+	 *Jane Wu, Georgios Pavlakos, Georgia Gkioxari, Jitendra Malik*
 - **Gamba: Marry Gaussian Splatting with Mamba for single view 3D
   reconstruction**, `arXiv, 2403.18795`, [arxiv](http://arxiv.org/abs/2403.18795v1), [pdf](http://arxiv.org/pdf/2403.18795v1.pdf), cication: [**-1**](None)
 
