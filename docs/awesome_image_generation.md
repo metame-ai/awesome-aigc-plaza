@@ -55,6 +55,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **ControlNet++: Improving Conditional Controls with Efficient Consistency
+  Feedback**, `arXiv, 2404.07987`, [arxiv](http://arxiv.org/abs/2404.07987v1), [pdf](http://arxiv.org/pdf/2404.07987v1.pdf), cication: [**-1**](None)
+
+	 *Ming Li, Taojiannan Yang, Huafeng Kuang, Jie Wu, Zhaoning Wang, Xuefeng Xiao, Chen Chen* · ([liming-ai.github](https://liming-ai.github.io/ControlNet_Plus_Plus/))
 - **HairFastGAN: Realistic and Robust Hair Transfer with a Fast
   Encoder-Based Approach**, `arXiv, 2404.01094`, [arxiv](http://arxiv.org/abs/2404.01094v1), [pdf](http://arxiv.org/pdf/2404.01094v1.pdf), cication: [**-1**](None)
 
@@ -129,6 +133,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- [sandner.art | Cosine-Continuous Stable Diffusion XL (CosXL) on StableSwarmUI](https://sandner.art/cosine-continuous-stable-diffusion-xl-cosxl-on-stableswarmui)
+
+	 · ([huggingface](https://huggingface.co/stabilityai/cosxl/tree/main))
 - **SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual
   Editing**, `arXiv, 2404.05717`, [arxiv](http://arxiv.org/abs/2404.05717v1), [pdf](http://arxiv.org/pdf/2404.05717v1.pdf), cication: [**-1**](None)
 
@@ -241,6 +248,7 @@
 	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
 ## Projects
+- [Site Unreachable](https://huggingface.co/spaces/multimodalart/cosxl)
 - [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
 

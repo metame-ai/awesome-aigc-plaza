@@ -28,6 +28,10 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth
+  Diffusion**, `arXiv, 2404.07199`, [arxiv](http://arxiv.org/abs/2404.07199v1), [pdf](http://arxiv.org/pdf/2404.07199v1.pdf), cication: [**-1**](None)
+
+	 *Jaidev Shriram, Alex Trevithick, Lingjie Liu, Ravi Ramamoorthi* · ([arxiv](https://arxiv.org/abs/2404.07199))
 - **VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**, `arXiv, 2403.17001`, [arxiv](http://arxiv.org/abs/2403.17001v1), [pdf](http://arxiv.org/pdf/2403.17001v1.pdf), cication: [**-1**](None)
 
 	 *Yang Chen, Yingwei Pan, Haibo Yang, Ting Yao, Tao Mei*
