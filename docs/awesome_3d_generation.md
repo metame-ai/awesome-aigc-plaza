@@ -59,6 +59,10 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **InstantMesh: Efficient 3D Mesh Generation from a Single Image with
+  Sparse-view Large Reconstruction Models**, `arXiv, 2404.07191`, [arxiv](http://arxiv.org/abs/2404.07191v1), [pdf](http://arxiv.org/pdf/2404.07191v1.pdf), cication: [**-1**](None)
+
+	 *Jiale Xu, Weihao Cheng, Yiming Gao, Xintao Wang, Shenghua Gao, Ying Shan* · ([instantmesh](https://github.com/tencentarc/instantmesh) - tencentarc) ![Star](https://img.shields.io/github/stars/tencentarc/instantmesh.svg?style=social&label=Star)
 - **Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**, `arXiv, 2404.06780`, [arxiv](http://arxiv.org/abs/2404.06780v1), [pdf](http://arxiv.org/pdf/2404.06780v1.pdf), cication: [**-1**](None)
 
 	 *Fan Lu, Kwan-Yee Lin, Yan Xu, Hongsheng Li, Guang Chen, Changjun Jiang* · ([urbanarchitect.github](https://urbanarchitect.github.io))

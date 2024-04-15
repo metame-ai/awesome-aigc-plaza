@@ -501,6 +501,7 @@
 	 *利用大模型，一键生成短视频*
 
 ## Other
+- [Diffusion Models for Video Generation | Lil'Log](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 - [Introducing Steerable Motion 1.3 - drive videos with batches of images - now higher detail, smoother motion and with better control!](https://www.reddit.com/r/StableDiffusion/comments/1bzakf3/introducing_steerable_motion_13_drive_videos_with/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the)
 - [Tim Brooks and Bill Peebles  from the OpenAI Sora team @ AGI House keynote](https://twitter.com/agihouse_org/status/1776827897892024734)
 
@@ -513,6 +514,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [VIGGLE](https://viggle.ai/)
 - [Higgsfield.ai](https://higgsfield.ai/Blog/we-ve-raised-8m-in-seed-funding-to-unlock-personalized-ai-video-creation-and-creativity)
 - [Storytelling Transformed | LTX Studio](https://ltx.studio/)
 - [PixVerse - Create breath-taking videos with PixVerse AI](https://pixverse.ai/)
