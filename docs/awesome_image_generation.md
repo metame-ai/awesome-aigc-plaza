@@ -55,6 +55,7 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [Fetching Title#zyzi](https://arxiv.org/abs/2404.09967)
 - **ControlNet++: Improving Conditional Controls with Efficient Consistency
   Feedback**, `arXiv, 2404.07987`, [arxiv](http://arxiv.org/abs/2404.07987v1), [pdf](http://arxiv.org/pdf/2404.07987v1.pdf), cication: [**-1**](None)
 
@@ -137,6 +138,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- [Fetching Title#bjvy](https://arxiv.org/abs/2404.09990)
+
+	 · ([thefllood.github](https://thefllood.github.io/HQEdit_web))
 - [sandner.art | Cosine-Continuous Stable Diffusion XL (CosXL) on StableSwarmUI](https://sandner.art/cosine-continuous-stable-diffusion-xl-cosxl-on-stableswarmui)
 
 	 · ([huggingface](https://huggingface.co/stabilityai/cosxl/tree/main))
@@ -282,6 +286,9 @@
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
 ## Toolkits
+- [**d3pm**](https://github.com/cloneofsimo/d3pm) - cloneofsimo ![Star](https://img.shields.io/github/stars/cloneofsimo/d3pm.svg?style=social&label=Star)
+
+	 *Minimal Implementation of a D3PM in pytorch*
 - [**rembg-webapp-tutorial**](https://github.com/codediodeio/rembg-webapp-tutorial) - codediodeio ![Star](https://img.shields.io/github/stars/codediodeio/rembg-webapp-tutorial.svg?style=social&label=Star)
 
 	 *a simple webapp with rembg*
