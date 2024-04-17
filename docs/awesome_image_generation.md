@@ -55,7 +55,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
-- [Fetching Title#zyzi](https://arxiv.org/abs/2404.09967)
+- **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse
+  Controls to Any Diffusion Model**, `arXiv, 2404.09967`, [arxiv](http://arxiv.org/abs/2404.09967v1), [pdf](http://arxiv.org/pdf/2404.09967v1.pdf), cication: [**-1**](None)
+
+	 *Han Lin, Jaemin Cho, Abhay Zala, Mohit Bansal*
 - **ControlNet++: Improving Conditional Controls with Efficient Consistency
   Feedback**, `arXiv, 2404.07987`, [arxiv](http://arxiv.org/abs/2404.07987v1), [pdf](http://arxiv.org/pdf/2404.07987v1.pdf), cication: [**-1**](None)
 
@@ -138,7 +141,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
-- [Fetching Title#bjvy](https://arxiv.org/abs/2404.09990)
+- **HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing**, `arXiv, 2404.09990`, [arxiv](http://arxiv.org/abs/2404.09990v1), [pdf](http://arxiv.org/pdf/2404.09990v1.pdf), cication: [**-1**](None)
+
+	 *Mude Hui, Siwei Yang, Bingchen Zhao, Yichun Shi, Heng Wang, Peng Wang, Yuyin Zhou, Cihang Xie*
 
 	 · ([thefllood.github](https://thefllood.github.io/HQEdit_web))
 - [sandner.art | Cosine-Continuous Stable Diffusion XL (CosXL) on StableSwarmUI](https://sandner.art/cosine-continuous-stable-diffusion-xl-cosxl-on-stableswarmui)
