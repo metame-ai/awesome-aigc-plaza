@@ -212,6 +212,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **MoA: Mixture-of-Attention for Subject-Context Disentanglement in
+  Personalized Image Generation**, `arXiv, 2404.11565`, [arxiv](http://arxiv.org/abs/2404.11565v1), [pdf](http://arxiv.org/pdf/2404.11565v1.pdf), cication: [**-1**](None)
+
+	 *Kuan-Chieh, Wang, Daniil Ostashev, Yuwei Fang, Sergey Tulyakov, Kfir Aberman* · ([snap-research.github](https://snap-research.github.io/mixture-of-attention/))
 - **MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**, `arXiv, 2404.05674`, [arxiv](http://arxiv.org/abs/2404.05674v1), [pdf](http://arxiv.org/pdf/2404.05674v1.pdf), cication: [**-1**](None)
 
 	 *Kunpeng Song, Yizhe Zhu, Bingchen Liu, Qing Yan, Ahmed Elgammal, Xiao Yang*
