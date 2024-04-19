@@ -126,6 +126,9 @@
 
 
 ## Reconstruction
+- **MeshLRM: Large Reconstruction Model for High-Quality Mesh**, `arXiv, 2404.12385`, [arxiv](http://arxiv.org/abs/2404.12385v1), [pdf](http://arxiv.org/pdf/2404.12385v1.pdf), cication: [**-1**](None)
+
+	 *Xinyue Wei, Kai Zhang, Sai Bi, Hao Tan, Fujun Luan, Valentin Deschaintre, Kalyan Sunkavalli, Hao Su, Zexiang Xu*
 - **Reconstructing Hand-Held Objects in 3D**, `arXiv, 2404.06507`, [arxiv](http://arxiv.org/abs/2404.06507v2), [pdf](http://arxiv.org/pdf/2404.06507v2.pdf), cication: [**-1**](None)
 
 	 *Jane Wu, Georgios Pavlakos, Georgia Gkioxari, Jitendra Malik*

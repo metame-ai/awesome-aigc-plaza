@@ -282,6 +282,12 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior**, `arXiv, 2404.11614`, [arxiv](http://arxiv.org/abs/2404.11614v2), [pdf](http://arxiv.org/pdf/2404.11614v2.pdf), cication: [**-1**](None)
+
+	 *Zichen Liu, Yihao Meng, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu* · ([animate-your-word.github](https://animate-your-word.github.io/demo))
+- **AniClipart: Clipart Animation with Text-to-Video Priors**, `arXiv, 2404.12347`, [arxiv](http://arxiv.org/abs/2404.12347v1), [pdf](http://arxiv.org/pdf/2404.12347v1.pdf), cication: [**-1**](None)
+
+	 *Ronghuan Wu, Wanchao Su, Kede Ma, Jing Liao*
 - **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via
   Subject Alignment**, `arXiv, 2404.04946`, [arxiv](http://arxiv.org/abs/2404.04946v1), [pdf](http://arxiv.org/pdf/2404.04946v1.pdf), cication: [**-1**](None)
 

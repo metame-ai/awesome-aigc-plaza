@@ -118,6 +118,9 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **EdgeFusion: On-Device Text-to-Image Generation**, `arXiv, 2404.11925`, [arxiv](http://arxiv.org/abs/2404.11925v1), [pdf](http://arxiv.org/pdf/2404.11925v1.pdf), cication: [**-1**](None)
+
+	 *Thibault Castells, Hyoung-Kyu Song, Tairen Piao, Shinkook Choi, Bo-Kyeong Kim, Hanyoung Yim, Changgwun Lee, Jae Gon Kim, Tae-Ho Kim*
 - **Applying Guidance in a Limited Interval Improves Sample and Distribution
   Quality in Diffusion Models**, `arXiv, 2404.07724`, [arxiv](http://arxiv.org/abs/2404.07724v1), [pdf](http://arxiv.org/pdf/2404.07724v1.pdf), cication: [**-1**](None)
 
