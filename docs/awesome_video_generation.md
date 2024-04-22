@@ -288,6 +288,8 @@
 - **AniClipart: Clipart Animation with Text-to-Video Priors**, `arXiv, 2404.12347`, [arxiv](http://arxiv.org/abs/2404.12347v1), [pdf](http://arxiv.org/pdf/2404.12347v1.pdf), cication: [**-1**](None)
 
 	 *Ronghuan Wu, Wanchao Su, Kede Ma, Jing Liao*
+
+	 · ([aniclipart.github](https://aniclipart.github.io/))
 - **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via
   Subject Alignment**, `arXiv, 2404.04946`, [arxiv](http://arxiv.org/abs/2404.04946v1), [pdf](http://arxiv.org/pdf/2404.04946v1.pdf), cication: [**-1**](None)
 
@@ -492,6 +494,11 @@
   Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v1), [pdf](http://arxiv.org/pdf/2403.06098v1.pdf), cication: [**-1**](None)
 
 	 *Wenhao Wang, Yi Yang*
+
+## Evaluation
+- **VBench: Comprehensive Benchmark Suite for Video Generative Models**, `arXiv, 2311.17982`, [arxiv](http://arxiv.org/abs/2311.17982v1), [pdf](http://arxiv.org/pdf/2311.17982v1.pdf), cication: [**-1**](None)
+
+	 *Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit* · ([VBench](https://github.com/Vchitect/VBench) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)
 
 ## Toolkits
 - [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)

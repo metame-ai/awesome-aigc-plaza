@@ -144,6 +144,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **StyleBooth: Image Style Editing with Multimodal Instruction**, `arXiv, 2404.12154`, [arxiv](http://arxiv.org/abs/2404.12154v1), [pdf](http://arxiv.org/pdf/2404.12154v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang* · ([ali-vilab.github](https://ali-vilab.github.io/stylebooth-page/)) · ([scepter](https://github.com/modelscope/scepter) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social&label=Star)
 - **HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing**, `arXiv, 2404.09990`, [arxiv](http://arxiv.org/abs/2404.09990v1), [pdf](http://arxiv.org/pdf/2404.09990v1.pdf), cication: [**-1**](None)
 
 	 *Mude Hui, Siwei Yang, Bingchen Zhao, Yichun Shi, Heng Wang, Peng Wang, Yuyin Zhou, Cihang Xie*
@@ -309,6 +312,7 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+
 - [Evaluating Text-to-Visual Generation with Image-to-Text Generation](https://linzhiqiu.github.io/papers/vqascore/)
 
 	 · ([t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - linzhiqiu) ![Star](https://img.shields.io/github/stars/linzhiqiu/t2v_metrics.svg?style=social&label=Star)

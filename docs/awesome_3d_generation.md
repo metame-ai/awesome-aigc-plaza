@@ -129,6 +129,8 @@
 - **MeshLRM: Large Reconstruction Model for High-Quality Mesh**, `arXiv, 2404.12385`, [arxiv](http://arxiv.org/abs/2404.12385v1), [pdf](http://arxiv.org/pdf/2404.12385v1.pdf), cication: [**-1**](None)
 
 	 *Xinyue Wei, Kai Zhang, Sai Bi, Hao Tan, Fujun Luan, Valentin Deschaintre, Kalyan Sunkavalli, Hao Su, Zexiang Xu*
+
+	 · ([sarahweiii.github](https://sarahweiii.github.io/meshlrm/))
 - **Reconstructing Hand-Held Objects in 3D**, `arXiv, 2404.06507`, [arxiv](http://arxiv.org/abs/2404.06507v2), [pdf](http://arxiv.org/pdf/2404.06507v2.pdf), cication: [**-1**](None)
 
 	 *Jane Wu, Georgios Pavlakos, Georgia Gkioxari, Jitendra Malik*
@@ -145,6 +147,14 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **PhysDreamer: Physics-Based Interaction with 3D Objects via Video
+  Generation**, `arXiv, 2404.13026`, [arxiv](http://arxiv.org/abs/2404.13026v1), [pdf](http://arxiv.org/pdf/2404.13026v1.pdf), cication: [**-1**](None)
+
+	 *Tianyuan Zhang, Hong-Xing Yu, Rundi Wu, Brandon Y. Feng, Changxi Zheng, Noah Snavely, Jiajun Wu, William T. Freeman* · ([physdreamer.github](https://physdreamer.github.io/))
+- **Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular
+  Videos**, `arXiv, 2404.12379`, [arxiv](http://arxiv.org/abs/2404.12379v1), [pdf](http://arxiv.org/pdf/2404.12379v1.pdf), cication: [**-1**](None)
+
+	 *Isabella Liu, Hao Su, Xiaolong Wang* · ([liuisabella](https://www.liuisabella.com/DG-Mesh/)) · ([DG-Mesh](https://github.com/Isabella98Liu/DG-Mesh) - Isabella98Liu) ![Star](https://img.shields.io/github/stars/Isabella98Liu/DG-Mesh.svg?style=social&label=Star)
 - **TC4D: Trajectory-Conditioned Text-to-4D Generation**, `arXiv, 2403.17920`, [arxiv](http://arxiv.org/abs/2403.17920v1), [pdf](http://arxiv.org/pdf/2403.17920v1.pdf), cication: [**-1**](None)
 
 	 *Sherwin Bahmani, Xian Liu, Yifan Wang, Ivan Skorokhodov, Victor Rong, Ziwei Liu, Xihui Liu, Jeong Joon Park, Sergey Tulyakov, Gordon Wetzstein* · ([sherwinbahmani.github](https://sherwinbahmani.github.io/tc4d))
