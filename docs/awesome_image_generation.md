@@ -55,6 +55,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Graphic Design with Large Multimodal Model**, `arXiv, 2404.14368`, [arxiv](http://arxiv.org/abs/2404.14368v1), [pdf](http://arxiv.org/pdf/2404.14368v1.pdf), cication: [**-1**](None)
+
+	 *Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao* · ([graphist](https://github.com/graphic-design-ai/graphist) - graphic-design-ai) ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star)
 - **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse
   Controls to Any Diffusion Model**, `arXiv, 2404.09967`, [arxiv](http://arxiv.org/abs/2404.09967v1), [pdf](http://arxiv.org/pdf/2404.09967v1.pdf), cication: [**-1**](None)
 
@@ -118,6 +121,13 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Bigger is not Always Better: Scaling Properties of Latent Diffusion
+  Models**, `arXiv, 2404.01367`, [arxiv](http://arxiv.org/abs/2404.01367v1), [pdf](http://arxiv.org/pdf/2404.01367v1.pdf), cication: [**-1**](None)
+
+	 *Kangfu Mei, Zhengzhong Tu, Mauricio Delbracio, Hossein Talebi, Vishal M. Patel, Peyman Milanfar* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-22-2))
+- [Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis](https://hyper-sd.github.io/)
+
+	 · ([hyper-sd.github](https://hyper-sd.github.io/))
 - **EdgeFusion: On-Device Text-to-Image Generation**, `arXiv, 2404.11925`, [arxiv](http://arxiv.org/abs/2404.11925v1), [pdf](http://arxiv.org/pdf/2404.11925v1.pdf), cication: [**-1**](None)
 
 	 *Thibault Castells, Hyoung-Kyu Song, Tairen Piao, Shinkook Choi, Bo-Kyeong Kim, Hanyoung Yim, Changgwun Lee, Jae Gon Kim, Tae-Ho Kim*
@@ -218,6 +228,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **MultiBooth: Towards Generating All Your Concepts in an Image from Text**, `arXiv, 2404.14239`, [arxiv](http://arxiv.org/abs/2404.14239v1), [pdf](http://arxiv.org/pdf/2404.14239v1.pdf), cication: [**-1**](None)
+
+	 *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu* · ([multibooth.github](https://multibooth.github.io/))
 - **MoA: Mixture-of-Attention for Subject-Context Disentanglement in
   Personalized Image Generation**, `arXiv, 2404.11565`, [arxiv](http://arxiv.org/abs/2404.11565v1), [pdf](http://arxiv.org/pdf/2404.11565v1.pdf), cication: [**-1**](None)
 
