@@ -121,6 +121,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**, `arXiv, 2404.14507`, [arxiv](http://arxiv.org/abs/2404.14507v1), [pdf](http://arxiv.org/pdf/2404.14507v1.pdf), cication: [**-1**](None)
+
+	 *Amirmojtaba Sabour, Sanja Fidler, Karsten Kreis*
+- [**piecewise-rectified-flow**](https://github.com/magic-research/piecewise-rectified-flow/tree/main) - magic-research ![Star](https://img.shields.io/github/stars/magic-research/piecewise-rectified-flow.svg?style=social&label=Star)
 - **Bigger is not Always Better: Scaling Properties of Latent Diffusion
   Models**, `arXiv, 2404.01367`, [arxiv](http://arxiv.org/abs/2404.01367v1), [pdf](http://arxiv.org/pdf/2404.01367v1.pdf), cication: [**-1**](None)
 
