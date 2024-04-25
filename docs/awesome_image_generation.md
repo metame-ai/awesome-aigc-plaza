@@ -232,6 +232,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with
+  Reward Feedback Learning**, `arXiv, 2404.15449`, [arxiv](http://arxiv.org/abs/2404.15449v1), [pdf](http://arxiv.org/pdf/2404.15449v1.pdf), cication: [**-1**](None)
+
+	 *Weifeng Chen, Jiacheng Zhang, Jie Wu, Hefeng Wu, Xuefeng Xiao, Liang Lin*
 - **MultiBooth: Towards Generating All Your Concepts in an Image from Text**, `arXiv, 2404.14239`, [arxiv](http://arxiv.org/abs/2404.14239v1), [pdf](http://arxiv.org/pdf/2404.14239v1.pdf), cication: [**-1**](None)
 
 	 *Chenyang Zhu, Kai Li, Yue Ma, Chunming He, Li Xiu* · ([multibooth.github](https://multibooth.github.io/))
@@ -282,6 +286,9 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **Improving Diffusion Models for Virtual Try-on**, `arXiv, 2403.05139`, [arxiv](http://arxiv.org/abs/2403.05139v2), [pdf](http://arxiv.org/pdf/2403.05139v2.pdf), cication: [**-1**](None)
+
+	 *Yisol Choi, Sangkyung Kwak, Kyungmin Lee, Hyungwon Choi, Jinwoo Shin* · ([IDM-VTON](https://github.com/yisol/IDM-VTON) - yisol) ![Star](https://img.shields.io/github/stars/yisol/IDM-VTON.svg?style=social&label=Star)
 - **Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence
   Alignment**, `arXiv, 2403.12965`, [arxiv](http://arxiv.org/abs/2403.12965v1), [pdf](http://arxiv.org/pdf/2403.12965v1.pdf), cication: [**-1**](None)
 
