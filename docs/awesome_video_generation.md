@@ -27,6 +27,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **MotionMaster: Training-free Camera Motion Transfer For Video Generation**, `arXiv, 2404.15789`, [arxiv](http://arxiv.org/abs/2404.15789v1), [pdf](http://arxiv.org/pdf/2404.15789v1.pdf), cication: [**-1**](None)
+
+	 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma*
 - **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**, `arXiv, 2404.05014`, [arxiv](http://arxiv.org/abs/2404.05014v1), [pdf](http://arxiv.org/pdf/2404.05014v1.pdf), cication: [**-1**](None)
 
 	 *Shenghai Yuan, Jinfa Huang, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*

@@ -16,6 +16,9 @@
 
 
 ## 3D Generation
+- **Interactive3D: Create What You Want by Interactive 3D Generation**, `arXiv, 2404.16510`, [arxiv](http://arxiv.org/abs/2404.16510v1), [pdf](http://arxiv.org/pdf/2404.16510v1.pdf), cication: [**-1**](None)
+
+	 *Shaocong Dong, Lihe Ding, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu* · ([interactive-3d.github](https://interactive-3d.github.io/))
 - **MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview
   and Text**, `arXiv, 2404.00345`, [arxiv](http://arxiv.org/abs/2404.00345v1), [pdf](http://arxiv.org/pdf/2404.00345v1.pdf), cication: [**-1**](None)
 

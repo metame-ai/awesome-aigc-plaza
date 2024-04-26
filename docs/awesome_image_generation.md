@@ -55,6 +55,7 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+
 - **Graphic Design with Large Multimodal Model**, `arXiv, 2404.14368`, [arxiv](http://arxiv.org/abs/2404.14368v1), [pdf](http://arxiv.org/pdf/2404.14368v1.pdf), cication: [**-1**](None)
 
 	 *Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao* · ([graphist](https://github.com/graphic-design-ai/graphist) - graphic-design-ai) ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star)
@@ -158,6 +159,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **Editable Image Elements for Controllable Synthesis**, `arXiv, 2404.16029`, [arxiv](http://arxiv.org/abs/2404.16029v1), [pdf](http://arxiv.org/pdf/2404.16029v1.pdf), cication: [**-1**](None)
+
+	 *Jiteng Mu, Michaël Gharbi, Richard Zhang, Eli Shechtman, Nuno Vasconcelos, Xiaolong Wang, Taesung Park* · ([jitengmu.github](https://jitengmu.github.io/Editable_Image_Elements/))
 - **StyleBooth: Image Style Editing with Multimodal Instruction**, `arXiv, 2404.12154`, [arxiv](http://arxiv.org/abs/2404.12154v1), [pdf](http://arxiv.org/pdf/2404.12154v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang* · ([ali-vilab.github](https://ali-vilab.github.io/stylebooth-page/)) · ([scepter](https://github.com/modelscope/scepter) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/scepter.svg?style=social&label=Star)
@@ -232,6 +236,13 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity
+  Preserving**, `arXiv, 2404.16771`, [arxiv](http://arxiv.org/abs/2404.16771v1), [pdf](http://arxiv.org/pdf/2404.16771v1.pdf), cication: [**-1**](None)
+
+	 *Jiehui Huang, Xiao Dong, Wenhui Song, Hanhui Li, Jun Zhou, Yuhao Cheng, Shutao Liao, Long Chen, Yiqiang Yan, Shengcai Liao* · ([ssugarwh.github](https://ssugarwh.github.io/consistentid.github.io/))
+- **PuLID: Pure and Lightning ID Customization via Contrastive Alignment**, `arXiv, 2404.16022`, [arxiv](http://arxiv.org/abs/2404.16022v1), [pdf](http://arxiv.org/pdf/2404.16022v1.pdf), cication: [**-1**](None)
+
+	 *Zinan Guo, Yanze Wu, Zhuowei Chen, Lang Chen, Qian He* · ([PuLID](https://github.com/ToTheBeginning/PuLID) - ToTheBeginning) ![Star](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg?style=social&label=Star)
 - **ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with
   Reward Feedback Learning**, `arXiv, 2404.15449`, [arxiv](http://arxiv.org/abs/2404.15449v1), [pdf](http://arxiv.org/pdf/2404.15449v1.pdf), cication: [**-1**](None)
 
@@ -336,7 +347,10 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- **Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and
+  Human Ratings**, `arXiv, 2404.16820`, [arxiv](http://arxiv.org/abs/2404.16820v1), [pdf](http://arxiv.org/pdf/2404.16820v1.pdf), cication: [**-1**](None)
 
+	 *Olivia Wiles, Chuhan Zhang, Isabela Albuquerque, Ivana Kajić, Su Wang, Emanuele Bugliarello, Yasumasa Onoe, Chris Knutsen, Cyrus Rashtchian, Jordi Pont-Tuset*
 - [Evaluating Text-to-Visual Generation with Image-to-Text Generation](https://linzhiqiu.github.io/papers/vqascore/)
 
 	 · ([t2v_metrics](https://github.com/linzhiqiu/t2v_metrics) - linzhiqiu) ![Star](https://img.shields.io/github/stars/linzhiqiu/t2v_metrics.svg?style=social&label=Star)
