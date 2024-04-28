@@ -30,6 +30,8 @@
 - **MotionMaster: Training-free Camera Motion Transfer For Video Generation**, `arXiv, 2404.15789`, [arxiv](http://arxiv.org/abs/2404.15789v1), [pdf](http://arxiv.org/pdf/2404.15789v1.pdf), cication: [**-1**](None)
 
 	 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma*
+
+	 · ([sjtuplayer.github](https://sjtuplayer.github.io/projects/MotionMaster/)) · ([MotionMaster](https://github.com/sjtuplayer/MotionMaster) - sjtuplayer) ![Star](https://img.shields.io/github/stars/sjtuplayer/MotionMaster.svg?style=social&label=Star)
 - **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**, `arXiv, 2404.05014`, [arxiv](http://arxiv.org/abs/2404.05014v1), [pdf](http://arxiv.org/pdf/2404.05014v1.pdf), cication: [**-1**](None)
 
 	 *Shenghai Yuan, Jinfa Huang, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*

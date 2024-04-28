@@ -55,7 +55,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **From Parts to Whole: A Unified Reference Framework for Controllable
+  Human Image Generation**, `arXiv, 2404.15267`, [arxiv](http://arxiv.org/abs/2404.15267v1), [pdf](http://arxiv.org/pdf/2404.15267v1.pdf), cication: [**-1**](None)
 
+	 *Zehuan Huang, Hongxing Fan, Lipeng Wang, Lu Sheng* · ([huanngzh.github](https://huanngzh.github.io/Parts2Whole/)) · ([Parts2Whole](https://github.com/huanngzh/Parts2Whole) - huanngzh) ![Star](https://img.shields.io/github/stars/huanngzh/Parts2Whole.svg?style=social&label=Star)
 - **Graphic Design with Large Multimodal Model**, `arXiv, 2404.14368`, [arxiv](http://arxiv.org/abs/2404.14368v1), [pdf](http://arxiv.org/pdf/2404.14368v1.pdf), cication: [**-1**](None)
 
 	 *Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao* · ([graphist](https://github.com/graphic-design-ai/graphist) - graphic-design-ai) ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star)
@@ -236,6 +239,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **CharacterFactory: Sampling Consistent Characters with GANs for Diffusion
+  Models**, `arXiv, 2404.15677`, [arxiv](http://arxiv.org/abs/2404.15677v1), [pdf](http://arxiv.org/pdf/2404.15677v1.pdf), cication: [**-1**](None)
+
+	 *Qinghe Wang, Baolu Li, Xiaomin Li, Bing Cao, Liqian Ma, Huchuan Lu, Xu Jia* · ([CharacterFactory](https://github.com/qinghew/CharacterFactory) - qinghew) ![Star](https://img.shields.io/github/stars/qinghew/CharacterFactory.svg?style=social&label=Star) · ([qinghew.github](https://qinghew.github.io/CharacterFactory/))
 - **ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity
   Preserving**, `arXiv, 2404.16771`, [arxiv](http://arxiv.org/abs/2404.16771v1), [pdf](http://arxiv.org/pdf/2404.16771v1.pdf), cication: [**-1**](None)
 
