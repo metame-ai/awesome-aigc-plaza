@@ -125,6 +125,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K
+  Text-to-Image Generation**, `arXiv, 2403.04692`, [arxiv](http://arxiv.org/abs/2403.04692v2), [pdf](http://arxiv.org/pdf/2403.04692v2.pdf), cication: [**-1**](None)
+
+	 *Junsong Chen, Chongjian Ge, Enze Xie, Yue Wu, Lewei Yao, Xiaozhe Ren, Zhongdao Wang, Ping Luo, Huchuan Lu, Zhenguo Li* · ([PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-alpha) ![Star](https://img.shields.io/github/stars/PixArt-alpha/PixArt-sigma.svg?style=social&label=Star)
 - **Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**, `arXiv, 2404.14507`, [arxiv](http://arxiv.org/abs/2404.14507v1), [pdf](http://arxiv.org/pdf/2404.14507v1.pdf), cication: [**-1**](None)
 
 	 *Amirmojtaba Sabour, Sanja Fidler, Karsten Kreis*
