@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based
+  Iterative Reconstruction**, `arXiv, 2404.19525`, [arxiv](http://arxiv.org/abs/2404.19525v1), [pdf](http://arxiv.org/pdf/2404.19525v1.pdf), cication: [**-1**](None)
+
+	 *Luxi Chen, Zhengyi Wang, Chongxuan Li, Tingting Gao, Hang Su, Jun Zhu* · ([microdreamer](https://github.com/ml-gsai/microdreamer) - ml-gsai) ![Star](https://img.shields.io/github/stars/ml-gsai/microdreamer.svg?style=social&label=Star)
 - **Interactive3D: Create What You Want by Interactive 3D Generation**, `arXiv, 2404.16510`, [arxiv](http://arxiv.org/abs/2404.16510v1), [pdf](http://arxiv.org/pdf/2404.16510v1.pdf), cication: [**-1**](None)
 
 	 *Shaocong Dong, Lihe Ding, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu* · ([interactive-3d.github](https://interactive-3d.github.io/))

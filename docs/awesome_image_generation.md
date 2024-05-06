@@ -166,6 +166,12 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **Customizing Text-to-Image Models with a Single Image Pair**, `arXiv, 2405.01536`, [arxiv](http://arxiv.org/abs/2405.01536v1), [pdf](http://arxiv.org/pdf/2405.01536v1.pdf), cication: [**-1**](None)
+
+	 *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu*
+- **Paint by Inpaint: Learning to Add Image Objects by Removing Them First**, `arXiv, 2404.18212`, [arxiv](http://arxiv.org/abs/2404.18212v1), [pdf](http://arxiv.org/pdf/2404.18212v1.pdf), cication: [**-1**](None)
+
+	 *Navve Wasserman, Noam Rotstein, Roy Ganz, Ron Kimmel* · ([rotsteinnoam.github](https://rotsteinnoam.github.io/Paint-by-Inpaint/))
 - **Editable Image Elements for Controllable Synthesis**, `arXiv, 2404.16029`, [arxiv](http://arxiv.org/abs/2404.16029v1), [pdf](http://arxiv.org/pdf/2404.16029v1.pdf), cication: [**-1**](None)
 
 	 *Jiteng Mu, Michaël Gharbi, Richard Zhang, Eli Shechtman, Nuno Vasconcelos, Xiaolong Wang, Taesung Park* · ([jitengmu.github](https://jitengmu.github.io/Editable_Image_Elements/))
@@ -243,6 +249,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**, `arXiv, 2404.19427`, [arxiv](http://arxiv.org/abs/2404.19427v1), [pdf](http://arxiv.org/pdf/2404.19427v1.pdf), cication: [**-1**](None)
+
+	 *Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek*
 - **CharacterFactory: Sampling Consistent Characters with GANs for Diffusion
   Models**, `arXiv, 2404.15677`, [arxiv](http://arxiv.org/abs/2404.15677v1), [pdf](http://arxiv.org/pdf/2404.15677v1.pdf), cication: [**-1**](None)
 

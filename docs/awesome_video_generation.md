@@ -27,6 +27,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video
+  Generation**, `arXiv, 2405.01434`, [arxiv](http://arxiv.org/abs/2405.01434v1), [pdf](http://arxiv.org/pdf/2405.01434v1.pdf), cication: [**-1**](None)
+
+	 *Yupeng Zhou, Daquan Zhou, Ming-Ming Cheng, Jiashi Feng, Qibin Hou* · ([storydiffusion](https://github.com/hvision-nku/storydiffusion) - hvision-nku) ![Star](https://img.shields.io/github/stars/hvision-nku/storydiffusion.svg?style=social&label=Star) · ([storydiffusion.github](https://storydiffusion.github.io/))
 - **MotionMaster: Training-free Camera Motion Transfer For Video Generation**, `arXiv, 2404.15789`, [arxiv](http://arxiv.org/abs/2404.15789v1), [pdf](http://arxiv.org/pdf/2404.15789v1.pdf), cication: [**-1**](None)
 
 	 *Teng Hu, Jiangning Zhang, Ran Yi, Yating Wang, Hongrui Huang, Jieyu Weng, Yabiao Wang, Lizhuang Ma*
