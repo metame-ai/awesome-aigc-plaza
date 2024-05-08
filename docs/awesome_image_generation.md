@@ -166,6 +166,7 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- [**ZeST**](https://huggingface.co/spaces/fffiloni/ZeST) - fffiloni 🤗
 - **Customizing Text-to-Image Models with a Single Image Pair**, `arXiv, 2405.01536`, [arxiv](http://arxiv.org/abs/2405.01536v1), [pdf](http://arxiv.org/pdf/2405.01536v1.pdf), cication: [**-1**](None)
 
 	 *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu*
@@ -325,6 +326,8 @@
 
 	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
+---
+- [CVPR 2024 Workshop: Virtual Try-On](https://vto-cvpr24.github.io/index.html)
 ## Projects
 - [Site Unreachable](https://huggingface.co/spaces/multimodalart/cosxl)
 - [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
