@@ -12,6 +12,9 @@
 	- [Product](#product)
 
 ## Survey
+- **Video Diffusion Models: A Survey**, `arXiv, 2405.03150`, [arxiv](http://arxiv.org/abs/2405.03150v1), [pdf](http://arxiv.org/pdf/2405.03150v1.pdf), cication: [**-1**](None)
+
+	 *Andrew Melnik, Michal Ljubljanac, Cong Lu, Qi Yan, Weiming Ren, Helge Ritter*
 - **A Survey on Long Video Generation: Challenges, Methods, and Prospects**, `arXiv, 2403.16407`, [arxiv](http://arxiv.org/abs/2403.16407v1), [pdf](http://arxiv.org/pdf/2403.16407v1.pdf), cication: [**-1**](None)
 
 	 *Chengxuan Li, Di Huang, Zeyu Lu, Yang Xiao, Qingqi Pei, Lei Bai*
@@ -27,6 +30,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator
+  with Diffusion Models**, `arXiv, 2405.04233`, [arxiv](http://arxiv.org/abs/2405.04233v1), [pdf](http://arxiv.org/pdf/2405.04233v1.pdf), cication: [**-1**](None)
+
+	 *Fan Bao, Chendong Xiang, Gang Yue, Guande He, Hongzhou Zhu, Kaiwen Zheng, Min Zhao, Shilong Liu, Yaole Wang, Jun Zhu* · ([shengshu-ai](https://www.shengshu-ai.com/vidu))
 - **StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video
   Generation**, `arXiv, 2405.01434`, [arxiv](http://arxiv.org/abs/2405.01434v1), [pdf](http://arxiv.org/pdf/2405.01434v1.pdf), cication: [**-1**](None)
 
@@ -291,6 +298,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video
+  Motion Editing**, `arXiv, 2405.04496`, [arxiv](http://arxiv.org/abs/2405.04496v1), [pdf](http://arxiv.org/pdf/2405.04496v1.pdf), cication: [**-1**](None)
+
+	 *Yi Zuo, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Shuyuan Yang, Yuwei Guo*
 - **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**, `arXiv, 2404.15275`, [arxiv](http://arxiv.org/abs/2404.15275v1), [pdf](http://arxiv.org/pdf/2404.15275v1.pdf), cication: [**-1**](None)
 
 	 *Xuanhua He, Quande Liu, Shengju Qian, Xin Wang, Tao Hu, Ke Cao, Keyu Yan, Man Zhou, Jie Zhang* · ([id-animator.github](https://id-animator.github.io/)) · ([ID-Animator](https://github.com/ID-Animator/ID-Animator) - ID-Animator) ![Star](https://img.shields.io/github/stars/ID-Animator/ID-Animator.svg?style=social&label=Star)
