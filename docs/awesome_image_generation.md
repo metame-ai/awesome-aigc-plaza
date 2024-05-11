@@ -21,6 +21,9 @@
 
 
 ## Survey
+- **A Survey on Personalized Content Synthesis with Diffusion Models**, `arXiv, 2405.05538`, [arxiv](http://arxiv.org/abs/2405.05538v1), [pdf](http://arxiv.org/pdf/2405.05538v1.pdf), cication: [**-1**](None)
+
+	 *Xulu Zhang, Xiao-Yong Wei, Wengyu Zhang, Jinlin Wu, Zhaoxiang Zhang, Zhen Lei, Qing Li*
 - **Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality
   Metrics**, `arXiv, 2403.11821`, [arxiv](http://arxiv.org/abs/2403.11821v1), [pdf](http://arxiv.org/pdf/2403.11821v1.pdf), cication: [**-1**](None)
 
@@ -55,6 +58,12 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [**IC-Light**](https://github.com/lllyasviel/IC-Light) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star)
+
+	 *More relighting!* · ([huggingface](https://huggingface.co/spaces/lllyasviel/IC-Light))
+- [**MistoLine**](https://github.com/TheMistoAI/MistoLine) - TheMistoAI ![Star](https://img.shields.io/github/stars/TheMistoAI/MistoLine.svg?style=social&label=Star)
+
+	 *A Versatile and Robust SDXL-ControlNet Model for Adaptable Line Art Conditioning* · ([huggingface](https://huggingface.co/TheMistoAI/MistoLine))
 - **From Parts to Whole: A Unified Reference Framework for Controllable
   Human Image Generation**, `arXiv, 2404.15267`, [arxiv](http://arxiv.org/abs/2404.15267v1), [pdf](http://arxiv.org/pdf/2404.15267v1.pdf), cication: [**-1**](None)
 
@@ -125,6 +134,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Imagine Flash: Accelerating Emu Diffusion Models with Backward
+  Distillation**, `arXiv, 2405.05224`, [arxiv](http://arxiv.org/abs/2405.05224v1), [pdf](http://arxiv.org/pdf/2405.05224v1.pdf), cication: [**-1**](None)
+
+	 *Jonas Kohler, Albert Pumarola, Edgar Schönfeld, Artsiom Sanakoyeu, Roshan Sumbaly, Peter Vajda, Ali Thabet*
 - **PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K
   Text-to-Image Generation**, `arXiv, 2403.04692`, [arxiv](http://arxiv.org/abs/2403.04692v2), [pdf](http://arxiv.org/pdf/2403.04692v2.pdf), cication: [**-1**](None)
 
@@ -166,6 +179,10 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **Attention-Driven Training-Free Efficiency Enhancement of Diffusion
+  Models**, `arXiv, 2405.05252`, [arxiv](http://arxiv.org/abs/2405.05252v1), [pdf](http://arxiv.org/pdf/2405.05252v1.pdf), cication: [**-1**](None)
+
+	 *Hongjie Wang, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu* · ([atedm.github](https://atedm.github.io/))
 - [**ZeST**](https://huggingface.co/spaces/fffiloni/ZeST) - fffiloni 🤗
 - **Customizing Text-to-Image Models with a Single Image Pair**, `arXiv, 2405.01536`, [arxiv](http://arxiv.org/abs/2405.01536v1), [pdf](http://arxiv.org/pdf/2405.01536v1.pdf), cication: [**-1**](None)
 
@@ -359,6 +376,7 @@
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
 ## Toolkits
+- [**Enhance-This-HiDiffusion-SDXL**](https://huggingface.co/spaces/radames/Enhance-This-HiDiffusion-SDXL) - radames 🤗
 - [**d3pm**](https://github.com/cloneofsimo/d3pm) - cloneofsimo ![Star](https://img.shields.io/github/stars/cloneofsimo/d3pm.svg?style=social&label=Star)
 
 	 *Minimal Implementation of a D3PM in pytorch*

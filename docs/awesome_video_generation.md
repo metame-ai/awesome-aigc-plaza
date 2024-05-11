@@ -30,6 +30,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and
+  Duration via Flow-based Large Diffusion Transformers**, `arXiv, 2405.05945`, [arxiv](http://arxiv.org/abs/2405.05945v1), [pdf](http://arxiv.org/pdf/2405.05945v1.pdf), cication: [**-1**](None)
+
+	 *Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang* · ([Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X?tab=readme-ov-file) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)
 - **Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator
   with Diffusion Models**, `arXiv, 2405.04233`, [arxiv](http://arxiv.org/abs/2405.04233v1), [pdf](http://arxiv.org/pdf/2405.04233v1.pdf), cication: [**-1**](None)
 
