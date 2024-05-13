@@ -267,6 +267,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- [**omni-zero**](https://github.com/okaris/omni-zero) - okaris ![Star](https://img.shields.io/github/stars/okaris/omni-zero.svg?style=social&label=Star)
+
+	 *A diffusers pipeline for zero shot stylised portrait creation*
 - **InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**, `arXiv, 2404.19427`, [arxiv](http://arxiv.org/abs/2404.19427v1), [pdf](http://arxiv.org/pdf/2404.19427v1.pdf), cication: [**-1**](None)
 
 	 *Chanran Kim, Jeongin Lee, Shichang Joung, Bongmo Kim, Yeul-Min Baek*

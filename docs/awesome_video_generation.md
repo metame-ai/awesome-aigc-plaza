@@ -12,6 +12,10 @@
 	- [Product](#product)
 
 ## Survey
+- **Is Sora a World Simulator? A Comprehensive Survey on General World
+  Models and Beyond**, `arXiv, 2405.03520`, [arxiv](http://arxiv.org/abs/2405.03520v1), [pdf](http://arxiv.org/pdf/2405.03520v1.pdf), cication: [**-1**](None)
+
+	 *Zheng Zhu, Xiaofeng Wang, Wangbo Zhao, Chen Min, Nianchen Deng, Min Dou, Yuqi Wang, Botian Shi, Kai Wang, Chi Zhang* · ([General-World-Models-Survey](https://github.com/GigaAI-research/General-World-Models-Survey) - GigaAI-research) ![Star](https://img.shields.io/github/stars/GigaAI-research/General-World-Models-Survey.svg?style=social&label=Star)
 - **Video Diffusion Models: A Survey**, `arXiv, 2405.03150`, [arxiv](http://arxiv.org/abs/2405.03150v1), [pdf](http://arxiv.org/pdf/2405.03150v1.pdf), cication: [**-1**](None)
 
 	 *Andrew Melnik, Michal Ljubljanac, Cong Lu, Qi Yan, Weiming Ren, Helge Ritter*
@@ -554,6 +558,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Fetching Title#qmg7](https://twitter.com/adcock_brett/status/1789687915116654678)
 - [VIGGLE](https://viggle.ai/)
 - [Higgsfield.ai](https://higgsfield.ai/Blog/we-ve-raised-8m-in-seed-funding-to-unlock-personalized-ai-video-creation-and-creativity)
 - [Storytelling Transformed | LTX Studio](https://ltx.studio/)

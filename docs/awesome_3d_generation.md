@@ -35,6 +35,9 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **SketchDream: Sketch-based Text-to-3D Generation and Editing**, `arXiv, 2405.06461`, [arxiv](http://arxiv.org/abs/2405.06461v1), [pdf](http://arxiv.org/pdf/2405.06461v1.pdf), cication: [**-1**](None)
+
+	 *Feng-Lin Liu, Hongbo Fu, Yu-Kun Lai, Lin Gao*
 - **DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic
   Gaussian Splatting**, `arXiv, 2404.06903`, [arxiv](http://arxiv.org/abs/2404.06903v1), [pdf](http://arxiv.org/pdf/2404.06903v1.pdf), cication: [**-1**](None)
 
