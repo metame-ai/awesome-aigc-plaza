@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **Coin3D: Controllable and Interactive 3D Assets Generation with
+  Proxy-Guided Conditioning**, `arXiv, 2405.08054`, [arxiv](http://arxiv.org/abs/2405.08054v1), [pdf](http://arxiv.org/pdf/2405.08054v1.pdf), cication: [**-1**](None)
+
+	 *Wenqi Dong, Bangbang Yang, Lin Ma, Xiao Liu, Liyuan Cui, Hujun Bao, Yuewen Ma, Zhaopeng Cui*
 - **MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based
   Iterative Reconstruction**, `arXiv, 2404.19525`, [arxiv](http://arxiv.org/abs/2404.19525v1), [pdf](http://arxiv.org/pdf/2404.19525v1.pdf), cication: [**-1**](None)
 

@@ -522,6 +522,10 @@
 
 ## Datasets
 - **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
+  Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v3), [pdf](http://arxiv.org/pdf/2403.06098v3.pdf), cication: [**-1**](None)
+
+	 *Wenhao Wang, Yi Yang*
+- **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
   Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v1), [pdf](http://arxiv.org/pdf/2403.06098v1.pdf), cication: [**-1**](None)
 
 	 *Wenhao Wang, Yi Yang*
