@@ -33,6 +33,11 @@
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
+- **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with
+  Fine-Grained Chinese Understanding**, `arXiv, 2405.08748`, [arxiv](http://arxiv.org/abs/2405.08748v1), [pdf](http://arxiv.org/pdf/2405.08748v1.pdf), cication: [**-1**](None)
+
+	 *Zhimin Li, Jianwei Zhang, Qin Lin, Jiangfeng Xiong, Yanxin Long, Xinchi Deng, Yingfang Zhang, Xingchao Liu, Minbin Huang, Zedong Xiao*
+	- github.com/Tencent/HunyuanDiT
 - **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept
   Matching**, `arXiv, 2404.03653`, [arxiv](http://arxiv.org/abs/2404.03653v1), [pdf](http://arxiv.org/pdf/2404.03653v1.pdf), cication: [**-1**](None)
 
@@ -58,6 +63,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Compositional Text-to-Image Generation with Dense Blob Representations**, `arXiv, 2405.08246`, [arxiv](http://arxiv.org/abs/2405.08246v1), [pdf](http://arxiv.org/pdf/2405.08246v1.pdf), cication: [**-1**](None)
+
+	 *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat* · ([blobgen-2d.github](https://blobgen-2d.github.io))
 - [**IC-Light**](https://github.com/lllyasviel/IC-Light) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star)
 
 	 *More relighting!* · ([huggingface](https://huggingface.co/spaces/lllyasviel/IC-Light))
@@ -379,6 +387,7 @@
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
 ## Toolkits
+- [Fetching Title#e1sc](https://huggingface.co/stabilityai/cosxl/tree/main)
 - [**Enhance-This-HiDiffusion-SDXL**](https://huggingface.co/spaces/radames/Enhance-This-HiDiffusion-SDXL) - radames 🤗
 - [**d3pm**](https://github.com/cloneofsimo/d3pm) - cloneofsimo ![Star](https://img.shields.io/github/stars/cloneofsimo/d3pm.svg?style=social&label=Star)
 
