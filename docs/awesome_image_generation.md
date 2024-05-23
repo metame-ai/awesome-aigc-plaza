@@ -275,6 +275,13 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **Personalized Residuals for Concept-Driven Text-to-Image Generation**, `arXiv, 2405.12978`, [arxiv](http://arxiv.org/abs/2405.12978v1), [pdf](http://arxiv.org/pdf/2405.12978v1.pdf), cication: [**-1**](None)
+
+	 *Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz* · ([cusuh.github](https://cusuh.github.io/personalized-residuals/))
+- **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and
+  Attribute Control**, `arXiv, 2405.12970`, [arxiv](http://arxiv.org/abs/2405.12970v1), [pdf](http://arxiv.org/pdf/2405.12970v1.pdf), cication: [**-1**](None)
+
+	 *Yue Han, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, Jiangning Zhang, Chengjie Wang, Yong Liu*
 - [**omni-zero**](https://github.com/okaris/omni-zero) - okaris ![Star](https://img.shields.io/github/stars/okaris/omni-zero.svg?style=social&label=Star)
 
 	 *A diffusers pipeline for zero shot stylised portrait creation*
@@ -346,6 +353,9 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **ViViD: Video Virtual Try-on using Diffusion Models**, `arXiv, 2405.11794`, [arxiv](http://arxiv.org/abs/2405.11794v1), [pdf](http://arxiv.org/pdf/2405.11794v1.pdf), cication: [**-1**](None)
+
+	 *Zixun Fang, Wei Zhai, Aimin Su, Hongliang Song, Kai Zhu, Mao Wang, Yu Chen, Zhiheng Liu, Yang Cao, Zheng-Jun Zha* · ([becauseimbatman0.github](https://becauseimbatman0.github.io/ViViD)) · ([ViViD](https://github.com/BecauseImBatman0/ViViD) - BecauseImBatman0) ![Star](https://img.shields.io/github/stars/BecauseImBatman0/ViViD.svg?style=social&label=Star)
 - **Improving Diffusion Models for Virtual Try-on**, `arXiv, 2403.05139`, [arxiv](http://arxiv.org/abs/2403.05139v2), [pdf](http://arxiv.org/pdf/2403.05139v2.pdf), cication: [**-1**](None)
 
 	 *Yisol Choi, Sangkyung Kwak, Kyungmin Lee, Hyungwon Choi, Jinwoo Shin* · ([IDM-VTON](https://github.com/yisol/IDM-VTON) - yisol) ![Star](https://img.shields.io/github/stars/yisol/IDM-VTON.svg?style=social&label=Star)

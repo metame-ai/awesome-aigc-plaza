@@ -34,6 +34,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **FIFO-Diffusion: Generating Infinite Videos from Text without Training**, `arXiv, 2405.11473`, [arxiv](http://arxiv.org/abs/2405.11473v1), [pdf](http://arxiv.org/pdf/2405.11473v1.pdf), cication: [**-1**](None)
+
+	 *Jihwan Kim, Junoh Kang, Jinyoung Choi, Bohyung Han*
 - **Lumina-T2X: Transforming Text into Any Modality, Resolution, and
   Duration via Flow-based Large Diffusion Transformers**, `arXiv, 2405.05945`, [arxiv](http://arxiv.org/abs/2405.05945v1), [pdf](http://arxiv.org/pdf/2405.05945v1.pdf), cication: [**-1**](None)
 
