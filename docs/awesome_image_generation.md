@@ -142,6 +142,16 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**, `arXiv, 2405.14224`, [arxiv](http://arxiv.org/abs/2405.14224v1), [pdf](http://arxiv.org/pdf/2405.14224v1.pdf), cication: [**-1**](None)
+
+	 *Yao Teng, Yue Wu, Han Shi, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*
+- **Improved Distribution Matching Distillation for Fast Image Synthesis**, `arXiv, 2405.14867`, [arxiv](http://arxiv.org/abs/2405.14867v1), [pdf](http://arxiv.org/pdf/2405.14867v1.pdf), cication: [**-1**](None)
+
+	 *Tianwei Yin, Michaël Gharbi, Taesung Park, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman*
+- **LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent
+  Diffusion Models**, `arXiv, 2405.14477`, [arxiv](http://arxiv.org/abs/2405.14477v1), [pdf](http://arxiv.org/pdf/2405.14477v1.pdf), cication: [**-1**](None)
+
+	 *Seyedmorteza Sadat, Jakob Buhmann, Derek Bradley, Otmar Hilliges, Romann M. Weber*
 - **Imagine Flash: Accelerating Emu Diffusion Models with Backward
   Distillation**, `arXiv, 2405.05224`, [arxiv](http://arxiv.org/abs/2405.05224v1), [pdf](http://arxiv.org/pdf/2405.05224v1.pdf), cication: [**-1**](None)
 

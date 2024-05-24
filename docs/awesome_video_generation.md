@@ -309,6 +309,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **CamViG: Camera Aware Image-to-Video Generation with Multimodal
+  Transformers**, `arXiv, 2405.13195`, [arxiv](http://arxiv.org/abs/2405.13195v1), [pdf](http://arxiv.org/pdf/2405.13195v1.pdf), cication: [**-1**](None)
+
+	 *Andrew Marmon, Grant Schindler, José Lezama, Dan Kondratyuk, Bryan Seybold, Irfan Essa*
 - **Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video
   Motion Editing**, `arXiv, 2405.04496`, [arxiv](http://arxiv.org/abs/2405.04496v1), [pdf](http://arxiv.org/pdf/2405.04496v1.pdf), cication: [**-1**](None)
 
@@ -453,6 +457,9 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **ReVideo: Remake a Video with Motion and Content Control**, `arXiv, 2405.13865`, [arxiv](http://arxiv.org/abs/2405.13865v1), [pdf](http://arxiv.org/pdf/2405.13865v1.pdf), cication: [**-1**](None)
+
+	 *Chong Mou, Mingdeng Cao, Xintao Wang, Zhaoyang Zhang, Ying Shan, Jian Zhang* · ([mc-e.github](https://mc-e.github.io/project/ReVideo/))
 - **AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**, `arXiv, 2403.14468`, [arxiv](http://arxiv.org/abs/2403.14468v1), [pdf](http://arxiv.org/pdf/2403.14468v1.pdf), cication: [**-1**](None)
 
 	 *Max Ku, Cong Wei, Weiming Ren, Huan Yang, Wenhu Chen*
