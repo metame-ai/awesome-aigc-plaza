@@ -12,6 +12,9 @@
 	- [Product](#product)
 
 ## Survey
+- **From Sora What We Can See: A Survey of Text-to-Video Generation**, `arXiv, 2405.10674`, [arxiv](http://arxiv.org/abs/2405.10674v1), [pdf](http://arxiv.org/pdf/2405.10674v1.pdf), cication: [**-1**](None)
+
+	 *Rui Sun, Yumin Zhang, Tejal Shah, Jiahao Sun, Shuoying Zhang, Wenqi Li, Haoran Duan, Bo Wei, Rajiv Ranjan* · ([awesome-text-to-video-generation](https://github.com/soraw-ai/awesome-text-to-video-generation) - soraw-ai) ![Star](https://img.shields.io/github/stars/soraw-ai/awesome-text-to-video-generation.svg?style=social&label=Star)
 - **Is Sora a World Simulator? A Comprehensive Survey on General World
   Models and Beyond**, `arXiv, 2405.03520`, [arxiv](http://arxiv.org/abs/2405.03520v1), [pdf](http://arxiv.org/pdf/2405.03520v1.pdf), cication: [**-1**](None)
 

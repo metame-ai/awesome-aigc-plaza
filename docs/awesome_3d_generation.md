@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and
+  Interactive Geometry Refiner**, `arXiv, 2405.14979`, [arxiv](http://arxiv.org/abs/2405.14979v1), [pdf](http://arxiv.org/pdf/2405.14979v1.pdf), cication: [**-1**](None)
+
+	 *Weiyu Li, Jiarui Liu, Rui Chen, Yixun Liang, Xuelin Chen, Ping Tan, Xiaoxiao Long* · ([CraftsMan](https://github.com/wyysf-98/CraftsMan) - wyysf-98) ![Star](https://img.shields.io/github/stars/wyysf-98/CraftsMan.svg?style=social&label=Star) · ([craftsman3d.github](https://craftsman3d.github.io/))
 - **Coin3D: Controllable and Interactive 3D Assets Generation with
   Proxy-Guided Conditioning**, `arXiv, 2405.08054`, [arxiv](http://arxiv.org/abs/2405.08054v1), [pdf](http://arxiv.org/pdf/2405.08054v1.pdf), cication: [**-1**](None)
 
