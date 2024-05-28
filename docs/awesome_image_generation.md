@@ -33,6 +33,9 @@
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
+- **Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models**, `arXiv, 2405.16759`, [arxiv](http://arxiv.org/abs/2405.16759v1), [pdf](http://arxiv.org/pdf/2405.16759v1.pdf), cication: [**-1**](None)
+
+	 *Cristina N. Vasconcelos, Abdullah Rashwan Austin Waters, Trevor Walker, Keyang Xu, Jimmy Yan, Rui Qian, Shixin Luo, Zarana Parekh, Andrew Bunner, Hongliang Fei*
 - **Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with
   Fine-Grained Chinese Understanding**, `arXiv, 2405.08748`, [arxiv](http://arxiv.org/abs/2405.08748v1), [pdf](http://arxiv.org/pdf/2405.08748v1.pdf), cication: [**-1**](None)
 
@@ -142,6 +145,9 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **EM Distillation for One-step Diffusion Models**, `arXiv, 2405.16852`, [arxiv](http://arxiv.org/abs/2405.16852v1), [pdf](http://arxiv.org/pdf/2405.16852v1.pdf), cication: [**-1**](None)
+
+	 *Sirui Xie, Zhisheng Xiao, Diederik P Kingma, Tingbo Hou, Ying Nian Wu, Kevin Patrick Murphy, Tim Salimans, Ben Poole, Ruiqi Gao*
 - **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**, `arXiv, 2405.14224`, [arxiv](http://arxiv.org/abs/2405.14224v1), [pdf](http://arxiv.org/pdf/2405.14224v1.pdf), cication: [**-1**](None)
 
 	 *Yao Teng, Yue Wu, Han Shi, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu*

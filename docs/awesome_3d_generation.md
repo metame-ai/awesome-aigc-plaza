@@ -77,6 +77,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **Part123: Part-aware 3D Reconstruction from a Single-view Image**, `arXiv, 2405.16888`, [arxiv](http://arxiv.org/abs/2405.16888v1), [pdf](http://arxiv.org/pdf/2405.16888v1.pdf), cication: [**-1**](None)
+
+	 *Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang*
 - **InstantMesh: Efficient 3D Mesh Generation from a Single Image with
   Sparse-view Large Reconstruction Models**, `arXiv, 2404.07191`, [arxiv](http://arxiv.org/abs/2404.07191v1), [pdf](http://arxiv.org/pdf/2404.07191v1.pdf), cication: [**-1**](None)
 
@@ -165,6 +168,10 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with
+  Dynamic Gaussian Surfels**, `arXiv, 2405.16822`, [arxiv](http://arxiv.org/abs/2405.16822v1), [pdf](http://arxiv.org/pdf/2405.16822v1.pdf), cication: [**-1**](None)
+
+	 *Yikai Wang, Xinzhou Wang, Zilong Chen, Zhengyi Wang, Fuchun Sun, Jun Zhu* · ([Vidu4D](https://github.com/yikaiw/Vidu4D) - yikaiw) ![Star](https://img.shields.io/github/stars/yikaiw/Vidu4D.svg?style=social&label=Star) · ([vidu4d-dgs.github](https://vidu4d-dgs.github.io/))
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video
   Generation**, `arXiv, 2404.13026`, [arxiv](http://arxiv.org/abs/2404.13026v1), [pdf](http://arxiv.org/pdf/2404.13026v1.pdf), cication: [**-1**](None)
 
