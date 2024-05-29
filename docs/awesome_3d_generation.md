@@ -168,6 +168,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **GFlow: Recovering 4D World from Monocular Video**, `arXiv, 2405.18426`, [arxiv](http://arxiv.org/abs/2405.18426v1), [pdf](http://arxiv.org/pdf/2405.18426v1.pdf), cication: [**-1**](None)
+
+	 *Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang* · ([littlepure2333.github](https://littlepure2333.github.io/GFlow))
 - **Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with
   Dynamic Gaussian Surfels**, `arXiv, 2405.16822`, [arxiv](http://arxiv.org/abs/2405.16822v1), [pdf](http://arxiv.org/pdf/2405.16822v1.pdf), cication: [**-1**](None)
 

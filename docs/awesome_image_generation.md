@@ -145,6 +145,9 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **Phased Consistency Model**, `arXiv, 2405.18407`, [arxiv](http://arxiv.org/abs/2405.18407v1), [pdf](http://arxiv.org/pdf/2405.18407v1.pdf), cication: [**-1**](None)
+
+	 *Fu-Yun Wang, Zhaoyang Huang, Alexander William Bergman, Dazhong Shen, Peng Gao, Michael Lingelbach, Keqiang Sun, Weikang Bian, Guanglu Song, Yu Liu* · ([g-u-n.github](https://g-u-n.github.io/projects/pcm/)) · ([Phased-Consistency-Model](https://github.com/G-U-N/Phased-Consistency-Model) - G-U-N) ![Star](https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model.svg?style=social&label=Star)
 - **EM Distillation for One-step Diffusion Models**, `arXiv, 2405.16852`, [arxiv](http://arxiv.org/abs/2405.16852v1), [pdf](http://arxiv.org/pdf/2405.16852v1.pdf), cication: [**-1**](None)
 
 	 *Sirui Xie, Zhisheng Xiao, Diederik P Kingma, Tingbo Hou, Ying Nian Wu, Kevin Patrick Murphy, Tim Salimans, Ben Poole, Ruiqi Gao*

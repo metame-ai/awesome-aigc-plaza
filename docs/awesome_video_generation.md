@@ -316,6 +316,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **VividPose: Advancing Stable Video Diffusion for Realistic Human Image
+  Animation**, `arXiv, 2405.18156`, [arxiv](http://arxiv.org/abs/2405.18156v1), [pdf](http://arxiv.org/pdf/2405.18156v1.pdf), cication: [**-1**](None)
+
+	 *Qilin Wang, Zhengkai Jiang, Chengming Xu, Jiangning Zhang, Yabiao Wang, Xinyi Zhang, Yun Cao, Weijian Cao, Chengjie Wang, Yanwei Fu*
 - **CamViG: Camera Aware Image-to-Video Generation with Multimodal
   Transformers**, `arXiv, 2405.13195`, [arxiv](http://arxiv.org/abs/2405.13195v1), [pdf](http://arxiv.org/pdf/2405.13195v1.pdf), cication: [**-1**](None)
 
