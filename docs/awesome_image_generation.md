@@ -145,6 +145,7 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- [**sdxl-flash**](https://huggingface.co/sd-community/sdxl-flash) - sd-community 🤗
 - **Phased Consistency Model**, `arXiv, 2405.18407`, [arxiv](http://arxiv.org/abs/2405.18407v1), [pdf](http://arxiv.org/pdf/2405.18407v1.pdf), cication: [**-1**](None)
 
 	 *Fu-Yun Wang, Zhaoyang Huang, Alexander William Bergman, Dazhong Shen, Peng Gao, Michael Lingelbach, Keqiang Sun, Weikang Bian, Guanglu Song, Yu Liu* · ([g-u-n.github](https://g-u-n.github.io/projects/pcm/)) · ([Phased-Consistency-Model](https://github.com/G-U-N/Phased-Consistency-Model) - G-U-N) ![Star](https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model.svg?style=social&label=Star)
@@ -386,7 +387,7 @@
 ---
 - [CVPR 2024 Workshop: Virtual Try-On](https://vto-cvpr24.github.io/index.html)
 ## Projects
-- [Site Unreachable](https://huggingface.co/spaces/multimodalart/cosxl)
+- [**cosxl**](https://huggingface.co/spaces/multimodalart/cosxl) - multimodalart 🤗
 - [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
 

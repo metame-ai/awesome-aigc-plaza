@@ -43,6 +43,10 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **Atlas3D: Physically Constrained Self-Supporting Text-to-3D for
+  Simulation and Fabrication**, `arXiv, 2405.18515`, [arxiv](http://arxiv.org/abs/2405.18515v1), [pdf](http://arxiv.org/pdf/2405.18515v1.pdf), cication: [**-1**](None)
+
+	 *Yunuo Chen, Tianyi Xie, Zeshun Zong, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang*
 - **SketchDream: Sketch-based Text-to-3D Generation and Editing**, `arXiv, 2405.06461`, [arxiv](http://arxiv.org/abs/2405.06461v1), [pdf](http://arxiv.org/pdf/2405.06461v1.pdf), cication: [**-1**](None)
 
 	 *Feng-Lin Liu, Hongbo Fu, Yu-Kun Lai, Lin Gao*
@@ -77,6 +81,13 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **GECO: Generative Image-to-3D within a SECOnd**, `arXiv, 2405.20327`, [arxiv](http://arxiv.org/abs/2405.20327v1), [pdf](http://arxiv.org/pdf/2405.20327v1.pdf), cication: [**-1**](None)
+
+	 *Chen Wang, Jiatao Gu, Xiaoxiao Long, Yuan Liu, Lingjie Liu*
+- **3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian
+  Splatting**, `arXiv, 2405.18424`, [arxiv](http://arxiv.org/abs/2405.18424v1), [pdf](http://arxiv.org/pdf/2405.18424v1.pdf), cication: [**-1**](None)
+
+	 *Qihang Zhang, Yinghao Xu, Chaoyang Wang, Hsin-Ying Lee, Gordon Wetzstein, Bolei Zhou, Ceyuan Yang* · ([zqh0253.github](https://zqh0253.github.io/3DitScene/))
 - **Part123: Part-aware 3D Reconstruction from a Single-view Image**, `arXiv, 2405.16888`, [arxiv](http://arxiv.org/abs/2405.16888v1), [pdf](http://arxiv.org/pdf/2405.16888v1.pdf), cication: [**-1**](None)
 
 	 *Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang*
@@ -168,6 +179,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**, `arXiv, 2405.19957`, [arxiv](http://arxiv.org/abs/2405.19957v1), [pdf](http://arxiv.org/pdf/2405.19957v1.pdf), cication: [**-1**](None)
+
+	 *Qiaowei Miao, Yawei Luo, Yi Yang* · ([PLA4D.github.io](https://github.com/MiaoQiaowei/PLA4D.github.io) - MiaoQiaowei) ![Star](https://img.shields.io/github/stars/MiaoQiaowei/PLA4D.github.io.svg?style=social&label=Star)
 - **GFlow: Recovering 4D World from Monocular Video**, `arXiv, 2405.18426`, [arxiv](http://arxiv.org/abs/2405.18426v1), [pdf](http://arxiv.org/pdf/2405.18426v1.pdf), cication: [**-1**](None)
 
 	 *Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang* · ([littlepure2333.github](https://littlepure2333.github.io/GFlow))

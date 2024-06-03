@@ -37,6 +37,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model
+  with Mixed Reward Feedback**, `arXiv, 2405.18750`, [arxiv](http://arxiv.org/abs/2405.18750v1), [pdf](http://arxiv.org/pdf/2405.18750v1.pdf), cication: [**-1**](None)
+
+	 *Jiachen Li, Weixi Feng, Tsu-Jui Fu, Xinyi Wang, Sugato Basu, Wenhu Chen, William Yang Wang*
 - **Collaborative Video Diffusion: Consistent Multi-video Generation with
   Camera Control**, `arXiv, 2405.17414`, [arxiv](http://arxiv.org/abs/2405.17414v1), [pdf](http://arxiv.org/pdf/2405.17414v1.pdf), cication: [**-1**](None)
 
@@ -316,6 +320,17 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [**MusePose**](https://github.com/TMElyralab/MusePose) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MusePose.svg?style=social&label=Star)
+
+	 *MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation*
+- **MOFA-Video: Controllable Image Animation via Generative Motion Field
+  Adaptions in Frozen Image-to-Video Diffusion Model**, `arXiv, 2405.20222`, [arxiv](http://arxiv.org/abs/2405.20222v1), [pdf](http://arxiv.org/pdf/2405.20222v1.pdf), cication: [**-1**](None)
+
+	 *Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng*
+- **EasyAnimate: A High-Performance Long Video Generation Method based on
+  Transformer Architecture**, `arXiv, 2405.18991`, [arxiv](http://arxiv.org/abs/2405.18991v1), [pdf](http://arxiv.org/pdf/2405.18991v1.pdf), cication: [**-1**](None)
+
+	 *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang*
 - **VividPose: Advancing Stable Video Diffusion for Realistic Human Image
   Animation**, `arXiv, 2405.18156`, [arxiv](http://arxiv.org/abs/2405.18156v1), [pdf](http://arxiv.org/pdf/2405.18156v1.pdf), cication: [**-1**](None)
 
