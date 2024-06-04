@@ -66,6 +66,13 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [**Omost**](https://github.com/lllyasviel/Omost) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/Omost.svg?style=social&label=Star)
+
+	 *Your image is almost there!*
+- **Kaleido Diffusion: Improving Conditional Diffusion Models with
+  Autoregressive Latent Modeling**, `arXiv, 2405.21048`, [arxiv](http://arxiv.org/abs/2405.21048v1), [pdf](http://arxiv.org/pdf/2405.21048v1.pdf), cication: [**-1**](None)
+
+	 *Jiatao Gu, Ying Shen, Shuangfei Zhai, Yizhe Zhang, Navdeep Jaitly, Joshua M. Susskind*
 - **Compositional Text-to-Image Generation with Dense Blob Representations**, `arXiv, 2405.08246`, [arxiv](http://arxiv.org/abs/2405.08246v1), [pdf](http://arxiv.org/pdf/2405.08246v1.pdf), cication: [**-1**](None)
 
 	 *Weili Nie, Sifei Liu, Morteza Mardani, Chao Liu, Benjamin Eckart, Arash Vahdat* · ([blobgen-2d.github](https://blobgen-2d.github.io))
@@ -417,7 +424,7 @@
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
 
 ## Toolkits
-- [Fetching Title#e1sc](https://huggingface.co/stabilityai/cosxl/tree/main)
+- [Site Unreachable](https://huggingface.co/stabilityai/cosxl/tree/main)
 - [**Enhance-This-HiDiffusion-SDXL**](https://huggingface.co/spaces/radames/Enhance-This-HiDiffusion-SDXL) - radames 🤗
 - [**d3pm**](https://github.com/cloneofsimo/d3pm) - cloneofsimo ![Star](https://img.shields.io/github/stars/cloneofsimo/d3pm.svg?style=social&label=Star)
 

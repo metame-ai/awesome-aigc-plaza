@@ -179,6 +179,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **4Diffusion: Multi-view Video Diffusion Model for 4D Generation**, `arXiv, 2405.20674`, [arxiv](http://arxiv.org/abs/2405.20674v1), [pdf](http://arxiv.org/pdf/2405.20674v1.pdf), cication: [**-1**](None)
+
+	 *Haiyu Zhang, Xinyuan Chen, Yaohui Wang, Xihui Liu, Yunhong Wang, Yu Qiao*
 - **PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**, `arXiv, 2405.19957`, [arxiv](http://arxiv.org/abs/2405.19957v1), [pdf](http://arxiv.org/pdf/2405.19957v1.pdf), cication: [**-1**](None)
 
 	 *Qiaowei Miao, Yawei Luo, Yi Yang* · ([PLA4D.github.io](https://github.com/MiaoQiaowei/PLA4D.github.io) - MiaoQiaowei) ![Star](https://img.shields.io/github/stars/MiaoQiaowei/PLA4D.github.io.svg?style=social&label=Star)

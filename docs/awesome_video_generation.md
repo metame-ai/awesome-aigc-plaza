@@ -37,6 +37,7 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [[2406.00908] ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation](https://arxiv.org/abs/2406.00908)
 - **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model
   with Mixed Reward Feedback**, `arXiv, 2405.18750`, [arxiv](http://arxiv.org/abs/2405.18750v1), [pdf](http://arxiv.org/pdf/2405.18750v1.pdf), cication: [**-1**](None)
 
@@ -320,6 +321,12 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [**ToonCrafter**](https://github.com/ToonCrafter/ToonCrafter) - ToonCrafter ![Star](https://img.shields.io/github/stars/ToonCrafter/ToonCrafter.svg?style=social&label=Star)
+
+	 *a research paper for generative cartoon interpolation*
+- **SignLLM: Sign Languages Production Large Language Models**, `arXiv, 2405.10718`, [arxiv](http://arxiv.org/abs/2405.10718v1), [pdf](http://arxiv.org/pdf/2405.10718v1.pdf), cication: [**-1**](None)
+
+	 *Sen Fang, Lei Wang, Ce Zheng, Yapeng Tian, Chen Chen* · ([signllm.github](https://signllm.github.io/))
 - [**MusePose**](https://github.com/TMElyralab/MusePose) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MusePose.svg?style=social&label=Star)
 
 	 *MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation*
@@ -556,6 +563,12 @@
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 
+## Dection
+- **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo
+  Benchmark**, `arXiv, 2405.19707`, [arxiv](http://arxiv.org/abs/2405.19707v1), [pdf](http://arxiv.org/pdf/2405.19707v1.pdf), cication: [**-1**](None)
+
+	 *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang* · ([DeMamba](https://github.com/chenhaoxing/DeMamba) - chenhaoxing) ![Star](https://img.shields.io/github/stars/chenhaoxing/DeMamba.svg?style=social&label=Star)
+
 ## Datasets
 - **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
   Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v3), [pdf](http://arxiv.org/pdf/2403.06098v3.pdf), cication: [**-1**](None)
@@ -598,7 +611,8 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
-- [Fetching Title#qmg7](https://twitter.com/adcock_brett/status/1789687915116654678)
+- [AI startup Higgsfield unveiled a new AI video model called NOVA-1.](https://x.com/adcock_brett/status/1797298164753469522)
+- [Krea AI launched Krea Video. ](https://twitter.com/adcock_brett/status/1789687915116654678)
 - [VIGGLE](https://viggle.ai/)
 - [Higgsfield.ai](https://higgsfield.ai/Blog/we-ve-raised-8m-in-seed-funding-to-unlock-personalized-ai-video-creation-and-creativity)
 - [Storytelling Transformed | LTX Studio](https://ltx.studio/)
