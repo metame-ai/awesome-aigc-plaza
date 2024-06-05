@@ -37,7 +37,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [[2406.00908] ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation](https://arxiv.org/abs/2406.00908)
+- **ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video
+  Generation**, `arXiv, 2406.00908`, [arxiv](http://arxiv.org/abs/2406.00908v1), [pdf](http://arxiv.org/pdf/2406.00908v1.pdf), cication: [**-1**](None)
+
+	 *Shaoshu Yang, Yong Zhang, Xiaodong Cun, Ying Shan, Ran He*
 - **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model
   with Mixed Reward Feedback**, `arXiv, 2405.18750`, [arxiv](http://arxiv.org/abs/2405.18750v1), [pdf](http://arxiv.org/pdf/2405.18750v1.pdf), cication: [**-1**](None)
 
