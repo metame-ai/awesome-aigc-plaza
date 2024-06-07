@@ -66,6 +66,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Kaleido Diffusion: Improving Conditional Diffusion Models with
+  Autoregressive Latent Modeling**, `arXiv, 2405.21048`, [arxiv](http://arxiv.org/abs/2405.21048v1), [pdf](http://arxiv.org/pdf/2405.21048v1.pdf), cication: [**-1**](None)
+
+	 *Jiatao Gu, Ying Shen, Shuangfei Zhai, Yizhe Zhang, Navdeep Jaitly, Joshua M. Susskind*
 - [**Omost**](https://github.com/lllyasviel/Omost) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/Omost.svg?style=social&label=Star)
 
 	 *Your image is almost there!*
@@ -302,6 +306,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image
+  Generation**, `arXiv, 2406.01388`, [arxiv](http://arxiv.org/abs/2406.01388v1), [pdf](http://arxiv.org/pdf/2406.01388v1.pdf), cication: [**-1**](None)
+
+	 *Junhao Cheng, Xi Lu, Hanhui Li, Khun Loun Zai, Baiqiao Yin, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang*
 - **Personalized Residuals for Concept-Driven Text-to-Image Generation**, `arXiv, 2405.12978`, [arxiv](http://arxiv.org/abs/2405.12978v1), [pdf](http://arxiv.org/pdf/2405.12978v1.pdf), cication: [**-1**](None)
 
 	 *Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz* · ([cusuh.github](https://cusuh.github.io/personalized-residuals/))
@@ -401,6 +409,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Guiding a Diffusion Model with a Bad Version of Itself**, `arXiv, 2406.02507`, [arxiv](http://arxiv.org/abs/2406.02507v1), [pdf](http://arxiv.org/pdf/2406.02507v1.pdf), cication: [**-1**](None)
+
+	 *Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine*
 - **Aligning Diffusion Models by Optimizing Human Utility**, `arXiv, 2404.04465`, [arxiv](http://arxiv.org/abs/2404.04465v1), [pdf](http://arxiv.org/pdf/2404.04465v1.pdf), cication: [**-1**](None)
 
 	 *Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka*

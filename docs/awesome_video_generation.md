@@ -324,6 +324,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human
+  Image Animation**, `arXiv, 2406.01188`, [arxiv](http://arxiv.org/abs/2406.01188v1), [pdf](http://arxiv.org/pdf/2406.01188v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Wang, Shiwei Zhang, Changxin Gao, Jiayu Wang, Xiaoqiang Zhou, Yingya Zhang, Luxin Yan, Nong Sang* · ([UniAnimate](https://github.com/ali-vilab/UniAnimate) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/UniAnimate.svg?style=social&label=Star) · ([unianimate.github](https://unianimate.github.io/))
 - [**ToonCrafter**](https://github.com/ToonCrafter/ToonCrafter) - ToonCrafter ![Star](https://img.shields.io/github/stars/ToonCrafter/ToonCrafter.svg?style=social&label=Star)
 
 	 *a research paper for generative cartoon interpolation*
