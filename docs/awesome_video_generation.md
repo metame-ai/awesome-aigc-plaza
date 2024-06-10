@@ -37,11 +37,17 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [[2406.04277] VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/abs/2406.04277)
+- **VideoTetris: Towards Compositional Text-to-Video Generation**, `arXiv, 2406.04277`, [arxiv](http://arxiv.org/abs/2406.04277v1), [pdf](http://arxiv.org/pdf/2406.04277v1.pdf), cication: [**-1**](None)
+
+	 *Ye Tian, Ling Yang, Haotian Yang, Yuan Gao, Yufan Deng, Jingmin Chen, Xintao Wang, Zhaochen Yu, Xin Tao, Pengfei Wan*
 
 	 · ([VideoTetris](https://github.com/YangLing0818/VideoTetris) - YangLing0818) ![Star](https://img.shields.io/github/stars/YangLing0818/VideoTetris.svg?style=social&label=Star)
-- [[2406.03215] Searching Priors Makes Text-to-Video Synthesis Better](https://arxiv.org/abs/2406.03215)
-- [[2406.04324] SF-V: Single Forward Video Generation Model](https://arxiv.org/abs/2406.04324)
+- **Searching Priors Makes Text-to-Video Synthesis Better**, `arXiv, 2406.03215`, [arxiv](http://arxiv.org/abs/2406.03215v1), [pdf](http://arxiv.org/pdf/2406.03215v1.pdf), cication: [**-1**](None)
+
+	 *Haoran Cheng, Liang Peng, Linxuan Xia, Yuepeng Hu, Hengjia Li, Qinglin Lu, Xiaofei He, Boxi Wu*
+- **SF-V: Single Forward Video Generation Model**, `arXiv, 2406.04324`, [arxiv](http://arxiv.org/abs/2406.04324v1), [pdf](http://arxiv.org/pdf/2406.04324v1.pdf), cication: [**-1**](None)
+
+	 *Zhixing Zhang, Yanyu Li, Yushu Wu, Yanwu Xu, Anil Kag, Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Junli Cao, Dimitris Metaxas*
 
 	 · ([snap-research.github](https://snap-research.github.io/SF-V/))
 - **ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video
