@@ -81,6 +81,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- [[2406.03184] Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](https://arxiv.org/abs/2406.03184)
+
+	 · ([costwen.github](https://costwen.github.io/Ouroboros3D/))
 - **GECO: Generative Image-to-3D within a SECOnd**, `arXiv, 2405.20327`, [arxiv](http://arxiv.org/abs/2405.20327v1), [pdf](http://arxiv.org/pdf/2405.20327v1.pdf), cication: [**-1**](None)
 
 	 *Chen Wang, Jiatao Gu, Xiaoxiao Long, Yuan Liu, Lingjie Liu*

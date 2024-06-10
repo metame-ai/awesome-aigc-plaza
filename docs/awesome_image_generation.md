@@ -402,6 +402,7 @@
 ---
 - [CVPR 2024 Workshop: Virtual Try-On](https://vto-cvpr24.github.io/index.html)
 ## Projects
+- [**Fluently-XL-Final**](https://huggingface.co/fluently/Fluently-XL-Final) - fluently 🤗
 - [**cosxl**](https://huggingface.co/spaces/multimodalart/cosxl) - multimodalart 🤗
 - [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
 - [**animagine-xl-3.0**](https://huggingface.co/cagliostrolab/animagine-xl-3.0) - cagliostrolab 🤗
