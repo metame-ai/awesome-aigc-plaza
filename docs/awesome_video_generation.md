@@ -37,6 +37,16 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Hierarchical Patch Diffusion Models for High-Resolution Video Generation**, `arXiv, 2406.07792`, [arxiv](http://arxiv.org/abs/2406.07792v1), [pdf](http://arxiv.org/pdf/2406.07792v1.pdf), cication: [**-1**](None)
+
+	 *Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Sergey Tulyakov* · ([snap-research.github](https://snap-research.github.io/hpdm))
+- **MotionClone: Training-Free Motion Cloning for Controllable Video
+  Generation**, `arXiv, 2406.05338`, [arxiv](http://arxiv.org/abs/2406.05338v2), [pdf](http://arxiv.org/pdf/2406.05338v2.pdf), cication: [**-1**](None)
+
+	 *Pengyang Ling, Jiazi Bu, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Tong Wu, Huaian Chen, Jiaqi Wang, Yi Jin* · ([MotionClone](https://github.com/Bujiazi/MotionClone/) - Bujiazi) ![Star](https://img.shields.io/github/stars/Bujiazi/MotionClone.svg?style=social&label=Star)
+- **CV-VAE: A Compatible Video VAE for Latent Generative Video Models**, `arXiv, 2405.20279`, [arxiv](http://arxiv.org/abs/2405.20279v1), [pdf](http://arxiv.org/pdf/2405.20279v1.pdf), cication: [**-1**](None)
+
+	 *Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, Xiaoyu Li, Wenbo Hu, Ying Shan* · ([cv-vae](https://github.com/ailab-cvc/cv-vae) - ailab-cvc) ![Star](https://img.shields.io/github/stars/ailab-cvc/cv-vae.svg?style=social&label=Star)
 - **VideoTetris: Towards Compositional Text-to-Video Generation**, `arXiv, 2406.04277`, [arxiv](http://arxiv.org/abs/2406.04277v1), [pdf](http://arxiv.org/pdf/2406.04277v1.pdf), cication: [**-1**](None)
 
 	 *Ye Tian, Ling Yang, Haotian Yang, Yuan Gao, Yufan Deng, Jingmin Chen, Xintao Wang, Zhaochen Yu, Xin Tao, Pengfei Wan*
@@ -337,6 +347,14 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **MOFA-Video: Controllable Image Animation via Generative Motion Field
+  Adaptions in Frozen Image-to-Video Diffusion Model**, `arXiv, 2405.20222`, [arxiv](http://arxiv.org/abs/2405.20222v2), [pdf](http://arxiv.org/pdf/2405.20222v2.pdf), cication: [**-1**](None)
+
+	 *Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng* · ([mofa-video](https://github.com/myniuuu/mofa-video) - myniuuu) ![Star](https://img.shields.io/github/stars/myniuuu/mofa-video.svg?style=social&label=Star)
+- **Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation
+  for Stable Pose Control**, `arXiv, 2406.03035`, [arxiv](http://arxiv.org/abs/2406.03035v2), [pdf](http://arxiv.org/pdf/2406.03035v2.pdf), cication: [**-1**](None)
+
+	 *Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum* · ([huggingface](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT?continueFlag=7b93f8f875055859b0712c994d253b9f)) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/z8wKg0jOJ7tgjPMUV3N0-g))
 - **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human
   Image Animation**, `arXiv, 2406.01188`, [arxiv](http://arxiv.org/abs/2406.01188v1), [pdf](http://arxiv.org/pdf/2406.01188v1.pdf), cication: [**-1**](None)
 
@@ -510,6 +528,10 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **NaRCan: Natural Refined Canonical Image with Integration of Diffusion
+  Prior for Video Editing**, `arXiv, 2406.06523`, [arxiv](http://arxiv.org/abs/2406.06523v1), [pdf](http://arxiv.org/pdf/2406.06523v1.pdf), cication: [**-1**](None)
+
+	 *Ting-Hsuan Chen, Jiewen Chan, Hau-Shiang Shiu, Shih-Han Yen, Chang-Han Yeh, Yu-Lun Liu* · ([koi953215.github](https://koi953215.github.io/NaRCan_page/))
 - **ReVideo: Remake a Video with Motion and Content Control**, `arXiv, 2405.13865`, [arxiv](http://arxiv.org/abs/2405.13865v1), [pdf](http://arxiv.org/pdf/2405.13865v1.pdf), cication: [**-1**](None)
 
 	 *Chong Mou, Mingdeng Cao, Xintao Wang, Zhaoyang Zhang, Ying Shan, Jian Zhang* · ([mc-e.github](https://mc-e.github.io/project/ReVideo/))
@@ -600,6 +622,10 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation
+  in Videos**, `arXiv, 2406.08407`, [arxiv](http://arxiv.org/abs/2406.08407v1), [pdf](http://arxiv.org/pdf/2406.08407v1.pdf), cication: [**-1**](None)
+
+	 *Xuehai He, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang*
 - **VBench: Comprehensive Benchmark Suite for Video Generative Models**, `arXiv, 2311.17982`, [arxiv](http://arxiv.org/abs/2311.17982v1), [pdf](http://arxiv.org/pdf/2311.17982v1.pdf), cication: [**-1**](None)
 
 	 *Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit* · ([VBench](https://github.com/Vchitect/VBench) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)
@@ -631,6 +657,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Site Unreachable](https://lumalabs.ai/dream-machine)
 - [AI startup Higgsfield unveiled a new AI video model called NOVA-1.](https://x.com/adcock_brett/status/1797298164753469522)
 - [Krea AI launched Krea Video. ](https://twitter.com/adcock_brett/status/1789687915116654678)
 - [VIGGLE](https://viggle.ai/)

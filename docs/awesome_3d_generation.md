@@ -163,6 +163,10 @@
 
 
 ## Reconstruction
+- **GTR: Improving Large 3D Reconstruction Models through Geometry and
+  Texture Refinement**, `arXiv, 2406.05649`, [arxiv](http://arxiv.org/abs/2406.05649v1), [pdf](http://arxiv.org/pdf/2406.05649v1.pdf), cication: [**-1**](None)
+
+	 *Peiye Zhuang, Songfang Han, Chaoyang Wang, Aliaksandr Siarohin, Jiaxu Zou, Michael Vasilkovsky, Vladislav Shakhrai, Sergey Korolev, Sergey Tulyakov, Hsin-Ying Lee*
 - **MeshLRM: Large Reconstruction Model for High-Quality Mesh**, `arXiv, 2404.12385`, [arxiv](http://arxiv.org/abs/2404.12385v1), [pdf](http://arxiv.org/pdf/2404.12385v1.pdf), cication: [**-1**](None)
 
 	 *Xinyue Wei, Kai Zhang, Sai Bi, Hao Tan, Fujun Luan, Valentin Deschaintre, Kalyan Sunkavalli, Hao Su, Zexiang Xu*
@@ -184,6 +188,14 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **Physics3D: Learning Physical Properties of 3D Gaussians via Video
+  Diffusion**, `arXiv, 2406.04338`, [arxiv](http://arxiv.org/abs/2406.04338v3), [pdf](http://arxiv.org/pdf/2406.04338v3.pdf), cication: [**-1**](None)
+
+	 *Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan* · ([liuff19.github](https://liuff19.github.io/Physics3D))
+- **4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion
+  Models**, `arXiv, 2406.07472`, [arxiv](http://arxiv.org/abs/2406.07472v1), [pdf](http://arxiv.org/pdf/2406.07472v1.pdf), cication: [**-1**](None)
+
+	 *Heng Yu, Chaoyang Wang, Peiye Zhuang, Willi Menapace, Aliaksandr Siarohin, Junli Cao, Laszlo A Jeni, Sergey Tulyakov, Hsin-Ying Lee*
 - **4Diffusion: Multi-view Video Diffusion Model for 4D Generation**, `arXiv, 2405.20674`, [arxiv](http://arxiv.org/abs/2405.20674v1), [pdf](http://arxiv.org/pdf/2405.20674v1.pdf), cication: [**-1**](None)
 
 	 *Haiyu Zhang, Xinyuan Chen, Yaohui Wang, Xihui Liu, Yunhong Wang, Yu Qiao*

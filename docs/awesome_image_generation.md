@@ -33,6 +33,16 @@
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
 ## Generation
+- **An Image is Worth 32 Tokens for Reconstruction and Generation**, `arXiv, 2406.07550`, [arxiv](http://arxiv.org/abs/2406.07550v1), [pdf](http://arxiv.org/pdf/2406.07550v1.pdf), cication: [**-1**](None)
+
+	 *Qihang Yu, Mark Weber, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen* · ([yucornetto.github](https://yucornetto.github.io/projects/titok.html))
+- **Unified Text-to-Image Generation and Retrieval**, `arXiv, 2406.05814`, [arxiv](http://arxiv.org/abs/2406.05814v1), [pdf](http://arxiv.org/pdf/2406.05814v1.pdf), cication: [**-1**](None)
+
+	 *Leigang Qu, Haochuan Li, Tan Wang, Wenjie Wang, Yongqi Li, Liqiang Nie, Tat-Seng Chua*
+- **Autoregressive Model Beats Diffusion: Llama for Scalable Image
+  Generation**, `arXiv, 2406.06525`, [arxiv](http://arxiv.org/abs/2406.06525v1), [pdf](http://arxiv.org/pdf/2406.06525v1.pdf), cication: [**-1**](None)
+
+	 *Peize Sun, Yi Jiang, Shoufa Chen, Shilong Zhang, Bingyue Peng, Ping Luo, Zehuan Yuan* · ([LlamaGen](https://github.com/FoundationVision/LlamaGen) - FoundationVision) ![Star](https://img.shields.io/github/stars/FoundationVision/LlamaGen.svg?style=social&label=Star)
 - **Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models**, `arXiv, 2405.16759`, [arxiv](http://arxiv.org/abs/2405.16759v1), [pdf](http://arxiv.org/pdf/2405.16759v1.pdf), cication: [**-1**](None)
 
 	 *Cristina N. Vasconcelos, Abdullah Rashwan Austin Waters, Trevor Walker, Keyang Xu, Jimmy Yan, Rui Qian, Shixin Luo, Zarana Parekh, Andrew Bunner, Hongliang Fei*
@@ -53,6 +63,8 @@
 
 	 *Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel*
 	- `This work enhances rectified flow models for high-resolution text-to-image synthesis by improving noise sampling and introducing a novel transformer-based architecture that enhances text comprehension and image quality, showing better performance through extensive evaluation and human preference ratings.`
+
+	 · ([stability](https://stability.ai/news/stable-diffusion-3-research-paper)) · ([huggingface](https://huggingface.co/stabilityai/stable-diffusion-3-medium)) · ([huggingface](https://huggingface.co/blog/sd3))
 - **CosmicMan: A Text-to-Image Foundation Model for Humans**, `arXiv, 2404.01294`, [arxiv](http://arxiv.org/abs/2404.01294v1), [pdf](http://arxiv.org/pdf/2404.01294v1.pdf), cication: [**-1**](None)
 
 	 *Shikai Li, Jianglin Fu, Kaiyuan Liu, Wentao Wang, Kwan-Yee Lin, Wayne Wu* · ([CosmicMan](https://github.com/cosmicman-cvpr2024/CosmicMan/blob/main) - cosmicman-cvpr2024) ![Star](https://img.shields.io/github/stars/cosmicman-cvpr2024/CosmicMan.svg?style=social&label=Star) · ([cosmicman-cvpr2024.github](https://cosmicman-cvpr2024.github.io/))
@@ -156,6 +168,12 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, `arXiv, 2406.06911`, [arxiv](http://arxiv.org/abs/2406.06911v1), [pdf](http://arxiv.org/pdf/2406.06911v1.pdf), cication: [**-1**](None)
+
+	 *Zigeng Chen, Xinyin Ma, Gongfan Fang, Zhenxiong Tan, Xinchao Wang* · ([AsyncDiff](https://github.com/czg1225/AsyncDiff) - czg1225) ![Star](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social&label=Star)
+- **MLCM: Multistep Consistency Distillation of Latent Diffusion Model**, `arXiv, 2406.05768`, [arxiv](http://arxiv.org/abs/2406.05768v3), [pdf](http://arxiv.org/pdf/2406.05768v3.pdf), cication: [**-1**](None)
+
+	 *Qingsong Xie, Zhenyi Liao, Chen chen, Zhijie Deng, Shixiang Tang, Haonan Lu*
 - [**sdxl-flash**](https://huggingface.co/sd-community/sdxl-flash) - sd-community 🤗
 - **Phased Consistency Model**, `arXiv, 2405.18407`, [arxiv](http://arxiv.org/abs/2405.18407v1), [pdf](http://arxiv.org/pdf/2405.18407v1.pdf), cication: [**-1**](None)
 
@@ -218,6 +236,9 @@
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
 
 ## Editting
+- **Zero-shot Image Editing with Reference Imitation**, `arXiv, 2406.07547`, [arxiv](http://arxiv.org/abs/2406.07547v1), [pdf](http://arxiv.org/pdf/2406.07547v1.pdf), cication: [**-1**](None)
+
+	 *Xi Chen, Yutong Feng, Mengting Chen, Yiyang Wang, Shilong Zhang, Yu Liu, Yujun Shen, Hengshuang Zhao*
 - **Attention-Driven Training-Free Efficiency Enhancement of Diffusion
   Models**, `arXiv, 2405.05252`, [arxiv](http://arxiv.org/abs/2405.05252v1), [pdf](http://arxiv.org/pdf/2405.05252v1.pdf), cication: [**-1**](None)
 
@@ -306,6 +327,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout
+  Guidance**, `arXiv, 2406.07209`, [arxiv](http://arxiv.org/abs/2406.07209v1), [pdf](http://arxiv.org/pdf/2406.07209v1.pdf), cication: [**-1**](None)
+
+	 *X. Wang, Siming Fu, Qihan Huang, Wanggui He, Hao Jiang* · ([MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion?tab=readme-ov-file) - MS-Diffusion) ![Star](https://img.shields.io/github/stars/MS-Diffusion/MS-Diffusion.svg?style=social&label=Star)
 - **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image
   Generation**, `arXiv, 2406.01388`, [arxiv](http://arxiv.org/abs/2406.01388v1), [pdf](http://arxiv.org/pdf/2406.01388v1.pdf), cication: [**-1**](None)
 
@@ -402,6 +427,7 @@
 ---
 - [CVPR 2024 Workshop: Virtual Try-On](https://vto-cvpr24.github.io/index.html)
 ## Projects
+- [**kivotos-xl-2.0**](https://huggingface.co/yodayo-ai/kivotos-xl-2.0) - yodayo-ai 🤗
 - [**Fluently-XL-Final**](https://huggingface.co/fluently/Fluently-XL-Final) - fluently 🤗
 - [**cosxl**](https://huggingface.co/spaces/multimodalart/cosxl) - multimodalart 🤗
 - [Future of E-commerce?! Virtual clothing try-on agent - YouTube](https://www.youtube.com/watch?v=C94pTaKoLbU&ab_channel=AIJason)
@@ -410,6 +436,16 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Margin-aware Preference Optimization for Aligning Diffusion Models
+  without Reference**, `arXiv, 2406.06424`, [arxiv](http://arxiv.org/abs/2406.06424v1), [pdf](http://arxiv.org/pdf/2406.06424v1.pdf), cication: [**-1**](None)
+
+	 *Jiwoo Hong, Sayak Paul, Noah Lee, Kashif Rasul, James Thorne, Jongheon Jeong*
+- **Step-aware Preference Optimization: Aligning Preference with Denoising
+  Performance at Each Step**, `arXiv, 2406.04314`, [arxiv](http://arxiv.org/abs/2406.04314v1), [pdf](http://arxiv.org/pdf/2406.04314v1.pdf), cication: [**-1**](None)
+
+	 *Zhanhao Liang, Yuhui Yuan, Shuyang Gu, Bohan Chen, Tiankai Hang, Ji Li, Liang Zheng* · ([rockeycoss.github](https://rockeycoss.github.io/spo.github.io/))
+
+	 · ([SPO](https://github.com/RockeyCoss/SPO) - RockeyCoss) ![Star](https://img.shields.io/github/stars/RockeyCoss/SPO.svg?style=social&label=Star)
 - **Guiding a Diffusion Model with a Bad Version of Itself**, `arXiv, 2406.02507`, [arxiv](http://arxiv.org/abs/2406.02507v1), [pdf](http://arxiv.org/pdf/2406.02507v1.pdf), cication: [**-1**](None)
 
 	 *Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine*
@@ -449,6 +485,10 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- **A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**, `arXiv, 2406.03070`, [arxiv](http://arxiv.org/abs/2406.03070v1), [pdf](http://arxiv.org/pdf/2406.03070v1.pdf), cication: [**-1**](None)
+
+	 *Zicheng Zhang, Haoning Wu, Chunyi Li, Yingjie Zhou, Wei Sun, Xiongkuo Min, Zijian Chen, Xiaohong Liu, Weisi Lin, Guangtao Zhai* · ([a-bench](https://github.com/q-future/a-bench) - q-future) ![Star](https://img.shields.io/github/stars/q-future/a-bench.svg?style=social&label=Star)
+- [Launching the Artificial Analysis Text to Image Leaderboard & Arena](https://huggingface.co/blog/leaderboard-artificial-analysis2)
 - **Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and
   Human Ratings**, `arXiv, 2404.16820`, [arxiv](http://arxiv.org/abs/2404.16820v1), [pdf](http://arxiv.org/pdf/2404.16820v1.pdf), cication: [**-1**](None)
 
