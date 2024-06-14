@@ -163,6 +163,12 @@
 
 
 ## Reconstruction
+- **LRM-Zero: Training Large Reconstruction Models with Synthesized Data**, `arXiv, 2406.09371`, [arxiv](http://arxiv.org/abs/2406.09371v1), [pdf](http://arxiv.org/pdf/2406.09371v1.pdf), cication: [**-1**](None)
+
+	 *Desai Xie, Sai Bi, Zhixin Shu, Kai Zhang, Zexiang Xu, Yi Zhou, Sören Pirk, Arie Kaufman, Xin Sun, Hao Tan* · ([desaixie.github](https://desaixie.github.io/lrm-zero/))
+- **Real3D: Scaling Up Large Reconstruction Models with Real-World Images**, `arXiv, 2406.08479`, [arxiv](http://arxiv.org/abs/2406.08479v1), [pdf](http://arxiv.org/pdf/2406.08479v1.pdf), cication: [**-1**](None)
+
+	 *Hanwen Jiang, Qixing Huang, Georgios Pavlakos* · ([hwjiang1510.github](https://hwjiang1510.github.io/Real3D/))
 - **GTR: Improving Large 3D Reconstruction Models through Geometry and
   Texture Refinement**, `arXiv, 2406.05649`, [arxiv](http://arxiv.org/abs/2406.05649v1), [pdf](http://arxiv.org/pdf/2406.05649v1.pdf), cication: [**-1**](None)
 

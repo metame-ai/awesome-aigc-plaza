@@ -37,6 +37,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [LAMP: Learn A Motion Pattern for Few-Shot Video Generation](https://rq-wu.github.io/projects/LAMP/)
+
+	 · ([LAMP](https://github.com/RQ-Wu/LAMP) - RQ-Wu) ![Star](https://img.shields.io/github/stars/RQ-Wu/LAMP.svg?style=social&label=Star)
 - **Hierarchical Patch Diffusion Models for High-Resolution Video Generation**, `arXiv, 2406.07792`, [arxiv](http://arxiv.org/abs/2406.07792v1), [pdf](http://arxiv.org/pdf/2406.07792v1.pdf), cication: [**-1**](None)
 
 	 *Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Sergey Tulyakov* · ([snap-research.github](https://snap-research.github.io/hpdm))
@@ -528,6 +531,10 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **VMC: Video Motion Customization using Temporal Attention Adaption for
+  Text-to-Video Diffusion Models**, `arXiv, 2312.00845`, [arxiv](http://arxiv.org/abs/2312.00845v1), [pdf](http://arxiv.org/pdf/2312.00845v1.pdf), cication: [**-1**](None)
+
+	 *Hyeonho Jeong, Geon Yeong Park, Jong Chul Ye* · ([video-motion-customization.github](https://video-motion-customization.github.io/)) · ([Video-Motion-Customization](https://github.com/HyeonHo99/Video-Motion-Customization) - HyeonHo99) ![Star](https://img.shields.io/github/stars/HyeonHo99/Video-Motion-Customization.svg?style=social&label=Star)
 - **NaRCan: Natural Refined Canonical Image with Integration of Diffusion
   Prior for Video Editing**, `arXiv, 2406.06523`, [arxiv](http://arxiv.org/abs/2406.06523v1), [pdf](http://arxiv.org/pdf/2406.06523v1.pdf), cication: [**-1**](None)
 
@@ -622,6 +629,10 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and
+  Image-to-Video Generation**, `arXiv, 2406.08656`, [arxiv](http://arxiv.org/abs/2406.08656v1), [pdf](http://arxiv.org/pdf/2406.08656v1.pdf), cication: [**-1**](None)
+
+	 *Weixi Feng, Jiachen Li, Michael Saxon, Tsu-jui Fu, Wenhu Chen, William Yang Wang*
 - **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation
   in Videos**, `arXiv, 2406.08407`, [arxiv](http://arxiv.org/abs/2406.08407v1), [pdf](http://arxiv.org/pdf/2406.08407v1.pdf), cication: [**-1**](None)
 

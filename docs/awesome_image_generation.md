@@ -78,6 +78,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal
+  Prompts**, `arXiv, 2406.09162`, [arxiv](http://arxiv.org/abs/2406.09162v1), [pdf](http://arxiv.org/pdf/2406.09162v1.pdf), cication: [**-1**](None)
+
+	 *Yucheng Han, Rui Wang, Chi Zhang, Juntao Hu, Pei Cheng, Bin Fu, Hanwang Zhang*
 - **Kaleido Diffusion: Improving Conditional Diffusion Models with
   Autoregressive Latent Modeling**, `arXiv, 2405.21048`, [arxiv](http://arxiv.org/abs/2405.21048v1), [pdf](http://arxiv.org/pdf/2405.21048v1.pdf), cication: [**-1**](None)
 
@@ -314,6 +318,9 @@
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
+- **DiTFastAttn: Attention Compression for Diffusion Transformer Models**, `arXiv, 2406.08552`, [arxiv](http://arxiv.org/abs/2406.08552v1), [pdf](http://arxiv.org/pdf/2406.08552v1.pdf), cication: [**-1**](None)
+
+	 *Zhihang Yuan, Pu Lu, Hanling Zhang, Xuefei Ning, Linfeng Zhang, Tianchen Zhao, Shengen Yan, Guohao Dai, Yu Wang*
 - **MDTv2: Masked Diffusion Transformer is a Strong Image Synthesizer**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.14389v2), [pdf](http://arxiv.org/pdf/2303.14389v2.pdf), cication: [**36**](https://scholar.google.com/scholar?cites=265826374435029950&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shanghua Gao, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan* · ([MDT](https://github.com/sail-sg/MDT) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/MDT.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454525&idx=3&sn=fdd95d9f3de58caa7ad0c8bfbe07f548))
@@ -436,6 +443,10 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Alleviating Distortion in Image Generation via Multi-Resolution
+  Diffusion Models**, `arXiv, 2406.09416`, [arxiv](http://arxiv.org/abs/2406.09416v1), [pdf](http://arxiv.org/pdf/2406.09416v1.pdf), cication: [**-1**](None)
+
+	 *Qihao Liu, Zhanpeng Zeng, Ju He, Qihang Yu, Xiaohui Shen, Liang-Chieh Chen* · ([qihao067.github](https://qihao067.github.io/projects/DiMR))
 - **Margin-aware Preference Optimization for Aligning Diffusion Models
   without Reference**, `arXiv, 2406.06424`, [arxiv](http://arxiv.org/abs/2406.06424v1), [pdf](http://arxiv.org/pdf/2406.06424v1.pdf), cication: [**-1**](None)
 
@@ -502,6 +513,11 @@
 - **Measuring Style Similarity in Diffusion Models**, `arXiv, 2404.01292`, [arxiv](http://arxiv.org/abs/2404.01292v1), [pdf](http://arxiv.org/pdf/2404.01292v1.pdf), cication: [**-1**](None)
 
 	 *Gowthami Somepalli, Anubhav Gupta, Kamal Gupta, Shramay Palta, Micah Goldblum, Jonas Geiping, Abhinav Shrivastava, Tom Goldstein* · ([CSD](https://github.com/learn2phoenix/CSD) - learn2phoenix) ![Star](https://img.shields.io/github/stars/learn2phoenix/CSD.svg?style=social&label=Star)
+
+## Other
+- **Interpreting the Weight Space of Customized Diffusion Models**, `arXiv, 2406.09413`, [arxiv](http://arxiv.org/abs/2406.09413v1), [pdf](http://arxiv.org/pdf/2406.09413v1.pdf), cication: [**-1**](None)
+
+	 *Amil Dravid, Yossi Gandelsman, Kuan-Chieh Wang, Rameen Abdal, Gordon Wetzstein, Alexei A. Efros, Kfir Aberman*
 
 ## Products
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
