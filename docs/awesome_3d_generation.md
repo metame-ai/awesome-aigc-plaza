@@ -81,6 +81,10 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single
+  Image**, `arXiv, 2405.20343`, [arxiv](http://arxiv.org/abs/2405.20343v2), [pdf](http://arxiv.org/pdf/2405.20343v2.pdf), cication: [**-1**](None)
+
+	 *Kailu Wu, Fangfu Liu, Zhihan Cai, Runjie Yan, Hanyang Wang, Yating Hu, Yueqi Duan, Kaisheng Ma* · ([wukailu.github](https://wukailu.github.io/Unique3D/)) · ([Unique3D](https://github.com/AiuniAI/Unique3D) - AiuniAI) ![Star](https://img.shields.io/github/stars/AiuniAI/Unique3D.svg?style=social&label=Star)
 - **Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**, `arXiv, 2406.03184`, [arxiv](http://arxiv.org/abs/2406.03184v1), [pdf](http://arxiv.org/pdf/2406.03184v1.pdf), cication: [**-1**](None)
 
 	 *Hao Wen, Zehuan Huang, Yaohui Wang, Xinyuan Chen, Yu Qiao, Lu Sheng*

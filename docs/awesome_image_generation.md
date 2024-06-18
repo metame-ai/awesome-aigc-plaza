@@ -32,7 +32,15 @@
 
 	 *Pu Cao, Feng Zhou, Qing Song, Lu Yang* · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652456111&idx=4&sn=339d003cda8189697856b7e03d19618c)) · ([Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - PRIV-Creation) ![Star](https://img.shields.io/github/stars/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models.svg?style=social&label=Star)
 
+## Tokenization
+- **Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**, `arXiv, 2310.05737`, [arxiv](http://arxiv.org/abs/2310.05737v3), [pdf](http://arxiv.org/pdf/2310.05737v3.pdf), cication: [**41**](https://scholar.google.com/scholar?cites=10816486597646660868&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
+
 ## Generation
+- **Autoregressive Image Generation without Vector Quantization**, `arXiv, 2406.11838`, [arxiv](http://arxiv.org/abs/2406.11838v1), [pdf](http://arxiv.org/pdf/2406.11838v1.pdf), cication: [**-1**](None)
+
+	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He*
 - **An Image is Worth 32 Tokens for Reconstruction and Generation**, `arXiv, 2406.07550`, [arxiv](http://arxiv.org/abs/2406.07550v1), [pdf](http://arxiv.org/pdf/2406.07550v1.pdf), cication: [**-1**](None)
 
 	 *Qihang Yu, Mark Weber, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen* · ([yucornetto.github](https://yucornetto.github.io/projects/titok.html))
@@ -78,6 +86,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Make It Count: Text-to-Image Generation with an Accurate Number of
+  Objects**, `arXiv, 2406.10210`, [arxiv](http://arxiv.org/abs/2406.10210v1), [pdf](http://arxiv.org/pdf/2406.10210v1.pdf), cication: [**-1**](None)
+
+	 *Lital Binyamin, Yoad Tewel, Hilit Segev, Eran Hirsch, Royi Rassin, Gal Chechik*
 - **EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal
   Prompts**, `arXiv, 2406.09162`, [arxiv](http://arxiv.org/abs/2406.09162v1), [pdf](http://arxiv.org/pdf/2406.09162v1.pdf), cication: [**-1**](None)
 
@@ -238,6 +250,9 @@
 - **Multistep Consistency Models**, `arXiv, 2403.06807`, [arxiv](http://arxiv.org/abs/2403.06807v1), [pdf](http://arxiv.org/pdf/2403.06807v1.pdf), cication: [**-1**](None)
 
 	 *Jonathan Heek, Emiel Hoogeboom, Tim Salimans*
+- **SDXL-Lightning: Progressive Adversarial Diffusion Distillation**, `arXiv, 2402.13929`, [arxiv](http://arxiv.org/abs/2402.13929v3), [pdf](http://arxiv.org/pdf/2402.13929v3.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=15402790534057305106&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
 - **Zero-shot Image Editing with Reference Imitation**, `arXiv, 2406.07547`, [arxiv](http://arxiv.org/abs/2406.07547v1), [pdf](http://arxiv.org/pdf/2406.07547v1.pdf), cication: [**-1**](None)
@@ -326,6 +341,10 @@
 	 *Shanghua Gao, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan* · ([MDT](https://github.com/sail-sg/MDT) - sail-sg) ![Star](https://img.shields.io/github/stars/sail-sg/MDT.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652454525&idx=3&sn=fdd95d9f3de58caa7ad0c8bfbe07f548))
 	 
 ## Text Rendering
+- **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual
+  Visual Text Rendering**, `arXiv, 2406.10208`, [arxiv](http://arxiv.org/abs/2406.10208v1), [pdf](http://arxiv.org/pdf/2406.10208v1.pdf), cication: [**-1**](None)
+
+	 *Zeyu Liu, Weicong Liang, Yiming Zhao, Bohan Chen, Ji Li, Yuhui Yuan*
 - **TextCraftor: Your Text Encoder Can be Image Quality Controller**, `arXiv, 2403.18978`, [arxiv](http://arxiv.org/abs/2403.18978v1), [pdf](http://arxiv.org/pdf/2403.18978v1.pdf), cication: [**-1**](None)
 
 	 *Yanyu Li, Xian Liu, Anil Kag, Ju Hu, Yerlan Idelbayev, Dhritiman Sagar, Yanzhi Wang, Sergey Tulyakov, Jian Ren*

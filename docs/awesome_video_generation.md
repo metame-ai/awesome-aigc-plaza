@@ -37,6 +37,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Training-free Camera Control for Video Generation**, `arXiv, 2406.10126`, [arxiv](http://arxiv.org/abs/2406.10126v1), [pdf](http://arxiv.org/pdf/2406.10126v1.pdf), cication: [**-1**](None)
+
+	 *Chen Hou, Guoqiang Wei, Yan Zeng, Zhibo Chen* · ([lifedecoder.github](https://lifedecoder.github.io/CamTrol/))
 - [LAMP: Learn A Motion Pattern for Few-Shot Video Generation](https://rq-wu.github.io/projects/LAMP/)
 
 	 · ([LAMP](https://github.com/RQ-Wu/LAMP) - RQ-Wu) ![Star](https://img.shields.io/github/stars/RQ-Wu/LAMP.svg?style=social&label=Star)
@@ -629,6 +632,10 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing
+  Reliability,Reproducibility, and Practicality**, `arXiv, 2406.08845`, [arxiv](http://arxiv.org/abs/2406.08845v1), [pdf](http://arxiv.org/pdf/2406.08845v1.pdf), cication: [**-1**](None)
+
+	 *Tianle Zhang, Langtian Ma, Yuchen Yan, Yuchen Zhang, Kai Wang, Yue Yang, Ziyao Guo, Wenqi Shao, Yang You, Yu Qiao*
 - **TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and
   Image-to-Video Generation**, `arXiv, 2406.08656`, [arxiv](http://arxiv.org/abs/2406.08656v1), [pdf](http://arxiv.org/pdf/2406.08656v1.pdf), cication: [**-1**](None)
 
@@ -668,7 +675,8 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
-- [Site Unreachable](https://lumalabs.ai/dream-machine)
+- [Introducing Gen-3 Alpha: A New Frontier for Video Generation](https://runwayml.com/blog/introducing-gen-3-alpha/)
+- [Fetching Title#ar69](https://lumalabs.ai/dream-machine)
 - [AI startup Higgsfield unveiled a new AI video model called NOVA-1.](https://x.com/adcock_brett/status/1797298164753469522)
 - [Krea AI launched Krea Video. ](https://twitter.com/adcock_brett/status/1789687915116654678)
 - [VIGGLE](https://viggle.ai/)
