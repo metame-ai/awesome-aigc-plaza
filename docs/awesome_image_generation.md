@@ -500,6 +500,9 @@
 	 *Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo Aila, Samuli Laine*
 
 	 · ([edm2](https://github.com/nvlabs/edm2) - nvlabs) ![Star](https://img.shields.io/github/stars/nvlabs/edm2.svg?style=social&label=Star)
+- **Rich Human Feedback for Text-to-Image Generation**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2312.10240v2), [pdf](http://arxiv.org/pdf/2312.10240v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=9126507859941467026&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang*
 
 ## Toolkits
 - [Site Unreachable](https://huggingface.co/stabilityai/cosxl/tree/main)
