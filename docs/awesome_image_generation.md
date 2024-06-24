@@ -38,12 +38,18 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **Exploring the Role of Large Language Models in Prompt Encoding for
+  Diffusion Models**, `arXiv, 2406.11831`, [arxiv](http://arxiv.org/abs/2406.11831v2), [pdf](http://arxiv.org/pdf/2406.11831v2.pdf), cication: [**-1**](None)
+
+	 *Bingqi Ma, Zhuofan Zong, Guanglu Song, Hongsheng Li, Yu Liu*
 - **Autoregressive Image Generation without Vector Quantization**, `arXiv, 2406.11838`, [arxiv](http://arxiv.org/abs/2406.11838v1), [pdf](http://arxiv.org/pdf/2406.11838v1.pdf), cication: [**-1**](None)
 
 	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He*
 - **An Image is Worth 32 Tokens for Reconstruction and Generation**, `arXiv, 2406.07550`, [arxiv](http://arxiv.org/abs/2406.07550v1), [pdf](http://arxiv.org/pdf/2406.07550v1.pdf), cication: [**-1**](None)
 
 	 *Qihang Yu, Mark Weber, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen* · ([yucornetto.github](https://yucornetto.github.io/projects/titok.html))
+
+	 · ([1d-tokenizer](https://github.com/bytedance/1d-tokenizer) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/1d-tokenizer.svg?style=social&label=Star)
 - **Unified Text-to-Image Generation and Retrieval**, `arXiv, 2406.05814`, [arxiv](http://arxiv.org/abs/2406.05814v1), [pdf](http://arxiv.org/pdf/2406.05814v1.pdf), cication: [**-1**](None)
 
 	 *Leigang Qu, Haochuan Li, Tan Wang, Wenjie Wang, Yongqi Li, Liqiang Nie, Tat-Seng Chua*
@@ -255,6 +261,14 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- **Invertible Consistency Distillation for Text-Guided Image Editing in
+  Around 7 Steps**, `arXiv, 2406.14539`, [arxiv](http://arxiv.org/abs/2406.14539v1), [pdf](http://arxiv.org/pdf/2406.14539v1.pdf), cication: [**-1**](None)
+
+	 *Nikita Starodubcev, Mikhail Khoroshikh, Artem Babenko, Dmitry Baranchuk*
+- **The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN
+  Inversion and High Quality Image Editing**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2406.10601v1), [pdf](http://arxiv.org/pdf/2406.10601v1.pdf), cication: [**-1**](None)
+
+	 *Denis Bobkov, Vadim Titov, Aibek Alanov, Dmitry Vetrov* · ([stylefeatureeditor](https://github.com/airi-institute/stylefeatureeditor) - airi-institute) ![Star](https://img.shields.io/github/stars/airi-institute/stylefeatureeditor.svg?style=social&label=Star)
 - **Zero-shot Image Editing with Reference Imitation**, `arXiv, 2406.07547`, [arxiv](http://arxiv.org/abs/2406.07547v1), [pdf](http://arxiv.org/pdf/2406.07547v1.pdf), cication: [**-1**](None)
 
 	 *Xi Chen, Yutong Feng, Mengting Chen, Yiyang Wang, Shilong Zhang, Yu Liu, Yujun Shen, Hengshuang Zhao*

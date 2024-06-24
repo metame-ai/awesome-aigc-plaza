@@ -37,6 +37,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **ExVideo: Extending Video Diffusion Models via Parameter-Efficient
+  Post-Tuning**, `arXiv, 2406.14130`, [arxiv](http://arxiv.org/abs/2406.14130v1), [pdf](http://arxiv.org/pdf/2406.14130v1.pdf), cication: [**-1**](None)
+
+	 *Zhongjie Duan, Wenmeng Zhou, Cen Chen, Yaliang Li, Weining Qian* · ([ecnu-cilab.github](https://ecnu-cilab.github.io/ExVideoProjectPage/))
 - **Training-free Camera Control for Video Generation**, `arXiv, 2406.10126`, [arxiv](http://arxiv.org/abs/2406.10126v1), [pdf](http://arxiv.org/pdf/2406.10126v1.pdf), cication: [**-1**](None)
 
 	 *Chen Hou, Guoqiang Wei, Yan Zeng, Zhibo Chen* · ([lifedecoder.github](https://lifedecoder.github.io/CamTrol/))
@@ -534,6 +538,13 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**, `arXiv, 2401.16224`, [arxiv](http://arxiv.org/abs/2401.16224v1), [pdf](http://arxiv.org/pdf/2401.16224v1.pdf), cication: [**-1**](None)
+
+	 *Zhongjie Duan, Chengyu Wang, Cen Chen, Weining Qian, Jun Huang* · ([DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)
+- **VIA: A Spatiotemporal Video Adaptation Framework for Global and Local
+  Video Editing**, `arXiv, 2406.12831`, [arxiv](http://arxiv.org/abs/2406.12831v1), [pdf](http://arxiv.org/pdf/2406.12831v1.pdf), cication: [**-1**](None)
+
+	 *Jing Gu, Yuwei Fang, Ivan Skorokhodov, Peter Wonka, Xinya Du, Sergey Tulyakov, Xin Eric Wang*
 - **VMC: Video Motion Customization using Temporal Attention Adaption for
   Text-to-Video Diffusion Models**, `arXiv, 2312.00845`, [arxiv](http://arxiv.org/abs/2312.00845v1), [pdf](http://arxiv.org/pdf/2312.00845v1.pdf), cication: [**-1**](None)
 

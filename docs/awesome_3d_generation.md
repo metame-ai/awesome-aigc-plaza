@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **MeshAnything: Artist-Created Mesh Generation with Autoregressive
+  Transformers**, `arXiv, 2406.10163`, [arxiv](http://arxiv.org/abs/2406.10163v1), [pdf](http://arxiv.org/pdf/2406.10163v1.pdf), cication: [**-1**](None)
+
+	 *Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Xin Chen, Zhongang Cai, Lei Yang, Gang Yu* · ([MeshAnything](https://github.com/buaacyw/MeshAnything?tab=readme-ov-file) - buaacyw) ![Star](https://img.shields.io/github/stars/buaacyw/MeshAnything.svg?style=social&label=Star)
 - **CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and
   Interactive Geometry Refiner**, `arXiv, 2405.14979`, [arxiv](http://arxiv.org/abs/2405.14979v1), [pdf](http://arxiv.org/pdf/2405.14979v1.pdf), cication: [**-1**](None)
 
@@ -198,6 +202,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **L4GM: Large 4D Gaussian Reconstruction Model**, `arXiv, 2406.10324`, [arxiv](http://arxiv.org/abs/2406.10324v1), [pdf](http://arxiv.org/pdf/2406.10324v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Ren, Kevin Xie, Ashkan Mirzaei, Hanxue Liang, Xiaohui Zeng, Karsten Kreis, Ziwei Liu, Antonio Torralba, Sanja Fidler, Seung Wook Kim* · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/l4gm/))
 - **Physics3D: Learning Physical Properties of 3D Gaussians via Video
   Diffusion**, `arXiv, 2406.04338`, [arxiv](http://arxiv.org/abs/2406.04338v3), [pdf](http://arxiv.org/pdf/2406.04338v3.pdf), cication: [**-1**](None)
 
