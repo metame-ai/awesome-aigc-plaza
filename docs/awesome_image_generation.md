@@ -21,6 +21,10 @@
 
 
 ## Survey
+- **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
+  Models**, `arXiv, 2406.14555`, [arxiv](http://arxiv.org/abs/2406.14555v1), [pdf](http://arxiv.org/pdf/2406.14555v1.pdf), cication: [**-1**](None)
+
+	 *Xincheng Shuai, Henghui Ding, Xingjun Ma, Rongcheng Tu, Yu-Gang Jiang, Dacheng Tao* · ([awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing) - xinchengshuai) ![Star](https://img.shields.io/github/stars/xinchengshuai/awesome-image-editing.svg?style=social&label=Star)
 - **A Survey on Personalized Content Synthesis with Diffusion Models**, `arXiv, 2405.05538`, [arxiv](http://arxiv.org/abs/2405.05538v1), [pdf](http://arxiv.org/pdf/2405.05538v1.pdf), cication: [**-1**](None)
 
 	 *Xulu Zhang, Xiao-Yong Wei, Wengyu Zhang, Jinlin Wu, Zhaoxiang Zhang, Zhen Lei, Qing Li*
@@ -261,6 +265,10 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
+  Models**, `arXiv, 2406.14555`, [arxiv](http://arxiv.org/abs/2406.14555v1), [pdf](http://arxiv.org/pdf/2406.14555v1.pdf), cication: [**-1**](None)
+
+	 *Xincheng Shuai, Henghui Ding, Xingjun Ma, Rongcheng Tu, Yu-Gang Jiang, Dacheng Tao* · ([awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing) - xinchengshuai) ![Star](https://img.shields.io/github/stars/xinchengshuai/awesome-image-editing.svg?style=social&label=Star)
 - **Invertible Consistency Distillation for Text-Guided Image Editing in
   Around 7 Steps**, `arXiv, 2406.14539`, [arxiv](http://arxiv.org/abs/2406.14539v1), [pdf](http://arxiv.org/pdf/2406.14539v1.pdf), cication: [**-1**](None)
 
@@ -459,13 +467,21 @@
 - **Improving Diffusion Models for Virtual Try-on**, `arXiv, 2403.05139`, [arxiv](http://arxiv.org/abs/2403.05139v2), [pdf](http://arxiv.org/pdf/2403.05139v2.pdf), cication: [**-1**](None)
 
 	 *Yisol Choi, Sangkyung Kwak, Kyungmin Lee, Hyungwon Choi, Jinwoo Shin* · ([IDM-VTON](https://github.com/yisol/IDM-VTON) - yisol) ![Star](https://img.shields.io/github/stars/yisol/IDM-VTON.svg?style=social&label=Star)
+- **Magic Clothing: Controllable Garment-Driven Image Synthesis**, `arXiv, 2404.09512`, [arxiv](http://arxiv.org/abs/2404.09512v1), [pdf](http://arxiv.org/pdf/2404.09512v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=9611620576309210958&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Weifeng Chen, Tao Gu, Yuhao Xu, Chengcai Chen* · ([MagicClothing](https://github.com/ShineChen1024/MagicClothing?tab=readme-ov-file) - ShineChen1024) ![Star](https://img.shields.io/github/stars/ShineChen1024/MagicClothing.svg?style=social&label=Star)
 - **Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence
   Alignment**, `arXiv, 2403.12965`, [arxiv](http://arxiv.org/abs/2403.12965v1), [pdf](http://arxiv.org/pdf/2403.12965v1.pdf), cication: [**-1**](None)
 
 	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
 ---
+- [**awesome-virtual-try-on**](https://github.com/minar09/awesome-virtual-try-on) - minar09 ![Star](https://img.shields.io/github/stars/minar09/awesome-virtual-try-on.svg?style=social&label=Star)
+
+	 *A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.*
 - [CVPR 2024 Workshop: Virtual Try-On](https://vto-cvpr24.github.io/index.html)
+- [基于Stable Diffusion的AIGC服饰穿搭实践-CSDN博客](https://blog.csdn.net/Taobaojishu/article/details/132632670)
+
 ## Projects
 - [**kivotos-xl-2.0**](https://huggingface.co/yodayo-ai/kivotos-xl-2.0) - yodayo-ai 🤗
 - [**Fluently-XL-Final**](https://huggingface.co/fluently/Fluently-XL-Final) - fluently 🤗
