@@ -96,6 +96,11 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Stylebreeder: Exploring and Democratizing Artistic Styles through
+  Text-to-Image Models**, `arXiv, 2406.14599`, [arxiv](http://arxiv.org/abs/2406.14599v1), [pdf](http://arxiv.org/pdf/2406.14599v1.pdf), cication: [**-1**](None)
+
+	 *Matthew Zheng, Enis Simsar, Hidir Yesiltepe, Federico Tombari, Joel Simon, Pinar Yanardag* · ([stylebreeder.github](https://stylebreeder.github.io/))
+	- 
 - **Make It Count: Text-to-Image Generation with an Accurate Number of
   Objects**, `arXiv, 2406.10210`, [arxiv](http://arxiv.org/abs/2406.10210v1), [pdf](http://arxiv.org/pdf/2406.10210v1.pdf), cication: [**-1**](None)
 
@@ -375,6 +380,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image
+  Generation**, `arXiv, 2406.01388`, [arxiv](http://arxiv.org/abs/2406.01388v2), [pdf](http://arxiv.org/pdf/2406.01388v2.pdf), cication: [**-1**](None)
+
+	 *Junhao Cheng, Xi Lu, Hanhui Li, Khun Loun Zai, Baiqiao Yin, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang* · ([AutoStudio](https://github.com/donahowe/AutoStudio?tab=readme-ov-file) - donahowe) ![Star](https://img.shields.io/github/stars/donahowe/AutoStudio.svg?style=social&label=Star)
 - **MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout
   Guidance**, `arXiv, 2406.07209`, [arxiv](http://arxiv.org/abs/2406.07209v1), [pdf](http://arxiv.org/pdf/2406.07209v1.pdf), cication: [**-1**](None)
 
@@ -483,6 +492,9 @@
 - [基于Stable Diffusion的AIGC服饰穿搭实践-CSDN博客](https://blog.csdn.net/Taobaojishu/article/details/132632670)
 
 ## Projects
+- [**DiffSynth-Studio**](https://github.com/modelscope/DiffSynth-Studio?tab=readme-ov-file) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)
+
+	 *Enjoy the magic of Diffusion models!*
 - [**kivotos-xl-2.0**](https://huggingface.co/yodayo-ai/kivotos-xl-2.0) - yodayo-ai 🤗
 - [**Fluently-XL-Final**](https://huggingface.co/fluently/Fluently-XL-Final) - fluently 🤗
 - [**cosxl**](https://huggingface.co/spaces/multimodalart/cosxl) - multimodalart 🤗
@@ -492,6 +504,10 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback
+  for Text-to-Image Generation**, `arXiv, 2406.16807`, [arxiv](http://arxiv.org/abs/2406.16807v1), [pdf](http://arxiv.org/pdf/2406.16807v1.pdf), cication: [**-1**](None)
+
+	 *Katherine M. Collins, Najoung Kim, Yonatan Bitton, Verena Rieser, Shayegan Omidshafiei, Yushi Hu, Sherol Chen, Senjuti Dutta, Minsuk Chang, Kimin Lee*
 - **Alleviating Distortion in Image Generation via Multi-Resolution
   Diffusion Models**, `arXiv, 2406.09416`, [arxiv](http://arxiv.org/abs/2406.09416v1), [pdf](http://arxiv.org/pdf/2406.09416v1.pdf), cication: [**-1**](None)
 
@@ -548,6 +564,10 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- **DreamBench++: A Human-Aligned Benchmark for Personalized Image
+  Generation**, `arXiv, 2406.16855`, [arxiv](http://arxiv.org/abs/2406.16855v1), [pdf](http://arxiv.org/pdf/2406.16855v1.pdf), cication: [**-1**](None)
+
+	 *Yuang Peng, Yuxin Cui, Haomiao Tang, Zekun Qi, Runpei Dong, Jing Bai, Chunrui Han, Zheng Ge, Xiangyu Zhang, Shu-Tao Xia*
 - **A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**, `arXiv, 2406.03070`, [arxiv](http://arxiv.org/abs/2406.03070v1), [pdf](http://arxiv.org/pdf/2406.03070v1.pdf), cication: [**-1**](None)
 
 	 *Zicheng Zhang, Haoning Wu, Chunyi Li, Yingjie Zhou, Wei Sun, Xiongkuo Min, Zijian Chen, Xiaohong Liu, Weisi Lin, Guangtao Zhai* · ([a-bench](https://github.com/q-future/a-bench) - q-future) ![Star](https://img.shields.io/github/stars/q-future/a-bench.svg?style=social&label=Star)

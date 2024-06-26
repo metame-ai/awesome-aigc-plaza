@@ -37,6 +37,12 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Text-Animator: Controllable Visual Text Video Generation**, `arXiv, 2406.17777`, [arxiv](http://arxiv.org/abs/2406.17777v1), [pdf](http://arxiv.org/pdf/2406.17777v1.pdf), cication: [**-1**](None)
+
+	 *Lin Liu, Quande Liu, Shengju Qian, Yuan Zhou, Wengang Zhou, Houqiang Li, Lingxi Xie, Qi Tian* · ([laulampaul.github](https://laulampaul.github.io/text-animator.html))
+- **Video-Infinity: Distributed Long Video Generation**, `arXiv, 2406.16260`, [arxiv](http://arxiv.org/abs/2406.16260v1), [pdf](http://arxiv.org/pdf/2406.16260v1.pdf), cication: [**-1**](None)
+
+	 *Zhenxiong Tan, Xingyi Yang, Songhua Liu, Xinchao Wang* · ([Video-Infinity](https://github.com/Yuanshi9815/Video-Infinity) - Yuanshi9815) ![Star](https://img.shields.io/github/stars/Yuanshi9815/Video-Infinity.svg?style=social&label=Star) · ([video-infinity.tanzhenxiong](https://video-infinity.tanzhenxiong.com/))
 - **ExVideo: Extending Video Diffusion Models via Parameter-Efficient
   Post-Tuning**, `arXiv, 2406.14130`, [arxiv](http://arxiv.org/abs/2406.14130v1), [pdf](http://arxiv.org/pdf/2406.14130v1.pdf), cication: [**-1**](None)
 
@@ -663,6 +669,12 @@
 - [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)
 
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
+
+## Alignment
+- **VideoScore: Building Automatic Metrics to Simulate Fine-grained Human
+  Feedback for Video Generation**, `arXiv, 2406.15252`, [arxiv](http://arxiv.org/abs/2406.15252v2), [pdf](http://arxiv.org/pdf/2406.15252v2.pdf), cication: [**-1**](None)
+
+	 *Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/VideoScore/))
 
 ## Projects
 - [**VGen**](https://github.com/ali-vilab/VGen) - ali-vilab ![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)
