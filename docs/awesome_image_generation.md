@@ -458,6 +458,7 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
+- [**AuraSR**](https://huggingface.co/fal-ai/AuraSR) - fal-ai 🤗
 - **BeyondScene: Higher-Resolution Human-Centric Scene Generation With
   Pretrained Diffusion**, `arXiv, 2404.04544`, [arxiv](http://arxiv.org/abs/2404.04544v1), [pdf](http://arxiv.org/pdf/2404.04544v1.pdf), cication: [**-1**](None)
 
@@ -504,6 +505,9 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **Aligning Diffusion Models with Noise-Conditioned Perception**, `arXiv, 2406.17636`, [arxiv](http://arxiv.org/abs/2406.17636v1), [pdf](http://arxiv.org/pdf/2406.17636v1.pdf), cication: [**-1**](None)
+
+	 *Alexander Gambashidze, Anton Kulikov, Yuriy Sosnin, Ilya Makarov* · ([huggingface](https://huggingface.co/alexgambashidze/SDXL_NCP-DPO_v0.1))
 - **Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback
   for Text-to-Image Generation**, `arXiv, 2406.16807`, [arxiv](http://arxiv.org/abs/2406.16807v1), [pdf](http://arxiv.org/pdf/2406.16807v1.pdf), cication: [**-1**](None)
 
@@ -564,6 +568,9 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- **Fantastic Copyrighted Beasts and How (Not) to Generate Them**, `arXiv, 2406.14526`, [arxiv](http://arxiv.org/abs/2406.14526v1), [pdf](http://arxiv.org/pdf/2406.14526v1.pdf), cication: [**-1**](None)
+
+	 *Luxi He, Yangsibo Huang, Weijia Shi, Tinghao Xie, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson* · ([qbitai](https://www.qbitai.com/2024/06/158556.html))
 - **DreamBench++: A Human-Aligned Benchmark for Personalized Image
   Generation**, `arXiv, 2406.16855`, [arxiv](http://arxiv.org/abs/2406.16855v1), [pdf](http://arxiv.org/pdf/2406.16855v1.pdf), cication: [**-1**](None)
 

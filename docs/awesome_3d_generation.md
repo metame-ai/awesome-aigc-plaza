@@ -47,6 +47,10 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **YouDream: Generating Anatomically Controllable Consistent Text-to-3D
+  Animals**, `arXiv, 2406.16273`, [arxiv](http://arxiv.org/abs/2406.16273v1), [pdf](http://arxiv.org/pdf/2406.16273v1.pdf), cication: [**-1**](None)
+
+	 *Sandeep Mishra, Oindrila Saha, Alan C. Bovik* · ([youdream3d.github](https://youdream3d.github.io/))
 - **Atlas3D: Physically Constrained Self-Supporting Text-to-3D for
   Simulation and Fabrication**, `arXiv, 2405.18515`, [arxiv](http://arxiv.org/abs/2405.18515v1), [pdf](http://arxiv.org/pdf/2405.18515v1.pdf), cication: [**-1**](None)
 

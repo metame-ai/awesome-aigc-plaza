@@ -37,6 +37,12 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **MotionBooth: Motion-Aware Customized Text-to-Video Generation**, `arXiv, 2406.17758`, [arxiv](http://arxiv.org/abs/2406.17758v1), [pdf](http://arxiv.org/pdf/2406.17758v1.pdf), cication: [**-1**](None)
+
+	 *Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen* · ([jianzongwu.github](https://jianzongwu.github.io/projects/motionbooth/))
+- [**OpenDiT**](https://github.com/NUS-HPC-AI-Lab/OpenDiT?tab=readme-ov-file#pyramid-attention-broadcast-pab-blogdoc) - NUS-HPC-AI-Lab ![Star](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/OpenDiT.svg?style=social&label=Star)
+
+	 *OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference* · ([oahzxl.github](https://oahzxl.github.io/PAB/))
 - **Text-Animator: Controllable Visual Text Video Generation**, `arXiv, 2406.17777`, [arxiv](http://arxiv.org/abs/2406.17777v1), [pdf](http://arxiv.org/pdf/2406.17777v1.pdf), cication: [**-1**](None)
 
 	 *Lin Liu, Quande Liu, Shengju Qian, Yuan Zhou, Wengang Zhou, Houqiang Li, Lingxi Xie, Qi Tian* · ([laulampaul.github](https://laulampaul.github.io/text-animator.html))
