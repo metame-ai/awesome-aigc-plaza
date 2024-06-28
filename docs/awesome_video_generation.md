@@ -37,6 +37,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**, `arXiv, 2406.18583`, [arxiv](http://arxiv.org/abs/2406.18583v1), [pdf](http://arxiv.org/pdf/2406.18583v1.pdf), cication: [**-1**](None)
+
+	 *Le Zhuo, Ruoyi Du, Han Xiao, Yangguang Li, Dongyang Liu, Rongjie Huang, Wenze Liu, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma* · ([Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation**, `arXiv, 2406.17758`, [arxiv](http://arxiv.org/abs/2406.17758v1), [pdf](http://arxiv.org/pdf/2406.17758v1.pdf), cication: [**-1**](None)
 
 	 *Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen* · ([jianzongwu.github](https://jianzongwu.github.io/projects/motionbooth/))

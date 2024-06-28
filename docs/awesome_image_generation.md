@@ -458,6 +458,10 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
+- **ResMaster: Mastering High-Resolution Image Generation via Structural and
+  Fine-Grained Guidance**, `arXiv, 2406.16476`, [arxiv](http://arxiv.org/abs/2406.16476v1), [pdf](http://arxiv.org/pdf/2406.16476v1.pdf), cication: [**-1**](None)
+
+	 *Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng* · ([ResMaster](https://github.com/Shuweis/ResMaster) - Shuweis) ![Star](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star) · ([shuweis.github](https://shuweis.github.io/ResMaster/))
 - [**AuraSR**](https://huggingface.co/fal-ai/AuraSR) - fal-ai 🤗
 - **BeyondScene: Higher-Resolution Human-Centric Scene Generation With
   Pretrained Diffusion**, `arXiv, 2404.04544`, [arxiv](http://arxiv.org/abs/2404.04544v1), [pdf](http://arxiv.org/pdf/2404.04544v1.pdf), cication: [**-1**](None)
