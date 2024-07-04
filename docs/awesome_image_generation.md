@@ -360,6 +360,9 @@
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
+- [**opendit**](https://github.com/nus-hpc-ai-lab/opendit) - nus-hpc-ai-lab ![Star](https://img.shields.io/github/stars/nus-hpc-ai-lab/opendit.svg?style=social&label=Star)
+
+	 *OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference*
 - **DiTFastAttn: Attention Compression for Diffusion Transformer Models**, `arXiv, 2406.08552`, [arxiv](http://arxiv.org/abs/2406.08552v1), [pdf](http://arxiv.org/pdf/2406.08552v1.pdf), cication: [**-1**](None)
 
 	 *Zhihang Yuan, Pu Lu, Hanling Zhang, Xuefei Ning, Linfeng Zhang, Tianchen Zhao, Shengen Yan, Guohao Dai, Yu Wang*
@@ -458,6 +461,9 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
+- [[2406.13457] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution](https://arxiv.org/abs/2406.13457)
+
+	 · ([evtexture](https://github.com/dachunkai/evtexture) - dachunkai) ![Star](https://img.shields.io/github/stars/dachunkai/evtexture.svg?style=social&label=Star)
 - **ResMaster: Mastering High-Resolution Image Generation via Structural and
   Fine-Grained Guidance**, `arXiv, 2406.16476`, [arxiv](http://arxiv.org/abs/2406.16476v1), [pdf](http://arxiv.org/pdf/2406.16476v1.pdf), cication: [**-1**](None)
 
@@ -601,6 +607,9 @@
 - **Interpreting the Weight Space of Customized Diffusion Models**, `arXiv, 2406.09413`, [arxiv](http://arxiv.org/abs/2406.09413v1), [pdf](http://arxiv.org/pdf/2406.09413v1.pdf), cication: [**-1**](None)
 
 	 *Amil Dravid, Yossi Gandelsman, Kuan-Chieh Wang, Rameen Abdal, Gordon Wetzstein, Alexei A. Efros, Kfir Aberman*
+
+## Chat Image
+- [2309.15516](https://arxiv.org/pdf/2309.15516)
 
 ## Products
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)

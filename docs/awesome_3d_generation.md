@@ -47,6 +47,9 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials](https://assetgen.github.io/static/AssetGen.pdf)
+
+	 · ([assetgen.github](https://assetgen.github.io/))
 - **YouDream: Generating Anatomically Controllable Consistent Text-to-3D
   Animals**, `arXiv, 2406.16273`, [arxiv](http://arxiv.org/abs/2406.16273v1), [pdf](http://arxiv.org/pdf/2406.16273v1.pdf), cication: [**-1**](None)
 
