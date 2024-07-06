@@ -96,6 +96,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [[2406.18958] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation](https://arxiv.org/abs/2406.18958)
+
+	 · ([any-control.github](https://any-control.github.io/)) · ([AnyControl](https://github.com/open-mmlab/AnyControl) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/AnyControl.svg?style=social&label=Star)
 - **Stylebreeder: Exploring and Democratizing Artistic Styles through
   Text-to-Image Models**, `arXiv, 2406.14599`, [arxiv](http://arxiv.org/abs/2406.14599v1), [pdf](http://arxiv.org/pdf/2406.14599v1.pdf), cication: [**-1**](None)
 

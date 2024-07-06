@@ -372,6 +372,9 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [[2406.19680] MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://arxiv.org/abs/2406.19680)
+
+	 · ([MimicMotion](https://github.com/tencent/MimicMotion) - tencent) ![Star](https://img.shields.io/github/stars/tencent/MimicMotion.svg?style=social&label=Star) · ([tencent.github](https://tencent.github.io/MimicMotion/))
 - **MOFA-Video: Controllable Image Animation via Generative Motion Field
   Adaptions in Frozen Image-to-Video Diffusion Model**, `arXiv, 2405.20222`, [arxiv](http://arxiv.org/abs/2405.20222v2), [pdf](http://arxiv.org/pdf/2405.20222v2.pdf), cication: [**-1**](None)
 
@@ -648,6 +651,7 @@
 	 *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang* · ([DeMamba](https://github.com/chenhaoxing/DeMamba) - chenhaoxing) ![Star](https://img.shields.io/github/stars/chenhaoxing/DeMamba.svg?style=social&label=Star)
 
 ## Datasets
+- [[2407.02371] OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371)
 - **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
   Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v3), [pdf](http://arxiv.org/pdf/2403.06098v3.pdf), cication: [**-1**](None)
 
