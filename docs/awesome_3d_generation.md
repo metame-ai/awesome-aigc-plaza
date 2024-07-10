@@ -47,10 +47,15 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
-- [Fetching Title#evo5](https://arxiv.org/abs/2406.18462)
+- **GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly
+  Enhanced Quality**, `arXiv, 2406.18462`, [arxiv](http://arxiv.org/abs/2406.18462v1), [pdf](http://arxiv.org/pdf/2406.18462v1.pdf), cication: [**-1**](None)
+
+	 *Taoran Yi, Jiemin Fang, Zanwei Zhou, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Xinggang Wang, Qi Tian*
 
 	 · ([taoranyi](https://taoranyi.com/gaussiandreamerpro/))
-- [2407.02599](https://arxiv.org/pdf/2407.02599)
+- **Meta 3D Gen**, `arXiv, 2407.02599`, [arxiv](http://arxiv.org/abs/2407.02599v1), [pdf](http://arxiv.org/pdf/2407.02599v1.pdf), cication: [**-1**](None)
+
+	 *Raphael Bensadoun, Tom Monnier, Yanir Kleiman, Filippos Kokkinos, Yawar Siddiqui, Mahendra Kariya, Omri Harosh, Roman Shapovalov, Benjamin Graham, Emilien Garreau*
 
 	 · ([assetgen.github](https://assetgen.github.io/static/AssetGen.pdf))
 	 · ([assetgen.github](https://assetgen.github.io/))

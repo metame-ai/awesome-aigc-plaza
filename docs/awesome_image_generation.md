@@ -42,7 +42,9 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
-- [[2406.19997] Wavelets Are All You Need for Autoregressive Image Generation](https://arxiv.org/abs/2406.19997)
+- **Wavelets Are All You Need for Autoregressive Image Generation**, `arXiv, 2406.19997`, [arxiv](http://arxiv.org/abs/2406.19997v1), [pdf](http://arxiv.org/pdf/2406.19997v1.pdf), cication: [**-1**](None)
+
+	 *Wael Mattar, Idan Levy, Nir Sharon, Shai Dekel*
 - [**Kolors**](https://github.com/Kwai-Kolors/Kolors?tab=readme-ov-file) - Kwai-Kolors ![Star](https://img.shields.io/github/stars/Kwai-Kolors/Kolors.svg?style=social&label=Star)
 
 	 *Kolors Team*
@@ -100,9 +102,17 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
-- [[2407.02489] Magic Insert: Style-Aware Drag-and-Drop](https://arxiv.org/abs/2407.02489)
-- [[2407.00788] InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation](https://arxiv.org/abs/2407.00788)
-- [[2406.18958] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation](https://arxiv.org/abs/2406.18958)
+- **Magic Insert: Style-Aware Drag-and-Drop**, `arXiv, 2407.02489`, [arxiv](http://arxiv.org/abs/2407.02489v1), [pdf](http://arxiv.org/pdf/2407.02489v1.pdf), cication: [**-1**](None)
+
+	 *Nataniel Ruiz, Yuanzhen Li, Neal Wadhwa, Yael Pritch, Michael Rubinstein, David E. Jacobs, Shlomi Fruchter*
+- **InstantStyle-Plus: Style Transfer with Content-Preserving in
+  Text-to-Image Generation**, `arXiv, 2407.00788`, [arxiv](http://arxiv.org/abs/2407.00788v1), [pdf](http://arxiv.org/pdf/2407.00788v1.pdf), cication: [**-1**](None)
+
+	 *Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai*
+- **AnyControl: Create Your Artwork with Versatile Control on Text-to-Image
+  Generation**, `arXiv, 2406.18958`, [arxiv](http://arxiv.org/abs/2406.18958v2), [pdf](http://arxiv.org/pdf/2406.18958v2.pdf), cication: [**-1**](None)
+
+	 *Yanan Sun, Yanchen Liu, Yinhao Tang, Wenjie Pei, Kai Chen*
 
 	 · ([any-control.github](https://any-control.github.io/)) · ([AnyControl](https://github.com/open-mmlab/AnyControl) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/AnyControl.svg?style=social&label=Star)
 - **Stylebreeder: Exploring and Democratizing Artistic Styles through
@@ -279,7 +289,9 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
-- [[2407.05282] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale](https://arxiv.org/abs/2407.05282)
+- **UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**, `arXiv, 2407.05282`, [arxiv](http://arxiv.org/abs/2407.05282v1), [pdf](http://arxiv.org/pdf/2407.05282v1.pdf), cication: [**-1**](None)
+
+	 *Haozhe Zhao, Xiaojian Ma, Liang Chen, Shuzheng Si, Rujie Wu, Kaikai An, Peiyu Yu, Minjia Zhang, Qing Li, Baobao Chang*
 
 	 · ([ultra-editing.github](https://ultra-editing.github.io/))
 - **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
@@ -473,10 +485,14 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
-- [[2407.02158] UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks](https://arxiv.org/abs/2407.02158)
+- **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**, `arXiv, 2407.02158`, [arxiv](http://arxiv.org/abs/2407.02158v2), [pdf](http://arxiv.org/pdf/2407.02158v2.pdf), cication: [**-1**](None)
+
+	 *Jingjing Ren, Wenbo Li, Haoyu Chen, Renjing Pei, Bin Shao, Yong Guo, Long Peng, Fenglong Song, Lei Zhu*
 
 	 · ([jingjingrenabc.github](https://jingjingrenabc.github.io/ultrapixel/))
-- [[2406.13457] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution](https://arxiv.org/abs/2406.13457)
+- **EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**, `arXiv, 2406.13457`, [arxiv](http://arxiv.org/abs/2406.13457v1), [pdf](http://arxiv.org/pdf/2406.13457v1.pdf), cication: [**-1**](None)
+
+	 *Dachun Kai, Jiayao Lu, Yueyi Zhang, Xiaoyan Sun*
 
 	 · ([evtexture](https://github.com/dachunkai/evtexture) - dachunkai) ![Star](https://img.shields.io/github/stars/dachunkai/evtexture.svg?style=social&label=Star)
 - **ResMaster: Mastering High-Resolution Image Generation via Structural and
@@ -531,10 +547,15 @@
 
 ## Optimization
 
-- [[2407.01392] Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
+- **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**, `arXiv, 2407.01392`, [arxiv](http://arxiv.org/abs/2407.01392v3), [pdf](http://arxiv.org/pdf/2407.01392v3.pdf), cication: [**-1**](None)
+
+	 *Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann*
 
 	 · ([diffusion-forcing](https://github.com/buoyancy99/diffusion-forcing) - buoyancy99) ![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)
-- [Fetching Title#4m03](https://arxiv.org/abs/2407.02687)
+- **No Training, No Problem: Rethinking Classifier-Free Guidance for
+  Diffusion Models**, `arXiv, 2407.02687`, [arxiv](http://arxiv.org/abs/2407.02687v1), [pdf](http://arxiv.org/pdf/2407.02687v1.pdf), cication: [**-1**](None)
+
+	 *Seyedmorteza Sadat, Manuel Kansy, Otmar Hilliges, Romann M. Weber*
 
 	 · ([twitter](https://twitter.com/Msadat97/status/1808780460912263418))
 - **Aligning Diffusion Models with Noise-Conditioned Perception**, `arXiv, 2406.17636`, [arxiv](http://arxiv.org/abs/2406.17636v1), [pdf](http://arxiv.org/pdf/2406.17636v1.pdf), cication: [**-1**](None)
@@ -600,7 +621,10 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
-- [[2407.04842] MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](https://arxiv.org/abs/2407.04842)
+- **MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for
+  Text-to-Image Generation?**, `arXiv, 2407.04842`, [arxiv](http://arxiv.org/abs/2407.04842v1), [pdf](http://arxiv.org/pdf/2407.04842v1.pdf), cication: [**-1**](None)
+
+	 *Zhaorun Chen, Yichao Du, Zichen Wen, Yiyang Zhou, Chenhang Cui, Zhenzhen Weng, Haoqin Tu, Chaoqi Wang, Zhengwei Tong, Qinglan Huang*
 
 	 · ([MJ-Bench](https://github.com/MJ-Bench/MJ-Bench) - MJ-Bench) ![Star](https://img.shields.io/github/stars/MJ-Bench/MJ-Bench.svg?style=social&label=Star)
 - **Fantastic Copyrighted Beasts and How (Not) to Generate Them**, `arXiv, 2406.14526`, [arxiv](http://arxiv.org/abs/2406.14526v1), [pdf](http://arxiv.org/pdf/2406.14526v1.pdf), cication: [**-1**](None)
@@ -634,7 +658,9 @@
 	 *Amil Dravid, Yossi Gandelsman, Kuan-Chieh Wang, Rameen Abdal, Gordon Wetzstein, Alexei A. Efros, Kfir Aberman*
 
 ## Chat Image
-- [2309.15516](https://arxiv.org/pdf/2309.15516)
+- **Teaching Text-to-Image Models to Communicate in Dialog**, `arXiv, 2309.15516`, [arxiv](http://arxiv.org/abs/2309.15516v2), [pdf](http://arxiv.org/pdf/2309.15516v2.pdf), cication: [**-1**](None)
+
+	 *Xiaowen Sun, Jiazhan Feng, Yuxuan Wang, Yuxuan Lai, Xingyu Shen, Dongyan Zhao*
 
 ## Products
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)

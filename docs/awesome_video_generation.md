@@ -37,7 +37,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [Fetching Title#1e2b](https://arxiv.org/abs/2407.06182)
+- **Compositional Video Generation as Flow Equalization**, `arXiv, 2407.06182`, [arxiv](http://arxiv.org/abs/2407.06182v1), [pdf](http://arxiv.org/pdf/2407.06182v1.pdf), cication: [**-1**](None)
+
+	 *Xingyi Yang, Xinchao Wang*
 
 	 · ([adamdad.github](https://adamdad.github.io/vico/))
 - **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**, `arXiv, 2406.18583`, [arxiv](http://arxiv.org/abs/2406.18583v1), [pdf](http://arxiv.org/pdf/2406.18583v1.pdf), cication: [**-1**](None)
@@ -375,7 +377,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
-- [[2406.19680] MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://arxiv.org/abs/2406.19680)
+- **MimicMotion: High-Quality Human Motion Video Generation with
+  Confidence-aware Pose Guidance**, `arXiv, 2406.19680`, [arxiv](http://arxiv.org/abs/2406.19680v1), [pdf](http://arxiv.org/pdf/2406.19680v1.pdf), cication: [**-1**](None)
+
+	 *Yuang Zhang, Jiaxi Gu, Li-Wen Wang, Han Wang, Junqi Cheng, Yuefeng Zhu, Fangyuan Zou*
 
 	 · ([MimicMotion](https://github.com/tencent/MimicMotion) - tencent) ![Star](https://img.shields.io/github/stars/tencent/MimicMotion.svg?style=social&label=Star) · ([tencent.github](https://tencent.github.io/MimicMotion/))
 - **MOFA-Video: Controllable Image Animation via Generative Motion Field
@@ -648,7 +653,9 @@
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 
 ## Dection
-- [Fetching Title#v2ww](https://arxiv.org/abs/2406.19568)
+- **What Matters in Detecting AI-Generated Videos like Sora?**, `arXiv, 2406.19568`, [arxiv](http://arxiv.org/abs/2406.19568v1), [pdf](http://arxiv.org/pdf/2406.19568v1.pdf), cication: [**-1**](None)
+
+	 *Chirui Chang, Zhengzhe Liu, Xiaoyang Lyu, Xiaojuan Qi*
 
 	 · ([justin-crchang.github](https://justin-crchang.github.io/3DCNNDetection.github.io/))
 - **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo
@@ -657,7 +664,10 @@
 	 *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang* · ([DeMamba](https://github.com/chenhaoxing/DeMamba) - chenhaoxing) ![Star](https://img.shields.io/github/stars/chenhaoxing/DeMamba.svg?style=social&label=Star)
 
 ## Datasets
-- [[2407.02371] OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371)
+- **OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video
+  Generation**, `arXiv, 2407.02371`, [arxiv](http://arxiv.org/abs/2407.02371v1), [pdf](http://arxiv.org/pdf/2407.02371v1.pdf), cication: [**-1**](None)
+
+	 *Kepan Nan, Rui Xie, Penghao Zhou, Tiehan Fan, Zhenheng Yang, Zhijie Chen, Xiang Li, Jian Yang, Ying Tai*
 
 	 · ([nju-pcalab.github](https://nju-pcalab.github.io/projects/openvid))
 - **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
