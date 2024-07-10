@@ -42,6 +42,10 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- [[2406.19997] Wavelets Are All You Need for Autoregressive Image Generation](https://arxiv.org/abs/2406.19997)
+- [**Kolors**](https://github.com/Kwai-Kolors/Kolors?tab=readme-ov-file) - Kwai-Kolors ![Star](https://img.shields.io/github/stars/Kwai-Kolors/Kolors.svg?style=social&label=Star)
+
+	 *Kolors Team*
 - **Exploring the Role of Large Language Models in Prompt Encoding for
   Diffusion Models**, `arXiv, 2406.11831`, [arxiv](http://arxiv.org/abs/2406.11831v2), [pdf](http://arxiv.org/pdf/2406.11831v2.pdf), cication: [**-1**](None)
 
@@ -96,6 +100,8 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [[2407.02489] Magic Insert: Style-Aware Drag-and-Drop](https://arxiv.org/abs/2407.02489)
+- [[2407.00788] InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation](https://arxiv.org/abs/2407.00788)
 - [[2406.18958] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation](https://arxiv.org/abs/2406.18958)
 
 	 · ([any-control.github](https://any-control.github.io/)) · ([AnyControl](https://github.com/open-mmlab/AnyControl) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/AnyControl.svg?style=social&label=Star)
@@ -273,6 +279,9 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- [[2407.05282] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale](https://arxiv.org/abs/2407.05282)
+
+	 · ([ultra-editing.github](https://ultra-editing.github.io/))
 - **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
   Models**, `arXiv, 2406.14555`, [arxiv](http://arxiv.org/abs/2406.14555v1), [pdf](http://arxiv.org/pdf/2406.14555v1.pdf), cication: [**-1**](None)
 
@@ -464,6 +473,9 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolution
+- [[2407.02158] UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks](https://arxiv.org/abs/2407.02158)
+
+	 · ([jingjingrenabc.github](https://jingjingrenabc.github.io/ultrapixel/))
 - [[2406.13457] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution](https://arxiv.org/abs/2406.13457)
 
 	 · ([evtexture](https://github.com/dachunkai/evtexture) - dachunkai) ![Star](https://img.shields.io/github/stars/dachunkai/evtexture.svg?style=social&label=Star)
@@ -518,6 +530,13 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+
+- [[2407.01392] Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392)
+
+	 · ([diffusion-forcing](https://github.com/buoyancy99/diffusion-forcing) - buoyancy99) ![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)
+- [Fetching Title#4m03](https://arxiv.org/abs/2407.02687)
+
+	 · ([twitter](https://twitter.com/Msadat97/status/1808780460912263418))
 - **Aligning Diffusion Models with Noise-Conditioned Perception**, `arXiv, 2406.17636`, [arxiv](http://arxiv.org/abs/2406.17636v1), [pdf](http://arxiv.org/pdf/2406.17636v1.pdf), cication: [**-1**](None)
 
 	 *Alexander Gambashidze, Anton Kulikov, Yuriy Sosnin, Ilya Makarov* · ([huggingface](https://huggingface.co/alexgambashidze/SDXL_NCP-DPO_v0.1))
@@ -581,6 +600,9 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- [[2407.04842] MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?](https://arxiv.org/abs/2407.04842)
+
+	 · ([MJ-Bench](https://github.com/MJ-Bench/MJ-Bench) - MJ-Bench) ![Star](https://img.shields.io/github/stars/MJ-Bench/MJ-Bench.svg?style=social&label=Star)
 - **Fantastic Copyrighted Beasts and How (Not) to Generate Them**, `arXiv, 2406.14526`, [arxiv](http://arxiv.org/abs/2406.14526v1), [pdf](http://arxiv.org/pdf/2406.14526v1.pdf), cication: [**-1**](None)
 
 	 *Luxi He, Yangsibo Huang, Weijia Shi, Tinghao Xie, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson* · ([qbitai](https://www.qbitai.com/2024/06/158556.html))

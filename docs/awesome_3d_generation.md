@@ -47,6 +47,9 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- [Fetching Title#evo5](https://arxiv.org/abs/2406.18462)
+
+	 · ([taoranyi](https://taoranyi.com/gaussiandreamerpro/))
 - [2407.02599](https://arxiv.org/pdf/2407.02599)
 
 	 · ([assetgen.github](https://assetgen.github.io/static/AssetGen.pdf))

@@ -37,6 +37,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [Fetching Title#1e2b](https://arxiv.org/abs/2407.06182)
+
+	 · ([adamdad.github](https://adamdad.github.io/vico/))
 - **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**, `arXiv, 2406.18583`, [arxiv](http://arxiv.org/abs/2406.18583v1), [pdf](http://arxiv.org/pdf/2406.18583v1.pdf), cication: [**-1**](None)
 
 	 *Le Zhuo, Ruoyi Du, Han Xiao, Yangguang Li, Dongyang Liu, Rongjie Huang, Wenze Liu, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma* · ([Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)
@@ -645,6 +648,9 @@
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy* · ([Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - williamyang1991) ![Star](https://img.shields.io/github/stars/williamyang1991/Rerender_A_Video.svg?style=social&label=Star)
 
 ## Dection
+- [Fetching Title#v2ww](https://arxiv.org/abs/2406.19568)
+
+	 · ([justin-crchang.github](https://justin-crchang.github.io/3DCNNDetection.github.io/))
 - **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo
   Benchmark**, `arXiv, 2405.19707`, [arxiv](http://arxiv.org/abs/2405.19707v1), [pdf](http://arxiv.org/pdf/2405.19707v1.pdf), cication: [**-1**](None)
 
@@ -652,6 +658,8 @@
 
 ## Datasets
 - [[2407.02371] OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation](https://arxiv.org/abs/2407.02371)
+
+	 · ([nju-pcalab.github](https://nju-pcalab.github.io/projects/openvid))
 - **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video
   Diffusion Models**, `arXiv, 2403.06098`, [arxiv](http://arxiv.org/abs/2403.06098v3), [pdf](http://arxiv.org/pdf/2403.06098v3.pdf), cication: [**-1**](None)
 
