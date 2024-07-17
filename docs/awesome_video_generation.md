@@ -12,6 +12,10 @@
 	- [Product](#product)
 
 ## Survey
+- **A Comprehensive Survey on Human Video Generation: Challenges, Methods,
+  and Insights**, `arXiv, 2407.08428`, [arxiv](http://arxiv.org/abs/2407.08428v1), [pdf](http://arxiv.org/pdf/2407.08428v1.pdf), cication: [**-1**](None)
+
+	 *Wentao Lei, Jinting Wang, Fengji Ma, Guanjie Huang, Li Liu*
 - **From Sora What We Can See: A Survey of Text-to-Video Generation**, `arXiv, 2405.10674`, [arxiv](http://arxiv.org/abs/2405.10674v1), [pdf](http://arxiv.org/pdf/2405.10674v1.pdf), cication: [**-1**](None)
 
 	 *Rui Sun, Yumin Zhang, Tejal Shah, Jiahao Sun, Shuoying Zhang, Wenqi Li, Haoran Duan, Bo Wei, Rajiv Ranjan* · ([awesome-text-to-video-generation](https://github.com/soraw-ai/awesome-text-to-video-generation) - soraw-ai) ![Star](https://img.shields.io/github/stars/soraw-ai/awesome-text-to-video-generation.svg?style=social&label=Star)
@@ -37,6 +41,12 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **VEnhancer: Generative Space-Time Enhancement for Video Generation**, `arXiv, 2407.07667`, [arxiv](http://arxiv.org/abs/2407.07667v1), [pdf](http://arxiv.org/pdf/2407.07667v1.pdf), cication: [**-1**](None)
+
+	 *Jingwen He, Tianfan Xue, Dongyang Liu, Xinqi Lin, Peng Gao, Dahua Lin, Yu Qiao, Wanli Ouyang, Ziwei Liu*
+- **Controlling Space and Time with Diffusion Models**, `arXiv, 2407.07860`, [arxiv](http://arxiv.org/abs/2407.07860v1), [pdf](http://arxiv.org/pdf/2407.07860v1.pdf), cication: [**-1**](None)
+
+	 *Daniel Watson, Saurabh Saxena, Lala Li, Andrea Tagliasacchi, David J. Fleet*
 - **Compositional Video Generation as Flow Equalization**, `arXiv, 2407.06182`, [arxiv](http://arxiv.org/abs/2407.06182v1), [pdf](http://arxiv.org/pdf/2407.06182v1.pdf), cication: [**-1**](None)
 
 	 *Xingyi Yang, Xinchao Wang*
@@ -377,6 +387,17 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **TCAN: Animating Human Images with Temporally Consistent Pose Guidance
+  using Diffusion Models**, `arXiv, 2407.09012`, [arxiv](http://arxiv.org/abs/2407.09012v1), [pdf](http://arxiv.org/pdf/2407.09012v1.pdf), cication: [**-1**](None)
+
+	 *Jeongho Kim, Min-Jung Kim, Junsoo Lee, Jaegul Choo* · ([eccv2024tcan.github](https://eccv2024tcan.github.io/))
+- **Still-Moving: Customized Video Generation without Customized Video Data**, `arXiv, 2407.08674`, [arxiv](http://arxiv.org/abs/2407.08674v1), [pdf](http://arxiv.org/pdf/2407.08674v1.pdf), cication: [**-1**](None)
+
+	 *Hila Chefer, Shiran Zada, Roni Paiss, Ariel Ephrat, Omer Tov, Michael Rubinstein, Lior Wolf, Tali Dekel, Tomer Michaeli, Inbar Mosseri* · ([still-moving.github](https://still-moving.github.io/))
+- **EasyAnimate: A High-Performance Long Video Generation Method based on
+  Transformer Architecture**, `arXiv, 2405.18991`, [arxiv](http://arxiv.org/abs/2405.18991v2), [pdf](http://arxiv.org/pdf/2405.18991v2.pdf), cication: [**-1**](None)
+
+	 *Jiaqi Xu, Xinyi Zou, Kunzhe Huang, Yunkuo Chen, Bo Liu, MengLi Cheng, Xing Shi, Jun Huang* · ([EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - aigc-apps) ![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)
 - **MimicMotion: High-Quality Human Motion Video Generation with
   Confidence-aware Pose Guidance**, `arXiv, 2406.19680`, [arxiv](http://arxiv.org/abs/2406.19680v1), [pdf](http://arxiv.org/pdf/2406.19680v1.pdf), cication: [**-1**](None)
 
@@ -664,6 +685,10 @@
 	 *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang* · ([DeMamba](https://github.com/chenhaoxing/DeMamba) - chenhaoxing) ![Star](https://img.shields.io/github/stars/chenhaoxing/DeMamba.svg?style=social&label=Star)
 
 ## Datasets
+- **MiraData: A Large-Scale Video Dataset with Long Durations and Structured
+  Captions**, `arXiv, 2407.06358`, [arxiv](http://arxiv.org/abs/2407.06358v1), [pdf](http://arxiv.org/pdf/2407.06358v1.pdf), cication: [**-1**](None)
+
+	 *Xuan Ju, Yiming Gao, Zhaoyang Zhang, Ziyang Yuan, Xintao Wang, Ailing Zeng, Yu Xiong, Qiang Xu, Ying Shan*
 - **OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video
   Generation**, `arXiv, 2407.02371`, [arxiv](http://arxiv.org/abs/2407.02371v1), [pdf](http://arxiv.org/pdf/2407.02371v1.pdf), cication: [**-1**](None)
 

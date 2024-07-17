@@ -102,6 +102,19 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star)
+
+	 *ControlNet++: All-in-one ControlNet for image generations and editing!* · ([huggingface](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0))
+- **Ada-adapter:Fast Few-shot Style Personlization of Diffusion Model with
+  Pre-trained Image Encoder**, `arXiv, 2407.05552`, [arxiv](http://arxiv.org/abs/2407.05552v1), [pdf](http://arxiv.org/pdf/2407.05552v1.pdf), cication: [**-1**](None)
+
+	 *Jia Liu, Changlin Li, Qirui Sun, Jiahui Ming, Chen Fang, Jue Wang, Bing Zeng, Shuaicheng Liu*
+- **Sketch-Guided Scene Image Generation**, `arXiv, 2407.06469`, [arxiv](http://arxiv.org/abs/2407.06469v1), [pdf](http://arxiv.org/pdf/2407.06469v1.pdf), cication: [**-1**](None)
+
+	 *Tianyu Zhang, Xiaoxuan Xie, Xusheng Du, Haoran Xie*
+- **SEED-Story: Multimodal Long Story Generation with Large Language Model**, `arXiv, 2407.08683`, [arxiv](http://arxiv.org/abs/2407.08683v1), [pdf](http://arxiv.org/pdf/2407.08683v1.pdf), cication: [**-1**](None)
+
+	 *Shuai Yang, Yuying Ge, Yang Li, Yukang Chen, Yixiao Ge, Ying Shan, Yingcong Chen* · ([SEED-Story](https://github.com/TencentARC/SEED-Story) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/SEED-Story.svg?style=social&label=Star)
 - **Magic Insert: Style-Aware Drag-and-Drop**, `arXiv, 2407.02489`, [arxiv](http://arxiv.org/abs/2407.02489v1), [pdf](http://arxiv.org/pdf/2407.02489v1.pdf), cication: [**-1**](None)
 
 	 *Nataniel Ruiz, Yuanzhen Li, Neal Wadhwa, Yael Pritch, Michael Rubinstein, David E. Jacobs, Shlomi Fruchter*
@@ -370,6 +383,10 @@
 	 · ([SPM](https://github.com/Con6924/SPM) - Con6924) ![Star](https://img.shields.io/github/stars/Con6924/SPM.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-13))
 
 ## Architecture
+- **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image
+  Synthesis**, `arXiv, 2407.07614`, [arxiv](http://arxiv.org/abs/2407.07614v2), [pdf](http://arxiv.org/pdf/2407.07614v2.pdf), cication: [**-1**](None)
+
+	 *Wanggui He, Siming Fu, Mushui Liu, Xierui Wang, Wenyi Xiao, Fangxun Shu, Yi Wang, Lei Zhang, Zhelun Yu, Haoyuan Li*
 - **YaART: Yet Another ART Rendering Technology**, `arXiv, 2404.05666`, [arxiv](http://arxiv.org/abs/2404.05666v1), [pdf](http://arxiv.org/pdf/2404.05666v1.pdf), cication: [**-1**](None)
 
 	 *Sergey Kastryulin, Artem Konev, Alexander Shishenya, Eugene Lyapustin, Artem Khurshudov, Alexander Tselousov, Nikita Vinokurov, Denis Kuznedelev, Alexander Markovich, Grigoriy Livshits*
@@ -512,6 +529,10 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled
+  Diffusion Models**, `arXiv, 2407.10625`, [arxiv](http://arxiv.org/abs/2407.10625v1), [pdf](http://arxiv.org/pdf/2407.10625v1.pdf), cication: [**-1**](None)
+
+	 *Zijian He, Peixin Chen, Guangrun Wang, Guanbin Li, Philip H. S. Torr, Liang Lin* · ([wildvidfit-project.github](http://wildvidfit-project.github.io/))
 - **ViViD: Video Virtual Try-on using Diffusion Models**, `arXiv, 2405.11794`, [arxiv](http://arxiv.org/abs/2405.11794v1), [pdf](http://arxiv.org/pdf/2405.11794v1.pdf), cication: [**-1**](None)
 
 	 *Zixun Fang, Wei Zhai, Aimin Su, Hongliang Song, Kai Zhu, Mao Wang, Yu Chen, Zhiheng Liu, Yang Cao, Zheng-Jun Zha* · ([becauseimbatman0.github](https://becauseimbatman0.github.io/ViViD)) · ([ViViD](https://github.com/BecauseImBatman0/ViViD) - BecauseImBatman0) ![Star](https://img.shields.io/github/stars/BecauseImBatman0/ViViD.svg?style=social&label=Star)
@@ -534,6 +555,11 @@
 - [基于Stable Diffusion的AIGC服饰穿搭实践-CSDN博客](https://blog.csdn.net/Taobaojishu/article/details/132632670)
 
 ## Projects
+- [**PixArt-Sigma-900M**](https://huggingface.co/dataautogpt3/PixArt-Sigma-900M) - dataautogpt3 🤗
+- [**littletinies**](https://huggingface.co/alvdansen/littletinies) - alvdansen 🤗
+- [**AuraFlow**](https://huggingface.co/fal/AuraFlow) - fal 🤗
+
+	 · ([blog.fal](https://blog.fal.ai/auraflow/))
 - [**DiffSynth-Studio**](https://github.com/modelscope/DiffSynth-Studio?tab=readme-ov-file) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)
 
 	 *Enjoy the magic of Diffusion models!*
@@ -546,7 +572,10 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **HumanRefiner: Benchmarking Abnormal Human Generation and Refining with
+  Coarse-to-fine Pose-Reversible Guidance**, `arXiv, 2407.06937`, [arxiv](http://arxiv.org/abs/2407.06937v1), [pdf](http://arxiv.org/pdf/2407.06937v1.pdf), cication: [**-1**](None)
 
+	 *Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, Zutao Jiang, Hang Xu, Shengcai Liao, Xiaodan Liang* · ([HumanRefiner](https://github.com/Enderfga/HumanRefiner) - Enderfga) ![Star](https://img.shields.io/github/stars/Enderfga/HumanRefiner.svg?style=social&label=Star)
 - **Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**, `arXiv, 2407.01392`, [arxiv](http://arxiv.org/abs/2407.01392v3), [pdf](http://arxiv.org/pdf/2407.01392v3.pdf), cication: [**-1**](None)
 
 	 *Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann*
