@@ -218,6 +218,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**, `arXiv, 2407.11398`, [arxiv](http://arxiv.org/abs/2407.11398v1), [pdf](http://arxiv.org/pdf/2407.11398v1.pdf), cication: [**-1**](None)
+
+	 *Yanqin Jiang, Chaohui Yu, Chenjie Cao, Fan Wang, Weiming Hu, Jin Gao* · ([animate3d.github](https://animate3d.github.io/)) · ([Animate3D](https://github.com/yanqinJiang/Animate3D) - yanqinJiang) ![Star](https://img.shields.io/github/stars/yanqinJiang/Animate3D.svg?style=social&label=Star)
 - **L4GM: Large 4D Gaussian Reconstruction Model**, `arXiv, 2406.10324`, [arxiv](http://arxiv.org/abs/2406.10324v1), [pdf](http://arxiv.org/pdf/2406.10324v1.pdf), cication: [**-1**](None)
 
 	 *Jiawei Ren, Kevin Xie, Ashkan Mirzaei, Hanxue Liang, Xiaohui Zeng, Karsten Kreis, Ziwei Liu, Antonio Torralba, Sanja Fidler, Seung Wook Kim* · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/l4gm/))
