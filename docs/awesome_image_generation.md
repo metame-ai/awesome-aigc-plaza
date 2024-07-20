@@ -401,6 +401,9 @@
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
+- **Scaling Diffusion Transformers to 16 Billion Parameters**, `arXiv, 2407.11633`, [arxiv](http://arxiv.org/abs/2407.11633v1), [pdf](http://arxiv.org/pdf/2407.11633v1.pdf), cication: [**-1**](None)
+
+	 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang* · ([dit-moe](https://github.com/feizc/dit-moe) - feizc) ![Star](https://img.shields.io/github/stars/feizc/dit-moe.svg?style=social&label=Star)
 - [**opendit**](https://github.com/nus-hpc-ai-lab/opendit) - nus-hpc-ai-lab ![Star](https://img.shields.io/github/stars/nus-hpc-ai-lab/opendit.svg?style=social&label=Star)
 
 	 *OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference*
@@ -501,7 +504,8 @@
 
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
-## Super Resolution
+## Super Resolution-s
+- [Tile controlnet + Tiled diffusion = very realistic upscaler workflow : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1e3v6jy/tile_controlnet_tiled_diffusion_very_realistic/)
 - **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**, `arXiv, 2407.02158`, [arxiv](http://arxiv.org/abs/2407.02158v2), [pdf](http://arxiv.org/pdf/2407.02158v2.pdf), cication: [**-1**](None)
 
 	 *Jingjing Ren, Wenbo Li, Haoyu Chen, Renjing Pei, Bin Shao, Yong Guo, Long Peng, Fenglong Song, Lei Zhu*
@@ -529,6 +533,9 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **IMAGDressing-v1: Customizable Virtual Dressing**, `arXiv, 2407.12705`, [arxiv](http://arxiv.org/abs/2407.12705v1), [pdf](http://arxiv.org/pdf/2407.12705v1.pdf), cication: [**-1**](None)
+
+	 *Fei Shen, Xin Jiang, Xin He, Hu Ye, Cong Wang, Xiaoyu Du, Zechao Li, Jinghui Tang* · ([imagdressing](https://github.com/muzishen/imagdressing) - muzishen) ![Star](https://img.shields.io/github/stars/muzishen/imagdressing.svg?style=social&label=Star)
 - **WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled
   Diffusion Models**, `arXiv, 2407.10625`, [arxiv](http://arxiv.org/abs/2407.10625v1), [pdf](http://arxiv.org/pdf/2407.10625v1.pdf), cication: [**-1**](None)
 

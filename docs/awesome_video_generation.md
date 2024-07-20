@@ -44,6 +44,8 @@
 - **VEnhancer: Generative Space-Time Enhancement for Video Generation**, `arXiv, 2407.07667`, [arxiv](http://arxiv.org/abs/2407.07667v1), [pdf](http://arxiv.org/pdf/2407.07667v1.pdf), cication: [**-1**](None)
 
 	 *Jingwen He, Tianfan Xue, Dongyang Liu, Xinqi Lin, Peng Gao, Dahua Lin, Yu Qiao, Wanli Ouyang, Ziwei Liu*
+
+	 · ([vchitect.github](https://vchitect.github.io/VEnhancer-project/))
 - **Controlling Space and Time with Diffusion Models**, `arXiv, 2407.07860`, [arxiv](http://arxiv.org/abs/2407.07860v1), [pdf](http://arxiv.org/pdf/2407.07860v1.pdf), cication: [**-1**](None)
 
 	 *Daniel Watson, Saurabh Saxena, Lala Li, Andrea Tagliasacchi, David J. Fleet*
@@ -585,6 +587,13 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **Generalizable Implicit Motion Modeling for Video Frame Interpolation**, `arXiv, 2407.08680`, [arxiv](http://arxiv.org/abs/2407.08680v1), [pdf](http://arxiv.org/pdf/2407.08680v1.pdf), cication: [**-1**](None)
+
+	 *Zujin Guo, Wei Li, Chen Change Loy* · ([gseancdat.github](https://gseancdat.github.io/projects/GIMMVFI))
+- **Live2Diff: Live Stream Translation via Uni-directional Attention in
+  Video Diffusion Models**, `arXiv, 2407.08701`, [arxiv](http://arxiv.org/abs/2407.08701v1), [pdf](http://arxiv.org/pdf/2407.08701v1.pdf), cication: [**-1**](None)
+
+	 *Zhening Xing, Gereon Fox, Yanhong Zeng, Xingang Pan, Mohamed Elgharib, Christian Theobalt, Kai Chen* · ([live2diff.github](https://live2diff.github.io/))
 - **Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**, `arXiv, 2401.16224`, [arxiv](http://arxiv.org/abs/2401.16224v1), [pdf](http://arxiv.org/pdf/2401.16224v1.pdf), cication: [**-1**](None)
 
 	 *Zhongjie Duan, Chengyu Wang, Cen Chen, Weining Qian, Jun Huang* · ([DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)
@@ -612,6 +621,8 @@
   Adaptation**, `arXiv, 2403.13745`, [arxiv](http://arxiv.org/abs/2403.13745v1), [pdf](http://arxiv.org/pdf/2403.13745v1.pdf), cication: [**-1**](None)
 
 	 *Fu-Yun Wang, Xiaoshi Wu, Zhaoyang Huang, Xiaoyu Shi, Dazhong Shen, Guanglu Song, Yu Liu, Hongsheng Li*
+
+	 · ([be-your-outpainter](https://github.com/g-u-n/be-your-outpainter) - g-u-n) ![Star](https://img.shields.io/github/stars/g-u-n/be-your-outpainter.svg?style=social&label=Star)
 - **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**, `arXiv, 2403.12962`, [arxiv](http://arxiv.org/abs/2403.12962v1), [pdf](http://arxiv.org/pdf/2403.12962v1.pdf), cication: [**-1**](None)
 
 	 *Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy*
@@ -688,6 +699,10 @@
 - **MiraData: A Large-Scale Video Dataset with Long Durations and Structured
   Captions**, `arXiv, 2407.06358`, [arxiv](http://arxiv.org/abs/2407.06358v1), [pdf](http://arxiv.org/pdf/2407.06358v1.pdf), cication: [**-1**](None)
 
+	 *Xuan Ju, Yiming Gao, Zhaoyang Zhang, Ziyang Yuan, Xintao Wang, Ailing Zeng, Yu Xiong, Qiang Xu, Ying Shan* · ([MiraData](https://github.com/mira-space/MiraData) - mira-space) ![Star](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Star)
+- **MiraData: A Large-Scale Video Dataset with Long Durations and Structured
+  Captions**, `arXiv, 2407.06358`, [arxiv](http://arxiv.org/abs/2407.06358v1), [pdf](http://arxiv.org/pdf/2407.06358v1.pdf), cication: [**-1**](None)
+
 	 *Xuan Ju, Yiming Gao, Zhaoyang Zhang, Ziyang Yuan, Xintao Wang, Ailing Zeng, Yu Xiong, Qiang Xu, Ying Shan*
 - **OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video
   Generation**, `arXiv, 2407.02371`, [arxiv](http://arxiv.org/abs/2407.02371v1), [pdf](http://arxiv.org/pdf/2407.02371v1.pdf), cication: [**-1**](None)
@@ -727,6 +742,9 @@
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*
 
 ## Alignment
+- **Video Diffusion Alignment via Reward Gradients**, `arXiv, 2407.08737`, [arxiv](http://arxiv.org/abs/2407.08737v1), [pdf](http://arxiv.org/pdf/2407.08737v1.pdf), cication: [**-1**](None)
+
+	 *Mihir Prabhudesai, Russell Mendonca, Zheyang Qin, Katerina Fragkiadaki, Deepak Pathak* · ([vader](https://github.com/mihirp1998/vader) - mihirp1998) ![Star](https://img.shields.io/github/stars/mihirp1998/vader.svg?style=social&label=Star)
 - **VideoScore: Building Automatic Metrics to Simulate Fine-grained Human
   Feedback for Video Generation**, `arXiv, 2406.15252`, [arxiv](http://arxiv.org/abs/2406.15252v2), [pdf](http://arxiv.org/pdf/2406.15252v2.pdf), cication: [**-1**](None)
 
