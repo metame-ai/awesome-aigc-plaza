@@ -218,6 +218,10 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
+  Consistency**, `arXiv, 2407.17470`, [arxiv](http://arxiv.org/abs/2407.17470v1), [pdf](http://arxiv.org/pdf/2407.17470v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Xie, Chun-Han Yao, Vikram Voleti, Huaizu Jiang, Varun Jampani* · ([huggingface](https://huggingface.co/stabilityai/sv4d))
 - **Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**, `arXiv, 2407.11398`, [arxiv](http://arxiv.org/abs/2407.11398v1), [pdf](http://arxiv.org/pdf/2407.11398v1.pdf), cication: [**-1**](None)
 
 	 *Yanqin Jiang, Chaohui Yu, Chenjie Cao, Fan Wang, Weiming Hu, Jin Gao* · ([animate3d.github](https://animate3d.github.io/)) · ([Animate3D](https://github.com/yanqinJiang/Animate3D) - yanqinJiang) ![Star](https://img.shields.io/github/stars/yanqinJiang/Animate3D.svg?style=social&label=Star)

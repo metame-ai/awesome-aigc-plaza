@@ -41,6 +41,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**, `arXiv, 2407.16655`, [arxiv](http://arxiv.org/abs/2407.16655v1), [pdf](http://arxiv.org/pdf/2407.16655v1.pdf), cication: [**-1**](None)
+
+	 *Canyu Zhao, Mingyu Liu, Wen Wang, Jianlong Yuan, Hao Chen, Bo Zhang, Chunhua Shen* · ([MovieDreamer](https://github.com/aim-uofa/MovieDreamer) - aim-uofa) ![Star](https://img.shields.io/github/stars/aim-uofa/MovieDreamer.svg?style=social&label=Star) · ([aim-uofa.github](https://aim-uofa.github.io/MovieDreamer/))
 - **VEnhancer: Generative Space-Time Enhancement for Video Generation**, `arXiv, 2407.07667`, [arxiv](http://arxiv.org/abs/2407.07667v1), [pdf](http://arxiv.org/pdf/2407.07667v1.pdf), cication: [**-1**](None)
 
 	 *Jingwen He, Tianfan Xue, Dongyang Liu, Xinqi Lin, Peng Gao, Dahua Lin, Yu Qiao, Wanli Ouyang, Ziwei Liu*
@@ -389,6 +392,14 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **Cinemo: Consistent and Controllable Image Animation with Motion
+  Diffusion Models**, `arXiv, 2407.15642`, [arxiv](http://arxiv.org/abs/2407.15642v2), [pdf](http://arxiv.org/pdf/2407.15642v2.pdf), cication: [**-1**](None)
+
+	 *Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Yuan-Fang Li, Cunjian Chen, Yu Qiao* · ([maxin-cn.github](https://maxin-cn.github.io/cinemo_project/))
+- **HumanVid: Demystifying Training Data for Camera-controllable Human Image
+  Animation**, `arXiv, 2407.17438`, [arxiv](http://arxiv.org/abs/2407.17438v1), [pdf](http://arxiv.org/pdf/2407.17438v1.pdf), cication: [**-1**](None)
+
+	 *Zhenzhi Wang, Yixuan Li, Yanhong Zeng, Youqing Fang, Yuwei Guo, Wenran Liu, Jing Tan, Kai Chen, Tianfan Xue, Bo Dai* · ([HumanVid](https://github.com/zhenzhiwang/HumanVid) - zhenzhiwang) ![Star](https://img.shields.io/github/stars/zhenzhiwang/HumanVid.svg?style=social&label=Star) · ([humanvid.github](https://humanvid.github.io/))
 - **TCAN: Animating Human Images with Temporally Consistent Pose Guidance
   using Diffusion Models**, `arXiv, 2407.09012`, [arxiv](http://arxiv.org/abs/2407.09012v1), [pdf](http://arxiv.org/pdf/2407.09012v1.pdf), cication: [**-1**](None)
 
@@ -720,6 +731,14 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **Fréchet Video Motion Distance: A Metric for Evaluating Motion
+  Consistency in Videos**, `arXiv, 2407.16124`, [arxiv](http://arxiv.org/abs/2407.16124v1), [pdf](http://arxiv.org/pdf/2407.16124v1.pdf), cication: [**-1**](None)
+
+	 *Jiahe Liu, Youran Qu, Qi Yan, Xiaohui Zeng, Lele Wang, Renjie Liao* · ([FVMD-frechet-video-motion-distance](https://github.com/DSL-Lab/FVMD-frechet-video-motion-distance) - DSL-Lab) ![Star](https://img.shields.io/github/stars/DSL-Lab/FVMD-frechet-video-motion-distance.svg?style=social&label=Star)
+- **T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video
+  Generation**, `arXiv, 2407.14505`, [arxiv](http://arxiv.org/abs/2407.14505v1), [pdf](http://arxiv.org/pdf/2407.14505v1.pdf), cication: [**-1**](None)
+
+	 *Kaiyue Sun, Kaiyi Huang, Xian Liu, Yue Wu, Zihan Xu, Zhenguo Li, Xihui Liu* · ([t2v-compbench.github](https://t2v-compbench.github.io/))
 - **Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing
   Reliability,Reproducibility, and Practicality**, `arXiv, 2406.08845`, [arxiv](http://arxiv.org/abs/2406.08845v1), [pdf](http://arxiv.org/pdf/2406.08845v1.pdf), cication: [**-1**](None)
 

@@ -427,6 +427,14 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **ViPer: Visual Personalization of Generative Models via Individual
+  Preference Learning**, `arXiv, 2407.17365`, [arxiv](http://arxiv.org/abs/2407.17365v1), [pdf](http://arxiv.org/pdf/2407.17365v1.pdf), cication: [**-1**](None)
+
+	 *Sogand Salehi, Mahdi Shafiei, Teresa Yeo, Roman Bachmann, Amir Zamir* · ([ViPer](https://github.com/EPFL-VILAB/ViPer) - EPFL-VILAB) ![Star](https://img.shields.io/github/stars/EPFL-VILAB/ViPer.svg?style=social&label=Star) · ([viper.epfl](https://viper.epfl.ch/))
+- **Stable-Hair: Real-World Hair Transfer via Diffusion Model**, `arXiv, 2407.14078`, [arxiv](http://arxiv.org/abs/2407.14078v1), [pdf](http://arxiv.org/pdf/2407.14078v1.pdf), cication: [**-1**](None)
+
+	 *Yuxuan Zhang, Qing Zhang, Yiren Song, Jiaming Liu* · ([Stable-Hair](https://github.com/Xiaojiu-z/Stable-Hair?tab=readme-ov-file) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/Stable-Hair.svg?style=social&label=Star)
+- [Imagine yourself: Tuning-Free Personalized Image Generation](https://ai.meta.com/research/publications/imagine-yourself-tuning-free-personalized-image-generation/)
 - **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image
   Generation**, `arXiv, 2406.01388`, [arxiv](http://arxiv.org/abs/2406.01388v2), [pdf](http://arxiv.org/pdf/2406.01388v2.pdf), cication: [**-1**](None)
 
@@ -435,10 +443,6 @@
   Guidance**, `arXiv, 2406.07209`, [arxiv](http://arxiv.org/abs/2406.07209v1), [pdf](http://arxiv.org/pdf/2406.07209v1.pdf), cication: [**-1**](None)
 
 	 *X. Wang, Siming Fu, Qihan Huang, Wanggui He, Hao Jiang* · ([MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion?tab=readme-ov-file) - MS-Diffusion) ![Star](https://img.shields.io/github/stars/MS-Diffusion/MS-Diffusion.svg?style=social&label=Star)
-- **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image
-  Generation**, `arXiv, 2406.01388`, [arxiv](http://arxiv.org/abs/2406.01388v1), [pdf](http://arxiv.org/pdf/2406.01388v1.pdf), cication: [**-1**](None)
-
-	 *Junhao Cheng, Xi Lu, Hanhui Li, Khun Loun Zai, Baiqiao Yin, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang*
 - **Personalized Residuals for Concept-Driven Text-to-Image Generation**, `arXiv, 2405.12978`, [arxiv](http://arxiv.org/abs/2405.12978v1), [pdf](http://arxiv.org/pdf/2405.12978v1.pdf), cication: [**-1**](None)
 
 	 *Cusuh Ham, Matthew Fisher, James Hays, Nicholas Kolkin, Yuchen Liu, Richard Zhang, Tobias Hinz* · ([cusuh.github](https://cusuh.github.io/personalized-residuals/))
@@ -504,7 +508,7 @@
 
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
-## Super Resolution-s
+## Super Resolutions
 - [Tile controlnet + Tiled diffusion = very realistic upscaler workflow : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1e3v6jy/tile_controlnet_tiled_diffusion_very_realistic/)
 - **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**, `arXiv, 2407.02158`, [arxiv](http://arxiv.org/abs/2407.02158v2), [pdf](http://arxiv.org/pdf/2407.02158v2.pdf), cication: [**-1**](None)
 
@@ -533,6 +537,10 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any
+  Person**, `arXiv, 2407.16224`, [arxiv](http://arxiv.org/abs/2407.16224v1), [pdf](http://arxiv.org/pdf/2407.16224v1.pdf), cication: [**-1**](None)
+
+	 *Ke Sun, Jian Cao, Qi Wang, Linrui Tian, Xindi Zhang, Lian Zhuo, Bang Zhang, Liefeng Bo, Wenbo Zhou, Weiming Zhang* · ([humanaigc.github](https://humanaigc.github.io/outfit-anyone/)) · ([OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - HumanAIGC) ![Star](https://img.shields.io/github/stars/HumanAIGC/OutfitAnyone.svg?style=social&label=Star)
 - **IMAGDressing-v1: Customizable Virtual Dressing**, `arXiv, 2407.12705`, [arxiv](http://arxiv.org/abs/2407.12705v1), [pdf](http://arxiv.org/pdf/2407.12705v1.pdf), cication: [**-1**](None)
 
 	 *Fei Shen, Xin Jiang, Xin He, Hu Ye, Cong Wang, Xiaoyu Du, Zechao Li, Jinghui Tang* · ([imagdressing](https://github.com/muzishen/imagdressing) - muzishen) ![Star](https://img.shields.io/github/stars/muzishen/imagdressing.svg?style=social&label=Star)
@@ -707,3 +715,9 @@
 	 *Stanley H. Chan*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
+
+## Detection
+- **DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized
+  Deepfake Detection**, `arXiv, 2406.00856`, [arxiv](http://arxiv.org/abs/2406.00856v1), [pdf](http://arxiv.org/pdf/2406.00856v1.pdf), cication: [**-1**](None)
+
+	 *Yewon Lim, Changyeon Lee, Aerin Kim, Oren Etzioni* · ([DistilDIRE](https://github.com/miraflow/DistilDIRE) - miraflow) ![Star](https://img.shields.io/github/stars/miraflow/DistilDIRE.svg?style=social&label=Star)
