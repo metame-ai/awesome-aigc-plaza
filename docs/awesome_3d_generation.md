@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **CLAY: A Controllable Large-scale Generative Model for Creating
+  High-quality 3D Assets**, `acm transactions on graphics (tog), 2024`, [arxiv](http://arxiv.org/abs/2406.13897v1), [pdf](http://arxiv.org/pdf/2406.13897v1.pdf), cication: [**-1**](None)
+
+	 *Longwen Zhang, Ziyu Wang, Qixuan Zhang, Qiwei Qiu, Anqi Pang, Haoran Jiang, Wei Yang, Lan Xu, Jingyi Yu* · ([sites.google](https://sites.google.com/view/clay-3dlm))
 - **MeshAnything: Artist-Created Mesh Generation with Autoregressive
   Transformers**, `arXiv, 2406.10163`, [arxiv](http://arxiv.org/abs/2406.10163v1), [pdf](http://arxiv.org/pdf/2406.10163v1.pdf), cication: [**-1**](None)
 
@@ -47,6 +51,9 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **PlacidDreamer: Advancing Harmony in Text-to-3D Generation**, `arXiv, 2407.13976`, [arxiv](http://arxiv.org/abs/2407.13976v1), [pdf](http://arxiv.org/pdf/2407.13976v1.pdf), cication: [**-1**](None)
+
+	 *Shuo Huang, Shikun Sun, Zixuan Wang, Xiaoyu Qin, Yanmin Xiong, Yuan Zhang, Pengfei Wan, Di Zhang, Jia Jia* · ([PlacidDreamer](https://github.com/HansenHuang0823/PlacidDreamer) - HansenHuang0823) ![Star](https://img.shields.io/github/stars/HansenHuang0823/PlacidDreamer.svg?style=social&label=Star)
 - **GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly
   Enhanced Quality**, `arXiv, 2406.18462`, [arxiv](http://arxiv.org/abs/2406.18462v1), [pdf](http://arxiv.org/pdf/2406.18462v1.pdf), cication: [**-1**](None)
 
@@ -218,6 +225,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **Shape of Motion: 4D Reconstruction from a Single Video**, `arXiv, 2407.13764`, [arxiv](http://arxiv.org/abs/2407.13764v1), [pdf](http://arxiv.org/pdf/2407.13764v1.pdf), cication: [**-1**](None)
+
+	 *Qianqian Wang, Vickie Ye, Hang Gao, Jake Austin, Zhengqi Li, Angjoo Kanazawa* · ([shape-of-motion.github](https://shape-of-motion.github.io/))
 - **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
   Consistency**, `arXiv, 2407.17470`, [arxiv](http://arxiv.org/abs/2407.17470v1), [pdf](http://arxiv.org/pdf/2407.17470v1.pdf), cication: [**-1**](None)
 
