@@ -16,6 +16,10 @@
 
 
 ## 3D Generation
+- **ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian
+  Splatting**, `arXiv, 2407.19035`, [arxiv](http://arxiv.org/abs/2407.19035v1), [pdf](http://arxiv.org/pdf/2407.19035v1.pdf), cication: [**-1**](None)
+
+	 *Shen Chen, Jiale Zhou, Zhongyu Jiang, Tianfang Zhang, Zongkai Wu, Jenq-Neng Hwang, Lei Li*
 - **CLAY: A Controllable Large-scale Generative Model for Creating
   High-quality 3D Assets**, `acm transactions on graphics (tog), 2024`, [arxiv](http://arxiv.org/abs/2406.13897v1), [pdf](http://arxiv.org/pdf/2406.13897v1.pdf), cication: [**-1**](None)
 

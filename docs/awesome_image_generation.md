@@ -102,6 +102,9 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **ReCorD: Reasoning and Correcting Diffusion for HOI Generation**, `arXiv, 2407.17911`, [arxiv](http://arxiv.org/abs/2407.17911v1), [pdf](http://arxiv.org/pdf/2407.17911v1.pdf), cication: [**-1**](None)
+
+	 *Jian-Yu Jiang-Lin, Kang-Yang Huang, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng*
 - [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star)
 
 	 *ControlNet++: All-in-one ControlNet for image generations and editing!* · ([huggingface](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0))
