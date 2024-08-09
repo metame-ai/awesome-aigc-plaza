@@ -42,6 +42,13 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
+  with Multimodal Generative Pretraining**, `arXiv, 2408.02657`, [arxiv](http://arxiv.org/abs/2408.02657v1), [pdf](http://arxiv.org/pdf/2408.02657v1.pdf), cication: [**-1**](None)
+
+	 *Dongyang Liu, Shitian Zhao, Le Zhuo, Weifeng Lin, Yu Qiao, Hongsheng Li, Peng Gao* · ([Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-mGPT.svg?style=social&label=Star)
+- [**flux**](https://github.com/black-forest-labs/flux) - black-forest-labs ![Star](https://img.shields.io/github/stars/black-forest-labs/flux.svg?style=social&label=Star)
+
+	 *Official inference repo for FLUX.1 models*
 - **Wavelets Are All You Need for Autoregressive Image Generation**, `arXiv, 2406.19997`, [arxiv](http://arxiv.org/abs/2406.19997v1), [pdf](http://arxiv.org/pdf/2406.19997v1.pdf), cication: [**-1**](None)
 
 	 *Wael Mattar, Idan Levy, Nir Sharon, Shai Dekel*
@@ -540,6 +547,10 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion
+  Models**, `arXiv, 2407.15886`, [arxiv](http://arxiv.org/abs/2407.15886v1), [pdf](http://arxiv.org/pdf/2407.15886v1.pdf), cication: [**-1**](None)
+
+	 *Zheng Chong, Xiao Dong, Haoxiang Li, Shiyue Zhang, Wenqing Zhang, Xujie Zhang, Hanqing Zhao, Xiaodan Liang*
 - **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any
   Person**, `arXiv, 2407.16224`, [arxiv](http://arxiv.org/abs/2407.16224v1), [pdf](http://arxiv.org/pdf/2407.16224v1.pdf), cication: [**-1**](None)
 
@@ -655,7 +666,10 @@
 	 *Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang*
 
 ## Toolkits
-- [Site Unreachable](https://huggingface.co/stabilityai/cosxl/tree/main)
+- [**SimpleTuner**](https://github.com/bghira/SimpleTuner) - bghira ![Star](https://img.shields.io/github/stars/bghira/SimpleTuner.svg?style=social&label=Star)
+
+	 *A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.*
+- [stabilityai/cosxl at main](https://huggingface.co/stabilityai/cosxl/tree/main)
 - [**Enhance-This-HiDiffusion-SDXL**](https://huggingface.co/spaces/radames/Enhance-This-HiDiffusion-SDXL) - radames 🤗
 - [**d3pm**](https://github.com/cloneofsimo/d3pm) - cloneofsimo ![Star](https://img.shields.io/github/stars/cloneofsimo/d3pm.svg?style=social&label=Star)
 

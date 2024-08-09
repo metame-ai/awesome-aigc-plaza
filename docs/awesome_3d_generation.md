@@ -16,6 +16,14 @@
 
 
 ## 3D Generation
+- **An Object is Worth 64x64 Pixels: Generating 3D Object via Image
+  Diffusion**, `arXiv, 2408.03178`, [arxiv](http://arxiv.org/abs/2408.03178v1), [pdf](http://arxiv.org/pdf/2408.03178v1.pdf), cication: [**-1**](None)
+
+	 *Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang* · ([omages.github](https://omages.github.io/))
+- **MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh
+  Tokenization**, `arXiv, 2408.02555`, [arxiv](http://arxiv.org/abs/2408.02555v1), [pdf](http://arxiv.org/pdf/2408.02555v1.pdf), cication: [**-1**](None)
+
+	 *Yiwen Chen, Yikai Wang, Yihao Luo, Zhengyi Wang, Zilong Chen, Jun Zhu, Chi Zhang, Guosheng Lin* · ([buaacyw.github](https://buaacyw.github.io/meshanything-v2/)) · ([MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2) - buaacyw) ![Star](https://img.shields.io/github/stars/buaacyw/MeshAnythingV2.svg?style=social&label=Star)
 - **ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian
   Splatting**, `arXiv, 2407.19035`, [arxiv](http://arxiv.org/abs/2407.19035v1), [pdf](http://arxiv.org/pdf/2407.19035v1.pdf), cication: [**-1**](None)
 

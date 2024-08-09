@@ -41,6 +41,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [**CogVideo**](https://github.com/THUDM/CogVideo?tab=readme-ov-file) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
+
+	 *Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)* · ([CogVideo](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUDM/CogVideoX-2b))
 - **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**, `arXiv, 2407.16655`, [arxiv](http://arxiv.org/abs/2407.16655v1), [pdf](http://arxiv.org/pdf/2407.16655v1.pdf), cication: [**-1**](None)
 
 	 *Canyu Zhao, Mingyu Liu, Wen Wang, Jianlong Yuan, Hao Chen, Bo Zhang, Chunhua Shen* · ([MovieDreamer](https://github.com/aim-uofa/MovieDreamer) - aim-uofa) ![Star](https://img.shields.io/github/stars/aim-uofa/MovieDreamer.svg?style=social&label=Star) · ([aim-uofa.github](https://aim-uofa.github.io/MovieDreamer/))
@@ -707,6 +710,9 @@
 	 *Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang* · ([DeMamba](https://github.com/chenhaoxing/DeMamba) - chenhaoxing) ![Star](https://img.shields.io/github/stars/chenhaoxing/DeMamba.svg?style=social&label=Star)
 
 ## Datasets
+- **VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**, `arXiv, 2408.02629`, [arxiv](http://arxiv.org/abs/2408.02629v1), [pdf](http://arxiv.org/pdf/2408.02629v1.pdf), cication: [**-1**](None)
+
+	 *Zhiyu Tan, Xiaomeng Yang, Luozheng Qin, Hao Li* · ([VidGen](https://github.com/SAIS-FUXI/VidGen) - SAIS-FUXI) ![Star](https://img.shields.io/github/stars/SAIS-FUXI/VidGen.svg?style=social&label=Star) · ([sais-fuxi.github](https://sais-fuxi.github.io/projects/vidgen-1m/))
 - **MiraData: A Large-Scale Video Dataset with Long Durations and Structured
   Captions**, `arXiv, 2407.06358`, [arxiv](http://arxiv.org/abs/2407.06358v1), [pdf](http://arxiv.org/pdf/2407.06358v1.pdf), cication: [**-1**](None)
 
