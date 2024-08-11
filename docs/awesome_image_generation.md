@@ -109,6 +109,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from
+  User's Casual Sketches**, `arXiv, 2408.04567`, [arxiv](http://arxiv.org/abs/2408.04567v1), [pdf](http://arxiv.org/pdf/2408.04567v1.pdf), cication: [**-1**](None)
+
+	 *Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, Pan Ji, Hongdong Li* · ([xrvisionlabs.github](https://xrvisionlabs.github.io/Sketch2Scene/))
 - **ReCorD: Reasoning and Correcting Diffusion for HOI Generation**, `arXiv, 2407.17911`, [arxiv](http://arxiv.org/abs/2407.17911v1), [pdf](http://arxiv.org/pdf/2407.17911v1.pdf), cication: [**-1**](None)
 
 	 *Jian-Yu Jiang-Lin, Kang-Yang Huang, Ling Lo, Yi-Ning Huang, Terence Lin, Jhih-Ciang Wu, Hong-Han Shuai, Wen-Huang Cheng*
@@ -312,6 +316,12 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**, `arXiv, 2408.00735`, [arxiv](http://arxiv.org/abs/2408.00735v1), [pdf](http://arxiv.org/pdf/2408.00735v1.pdf), cication: [**-1**](None)
+
+	 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or* · ([turboedit-paper.github](https://turboedit-paper.github.io/))
+- **Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**, `arXiv, 2407.16982`, [arxiv](http://arxiv.org/abs/2407.16982v1), [pdf](http://arxiv.org/pdf/2407.16982v1.pdf), cication: [**-1**](None)
+
+	 *Lirui Zhao, Tianshuo Yang, Wenqi Shao, Yuxin Zhang, Yu Qiao, Ping Luo, Kaipeng Zhang, Rongrong Ji* · ([opengvlab.github](https://opengvlab.github.io/Diffree/))
 - **UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**, `arXiv, 2407.05282`, [arxiv](http://arxiv.org/abs/2407.05282v1), [pdf](http://arxiv.org/pdf/2407.05282v1.pdf), cication: [**-1**](None)
 
 	 *Haozhe Zhao, Xiaojian Ma, Liang Chen, Shuzheng Si, Rujie Wu, Kaikai An, Peiyu Yu, Minjia Zhang, Qing Li, Baobao Chang*
@@ -437,6 +447,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning
+  using Instruct Prompts**, `arXiv, 2408.03209`, [arxiv](http://arxiv.org/abs/2408.03209v1), [pdf](http://arxiv.org/pdf/2408.03209v1.pdf), cication: [**-1**](None)
+
+	 *Ciara Rowles, Shimon Vainer, Dante De Nigris, Slava Elizarov, Konstantin Kutsy, Simon Donné* · ([unity-research.github](https://unity-research.github.io/IP-Adapter-Instruct.github.io/)) · ([IP-Adapter-Instruct](https://github.com/unity-research/IP-Adapter-Instruct) - unity-research) ![Star](https://img.shields.io/github/stars/unity-research/IP-Adapter-Instruct.svg?style=social&label=Star)
 - **ViPer: Visual Personalization of Generative Models via Individual
   Preference Learning**, `arXiv, 2407.17365`, [arxiv](http://arxiv.org/abs/2407.17365v1), [pdf](http://arxiv.org/pdf/2407.17365v1.pdf), cication: [**-1**](None)
 
@@ -519,6 +533,10 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolutions
+- **Arbitrary-Scale Video Super-Resolution with Structural and Textural
+  Priors**, `arXiv, 2407.09919`, [arxiv](http://arxiv.org/abs/2407.09919v1), [pdf](http://arxiv.org/pdf/2407.09919v1.pdf), cication: [**-1**](None)
+
+	 *Wei Shang, Dongwei Ren, Wanying Zhang, Yuming Fang, Wangmeng Zuo, Kede Ma* · ([st-avsr](https://github.com/shangwei5/st-avsr) - shangwei5) ![Star](https://img.shields.io/github/stars/shangwei5/st-avsr.svg?style=social&label=Star)
 - [Tile controlnet + Tiled diffusion = very realistic upscaler workflow : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1e3v6jy/tile_controlnet_tiled_diffusion_very_realistic/)
 - **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**, `arXiv, 2407.02158`, [arxiv](http://arxiv.org/abs/2407.02158v2), [pdf](http://arxiv.org/pdf/2407.02158v2.pdf), cication: [**-1**](None)
 
@@ -551,6 +569,8 @@
   Models**, `arXiv, 2407.15886`, [arxiv](http://arxiv.org/abs/2407.15886v1), [pdf](http://arxiv.org/pdf/2407.15886v1.pdf), cication: [**-1**](None)
 
 	 *Zheng Chong, Xiao Dong, Haoxiang Li, Shiyue Zhang, Wenqing Zhang, Xujie Zhang, Hanqing Zhao, Xiaodan Liang*
+
+	 · ([catvton](https://github.com/zheng-chong/catvton) - zheng-chong) ![Star](https://img.shields.io/github/stars/zheng-chong/catvton.svg?style=social&label=Star)
 - **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any
   Person**, `arXiv, 2407.16224`, [arxiv](http://arxiv.org/abs/2407.16224v1), [pdf](http://arxiv.org/pdf/2407.16224v1.pdf), cication: [**-1**](None)
 
@@ -732,6 +752,14 @@
 	 *Stanley H. Chan*
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
+
+## Autoregressive 
+- [**asymmetric_magvitv2**](https://github.com/bornfly-detachment/asymmetric_magvitv2) - bornfly-detachment ![Star](https://img.shields.io/github/stars/bornfly-detachment/asymmetric_magvitv2.svg?style=social&label=Star)
+
+	 *In 2024, the strongest open-source implementation of asymmetric magvit\_v2 supports inference code but excludes VQVAE. It supports the joint encoding of images and videos, accommodating arbitrary video lengths and resolutions. It surpasses all open-source models in FID and FVD, with 4z and 16z models available on huggingface.*
+- **Autoregressive Image Generation without Vector Quantization**, `arXiv, 2406.11838`, [arxiv](http://arxiv.org/abs/2406.11838v2), [pdf](http://arxiv.org/pdf/2406.11838v2.pdf), cication: [**-1**](None)
+
+	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He* · ([mar](https://github.com/lth14/mar) - lth14) ![Star](https://img.shields.io/github/stars/lth14/mar.svg?style=social&label=Star)
 
 ## Detection
 - **DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized

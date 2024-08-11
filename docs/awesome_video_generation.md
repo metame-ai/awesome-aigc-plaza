@@ -41,6 +41,16 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Fine-gained Zero-shot Video Sampling**, `arXiv, 2407.21475`, [arxiv](http://arxiv.org/abs/2407.21475v1), [pdf](http://arxiv.org/pdf/2407.21475v1.pdf), cication: [**-1**](None)
+
+	 *Dengsheng Chen, Jie Hu, Xiaoming Wei, Enhua Wu* · ([densechen.github](https://densechen.github.io/zss/))
+- **Tora: Trajectory-oriented Diffusion Transformer for Video Generation**, `arXiv, 2407.21705`, [arxiv](http://arxiv.org/abs/2407.21705v1), [pdf](http://arxiv.org/pdf/2407.21705v1.pdf), cication: [**-1**](None)
+
+	 *Zhenghao Zhang, Junchao Liao, Menghao Li, Long Qin, Weizhi Wang* · ([ali-videoai.github](https://ali-videoai.github.io/tora_video/))
+- **FreeLong: Training-Free Long Video Generation with SpectralBlend
+  Temporal Attention**, `arXiv, 2407.19918`, [arxiv](http://arxiv.org/abs/2407.19918v1), [pdf](http://arxiv.org/pdf/2407.19918v1.pdf), cication: [**-1**](None)
+
+	 *Yu Lu, Yuanzhi Liang, Linchao Zhu, Yi Yang* · ([yulu.net](https://yulu.net.cn/freelong/))
 - [**CogVideo**](https://github.com/THUDM/CogVideo?tab=readme-ov-file) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
 
 	 *Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)* · ([CogVideo](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUDM/CogVideoX-2b))

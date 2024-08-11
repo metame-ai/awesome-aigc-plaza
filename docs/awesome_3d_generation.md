@@ -199,6 +199,10 @@
 	 *Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, Shuo Chen, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu*
 
 ## 3D Editting
+- **DreamCatalyst: Fast and High-Quality 3D Editing via Controlling
+  Editability and Identity Preservation**, `arXiv, 2407.11394`, [arxiv](http://arxiv.org/abs/2407.11394v1), [pdf](http://arxiv.org/pdf/2407.11394v1.pdf), cication: [**-1**](None)
+
+	 *Jiwook Kim, Seonho Lee, Jaeyo Shin, Jiho Choi, Hyunjung Shim* · ([dream-catalyst.github](https://dream-catalyst.github.io/))
 - **Gaussian Frosting: Editable Complex Radiance Fields with Real-Time
   Rendering**, `arXiv, 2403.14554`, [arxiv](http://arxiv.org/abs/2403.14554v1), [pdf](http://arxiv.org/pdf/2403.14554v1.pdf), cication: [**-1**](None)
 
@@ -206,6 +210,13 @@
 
 
 ## Reconstruction
+- **SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and
+  Illumination Disentanglement**, `arXiv, 2408.00653`, [arxiv](http://arxiv.org/abs/2408.00653v1), [pdf](http://arxiv.org/pdf/2408.00653v1.pdf), cication: [**-1**](None)
+
+	 *Mark Boss, Zixuan Huang, Aaryaman Vasishta, Varun Jampani* · ([stable-fast-3d.github](https://stable-fast-3d.github.io/))
+- **SHIC: Shape-Image Correspondences with no Keypoint Supervision**, `arXiv, 2407.18907`, [arxiv](http://arxiv.org/abs/2407.18907v1), [pdf](http://arxiv.org/pdf/2407.18907v1.pdf), cication: [**-1**](None)
+
+	 *Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi*
 - **LRM-Zero: Training Large Reconstruction Models with Synthesized Data**, `arXiv, 2406.09371`, [arxiv](http://arxiv.org/abs/2406.09371v1), [pdf](http://arxiv.org/pdf/2406.09371v1.pdf), cication: [**-1**](None)
 
 	 *Desai Xie, Sai Bi, Zhixin Shu, Kai Zhang, Zexiang Xu, Yi Zhou, Sören Pirk, Arie Kaufman, Xin Sun, Hao Tan* · ([desaixie.github](https://desaixie.github.io/lrm-zero/))
@@ -237,6 +248,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**, `arXiv, 2407.11398`, [arxiv](http://arxiv.org/abs/2407.11398v1), [pdf](http://arxiv.org/pdf/2407.11398v1.pdf), cication: [**-1**](None)
+
+	 *Yanqin Jiang, Chaohui Yu, Chenjie Cao, Fan Wang, Weiming Hu, Jin Gao* · ([animate3d.github](https://animate3d.github.io/))
 - **Shape of Motion: 4D Reconstruction from a Single Video**, `arXiv, 2407.13764`, [arxiv](http://arxiv.org/abs/2407.13764v1), [pdf](http://arxiv.org/pdf/2407.13764v1.pdf), cication: [**-1**](None)
 
 	 *Qianqian Wang, Vickie Ye, Hang Gao, Jake Austin, Zhengqi Li, Angjoo Kanazawa* · ([shape-of-motion.github](https://shape-of-motion.github.io/))
