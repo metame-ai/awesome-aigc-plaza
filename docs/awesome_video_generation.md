@@ -772,6 +772,9 @@
 	 *Ziqi Huang, Yinan He, Jiashuo Yu, Fan Zhang, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit* · ([VBench](https://github.com/Vchitect/VBench) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Star)
 
 ## Toolkits
+- [**clapper**](https://github.com/jbilcke-hf/clapper) - jbilcke-hf ![Star](https://img.shields.io/github/stars/jbilcke-hf/clapper.svg?style=social&label=Star)
+
+	 *Clapper.app, the video editor designed for the age of AI cinema*
 - [**SoraWebui**](https://github.com/SoraWebui/SoraWebui?tab=readme-ov-file) - SoraWebui ![Star](https://img.shields.io/github/stars/SoraWebui/SoraWebui.svg?style=social&label=Star)
 
 	 *SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.*

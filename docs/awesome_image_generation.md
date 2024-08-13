@@ -42,6 +42,10 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **Stretching Each Dollar: Diffusion Training from Scratch on a
+  Micro-Budget**, `arXiv, 2407.15811`, [arxiv](http://arxiv.org/abs/2407.15811v1), [pdf](http://arxiv.org/pdf/2407.15811v1.pdf), cication: [**-1**](None)
+
+	 *Vikash Sehwag, Xianghao Kong, Jingtao Li, Michael Spranger, Lingjuan Lyu*
 - **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
   with Multimodal Generative Pretraining**, `arXiv, 2408.02657`, [arxiv](http://arxiv.org/abs/2408.02657v1), [pdf](http://arxiv.org/pdf/2408.02657v1.pdf), cication: [**-1**](None)
 
@@ -447,6 +451,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **UniPortrait: A Unified Framework for Identity-Preserving Single- and
+  Multi-Human Image Personalization**, `arXiv, 2408.05939`, [arxiv](http://arxiv.org/abs/2408.05939v1), [pdf](http://arxiv.org/pdf/2408.05939v1.pdf), cication: [**-1**](None)
+
+	 *Junjie He, Yifeng Geng, Liefeng Bo* · ([UniPortrait](https://github.com/junjiehe96/UniPortrait) - junjiehe96) ![Star](https://img.shields.io/github/stars/junjiehe96/UniPortrait.svg?style=social&label=Star)
 - **IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning
   using Instruct Prompts**, `arXiv, 2408.03209`, [arxiv](http://arxiv.org/abs/2408.03209v1), [pdf](http://arxiv.org/pdf/2408.03209v1.pdf), cication: [**-1**](None)
 
@@ -533,6 +541,9 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolutions
+- **Kalman-Inspired Feature Propagation for Video Face Super-Resolution**, `arXiv, 2408.05205`, [arxiv](http://arxiv.org/abs/2408.05205v1), [pdf](http://arxiv.org/pdf/2408.05205v1.pdf), cication: [**-1**](None)
+
+	 *Ruicheng Feng, Chongyi Li, Chen Change Loy* · ([jnjaby.github](https://jnjaby.github.io/projects/KEEP/))
 - **Arbitrary-Scale Video Super-Resolution with Structural and Textural
   Priors**, `arXiv, 2407.09919`, [arxiv](http://arxiv.org/abs/2407.09919v1), [pdf](http://arxiv.org/pdf/2407.09919v1.pdf), cication: [**-1**](None)
 
@@ -766,3 +777,13 @@
   Deepfake Detection**, `arXiv, 2406.00856`, [arxiv](http://arxiv.org/abs/2406.00856v1), [pdf](http://arxiv.org/pdf/2406.00856v1.pdf), cication: [**-1**](None)
 
 	 *Yewon Lim, Changyeon Lee, Aerin Kim, Oren Etzioni* · ([DistilDIRE](https://github.com/miraflow/DistilDIRE) - miraflow) ![Star](https://img.shields.io/github/stars/miraflow/DistilDIRE.svg?style=social&label=Star)
+
+
+## FLUX
+- [Announcing Black Forest Labs - Black Forest Labs](https://blackforestlabs.ai/announcing-black-forest-labs/)
+- [lllyasviel/flux1\_dev at main](https://huggingface.co/lllyasviel/flux1_dev/tree/main)
+- [**x-flux**](https://github.com/XLabs-AI/x-flux) - XLabs-AI ![Star](https://img.shields.io/github/stars/XLabs-AI/x-flux.svg?style=social&label=Star)
+- [**frosting_lane_flux**](https://huggingface.co/alvdansen/frosting_lane_flux) - alvdansen 🤗
+- [**FLUX.1-schnell-dev-merged**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged) - drbaph 🤗
+- [**OpenFLUX.1**](https://huggingface.co/ostris/OpenFLUX.1) - ostris 🤗
+- [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
