@@ -42,6 +42,9 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **Imagen 3**, `arXiv, 2408.07009`, [arxiv](http://arxiv.org/abs/2408.07009v1), [pdf](http://arxiv.org/pdf/2408.07009v1.pdf), cication: [**-1**](None)
+
+	 *Imagen-Team-Google, :, Jason Baldridge, Jakob Bauer, Mukul Bhutani, Nicole Brichtova, Andrew Bunner, Kelvin Chan, Yichang Chen, Sander Dieleman*
 - **Stretching Each Dollar: Diffusion Training from Scratch on a
   Micro-Budget**, `arXiv, 2407.15811`, [arxiv](http://arxiv.org/abs/2407.15811v1), [pdf](http://arxiv.org/pdf/2407.15811v1.pdf), cication: [**-1**](None)
 
@@ -113,6 +116,10 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **ControlNeXt: Powerful and Efficient Control for Image and Video
+  Generation**, `arXiv, 2408.06070`, [arxiv](http://arxiv.org/abs/2408.06070v1), [pdf](http://arxiv.org/pdf/2408.06070v1.pdf), cication: [**-1**](None)
+
+	 *Bohao Peng, Jian Wang, Yuechen Zhang, Wenbo Li, Ming-Chang Yang, Jiaya Jia* · ([ControlNeXt](https://github.com/dvlab-research/ControlNeXt) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/ControlNeXt.svg?style=social&label=Star) · ([pbihao.github](https://pbihao.github.io/projects/controlnext/index.html))
 - **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from
   User's Casual Sketches**, `arXiv, 2408.04567`, [arxiv](http://arxiv.org/abs/2408.04567v1), [pdf](http://arxiv.org/pdf/2408.04567v1.pdf), cication: [**-1**](None)
 
@@ -697,6 +704,9 @@
 	 *Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang*
 
 ## Toolkits
+- [**ai-toolkit**](https://github.com/ostris/ai-toolkit) - ostris ![Star](https://img.shields.io/github/stars/ostris/ai-toolkit.svg?style=social&label=Star)
+
+	 *Various AI scripts. Mostly Stable Diffusion stuff.*
 - [**SimpleTuner**](https://github.com/bghira/SimpleTuner) - bghira ![Star](https://img.shields.io/github/stars/bghira/SimpleTuner.svg?style=social&label=Star)
 
 	 *A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.*
@@ -758,6 +768,9 @@
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
 
 ## Tutorials
+- **Step-by-Step Diffusion: An Elementary Tutorial**, `arXiv, 2406.08929`, [arxiv](http://arxiv.org/abs/2406.08929v2), [pdf](http://arxiv.org/pdf/2406.08929v2.pdf), cication: [**-1**](None)
+
+	 *Preetum Nakkiran, Arwen Bradley, Hattie Zhou, Madhu Advani*
 - **Tutorial on Diffusion Models for Imaging and Vision**, `arXiv, 2403.18103`, [arxiv](http://arxiv.org/abs/2403.18103v1), [pdf](http://arxiv.org/pdf/2403.18103v1.pdf), cication: [**-1**](None)
 
 	 *Stanley H. Chan*

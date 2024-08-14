@@ -51,6 +51,9 @@
   Temporal Attention**, `arXiv, 2407.19918`, [arxiv](http://arxiv.org/abs/2407.19918v1), [pdf](http://arxiv.org/pdf/2407.19918v1.pdf), cication: [**-1**](None)
 
 	 *Yu Lu, Yuanzhi Liang, Linchao Zhu, Yi Yang* · ([yulu.net](https://yulu.net.cn/freelong/))
+- **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**, `arXiv, 2408.06072`, [arxiv](http://arxiv.org/abs/2408.06072v1), [pdf](http://arxiv.org/pdf/2408.06072v1.pdf), cication: [**-1**](None)
+
+	 *Zhuoyi Yang, Jiayan Teng, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, Yuanming Yang, Wenyi Hong, Xiaohan Zhang, Guanyu Feng* · ([CogVideo](https://github.com/THUDM/CogVideo) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
 - [**CogVideo**](https://github.com/THUDM/CogVideo?tab=readme-ov-file) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
 
 	 *Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)* · ([CogVideo](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUDM/CogVideoX-2b))
