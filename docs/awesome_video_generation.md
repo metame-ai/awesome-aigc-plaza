@@ -41,6 +41,10 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **FancyVideo: Towards Dynamic and Consistent Video Generation via
+  Cross-frame Textual Guidance**, `arXiv, 2408.08189`, [arxiv](http://arxiv.org/abs/2408.08189v2), [pdf](http://arxiv.org/pdf/2408.08189v2.pdf), cication: [**-1**](None)
+
+	 *Jiasong Feng, Ao Ma, Jing Wang, Bo Cheng, Xiaodan Liang, Dawei Leng, Yuhui Yin* · ([fancyvideo.github](https://fancyvideo.github.io/))
 - **Fine-gained Zero-shot Video Sampling**, `arXiv, 2407.21475`, [arxiv](http://arxiv.org/abs/2407.21475v1), [pdf](http://arxiv.org/pdf/2407.21475v1.pdf), cication: [**-1**](None)
 
 	 *Dengsheng Chen, Jie Hu, Xiaoming Wei, Enhua Wu* · ([densechen.github](https://densechen.github.io/zss/))

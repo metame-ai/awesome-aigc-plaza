@@ -42,6 +42,9 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**, `arXiv, 2408.08459`, [arxiv](http://arxiv.org/abs/2408.08459v1), [pdf](http://arxiv.org/pdf/2408.08459v1.pdf), cication: [**-1**](None)
+
+	 *Xiaochuang Han, Marjan Ghazvininejad, Pang Wei Koh, Yulia Tsvetkov*
 - **Imagen 3**, `arXiv, 2408.07009`, [arxiv](http://arxiv.org/abs/2408.07009v1), [pdf](http://arxiv.org/pdf/2408.07009v1.pdf), cication: [**-1**](None)
 
 	 *Imagen-Team-Google, :, Jason Baldridge, Jakob Bauer, Mukul Bhutani, Nicole Brichtova, Andrew Bunner, Kelvin Chan, Yichang Chen, Sander Dieleman*
@@ -793,6 +796,10 @@
 
 
 ## FLUX
+- [Fetching Title#zjan](https://civitai.com/models/638187?modelVersionId=721627)
+- [**awesome-flux**](https://github.com/Eris2025/awesome-flux) - Eris2025 ![Star](https://img.shields.io/github/stars/Eris2025/awesome-flux.svg?style=social&label=Star)
+
+	 *A curated list of awesome resources for FLUX, the state-of-the-art text-to-image model by Black Forest Labs.*
 - [Announcing Black Forest Labs - Black Forest Labs](https://blackforestlabs.ai/announcing-black-forest-labs/)
 - [lllyasviel/flux1\_dev at main](https://huggingface.co/lllyasviel/flux1_dev/tree/main)
 - [**x-flux**](https://github.com/XLabs-AI/x-flux) - XLabs-AI ![Star](https://img.shields.io/github/stars/XLabs-AI/x-flux.svg?style=social&label=Star)
@@ -800,3 +807,5 @@
 - [**FLUX.1-schnell-dev-merged**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged) - drbaph 🤗
 - [**OpenFLUX.1**](https://huggingface.co/ostris/OpenFLUX.1) - ostris 🤗
 - [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
+
+- [Stable Diffusion 3「精神续作」FLUX.1 源码深度前瞻解读](https://zhuanlan.zhihu.com/p/714150390)
