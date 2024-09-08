@@ -41,10 +41,36 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Training-free Long Video Generation with Chain of Diffusion Model
+  Experts**, `arXiv, 2408.13423`, [arxiv](http://arxiv.org/abs/2408.13423v3), [pdf](http://arxiv.org/pdf/2408.13423v3.pdf), cication: [**-1**](None)
+
+	 *Wenhao Li, Yichao Cao, Xiu Su, Xi Lin, Shan You, Mingkai Zheng, Yi Chen, Chang Xu* · ([confiner2025.github](https://confiner2025.github.io/))
+- **Video-Foley: Two-Stage Video-To-Sound Generation via Temporal Event
+  Condition For Foley Sound**, `arXiv, 2408.11915`, [arxiv](http://arxiv.org/abs/2408.11915v1), [pdf](http://arxiv.org/pdf/2408.11915v1.pdf), cication: [**-1**](None)
+
+	 *Junwon Lee, Jaekwon Im, Dabin Kim, Juhan Nam* · ([jnwnlee.github](https://jnwnlee.github.io/video-foley-demo/))
+- **Factorized-Dreamer: Training A High-Quality Video Generator with Limited
+  and Low-Quality Data**, `arXiv, 2408.10119`, [arxiv](http://arxiv.org/abs/2408.10119v1), [pdf](http://arxiv.org/pdf/2408.10119v1.pdf), cication: [**-1**](None)
+
+	 *Tao Yang, Yangming Shi, Yunwen Huang, Feng Chen, Yin Zheng, Lei Zhang* · ([Factorized-Dreamer](https://github.com/yangxy/Factorized-Dreamer/) - yangxy) ![Star](https://img.shields.io/github/stars/yangxy/Factorized-Dreamer.svg?style=social&label=Star)
+- **TrackGo: A Flexible and Efficient Method for Controllable Video
+  Generation**, `arXiv, 2408.11475`, [arxiv](http://arxiv.org/abs/2408.11475v1), [pdf](http://arxiv.org/pdf/2408.11475v1.pdf), cication: [**-1**](None)
+
+	 *Haitao Zhou, Chuang Wang, Rui Nie, Jinxiao Lin, Dongdong Yu, Qian Yu, Changhu Wang* · ([zhtjtcz.github](https://zhtjtcz.github.io/TrackGo-Page/))
+- **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed
+  Representations**, `arXiv, 2408.12590`, [arxiv](http://arxiv.org/abs/2408.12590v2), [pdf](http://arxiv.org/pdf/2408.12590v2.pdf), cication: [**-1**](None)
+
+	 *Can Qin, Congying Xia, Krithika Ramakrishnan, Michael Ryoo, Lifu Tu, Yihao Feng, Manli Shu, Honglu Zhou, Anas Awadalla, Jun Wang*
+- **Anim-Director: A Large Multimodal Model Powered Agent for Controllable
+  Animation Video Generation**, `arXiv, 2408.09787`, [arxiv](http://arxiv.org/abs/2408.09787v1), [pdf](http://arxiv.org/pdf/2408.09787v1.pdf), cication: [**-1**](None)
+
+	 *Yunxin Li, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang* · ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)
 - **FancyVideo: Towards Dynamic and Consistent Video Generation via
   Cross-frame Textual Guidance**, `arXiv, 2408.08189`, [arxiv](http://arxiv.org/abs/2408.08189v2), [pdf](http://arxiv.org/pdf/2408.08189v2.pdf), cication: [**-1**](None)
 
 	 *Jiasong Feng, Ao Ma, Jing Wang, Bo Cheng, Xiaodan Liang, Dawei Leng, Yuhui Yin* · ([fancyvideo.github](https://fancyvideo.github.io/))
+
+	 · ([FancyVideo](https://github.com/360CVGroup/FancyVideo) - 360CVGroup) ![Star](https://img.shields.io/github/stars/360CVGroup/FancyVideo.svg?style=social&label=Star)
 - **Fine-gained Zero-shot Video Sampling**, `arXiv, 2407.21475`, [arxiv](http://arxiv.org/abs/2407.21475v1), [pdf](http://arxiv.org/pdf/2407.21475v1.pdf), cication: [**-1**](None)
 
 	 *Dengsheng Chen, Jie Hu, Xiaoming Wei, Enhua Wu* · ([densechen.github](https://densechen.github.io/zss/))
@@ -58,6 +84,8 @@
 - **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**, `arXiv, 2408.06072`, [arxiv](http://arxiv.org/abs/2408.06072v1), [pdf](http://arxiv.org/pdf/2408.06072v1.pdf), cication: [**-1**](None)
 
 	 *Zhuoyi Yang, Jiayan Teng, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, Yuanming Yang, Wenyi Hong, Xiaohan Zhang, Guanyu Feng* · ([CogVideo](https://github.com/THUDM/CogVideo) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/THUDM/CogVideoX-5B-Space)) · ([huggingface](https://huggingface.co/THUDM/CogVideoX-5b/tree/main))
 - [**CogVideo**](https://github.com/THUDM/CogVideo?tab=readme-ov-file) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
 
 	 *Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)* · ([CogVideo](https://github.com/THUDM/CogVideo/blob/main/resources/CogVideoX.pdf) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUDM/CogVideoX-2b))
@@ -412,6 +440,26 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- **TVG: A Training-free Transition Video Generation Method with Diffusion
+  Models**, `arXiv, 2408.13413`, [arxiv](http://arxiv.org/abs/2408.13413v1), [pdf](http://arxiv.org/pdf/2408.13413v1.pdf), cication: [**-1**](None)
+
+	 *Rui Zhang, Yaosen Chen, Yuegen Liu, Wei Wang, Xuming Wen, Hongxia Wang* · ([sobeymil.github](https://sobeymil.github.io/tvg.com/))
+- **EasyControl: Transfer ControlNet to Video Diffusion for Controllable
+  Generation and Interpolation**, `arXiv, 2408.13005`, [arxiv](http://arxiv.org/abs/2408.13005v1), [pdf](http://arxiv.org/pdf/2408.13005v1.pdf), cication: [**-1**](None)
+
+	 *Cong Wang, Jiaxi Gu, Panwen Hu, Haoyu Zhao, Yuanfan Guo, Jianhua Han, Hang Xu, Xiaodan Liang*
+- **CustomCrafter: Customized Video Generation with Preserving Motion and
+  Concept Composition Abilities**, `arXiv, 2408.13239`, [arxiv](http://arxiv.org/abs/2408.13239v1), [pdf](http://arxiv.org/pdf/2408.13239v1.pdf), cication: [**-1**](None)
+
+	 *Tao Wu, Yong Zhang, Xintao Wang, Xianpan Zhou, Guangcong Zheng, Zhongang Qi, Ying Shan, Xi Li* · ([customcrafter.github](https://customcrafter.github.io/))
+- **Anim-Director: A Large Multimodal Model Powered Agent for Controllable
+  Animation Video Generation**, `arXiv, 2408.09787`, [arxiv](http://arxiv.org/abs/2408.09787v1), [pdf](http://arxiv.org/pdf/2408.09787v1.pdf), cication: [**-1**](None)
+
+	 *Yunxin Li, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang* · ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director) - HITsz-TMG) ![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)
+- **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion
+  Consistency**, `arXiv, 2408.07481`, [arxiv](http://arxiv.org/abs/2408.07481v1), [pdf](http://arxiv.org/pdf/2408.07481v1.pdf), cication: [**-1**](None)
+
+	 *Xiaojing Zhong, Xinyi Huang, Xiaofeng Yang, Guosheng Lin, Qingyao Wu*
 - **Cinemo: Consistent and Controllable Image Animation with Motion
   Diffusion Models**, `arXiv, 2407.15642`, [arxiv](http://arxiv.org/abs/2407.15642v2), [pdf](http://arxiv.org/pdf/2407.15642v2.pdf), cication: [**-1**](None)
 
@@ -618,6 +666,9 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **DreamCinema: Cinematic Transfer with Free Camera and 3D Character**, `arXiv, 2408.12601`, [arxiv](http://arxiv.org/abs/2408.12601v1), [pdf](http://arxiv.org/pdf/2408.12601v1.pdf), cication: [**-1**](None)
+
+	 *Weiliang Chen, Fangfu Liu, Diankun Wu, Haowen Sun, Haixu Song, Yueqi Duan* · ([liuff19.github](https://liuff19.github.io/DreamCinema/)) · ([DreamCinema](https://github.com/chen-wl20/DreamCinema?tab=readme-ov-file) - chen-wl20) ![Star](https://img.shields.io/github/stars/chen-wl20/DreamCinema.svg?style=social&label=Star)
 - **Generalizable Implicit Motion Modeling for Video Frame Interpolation**, `arXiv, 2407.08680`, [arxiv](http://arxiv.org/abs/2407.08680v1), [pdf](http://arxiv.org/pdf/2407.08680v1.pdf), cication: [**-1**](None)
 
 	 *Zujin Guo, Wei Li, Chen Change Loy* · ([gseancdat.github](https://gseancdat.github.io/projects/GIMMVFI))
@@ -754,6 +805,10 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **TWLV-I: Analysis and Insights from Holistic Evaluation on Video
+  Foundation Models**, `arXiv, 2408.11318`, [arxiv](http://arxiv.org/abs/2408.11318v2), [pdf](http://arxiv.org/pdf/2408.11318v2.pdf), cication: [**-1**](None)
+
+	 *Hyeongmin Lee, Jin-Young Kim, Kyungjune Baek, Jihwan Kim, Hyojun Go, Seongsu Ha, Seokjin Han, Jiho Jang, Raehyuk Jung, Daewoo Kim* · ([video-embeddings-evaluation-framework](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework) - twelvelabs-io) ![Star](https://img.shields.io/github/stars/twelvelabs-io/video-embeddings-evaluation-framework.svg?style=social&label=Star)
 - **Fréchet Video Motion Distance: A Metric for Evaluating Motion
   Consistency in Videos**, `arXiv, 2407.16124`, [arxiv](http://arxiv.org/abs/2407.16124v1), [pdf](http://arxiv.org/pdf/2407.16124v1.pdf), cication: [**-1**](None)
 
@@ -817,6 +872,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Ideogram 2.0 ](https://x.com/ideogram_ai/status/1826374466303115580)
 - [Introducing Gen-3 Alpha: A New Frontier for Video Generation](https://runwayml.com/blog/introducing-gen-3-alpha/)
 - [Fetching Title#ar69](https://lumalabs.ai/dream-machine)
 - [AI startup Higgsfield unveiled a new AI video model called NOVA-1.](https://x.com/adcock_brett/status/1797298164753469522)

@@ -199,6 +199,9 @@
 	 *Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, Shuo Chen, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu*
 
 ## 3D Editting
+- **3D Gaussian Editing with A Single Image**, `arXiv, 2408.07540`, [arxiv](http://arxiv.org/abs/2408.07540v1), [pdf](http://arxiv.org/pdf/2408.07540v1.pdf), cication: [**-1**](None)
+
+	 *Guan Luo, Tian-Xing Xu, Ying-Tian Liu, Xiao-Xiong Fan, Fang-Lue Zhang, Song-Hai Zhang*
 - **DreamCatalyst: Fast and High-Quality 3D Editing via Controlling
   Editability and Identity Preservation**, `arXiv, 2407.11394`, [arxiv](http://arxiv.org/abs/2407.11394v1), [pdf](http://arxiv.org/pdf/2407.11394v1.pdf), cication: [**-1**](None)
 
@@ -210,6 +213,14 @@
 
 
 ## Reconstruction
+- **SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
+  Views**, `arXiv, 2408.10195`, [arxiv](http://arxiv.org/abs/2408.10195v1), [pdf](http://arxiv.org/pdf/2408.10195v1.pdf), cication: [**-1**](None)
+
+	 *Chao Xu, Ang Li, Linghao Chen, Yulin Liu, Ruoxi Shi, Hao Su, Minghua Liu* · ([chaoxu](https://chaoxu.xyz/sparp/))
+- **MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction
+  Model**, `arXiv, 2408.10198`, [arxiv](http://arxiv.org/abs/2408.10198v1), [pdf](http://arxiv.org/pdf/2408.10198v1.pdf), cication: [**-1**](None)
+
+	 *Minghua Liu, Chong Zeng, Xinyue Wei, Ruoxi Shi, Linghao Chen, Chao Xu, Mengqi Zhang, Zhaoning Wang, Xiaoshuai Zhang, Isabella Liu* · ([meshformer3d.github](https://meshformer3d.github.io/))
 - **SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and
   Illumination Disentanglement**, `arXiv, 2408.00653`, [arxiv](http://arxiv.org/abs/2408.00653v1), [pdf](http://arxiv.org/pdf/2408.00653v1.pdf), cication: [**-1**](None)
 
@@ -248,6 +259,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- **CT4D: Consistent Text-to-4D Generation with Animatable Meshes**, `arXiv, 2408.08342`, [arxiv](http://arxiv.org/abs/2408.08342v1), [pdf](http://arxiv.org/pdf/2408.08342v1.pdf), cication: [**-1**](None)
+
+	 *Ce Chen, Shaoli Huang, Xuelin Chen, Guangyi Chen, Xiaoguang Han, Kun Zhang, Mingming Gong*
 - **Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**, `arXiv, 2407.11398`, [arxiv](http://arxiv.org/abs/2407.11398v1), [pdf](http://arxiv.org/pdf/2407.11398v1.pdf), cication: [**-1**](None)
 
 	 *Yanqin Jiang, Chaohui Yu, Chenjie Cao, Fan Wang, Weiming Hu, Jin Gao* · ([animate3d.github](https://animate3d.github.io/))
@@ -303,3 +317,6 @@
 
 ## Extra Reference
 - [Trending 3D Demos - a ysharma Collection](https://huggingface.co/collections/ysharma/trending-3d-demos-65f87404544586e693d16a6b)
+
+## Products
+- [Meshy-4: Break Grounds](https://www.meshy.ai/zh/blog/meshy-4-break-grounds)

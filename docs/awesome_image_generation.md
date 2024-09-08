@@ -119,6 +119,24 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **Draw Like an Artist: Complex Scene Generation with Diffusion Model via
+  Composition, Painting, and Retouching**, `arXiv, 2408.13858`, [arxiv](http://arxiv.org/abs/2408.13858v1), [pdf](http://arxiv.org/pdf/2408.13858v1.pdf), cication: [**-1**](None)
+
+	 *Minghao Liu, Le Zhang, Yingjie Tian, Xiaochao Qu, Luoqi Liu, Ting Liu*
+- **What Do You Want? User-centric Prompt Generation for Text-to-image
+  Synthesis via Multi-turn Guidance**, `arXiv, 2408.12910`, [arxiv](http://arxiv.org/abs/2408.12910v1), [pdf](http://arxiv.org/pdf/2408.12910v1.pdf), cication: [**-1**](None)
+
+	 *Yilun Liu, Minggui He, Feiyu Yao, Yuhe Ji, Shimin Tao, Jingzhou Du, Duan Li, Jian Gao, Li Zhang, Hao Yang*
+- **MUSES: 3D-Controllable Image Generation via Multi-Modal Agent
+  Collaboration**, `arXiv, 2408.10605`, [arxiv](http://arxiv.org/abs/2408.10605v2), [pdf](http://arxiv.org/pdf/2408.10605v2.pdf), cication: [**-1**](None)
+
+	 *Yanbo Ding, Shaobin Zhuang, Kunchang Li, Zhengrong Yue, Yu Qiao, Yali Wang*
+- **Generative Photomontage**, `arXiv, 2408.07116`, [arxiv](http://arxiv.org/abs/2408.07116v2), [pdf](http://arxiv.org/pdf/2408.07116v2.pdf), cication: [**-1**](None)
+
+	 *Sean J. Liu, Nupur Kumari, Ariel Shamir, Jun-Yan Zhu* · ([lseancs.github](https://lseancs.github.io/generativephotomontage/))
+- **TraDiffusion: Trajectory-Based Training-Free Image Generation**, `arXiv, 2408.09739`, [arxiv](http://arxiv.org/abs/2408.09739v1), [pdf](http://arxiv.org/pdf/2408.09739v1.pdf), cication: [**-1**](None)
+
+	 *Mingrui Wu, Oucheng Huang, Jiayi Ji, Jiale Li, Xinyue Cai, Huafeng Kuang, Jianzhuang Liu, Xiaoshuai Sun, Rongrong Ji* · ([TraDiffusion](https://github.com/och-mac/TraDiffusion) - och-mac) ![Star](https://img.shields.io/github/stars/och-mac/TraDiffusion.svg?style=social&label=Star)
 - **ControlNeXt: Powerful and Efficient Control for Image and Video
   Generation**, `arXiv, 2408.06070`, [arxiv](http://arxiv.org/abs/2408.06070v1), [pdf](http://arxiv.org/pdf/2408.06070v1.pdf), cication: [**-1**](None)
 
@@ -259,6 +277,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its
+  Teacher**, `arXiv, 2408.14176`, [arxiv](http://arxiv.org/abs/2408.14176v2), [pdf](http://arxiv.org/pdf/2408.14176v2.pdf), cication: [**-1**](None)
+
+	 *Trung Dao, Thuan Hoang Nguyen, Thanh Le, Duc Vu, Khoi Nguyen, Cuong Pham, Anh Tran* · ([swiftbrushv2.github](https://swiftbrushv2.github.io/)) · ([vinairesearch.github](https://vinairesearch.github.io/SwiftBrush/))
 - **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, `arXiv, 2406.06911`, [arxiv](http://arxiv.org/abs/2406.06911v1), [pdf](http://arxiv.org/pdf/2406.06911v1.pdf), cication: [**-1**](None)
 
 	 *Zigeng Chen, Xinyin Ma, Gongfan Fang, Zhenxiong Tan, Xinchao Wang* · ([AsyncDiff](https://github.com/czg1225/AsyncDiff) - czg1225) ![Star](https://img.shields.io/github/stars/czg1225/AsyncDiff.svg?style=social&label=Star)
@@ -330,6 +352,9 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- **TurboEdit: Instant text-based image editing**, `arXiv, 2408.08332`, [arxiv](http://arxiv.org/abs/2408.08332v1), [pdf](http://arxiv.org/pdf/2408.08332v1.pdf), cication: [**-1**](None)
+
+	 *Zongze Wu, Nicholas Kolkin, Jonathan Brandt, Richard Zhang, Eli Shechtman* · ([betterze.github](https://betterze.github.io/TurboEdit/))
 - **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**, `arXiv, 2408.00735`, [arxiv](http://arxiv.org/abs/2408.00735v1), [pdf](http://arxiv.org/pdf/2408.00735v1.pdf), cication: [**-1**](None)
 
 	 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or* · ([turboedit-paper.github](https://turboedit-paper.github.io/))
@@ -430,6 +455,9 @@
 - **ZigMa: Zigzag Mamba Diffusion Model**, `arXiv, 2403.13802`, [arxiv](http://arxiv.org/abs/2403.13802v1), [pdf](http://arxiv.org/pdf/2403.13802v1.pdf), cication: [**-1**](None)
 
 	 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer*
+- **Text-Driven Image Editing via Learnable Regions**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2311.16432v2), [pdf](http://arxiv.org/pdf/2311.16432v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=8294621472607914145&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang* · ([Learnable_Regions](https://github.com/yuanze-lin/Learnable_Regions) - yuanze-lin) ![Star](https://img.shields.io/github/stars/yuanze-lin/Learnable_Regions.svg?style=social&label=Star)
 - **The Missing U for Efficient Diffusion Models**, `arXiv, 2310.20092`, [arxiv](http://arxiv.org/abs/2310.20092v4), [pdf](http://arxiv.org/pdf/2310.20092v4.pdf), cication: [**-1**](None)
 
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
@@ -461,6 +489,13 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **MagicID: Flexible ID Fidelity Generation System**, `arXiv, 2408.09248`, [arxiv](http://arxiv.org/abs/2408.09248v2), [pdf](http://arxiv.org/pdf/2408.09248v2.pdf), cication: [**-1**](None)
+
+	 *Zhaoli Deng, Wen Liu, Fanyi Wang, Junkang Zhang, Fan Chen, Meng Zhang, Wendong Zhang, Zhenpeng Mi*
+- **MagicFace: Training-free Universal-Style Human Image Customized
+  Synthesis**, `arXiv, 2408.07433`, [arxiv](http://arxiv.org/abs/2408.07433v3), [pdf](http://arxiv.org/pdf/2408.07433v3.pdf), cication: [**-1**](None)
+
+	 *Yibin Wang, Weizhong Zhang, Cheng Jin* · ([codegoat24.github](https://codegoat24.github.io/MagicFace/)) · ([MagicFace](https://github.com/CodeGoat24/MagicFace) - CodeGoat24) ![Star](https://img.shields.io/github/stars/CodeGoat24/MagicFace.svg?style=social&label=Star)
 - **UniPortrait: A Unified Framework for Identity-Preserving Single- and
   Multi-Human Image Personalization**, `arXiv, 2408.05939`, [arxiv](http://arxiv.org/abs/2408.05939v1), [pdf](http://arxiv.org/pdf/2408.05939v1.pdf), cication: [**-1**](None)
 
@@ -551,6 +586,12 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolutions
+- [**aura-sr**](https://github.com/fal-ai/aura-sr) - fal-ai ![Star](https://img.shields.io/github/stars/fal-ai/aura-sr.svg?style=social&label=Star)
+
+	 *AuraSR: GAN-based Super-Resolution for real-world*
+- [[2408.11001] MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning](https://arxiv.org/abs/2408.11001/)
+
+	 · ([haoningwu3639.github](https://haoningwu3639.github.io/MegaFusion/)) · ([MegaFusion](https://github.com/ShaochengShen/MegaFusion/) - ShaochengShen) ![Star](https://img.shields.io/github/stars/ShaochengShen/MegaFusion.svg?style=social&label=Star)
 - **Kalman-Inspired Feature Propagation for Video Face Super-Resolution**, `arXiv, 2408.05205`, [arxiv](http://arxiv.org/abs/2408.05205v1), [pdf](http://arxiv.org/pdf/2408.05205v1.pdf), cication: [**-1**](None)
 
 	 *Ruicheng Feng, Chongyi Li, Chen Change Loy* · ([jnjaby.github](https://jnjaby.github.io/projects/KEEP/))
@@ -625,6 +666,10 @@
 - [基于Stable Diffusion的AIGC服饰穿搭实践-CSDN博客](https://blog.csdn.net/Taobaojishu/article/details/132632670)
 
 ## Projects
+- [Site Unreachable](https://blog.novelai.net/image-generation-announcement-807b3cf0afec)
+
+	 · ([huggingface](https://huggingface.co/NovelAI/nai-anime-v1-full))
+- [Towards Pony Diffusion V7, going with the flow. | Civitai](https://civitai.com/articles/6309)
 - [**PixArt-Sigma-900M**](https://huggingface.co/dataautogpt3/PixArt-Sigma-900M) - dataautogpt3 🤗
 - [**littletinies**](https://huggingface.co/alvdansen/littletinies) - alvdansen 🤗
 - [**AuraFlow**](https://huggingface.co/fal/AuraFlow) - fal 🤗
@@ -707,6 +752,10 @@
 	 *Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang*
 
 ## Toolkits
+- [**DiffusionKit**](https://github.com/argmaxinc/DiffusionKit) - argmaxinc ![Star](https://img.shields.io/github/stars/argmaxinc/DiffusionKit.svg?style=social&label=Star)
+
+	 *On-device Inference of Diffusion Models for Apple Silicon*
+- [**stable-diffusion-webui-forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge/) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge.svg?style=social&label=Star)
 - [**ai-toolkit**](https://github.com/ostris/ai-toolkit) - ostris ![Star](https://img.shields.io/github/stars/ostris/ai-toolkit.svg?style=social&label=Star)
 
 	 *Various AI scripts. Mostly Stable Diffusion stuff.*
@@ -726,6 +775,7 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- [**K-Sort-Arena**](https://huggingface.co/spaces/ksort/K-Sort-Arena) - ksort 🤗
 - **MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for
   Text-to-Image Generation?**, `arXiv, 2407.04842`, [arxiv](http://arxiv.org/abs/2407.04842v1), [pdf](http://arxiv.org/pdf/2407.04842v1.pdf), cication: [**-1**](None)
 
@@ -768,6 +818,7 @@
 	 *Xiaowen Sun, Jiazhan Feng, Yuxuan Wang, Yuxuan Lai, Xingyu Shen, Dongyan Zhao*
 
 ## Products
+- [Rubbrband](https://www.rubbrband.com/roi)
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
 
 ## Tutorials
@@ -781,6 +832,17 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
 
 ## Autoregressive 
+- **Scalable Autoregressive Image Generation with Mamba**, `arXiv, 2408.12245`, [arxiv](http://arxiv.org/abs/2408.12245v1), [pdf](http://arxiv.org/pdf/2408.12245v1.pdf), cication: [**-1**](None)
+
+	 *Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li* · ([AiM](https://github.com/hp-l33/AiM) - hp-l33) ![Star](https://img.shields.io/github/stars/hp-l33/AiM.svg?style=social&label=Star)
+- **Show-o: One Single Transformer to Unify Multimodal Understanding and
+  Generation**, `arXiv, 2408.12528`, [arxiv](http://arxiv.org/abs/2408.12528v2), [pdf](http://arxiv.org/pdf/2408.12528v2.pdf), cication: [**-1**](None)
+
+	 *Jinheng Xie, Weijia Mao, Zechen Bai, David Junhao Zhang, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, Mike Zheng Shou* · ([Show-o](https://github.com/showlab/Show-o) - showlab) ![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)
+- **Transfusion: Predict the Next Token and Diffuse Images with One
+  Multi-Modal Model**, `arXiv, 2408.11039`, [arxiv](http://arxiv.org/abs/2408.11039v1), [pdf](http://arxiv.org/pdf/2408.11039v1.pdf), cication: [**-1**](None)
+
+	 *Chunting Zhou, Lili Yu, Arun Babu, Kushal Tirumala, Michihiro Yasunaga, Leonid Shamis, Jacob Kahn, Xuezhe Ma, Luke Zettlemoyer, Omer Levy*
 - [**asymmetric_magvitv2**](https://github.com/bornfly-detachment/asymmetric_magvitv2) - bornfly-detachment ![Star](https://img.shields.io/github/stars/bornfly-detachment/asymmetric_magvitv2.svg?style=social&label=Star)
 
 	 *In 2024, the strongest open-source implementation of asymmetric magvit\_v2 supports inference code but excludes VQVAE. It supports the joint encoding of images and videos, accommodating arbitrary video lengths and resolutions. It surpasses all open-source models in FID and FVD, with 4z and 16z models available on huggingface.*
@@ -789,6 +851,9 @@
 	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He* · ([mar](https://github.com/lth14/mar) - lth14) ![Star](https://img.shields.io/github/stars/lth14/mar.svg?style=social&label=Star)
 
 ## Detection
+- **DeepSpeak Dataset v1.0**, `arXiv, 2408.05366`, [arxiv](http://arxiv.org/abs/2408.05366v2), [pdf](http://arxiv.org/pdf/2408.05366v2.pdf), cication: [**-1**](None)
+
+	 *Sarah Barrington, Matyas Bohacek, Hany Farid*
 - **DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized
   Deepfake Detection**, `arXiv, 2406.00856`, [arxiv](http://arxiv.org/abs/2406.00856v1), [pdf](http://arxiv.org/pdf/2406.00856v1.pdf), cication: [**-1**](None)
 
@@ -796,16 +861,44 @@
 
 
 ## FLUX
-- [Fetching Title#zjan](https://civitai.com/models/638187?modelVersionId=721627)
+- [**FLUX.1-dev**](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) - black-forest-labs 🤗
+- [Top 10 Prompts for Flux.1: Master the Art of AI - AI/ML Blog](https://aimlapi.com/blog/master-the-art-of-ai-top-10-prompts-for-flux-1-by-black-forests-labs)
+- [Tips for Flux.1 Schnell: To avoid a "plasticky airbrushed face", do not use 4x-UltraSharp for upscaling realistic images, use 4xFaceUpDAT instead. : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1ev6ris/tips_for_flux1_schnell_to_avoid_a_plasticky/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-the-dspy-roadmap)
 - [**awesome-flux**](https://github.com/Eris2025/awesome-flux) - Eris2025 ![Star](https://img.shields.io/github/stars/Eris2025/awesome-flux.svg?style=social&label=Star)
 
 	 *A curated list of awesome resources for FLUX, the state-of-the-art text-to-image model by Black Forest Labs.*
 - [Announcing Black Forest Labs - Black Forest Labs](https://blackforestlabs.ai/announcing-black-forest-labs/)
-- [lllyasviel/flux1\_dev at main](https://huggingface.co/lllyasviel/flux1_dev/tree/main)
 - [**x-flux**](https://github.com/XLabs-AI/x-flux) - XLabs-AI ![Star](https://img.shields.io/github/stars/XLabs-AI/x-flux.svg?style=social&label=Star)
+
+### Efficient 
+- [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
+
+### Loras
+- [**flux-tarot-v1**](https://huggingface.co/multimodalart/flux-tarot-v1) - multimodalart 🤗
+- [**flux-lora-collection**](https://huggingface.co/XLabs-AI/flux-lora-collection) - XLabs-AI 🤗
+- [**Hyper-SD**](https://huggingface.co/ByteDance/Hyper-SD) - ByteDance 🤗
+- [**Hyper-FLUX-8Steps-LoRA**](https://huggingface.co/spaces/ByteDance/Hyper-FLUX-8Steps-LoRA) - ByteDance 🤗
+- [**FluxteusV1**](https://huggingface.co/dataautogpt3/FluxteusV1) - dataautogpt3 🤗
+- [Flux_Realistic_v1](https://civitai.com/models/652009/fluxrealisticv1)
+- [Realism Comparison v2 - Amateur Photography Lora [Flux Dev] : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1eywnv8/realism_comparison_v2_amateur_photography_lora)
+- [Say goodbye to blurry backgrounds.. Anti-blur Flux Lora is here! : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1eyvzjv/say_goodbye_to_blurry_backgrounds_antiblur_flux)
+- [running multiple Flux LoRAs at once. ](https://x.com/venturetwins/status/1825924552817520896)
+- [**FLUX.1-schnell-training-adapter**](https://huggingface.co/ostris/FLUX.1-schnell-training-adapter) - ostris 🤗
+- [Flux.1-Dev (v1+v2) Flux.1-Schnell BNB NF4](https://civitai.com/models/638187?modelVersionId=721627)
+- [lllyasviel/flux1\_dev at main](https://huggingface.co/lllyasviel/flux1_dev/tree/main)
+- [**flux_film_foto**](https://huggingface.co/alvdansen/flux_film_foto) - alvdansen 🤗
+- [**flux-koda**](https://huggingface.co/alvdansen/flux-koda) - alvdansen 🤗
 - [**frosting_lane_flux**](https://huggingface.co/alvdansen/frosting_lane_flux) - alvdansen 🤗
 - [**FLUX.1-schnell-dev-merged**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged) - drbaph 🤗
 - [**OpenFLUX.1**](https://huggingface.co/ostris/OpenFLUX.1) - ostris 🤗
 - [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
 
+### Control Generation
+- [**SpeechCraft**](https://github.com/thuhcsi/SpeechCraft) - thuhcsi ![Star](https://img.shields.io/github/stars/thuhcsi/SpeechCraft.svg?style=social&label=Star)
+
+	 *The official repository of SpeechCraft dataset, a large-scale expressive bilingual speech dataset with natural language descriptions.*
+- [**flux-controlnet-canny-v3**](https://huggingface.co/XLabs-AI/flux-controlnet-canny-v3) - XLabs-AI 🤗
+### Other
+- [FLUX is smarter than you! - and other surprising findings on making the model your own | Civitai](https://civitai.com/articles/6982)
+- [AI in Filmmaking, X's txt2img (Flux.1 PRO), and FLUX Updates | This Week in AI Art 🎬](https://diffusiondigest.beehiiv.com/p/ai-filmmaking-xs-txt2img-flux1-pro-flux-updates-week-ai-art?_bhlid=1af336b16531cf042960800317583fa8ca7f70e3)
 - [Stable Diffusion 3「精神续作」FLUX.1 源码深度前瞻解读](https://zhuanlan.zhihu.com/p/714150390)
