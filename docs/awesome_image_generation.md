@@ -870,6 +870,11 @@
 - [Announcing Black Forest Labs - Black Forest Labs](https://blackforestlabs.ai/announcing-black-forest-labs/)
 - [**x-flux**](https://github.com/XLabs-AI/x-flux) - XLabs-AI ![Star](https://img.shields.io/github/stars/XLabs-AI/x-flux.svg?style=social&label=Star)
 
+### Toolkits
+- [**fluxgym**](https://github.com/cocktailpeanut/fluxgym) - cocktailpeanut ![Star](https://img.shields.io/github/stars/cocktailpeanut/fluxgym.svg?style=social&label=Star)
+
+	 *Dead simple FLUX LoRA training UI with LOW VRAM support*
+
 ### Efficient 
 - [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
