@@ -489,6 +489,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- [**comfyui-instantId-faceswap**](https://github.com/nosiu/comfyui-instantId-faceswap) - nosiu ![Star](https://img.shields.io/github/stars/nosiu/comfyui-instantId-faceswap.svg?style=social&label=Star)
+
+	 *Implementation of faceswap based on InstantID for ComfyUI.*
 - **MagicID: Flexible ID Fidelity Generation System**, `arXiv, 2408.09248`, [arxiv](http://arxiv.org/abs/2408.09248v2), [pdf](http://arxiv.org/pdf/2408.09248v2.pdf), cication: [**-1**](None)
 
 	 *Zhaoli Deng, Wen Liu, Fanyi Wang, Junkang Zhang, Fan Chen, Meng Zhang, Wendong Zhang, Zhenpeng Mi*
@@ -832,6 +835,10 @@
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
 
 ## Autoregressive 
+- **Open-MAGVIT2: An Open-Source Project Toward Democratizing
+  Auto-regressive Visual Generation**, `arXiv, 2409.04410`, [arxiv](http://arxiv.org/abs/2409.04410v1), [pdf](http://arxiv.org/pdf/2409.04410v1.pdf), cication: [**-1**](None)
+
+	 *Zhuoyan Luo, Fengyuan Shi, Yixiao Ge, Yujiu Yang, Limin Wang, Ying Shan* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 - **Scalable Autoregressive Image Generation with Mamba**, `arXiv, 2408.12245`, [arxiv](http://arxiv.org/abs/2408.12245v1), [pdf](http://arxiv.org/pdf/2408.12245v1.pdf), cication: [**-1**](None)
 
 	 *Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li* · ([AiM](https://github.com/hp-l33/AiM) - hp-l33) ![Star](https://img.shields.io/github/stars/hp-l33/AiM.svg?style=social&label=Star)
@@ -899,11 +906,15 @@
 - [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
 
 ### Control Generation
+- [**PuLID**](https://github.com/ToTheBeginning/PuLID) - ToTheBeginning ![Star](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg?style=social&label=Star)
+
+	 *Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment*
 - [**SpeechCraft**](https://github.com/thuhcsi/SpeechCraft) - thuhcsi ![Star](https://img.shields.io/github/stars/thuhcsi/SpeechCraft.svg?style=social&label=Star)
 
 	 *The official repository of SpeechCraft dataset, a large-scale expressive bilingual speech dataset with natural language descriptions.*
 - [**flux-controlnet-canny-v3**](https://huggingface.co/XLabs-AI/flux-controlnet-canny-v3) - XLabs-AI 🤗
 ### Other
+- [Flux from @bfl_ml is now on RenderNet!](https://x.com/rendernet_ai/status/1833865069744083198)
 - [FLUX is smarter than you! - and other surprising findings on making the model your own | Civitai](https://civitai.com/articles/6982)
 - [AI in Filmmaking, X's txt2img (Flux.1 PRO), and FLUX Updates | This Week in AI Art 🎬](https://diffusiondigest.beehiiv.com/p/ai-filmmaking-xs-txt2img-flux1-pro-flux-updates-week-ai-art?_bhlid=1af336b16531cf042960800317583fa8ca7f70e3)
 - [Stable Diffusion 3「精神续作」FLUX.1 源码深度前瞻解读](https://zhuanlan.zhihu.com/p/714150390)
