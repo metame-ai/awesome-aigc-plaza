@@ -16,6 +16,9 @@
 
 
 ## 3D Generation
+- **OctFusion: Octree-based Diffusion Models for 3D Shape Generation**, `arXiv, 2408.14732`, [arxiv](http://arxiv.org/abs/2408.14732v1), [pdf](http://arxiv.org/pdf/2408.14732v1.pdf), cication: [**-1**](None)
+
+	 *Bojun Xiong, Si-Tong Wei, Xin-Yang Zheng, Yan-Pei Cao, Zhouhui Lian, Peng-Shuai Wang* · ([octfusion](https://github.com/octree-nn/octfusion) - octree-nn) ![Star](https://img.shields.io/github/stars/octree-nn/octfusion.svg?style=social&label=Star)
 - **An Object is Worth 64x64 Pixels: Generating 3D Object via Image
   Diffusion**, `arXiv, 2408.03178`, [arxiv](http://arxiv.org/abs/2408.03178v1), [pdf](http://arxiv.org/pdf/2408.03178v1.pdf), cication: [**-1**](None)
 
@@ -63,6 +66,14 @@
 	 *Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 ## Text to 3D
+- **DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for
+  Text-to-3D Generation**, `arXiv, 2409.07454`, [arxiv](http://arxiv.org/abs/2409.07454v1), [pdf](http://arxiv.org/pdf/2409.07454v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=12878844616090109788&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Haibo Yang, Yang Chen, Yingwei Pan, Ting Yao, Zhineng Chen, Zuxuan Wu, Yu-Gang Jiang, Tao Mei* · ([dreammesh.github](https://dreammesh.github.io/))
+- **Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with
+  Image-Based Surface Representation**, `arXiv, 2409.03718`, [arxiv](http://arxiv.org/abs/2409.03718v1), [pdf](http://arxiv.org/pdf/2409.03718v1.pdf), cication: [**-1**](None)
+
+	 *Slava Elizarov, Ciara Rowles, Simon Donné* · ([unity-research.github](https://unity-research.github.io/Geometry-Image-Diffusion.github.io/))
 - **PlacidDreamer: Advancing Harmony in Text-to-3D Generation**, `arXiv, 2407.13976`, [arxiv](http://arxiv.org/abs/2407.13976v1), [pdf](http://arxiv.org/pdf/2407.13976v1.pdf), cication: [**-1**](None)
 
 	 *Shuo Huang, Shikun Sun, Zixuan Wang, Xiaoyu Qin, Yanmin Xiong, Yuan Zhang, Pengfei Wan, Di Zhang, Jia Jia* · ([PlacidDreamer](https://github.com/HansenHuang0823/PlacidDreamer) - HansenHuang0823) ![Star](https://img.shields.io/github/stars/HansenHuang0823/PlacidDreamer.svg?style=social&label=Star)
@@ -120,6 +131,10 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
+  Diffusion Models**, `arXiv, 2409.07452`, [arxiv](http://arxiv.org/abs/2409.07452v1), [pdf](http://arxiv.org/pdf/2409.07452v1.pdf), cication: [**-1**](None)
+
+	 *Haibo Yang, Yang Chen, Yingwei Pan, Ting Yao, Zhineng Chen, Chong-Wah Ngo, Tao Mei* · ([Hi3D-Official](https://github.com/yanghb22-fdu/Hi3D-Official) - yanghb22-fdu) ![Star](https://img.shields.io/github/stars/yanghb22-fdu/Hi3D-Official.svg?style=social&label=Star)
 - **Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single
   Image**, `arXiv, 2405.20343`, [arxiv](http://arxiv.org/abs/2405.20343v2), [pdf](http://arxiv.org/pdf/2405.20343v2.pdf), cication: [**-1**](None)
 
@@ -213,6 +228,16 @@
 
 
 ## Reconstruction
+- **3D Reconstruction with Spatial Memory**, `arXiv, 2408.16061`, [arxiv](http://arxiv.org/abs/2408.16061v1), [pdf](http://arxiv.org/pdf/2408.16061v1.pdf), cication: [**-1**](None)
+
+	 *Hengyi Wang, Lourdes Agapito* · ([hengyiwang.github](https://hengyiwang.github.io/projects/spanner))
+- **ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion
+  Model**, `arXiv, 2408.16767`, [arxiv](http://arxiv.org/abs/2408.16767v1), [pdf](http://arxiv.org/pdf/2408.16767v1.pdf), cication: [**-1**](None)
+
+	 *Fangfu Liu, Wenqiang Sun, Hanyang Wang, Yikai Wang, Haowen Sun, Junliang Ye, Jun Zhang, Yueqi Duan* · ([liuff19.github](https://liuff19.github.io/ReconX/))
+- **Towards Realistic Example-based Modeling via 3D Gaussian Stitching**, `arXiv, 2408.15708`, [arxiv](http://arxiv.org/abs/2408.15708v1), [pdf](http://arxiv.org/pdf/2408.15708v1.pdf), cication: [**-1**](None)
+
+	 *Xinyu Gao, Ziyi Yang, Bingchen Gong, Xiaoguang Han, Sipeng Yang, Xiaogang Jin* · ([ingra14m.github](https://ingra14m.github.io/gs_stitching_website/files/gs_stitching_paper.pdf)) · ([ingra14m.github](https://ingra14m.github.io/gs_stitching_website/))
 - **SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
   Views**, `arXiv, 2408.10195`, [arxiv](http://arxiv.org/abs/2408.10195v1), [pdf](http://arxiv.org/pdf/2408.10195v1.pdf), cication: [**-1**](None)
 

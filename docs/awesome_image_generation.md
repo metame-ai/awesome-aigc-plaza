@@ -119,6 +119,17 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- **One-Shot Diffusion Mimicker for Handwritten Text Generation**, `arXiv, 2409.04004`, [arxiv](http://arxiv.org/abs/2409.04004v2), [pdf](http://arxiv.org/pdf/2409.04004v2.pdf), cication: [**-1**](None)
+
+	 *Gang Dai, Yifan Zhang, Quhui Ke, Qiangya Guo, Shuangping Huang* · ([one-dm](https://github.com/dailenson/one-dm) - dailenson) ![Star](https://img.shields.io/github/stars/dailenson/one-dm.svg?style=social&label=Star)
+- [**style-tokenizer**](https://github.com/alipay/style-tokenizer/blob/master) - alipay ![Star](https://img.shields.io/github/stars/alipay/style-tokenizer.svg?style=social&label=Star)
+- **IFAdapter: Instance Feature Control for Grounded Text-to-Image
+  Generation**, `arXiv, 2409.08240`, [arxiv](http://arxiv.org/abs/2409.08240v1), [pdf](http://arxiv.org/pdf/2409.08240v1.pdf), cication: [**-1**](None)
+
+	 *Yinwei Wu, Xianpan Zhou, Bing Ma, Xuefeng Su, Kai Ma, Xinchao Wang*
+- **CSGO: Content-Style Composition in Text-to-Image Generation**, `arXiv, 2408.16766`, [arxiv](http://arxiv.org/abs/2408.16766v2), [pdf](http://arxiv.org/pdf/2408.16766v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=15536153885122697551&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Peng Xing, Haofan Wang, Yanpeng Sun, Qixun Wang, Xu Bai, Hao Ai, Renyuan Huang, Zechao Li* · ([csgo-gen.github](https://csgo-gen.github.io/)) · ([CSGO](https://github.com/instantX-research/CSGO) - instantX-research) ![Star](https://img.shields.io/github/stars/instantX-research/CSGO.svg?style=social&label=Star)
 - **Draw Like an Artist: Complex Scene Generation with Diffusion Model via
   Composition, Painting, and Retouching**, `arXiv, 2408.13858`, [arxiv](http://arxiv.org/abs/2408.13858v1), [pdf](http://arxiv.org/pdf/2408.13858v1.pdf), cication: [**-1**](None)
 
@@ -277,6 +288,14 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion
+  Transformers**, `arXiv, 2408.17131`, [arxiv](http://arxiv.org/abs/2408.17131v1), [pdf](http://arxiv.org/pdf/2408.17131v1.pdf), cication: [**-1**](None)
+
+	 *Juncan Deng, Shuaiting Li, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang*
+- **Accurate Compression of Text-to-Image Diffusion Models via Vector
+  Quantization**, `arXiv, 2409.00492`, [arxiv](http://arxiv.org/abs/2409.00492v1), [pdf](http://arxiv.org/pdf/2409.00492v1.pdf), cication: [**-1**](None)
+
+	 *Vage Egiazarian, Denis Kuznedelev, Anton Voronov, Ruslan Svirschevski, Michael Goin, Daniil Pavlov, Dan Alistarh, Dmitry Baranchuk* · ([yandex-research.github](https://yandex-research.github.io/vqdm/))
 - **SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its
   Teacher**, `arXiv, 2408.14176`, [arxiv](http://arxiv.org/abs/2408.14176v2), [pdf](http://arxiv.org/pdf/2408.14176v2.pdf), cication: [**-1**](None)
 
@@ -352,6 +371,10 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- **Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free
+  Real Image Editing**, `arXiv, 2409.01322`, [arxiv](http://arxiv.org/abs/2409.01322v2), [pdf](http://arxiv.org/pdf/2409.01322v2.pdf), cication: [**-1**](None)
+
+	 *Vadim Titov, Madina Khalmatova, Alexandra Ivanova, Dmitry Vetrov, Aibek Alanov* · ([Guide-and-Rescale](https://github.com/FusionBrainLab/Guide-and-Rescale) - FusionBrainLab) ![Star](https://img.shields.io/github/stars/FusionBrainLab/Guide-and-Rescale.svg?style=social&label=Star)
 - **TurboEdit: Instant text-based image editing**, `arXiv, 2408.08332`, [arxiv](http://arxiv.org/abs/2408.08332v1), [pdf](http://arxiv.org/pdf/2408.08332v1.pdf), cication: [**-1**](None)
 
 	 *Zongze Wu, Nicholas Kolkin, Jonathan Brandt, Richard Zhang, Eli Shechtman* · ([betterze.github](https://betterze.github.io/TurboEdit/))
@@ -463,6 +486,10 @@
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
+- **Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens
+  for Text-to-Any-Task**, `arXiv, 2409.04005`, [arxiv](http://arxiv.org/abs/2409.04005v1), [pdf](http://arxiv.org/pdf/2409.04005v1.pdf), cication: [**-1**](None)
+
+	 *Jing Wang, Ao Ma, Jiasong Feng, Dawei Leng, Yuhui Yin, Xiaodan Liang* · ([Qihoo-T2X](https://github.com/360CVGroup/Qihoo-T2X) - 360CVGroup) ![Star](https://img.shields.io/github/stars/360CVGroup/Qihoo-T2X.svg?style=social&label=Star)
 - **Scaling Diffusion Transformers to 16 Billion Parameters**, `arXiv, 2407.11633`, [arxiv](http://arxiv.org/abs/2407.11633v1), [pdf](http://arxiv.org/pdf/2407.11633v1.pdf), cication: [**-1**](None)
 
 	 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang* · ([dit-moe](https://github.com/feizc/dit-moe) - feizc) ![Star](https://img.shields.io/github/stars/feizc/dit-moe.svg?style=social&label=Star)
@@ -489,6 +516,14 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **TextBoost: Towards One-Shot Personalization of Text-to-Image Models via
+  Fine-tuning Text Encoder**, `arXiv, 2409.08248`, [arxiv](http://arxiv.org/abs/2409.08248v1), [pdf](http://arxiv.org/pdf/2409.08248v1.pdf), cication: [**-1**](None)
+
+	 *NaHyeon Park, Kunhee Kim, Hyunjung Shim* · ([textboost.github](https://textboost.github.io/)) · ([textboost](https://github.com/nahyeonkaty/textboost) - nahyeonkaty) ![Star](https://img.shields.io/github/stars/nahyeonkaty/textboost.svg?style=social&label=Star)
+- **CoRe: Context-Regularized Text Embedding Learning for Text-to-Image
+  Personalization**, `arXiv, 2408.15914`, [arxiv](http://arxiv.org/abs/2408.15914v1), [pdf](http://arxiv.org/pdf/2408.15914v1.pdf), cication: [**-1**](None)
+
+	 *Feize Wu, Yun Pang, Junyi Zhang, Lianyu Pang, Jian Yin, Baoquan Zhao, Qing Li, Xudong Mao*
 - [**comfyui-instantId-faceswap**](https://github.com/nosiu/comfyui-instantId-faceswap) - nosiu ![Star](https://img.shields.io/github/stars/nosiu/comfyui-instantId-faceswap.svg?style=social&label=Star)
 
 	 *Implementation of faceswap based on InstantID for ComfyUI.*
@@ -589,6 +624,13 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolutions
+- **Retinexformer: One-stage Retinex-based Transformer for Low-light Image
+  Enhancement**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.06705v3), [pdf](http://arxiv.org/pdf/2303.06705v3.pdf), cication: [**126**](https://scholar.google.com/scholar?cites=14225312754574154631&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yuanhao Cai, Hao Bian, Jing Lin, Haoqian Wang, Radu Timofte, Yulun Zhang* · ([retinexformer](https://github.com/caiyuanhao1998/retinexformer) - caiyuanhao1998) ![Star](https://img.shields.io/github/stars/caiyuanhao1998/retinexformer.svg?style=social&label=Star)
+- **LinFusion: 1 GPU, 1 Minute, 16K Image**, `arXiv, 2409.02097`, [arxiv](http://arxiv.org/abs/2409.02097v2), [pdf](http://arxiv.org/pdf/2409.02097v2.pdf), cication: [**-1**](None)
+
+	 *Songhua Liu, Weihao Yu, Zhenxiong Tan, Xinchao Wang* · ([LinFusion](https://github.com/Huage001/LinFusion) - Huage001) ![Star](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social&label=Star) · ([lv-linfusion.github](https://lv-linfusion.github.io/))
 - [**aura-sr**](https://github.com/fal-ai/aura-sr) - fal-ai ![Star](https://img.shields.io/github/stars/fal-ai/aura-sr.svg?style=social&label=Star)
 
 	 *AuraSR: GAN-based Super-Resolution for real-world*
@@ -630,6 +672,9 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- **Improving Virtual Try-On with Garment-focused Diffusion Models**, `arXiv, 2409.08258`, [arxiv](http://arxiv.org/abs/2409.08258v1), [pdf](http://arxiv.org/pdf/2409.08258v1.pdf), cication: [**-1**](None)
+
+	 *Siqi Wan, Yehao Li, Jingwen Chen, Yingwei Pan, Ting Yao, Yang Cao, Tao Mei* · ([GarDiff](https://github.com/siqi0905/GarDiff/tree/master) - siqi0905) ![Star](https://img.shields.io/github/stars/siqi0905/GarDiff.svg?style=social&label=Star)
 - **CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion
   Models**, `arXiv, 2407.15886`, [arxiv](http://arxiv.org/abs/2407.15886v1), [pdf](http://arxiv.org/pdf/2407.15886v1.pdf), cication: [**-1**](None)
 
@@ -690,6 +735,14 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- **RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in
+  Generated Images**, `arXiv, 2409.03644`, [arxiv](http://arxiv.org/abs/2409.03644v1), [pdf](http://arxiv.org/pdf/2409.03644v1.pdf), cication: [**-1**](None)
+
+	 *Benzhi Wang, Jingkai Zhou, Jingqi Bai, Yang Yang, Weihua Chen, Fan Wang, Zhen Lei* · ([RealisHuman](https://github.com/Wangbenzhi/RealisHuman) - Wangbenzhi) ![Star](https://img.shields.io/github/stars/Wangbenzhi/RealisHuman.svg?style=social&label=Star)
+- **SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse
+  Low-Rank Adaptation**, `arXiv, 2409.06633`, [arxiv](http://arxiv.org/abs/2409.06633v1), [pdf](http://arxiv.org/pdf/2409.06633v1.pdf), cication: [**-1**](None)
+
+	 *Teng Hu, Jiangning Zhang, Ran Yi, Hongrui Huang, Yabiao Wang, Lizhuang Ma* · ([sjtuplayer.github](https://sjtuplayer.github.io/projects/SaRA/))
 - **HumanRefiner: Benchmarking Abnormal Human Generation and Refining with
   Coarse-to-fine Pose-Reversible Guidance**, `arXiv, 2407.06937`, [arxiv](http://arxiv.org/abs/2407.06937v1), [pdf](http://arxiv.org/pdf/2407.06937v1.pdf), cication: [**-1**](None)
 
@@ -883,9 +936,13 @@
 	 *Dead simple FLUX LoRA training UI with LOW VRAM support*
 
 ### Efficient 
+- [**Realtime-FLUX**](https://huggingface.co/spaces/KingNish/Realtime-FLUX) - KingNish 🤗
 - [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
 ### Loras
+- [**FLUX.1-dev-LoRA-AntiBlur**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-AntiBlur) - Shakker-Labs 🤗
+- [**AWPortrait-FL**](https://huggingface.co/Shakker-Labs/AWPortrait-FL) - Shakker-Labs 🤗
+- [**FilmPortrait**](https://huggingface.co/Shakker-Labs/FilmPortrait) - Shakker-Labs 🤗
 - [**flux-tarot-v1**](https://huggingface.co/multimodalart/flux-tarot-v1) - multimodalart 🤗
 - [**flux-lora-collection**](https://huggingface.co/XLabs-AI/flux-lora-collection) - XLabs-AI 🤗
 - [**Hyper-SD**](https://huggingface.co/ByteDance/Hyper-SD) - ByteDance 🤗
@@ -906,6 +963,7 @@
 - [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
 
 ### Control Generation
+- [**FLUX.1-dev-Controlnet-Inpainting-Alpha**](https://huggingface.co/alimama-creative/FLUX.1-dev-Controlnet-Inpainting-Alpha) - alimama-creative 🤗
 - [**PuLID**](https://github.com/ToTheBeginning/PuLID) - ToTheBeginning ![Star](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg?style=social&label=Star)
 
 	 *Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment*
@@ -913,7 +971,9 @@
 
 	 *The official repository of SpeechCraft dataset, a large-scale expressive bilingual speech dataset with natural language descriptions.*
 - [**flux-controlnet-canny-v3**](https://huggingface.co/XLabs-AI/flux-controlnet-canny-v3) - XLabs-AI 🤗
+
 ### Other
+- [Flux Icon Maker! Ready to use Vector Outputs! : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1f9eyr7/flux_icon_maker_ready_to_use_vector_outputs)
 - [Flux from @bfl_ml is now on RenderNet!](https://x.com/rendernet_ai/status/1833865069744083198)
 - [FLUX is smarter than you! - and other surprising findings on making the model your own | Civitai](https://civitai.com/articles/6982)
 - [AI in Filmmaking, X's txt2img (Flux.1 PRO), and FLUX Updates | This Week in AI Art 🎬](https://diffusiondigest.beehiiv.com/p/ai-filmmaking-xs-txt2img-flux1-pro-flux-updates-week-ai-art?_bhlid=1af336b16531cf042960800317583fa8ca7f70e3)

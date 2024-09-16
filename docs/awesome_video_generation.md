@@ -41,6 +41,13 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video
+  Diffusion Model**, `arXiv, 2409.01199`, [arxiv](http://arxiv.org/abs/2409.01199v2), [pdf](http://arxiv.org/pdf/2409.01199v2.pdf), cication: [**-1**](None)
+
+	 *Liuhan Chen, Zongjian Li, Bin Lin, Bin Zhu, Qian Wang, Shenghai Yuan, Xing Zhou, Xinhua Cheng, Li Yuan* · ([Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)
+- **Compositional 3D-aware Video Generation with LLM Director**, `arXiv, 2409.00558`, [arxiv](http://arxiv.org/abs/2409.00558v1), [pdf](http://arxiv.org/pdf/2409.00558v1.pdf), cication: [**-1**](None)
+
+	 *Hanxin Zhu, Tianyu He, Anni Tang, Junliang Guo, Zhibo Chen, Jiang Bian* · ([microsoft](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/))
 - **Training-free Long Video Generation with Chain of Diffusion Model
   Experts**, `arXiv, 2408.13423`, [arxiv](http://arxiv.org/abs/2408.13423v3), [pdf](http://arxiv.org/pdf/2408.13423v3.pdf), cication: [**-1**](None)
 
@@ -440,6 +447,12 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [**Open-AnimateAnyone**](https://github.com/guoqincode/Open-AnimateAnyone) - guoqincode ![Star](https://img.shields.io/github/stars/guoqincode/Open-AnimateAnyone.svg?style=social&label=Star)
+
+	 *Unofficial Implementation of Animate Anyone*
+- **RealisDance: Equip controllable character animation with realistic hands**, `arXiv, 2409.06202`, [arxiv](http://arxiv.org/abs/2409.06202v1), [pdf](http://arxiv.org/pdf/2409.06202v1.pdf), cication: [**-1**](None)
+
+	 *Jingkai Zhou, Benzhi Wang, Weihua Chen, Jingqi Bai, Dongyang Li, Aixi Zhang, Hao Xu, Mingyang Yang, Fan Wang* · ([RealisDance](https://github.com/damo-cv/RealisDance) - damo-cv) ![Star](https://img.shields.io/github/stars/damo-cv/RealisDance.svg?style=social&label=Star)
 - **TVG: A Training-free Transition Video Generation Method with Diffusion
   Models**, `arXiv, 2408.13413`, [arxiv](http://arxiv.org/abs/2408.13413v1), [pdf](http://arxiv.org/pdf/2408.13413v1.pdf), cication: [**-1**](None)
 
@@ -666,6 +679,10 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- **Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive
+  Content Generation**, `arXiv, 2409.01055`, [arxiv](http://arxiv.org/abs/2409.01055v1), [pdf](http://arxiv.org/pdf/2409.01055v1.pdf), cication: [**-1**](None)
+
+	 *Qihua Chen, Yue Ma, Hongfa Wang, Junkun Yuan, Wenzhe Zhao, Qi Tian, Hongmei Wang, Shaobo Min, Qifeng Chen, Wei Liu* · ([follow-your-canvas.github](https://follow-your-canvas.github.io/))
 - **DreamCinema: Cinematic Transfer with Free Camera and 3D Character**, `arXiv, 2408.12601`, [arxiv](http://arxiv.org/abs/2408.12601v1), [pdf](http://arxiv.org/pdf/2408.12601v1.pdf), cication: [**-1**](None)
 
 	 *Weiliang Chen, Fangfu Liu, Diankun Wu, Haowen Sun, Haixu Song, Yueqi Duan* · ([liuff19.github](https://liuff19.github.io/DreamCinema/)) · ([DreamCinema](https://github.com/chen-wl20/DreamCinema?tab=readme-ov-file) - chen-wl20) ![Star](https://img.shields.io/github/stars/chen-wl20/DreamCinema.svg?style=social&label=Star)
