@@ -371,6 +371,9 @@
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
 
 ## Editting
+- [arxiv.org/pdf/2311.12092](https://arxiv.org/pdf/2311.12092.pdf)
+
+	 · ([sliders](https://github.com/rohitgandikota/sliders) - rohitgandikota) ![Star](https://img.shields.io/github/stars/rohitgandikota/sliders.svg?style=social&label=Star)
 - **Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free
   Real Image Editing**, `arXiv, 2409.01322`, [arxiv](http://arxiv.org/abs/2409.01322v2), [pdf](http://arxiv.org/pdf/2409.01322v2.pdf), cication: [**-1**](None)
 
@@ -624,6 +627,7 @@
 	 *Yuxuan Zhang, Yiren Song, Jiaming Liu, Rui Wang, Jinpeng Yu, Hao Tang, Huaxia Li, Xu Tang, Yao Hu, Han Pan* · ([SSR_Encoder](https://github.com/Xiaojiu-z/SSR_Encoder) - Xiaojiu-z) ![Star](https://img.shields.io/github/stars/Xiaojiu-z/SSR_Encoder.svg?style=social&label=Star)
 
 ## Super Resolutions
+- [Domo AI just launched its video upscaler. It's fast and scales videos up to 4K : r/singularity](https://www.reddit.com/r/singularity/comments/1fdw8xm/domo_ai_just_launched_its_video_upscaler_its_fast/)
 - **Retinexformer: One-stage Retinex-based Transformer for Low-light Image
   Enhancement**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.06705v3), [pdf](http://arxiv.org/pdf/2303.06705v3.pdf), cication: [**126**](https://scholar.google.com/scholar?cites=14225312754574154631&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -672,6 +676,7 @@
 	 *Boyang Wang, Fengyu Yang, Xihang Yu, Chao Zhang, Hanbin Zhao* · ([apisr](https://github.com/kiteretsu77/apisr) - kiteretsu77) ![Star](https://img.shields.io/github/stars/kiteretsu77/apisr.svg?style=social&label=Star)
 
 ## Try-On
+- [**Kolors-Virtual-Try-On**](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Kwai-Kolors 🤗
 - **Improving Virtual Try-On with Garment-focused Diffusion Models**, `arXiv, 2409.08258`, [arxiv](http://arxiv.org/abs/2409.08258v1), [pdf](http://arxiv.org/pdf/2409.08258v1.pdf), cication: [**-1**](None)
 
 	 *Siqi Wan, Yehao Li, Jingwen Chen, Yingwei Pan, Ting Yao, Yang Cao, Tao Mei* · ([GarDiff](https://github.com/siqi0905/GarDiff/tree/master) - siqi0905) ![Star](https://img.shields.io/github/stars/siqi0905/GarDiff.svg?style=social&label=Star)
@@ -707,6 +712,7 @@
 	 *Mengting Chen, Xi Chen, Zhonghua Zhai, Chen Ju, Xuewen Hong, Jinsong Lan, Shuai Xiao*
 
 ---
+- [Introducing AI fashion Photoshoots on @flairAI_](https://x.com/mickeyxfriedman/status/1831349517310210199)
 - [**awesome-virtual-try-on**](https://github.com/minar09/awesome-virtual-try-on) - minar09 ![Star](https://img.shields.io/github/stars/minar09/awesome-virtual-try-on.svg?style=social&label=Star)
 
 	 *A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.*
@@ -714,7 +720,7 @@
 - [基于Stable Diffusion的AIGC服饰穿搭实践-CSDN博客](https://blog.csdn.net/Taobaojishu/article/details/132632670)
 
 ## Projects
-- [Site Unreachable](https://blog.novelai.net/image-generation-announcement-807b3cf0afec)
+- [NovelAI's Image Generation is now live](https://blog.novelai.net/image-generation-announcement-807b3cf0afec)
 
 	 · ([huggingface](https://huggingface.co/NovelAI/nai-anime-v1-full))
 - [Towards Pony Diffusion V7, going with the flow. | Civitai](https://civitai.com/articles/6309)
@@ -936,10 +942,28 @@
 	 *Dead simple FLUX LoRA training UI with LOW VRAM support*
 
 ### Efficient 
+- [FLUX --fast mode testing (speed/quality/LoRA likeness degradation) comparison on 4090 : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fedq8g/flux_fast_mode_testing_speedqualitylora_likeness/)
+- [Flux.1 Model Quants Levels Comparison - Fp16, Q8\_0, Q6\_KM, Q5\_1, Q5\_0, Q4\_0, and Nf4 : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fcuhsj/flux1_model_quants_levels_comparison_fp16_q8_0_q6/)
+- [**diffusers-torchao**](https://github.com/sayakpaul/diffusers-torchao) - sayakpaul ![Star](https://img.shields.io/github/stars/sayakpaul/diffusers-torchao.svg?style=social&label=Star)
+
+	 *End-to-end recipes for optimizing diffusion models with torchao and diffusers (inference and FP8 training).*
 - [**Realtime-FLUX**](https://huggingface.co/spaces/KingNish/Realtime-FLUX) - KingNish 🤗
 - [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
+### Finetuning
+- [Tutorial (setup): Train Flux.1 Dev LoRAs using "ComfyUI Flux Trainer" : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1f5onyx/tutorial_setup_train_flux1_dev_loras_using)
+- [**ai-toolkit**](https://github.com/ostris/ai-toolkit/blob/main/flux_train_ui.py) - ostris ![Star](https://img.shields.io/github/stars/ostris/ai-toolkit.svg?style=social&label=Star)
+- [Training a flux LoRA using SimpleTuner on RunPod or Locally | Civitai](https://civitai.com/articles/6678/training-a-flux-lora-using-simpletuner-on-runpod)
+- [Training a Flux Character LoRA on Civitai](https://civitai.com/articles/6824/training-a-flux-character-lora-on-civitai)
+- [Flux fine tuning with specific layers : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fdczqy/flux_fine_tuning_with_specific_layers/)
+
 ### Loras
+- [Boreal-FD: (Boring Reality Flux-Dev LoRA) - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora)
+- [Phlux - Photorealism with style (incredible texture and lighting) - Phlux\_V1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting)
+- [FluxForge - AI Image Creation and Sharing Platform](https://www.fluxforge.app/)
+- [Amateur Photography [Flux Dev] - v4-soap-testing | Stable Diffusion LoRA | Civitai](https://civitai.com/models/652699?modelVersionId=828456)
+
+	 · ([reddit](https://www.reddit.com/r/StableDiffusion/comments/1fe7d7o/amateur_photography_lora_v4_shot_on_a_phone/))
 - [**FLUX.1-dev-LoRA-AntiBlur**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-AntiBlur) - Shakker-Labs 🤗
 - [**AWPortrait-FL**](https://huggingface.co/Shakker-Labs/AWPortrait-FL) - Shakker-Labs 🤗
 - [**FilmPortrait**](https://huggingface.co/Shakker-Labs/FilmPortrait) - Shakker-Labs 🤗

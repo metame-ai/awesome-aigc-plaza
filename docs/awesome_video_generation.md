@@ -41,6 +41,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [**GameGen-O**](https://github.com/GameGen-O/GameGen-O/) - GameGen-O ![Star](https://img.shields.io/github/stars/GameGen-O/GameGen-O.svg?style=social&label=Star)
+
+	 · ([gamegen-o.github](https://gamegen-o.github.io/))
 - **OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video
   Diffusion Model**, `arXiv, 2409.01199`, [arxiv](http://arxiv.org/abs/2409.01199v2), [pdf](http://arxiv.org/pdf/2409.01199v2.pdf), cication: [**-1**](None)
 
@@ -889,6 +892,7 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [ Introducing the Dream Machine API](https://x.com/lumalabsai/status/1835742651662139529?s=46)
 - [Ideogram 2.0 ](https://x.com/ideogram_ai/status/1826374466303115580)
 - [Introducing Gen-3 Alpha: A New Frontier for Video Generation](https://runwayml.com/blog/introducing-gen-3-alpha/)
 - [Fetching Title#ar69](https://lumalabs.ai/dream-machine)
