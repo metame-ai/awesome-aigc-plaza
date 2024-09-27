@@ -16,6 +16,12 @@
 
 
 ## 3D Generation
+- [[2409.12957] 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957)
+
+	 · ([3DTopia-XL](https://github.com/3DTopia/3DTopia-XL) - 3DTopia) ![Star](https://img.shields.io/github/stars/3DTopia/3DTopia-XL.svg?style=social&label=Star)
+- [[2409.11406] Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406)
+
+	 · ([rag-3d.github](https://rag-3d.github.io/))
 - **OctFusion: Octree-based Diffusion Models for 3D Shape Generation**, `arXiv, 2408.14732`, [arxiv](http://arxiv.org/abs/2408.14732v1), [pdf](http://arxiv.org/pdf/2408.14732v1.pdf), cication: [**-1**](None)
 
 	 *Bojun Xiong, Si-Tong Wei, Xin-Yang Zheng, Yan-Pei Cao, Zhouhui Lian, Peng-Shuai Wang* · ([octfusion](https://github.com/octree-nn/octfusion) - octree-nn) ![Star](https://img.shields.io/github/stars/octree-nn/octfusion.svg?style=social&label=Star)
@@ -131,6 +137,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
+- [[2409.12193] Vista3D: Unravel the 3D Darkside of a Single Image](https://arxiv.org/abs/2409.12193)
+
+	 · ([Vista3D](https://github.com/florinshen/Vista3D) - florinshen) ![Star](https://img.shields.io/github/stars/florinshen/Vista3D.svg?style=social&label=Star)
 - **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
   Diffusion Models**, `arXiv, 2409.07452`, [arxiv](http://arxiv.org/abs/2409.07452v1), [pdf](http://arxiv.org/pdf/2409.07452v1.pdf), cication: [**-1**](None)
 
@@ -284,6 +293,9 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
+- [[2409.11211] SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction](https://arxiv.org/abs/2409.11211)
+
+	 · ([markomih.github](https://markomih.github.io/SplatFields/))
 - **CT4D: Consistent Text-to-4D Generation with Animatable Meshes**, `arXiv, 2408.08342`, [arxiv](http://arxiv.org/abs/2408.08342v1), [pdf](http://arxiv.org/pdf/2408.08342v1.pdf), cication: [**-1**](None)
 
 	 *Ce Chen, Shaoli Huang, Xuelin Chen, Guangyi Chen, Xiaoguang Han, Kun Zhang, Mingming Gong*
@@ -338,6 +350,8 @@
 
 ## Other
 - [BuildBox 4 Announced - AI Powered 3D Game Engine – GameFromScratch.com](https://gamefromscratch.com/buildbox-4-announced-ai-powered-3d-game-engine/)
+
+- [AI 3D生成天花板再拉升！清华团队炼成3D Scaling Law | 量子位](https://www.qbitai.com/2024/09/192900.html)
 
 
 ## Extra Reference

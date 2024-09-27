@@ -41,6 +41,15 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- [[2409.12532] Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation](https://arxiv.org/abs/2409.12532)
+
+	 · ([drmo-denoising-reuse.github](https://drmo-denoising-reuse.github.io/))
+- [**CogVideoX-5b-I2V**](https://huggingface.co/THUDM/CogVideoX-5b-I2V) - THUDM 🤗
+
+	 · ([huggingface](https://huggingface.co/spaces/THUDM/CogVideoX-5B-Space))
+- [**Vchitect-2.0**](https://github.com/Vchitect/Vchitect-2.0) - Vchitect ![Star](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Star)
+
+	 *Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models* · ([vchitect.intern-ai.org](https://vchitect.intern-ai.org.cn/))
 - [**GameGen-O**](https://github.com/GameGen-O/GameGen-O/) - GameGen-O ![Star](https://img.shields.io/github/stars/GameGen-O/GameGen-O.svg?style=social&label=Star)
 
 	 · ([gamegen-o.github](https://gamegen-o.github.io/))
@@ -450,6 +459,10 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
+- [[2409.11367] OSV: One Step is Enough for High-Quality Image to Video Generation](https://arxiv.org/abs/2409.11367)
+- [[2409.08615] DrawingSpinUp: 3D Animation from Single Character Drawings](https://arxiv.org/abs/2409.08615)
+
+	 · ([DrawingSpinUp](https://github.com/LordLiang/DrawingSpinUp) - LordLiang) ![Star](https://img.shields.io/github/stars/LordLiang/DrawingSpinUp.svg?style=social&label=Star)
 - [**Open-AnimateAnyone**](https://github.com/guoqincode/Open-AnimateAnyone) - guoqincode ![Star](https://img.shields.io/github/stars/guoqincode/Open-AnimateAnyone.svg?style=social&label=Star)
 
 	 *Unofficial Implementation of Animate Anyone*
@@ -682,6 +695,9 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
+- [[2409.12960] LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960)
+
+	 · ([luckyhzt.github](https://luckyhzt.github.io/lvcd))
 - **Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive
   Content Generation**, `arXiv, 2409.01055`, [arxiv](http://arxiv.org/abs/2409.01055v1), [pdf](http://arxiv.org/pdf/2409.01055v1.pdf), cication: [**-1**](None)
 
@@ -825,6 +841,7 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- [video arena](https://www.videoarena.tv/leaderboard)
 - **TWLV-I: Analysis and Insights from Holistic Evaluation on Video
   Foundation Models**, `arXiv, 2408.11318`, [arxiv](http://arxiv.org/abs/2408.11318v2), [pdf](http://arxiv.org/pdf/2408.11318v2.pdf), cication: [**-1**](None)
 
@@ -871,6 +888,12 @@
 	 *Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/VideoScore/))
 
 ## Projects
+- [**VBench_Leaderboard**](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard) - Vchitect 🤗
+- [**CogVideoX-Fun**](https://github.com/aigc-apps/CogVideoX-Fun) - aigc-apps ![Star](https://img.shields.io/github/stars/aigc-apps/CogVideoX-Fun.svg?style=social&label=Star)
+
+	 *📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.*
+- [**cogstudio**](https://github.com/pinokiofactory/cogstudio) - pinokiofactory ![Star](https://img.shields.io/github/stars/pinokiofactory/cogstudio.svg?style=social&label=Star)
+- [**KoolCogVideoX-5b**](https://huggingface.co/bertjiazheng/KoolCogVideoX-5b) - bertjiazheng 🤗
 - [**VGen**](https://github.com/ali-vilab/VGen) - ali-vilab ![Star](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)
 
 	 *Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models*

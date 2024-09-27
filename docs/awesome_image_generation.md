@@ -42,6 +42,9 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- [[2409.11340] OmniGen: Unified Image Generation](https://arxiv.org/abs/2409.11340)
+
+	 · ([OmniGen](https://github.com/VectorSpaceLab/OmniGen) - VectorSpaceLab) ![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen.svg?style=social&label=Star)
 - **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**, `arXiv, 2408.08459`, [arxiv](http://arxiv.org/abs/2408.08459v1), [pdf](http://arxiv.org/pdf/2408.08459v1.pdf), cication: [**-1**](None)
 
 	 *Xiaochuang Han, Marjan Ghazvininejad, Pang Wei Koh, Yulia Tsvetkov*
@@ -119,6 +122,12 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
+- [[2409.08520] GroundingBooth: Grounding Text-to-Image Customization](https://arxiv.org/abs/2409.08520)
+
+	 · ([groundingbooth.github](https://groundingbooth.github.io/))
+- [[2409.11355] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think](https://arxiv.org/abs/2409.11355)
+
+	 · ([gonzalomartingarcia.github](https://gonzalomartingarcia.github.io/diffusion-e2e-ft/))
 - **One-Shot Diffusion Mimicker for Handwritten Text Generation**, `arXiv, 2409.04004`, [arxiv](http://arxiv.org/abs/2409.04004v2), [pdf](http://arxiv.org/pdf/2409.04004v2.pdf), cication: [**-1**](None)
 
 	 *Gang Dai, Yifan Zhang, Quhui Ke, Qiangya Guo, Shuangping Huang* · ([one-dm](https://github.com/dailenson/one-dm) - dailenson) ![Star](https://img.shields.io/github/stars/dailenson/one-dm.svg?style=social&label=Star)
@@ -519,6 +528,9 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- [[2409.12576] StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation](https://arxiv.org/abs/2409.12576)
+
+	 · ([StoryMaker](https://github.com/RedAIGC/StoryMaker) - RedAIGC) ![Star](https://img.shields.io/github/stars/RedAIGC/StoryMaker.svg?style=social&label=Star)
 - **TextBoost: Towards One-Shot Personalization of Text-to-Image Models via
   Fine-tuning Text Encoder**, `arXiv, 2409.08248`, [arxiv](http://arxiv.org/abs/2409.08248v1), [pdf](http://arxiv.org/pdf/2409.08248v1.pdf), cication: [**-1**](None)
 
@@ -741,6 +753,7 @@
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
 ## Optimization
+- [[2409.10695] Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models](https://arxiv.org/abs/2409.10695)
 - **RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in
   Generated Images**, `arXiv, 2409.03644`, [arxiv](http://arxiv.org/abs/2409.03644v1), [pdf](http://arxiv.org/pdf/2409.03644v1.pdf), cication: [**-1**](None)
 
@@ -915,6 +928,7 @@
 - **Autoregressive Image Generation without Vector Quantization**, `arXiv, 2406.11838`, [arxiv](http://arxiv.org/abs/2406.11838v2), [pdf](http://arxiv.org/pdf/2406.11838v2.pdf), cication: [**-1**](None)
 
 	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He* · ([mar](https://github.com/lth14/mar) - lth14) ![Star](https://img.shields.io/github/stars/lth14/mar.svg?style=social&label=Star)
+- [[2403.05196] Denoising Autoregressive Representation Learning](https://arxiv.org/abs/2403.05196)
 
 ## Detection
 - **DeepSpeak Dataset v1.0**, `arXiv, 2408.05366`, [arxiv](http://arxiv.org/abs/2408.05366v2), [pdf](http://arxiv.org/pdf/2408.05366v2.pdf), cication: [**-1**](None)
@@ -942,6 +956,9 @@
 	 *Dead simple FLUX LoRA training UI with LOW VRAM support*
 
 ### Efficient 
+- [**comfyui-flux-accelerator**](https://github.com/discus0434/comfyui-flux-accelerator) - discus0434 ![Star](https://img.shields.io/github/stars/discus0434/comfyui-flux-accelerator.svg?style=social&label=Star)
+
+	 *Accelerates Flux.1 image generation, just by using this node.*
 - [FLUX --fast mode testing (speed/quality/LoRA likeness degradation) comparison on 4090 : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fedq8g/flux_fast_mode_testing_speedqualitylora_likeness/)
 - [Flux.1 Model Quants Levels Comparison - Fp16, Q8\_0, Q6\_KM, Q5\_1, Q5\_0, Q4\_0, and Nf4 : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fcuhsj/flux1_model_quants_levels_comparison_fp16_q8_0_q6/)
 - [**diffusers-torchao**](https://github.com/sayakpaul/diffusers-torchao) - sayakpaul ![Star](https://img.shields.io/github/stars/sayakpaul/diffusers-torchao.svg?style=social&label=Star)
@@ -951,6 +968,7 @@
 - [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
 ### Finetuning
+- [Train your own FLUX LoRA model (Windows/Linux)](https://www.stablediffusiontutorials.com/2024/08/flux-lora.html)
 - [Tutorial (setup): Train Flux.1 Dev LoRAs using "ComfyUI Flux Trainer" : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1f5onyx/tutorial_setup_train_flux1_dev_loras_using)
 - [**ai-toolkit**](https://github.com/ostris/ai-toolkit/blob/main/flux_train_ui.py) - ostris ![Star](https://img.shields.io/github/stars/ostris/ai-toolkit.svg?style=social&label=Star)
 - [Training a flux LoRA using SimpleTuner on RunPod or Locally | Civitai](https://civitai.com/articles/6678/training-a-flux-lora-using-simpletuner-on-runpod)
@@ -958,6 +976,9 @@
 - [Flux fine tuning with specific layers : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fdczqy/flux_fine_tuning_with_specific_layers/)
 
 ### Loras
+- [**flux-lora-the-explorer**](https://huggingface.co/spaces/multimodalart/flux-lora-the-explorer) - multimodalart 🤗
+- [SameFace Fix [Flux Lora] - v0.1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/766608/sameface-fix-flux-lora?modelVersionId=857446)
+- [**Flux-uncensored**](https://huggingface.co/enhanceaiteam/Flux-uncensored) - enhanceaiteam 🤗
 - [Boreal-FD: (Boring Reality Flux-Dev LoRA) - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/639937/boreal-fd-boring-reality-flux-dev-lora)
 - [Phlux - Photorealism with style (incredible texture and lighting) - Phlux\_V1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/672963/phlux-photorealism-with-style-incredible-texture-and-lighting)
 - [FluxForge - AI Image Creation and Sharing Platform](https://www.fluxforge.app/)
@@ -987,6 +1008,7 @@
 - [**FLUX.1-schnell-dev-merged-fp8-4step**](https://huggingface.co/drbaph/FLUX.1-schnell-dev-merged-fp8-4step) - drbaph 🤗
 
 ### Control Generation
+- [Flux.1-dev ControlNets - a jasperai Collection](https://huggingface.co/collections/jasperai/flux1-dev-controlnets-66f27f9459d760dcafa32e08)
 - [**FLUX.1-dev-Controlnet-Inpainting-Alpha**](https://huggingface.co/alimama-creative/FLUX.1-dev-Controlnet-Inpainting-Alpha) - alimama-creative 🤗
 - [**PuLID**](https://github.com/ToTheBeginning/PuLID) - ToTheBeginning ![Star](https://img.shields.io/github/stars/ToTheBeginning/PuLID.svg?style=social&label=Star)
 
