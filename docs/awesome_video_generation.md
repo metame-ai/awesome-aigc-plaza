@@ -12,6 +12,7 @@
 	- [Product](#product)
 
 ## Survey
+
 - **A Comprehensive Survey on Human Video Generation: Challenges, Methods,
   and Insights**, `arXiv, 2407.08428`, [arxiv](http://arxiv.org/abs/2407.08428v1), [pdf](http://arxiv.org/pdf/2407.08428v1.pdf), cication: [**-1**](None)
 
@@ -41,7 +42,25 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
-- [[2409.12532] Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation](https://arxiv.org/abs/2409.12532)
+- **VideoGuide: Improving Video Diffusion Models without Training Through a
+  Teacher's Guide**, `arXiv, 2410.04364`, [arxiv](http://arxiv.org/abs/2410.04364v2), [pdf](http://arxiv.org/pdf/2410.04364v2.pdf), cication: [**-1**](None)
+
+	 *Dohun Lee, Bryan S Kim, Geon Yeong Park, Jong Chul Ye* · ([videoguide2025.github](http://videoguide2025.github.io/))
+- **Pyramidal Flow Matching for Efficient Video Generative Modeling**, `arXiv, 2410.05954`, [arxiv](http://arxiv.org/abs/2410.05954v1), [pdf](http://arxiv.org/pdf/2410.05954v1.pdf), cication: [**-1**](None)
+
+	 *Yang Jin, Zhicheng Sun, Ningyuan Li, Kun Xu, Kun Xu, Hao Jiang, Nan Zhuang, Quzhe Huang, Yang Song, Yadong Mu* · ([pyramid-flow.github](https://pyramid-flow.github.io/)) · ([Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - jy0205) ![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/rain1011/pyramid-flow-sd3)) · ([huggingface](https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow))
+- **Loong: Generating Minute-level Long Videos with Autoregressive Language
+  Models**, `arXiv, 2410.02757`, [arxiv](http://arxiv.org/abs/2410.02757v1), [pdf](http://arxiv.org/pdf/2410.02757v1.pdf), cication: [**-1**](None)
+
+	 *Yuqing Wang, Tianwei Xiong, Daquan Zhou, Zhijie Lin, Yang Zhao, Bingyi Kang, Jiashi Feng, Xihui Liu* · ([epiphqny.github](https://epiphqny.github.io/Loong-video/))
+- **Emu3: Next-Token Prediction is All You Need**, `arXiv, 2409.18869`, [arxiv](http://arxiv.org/abs/2409.18869v1), [pdf](http://arxiv.org/pdf/2409.18869v1.pdf), cication: [**-1**](None)
+
+	 *Xinlong Wang, Xiaosong Zhang, Zhengxiong Luo, Quan Sun, Yufeng Cui, Jinsheng Wang, Fan Zhang, Yueze Wang, Zhen Li, Qiying Yu* · ([emu.baai.ac](https://emu.baai.ac.cn/))
+- [Movie Gen: A Cast of Media Foundation Models](https://ai.meta.com/static-resource/movie-gen-research-paper)
+- **Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient
+  Video Latent Generation**, `arXiv, 2409.12532`, [arxiv](http://arxiv.org/abs/2409.12532v1), [pdf](http://arxiv.org/pdf/2409.12532v1.pdf), cication: [**-1**](None)
+
+	 *Chenyu Wang, Shuo Yan, Yixuan Chen, Yujiang Wang, Mingzhi Dong, Xiaochen Yang, Dongsheng Li, Robert P. Dick, Qin Lv, Fan Yang*
 
 	 · ([drmo-denoising-reuse.github](https://drmo-denoising-reuse.github.io/))
 - [**CogVideoX-5b-I2V**](https://huggingface.co/THUDM/CogVideoX-5b-I2V) - THUDM 🤗
@@ -459,8 +478,18 @@
 	 *Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang* · ([LaVie](https://github.com/Vchitect/LaVie) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)
 
 ## Animation
-- [[2409.11367] OSV: One Step is Enough for High-Quality Image to Video Generation](https://arxiv.org/abs/2409.11367)
-- [[2409.08615] DrawingSpinUp: 3D Animation from Single Character Drawings](https://arxiv.org/abs/2409.08615)
+- **PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**, `arXiv, 2409.18964`, [arxiv](http://arxiv.org/abs/2409.18964v1), [pdf](http://arxiv.org/pdf/2409.18964v1.pdf), cication: [**-1**](None)
+
+	 *Shaowei Liu, Zhongzheng Ren, Saurabh Gupta, Shenlong Wang* · ([stevenlsw.github](https://stevenlsw.github.io/physgen/))
+- [**DepthFlow**](https://github.com/BrokenSource/DepthFlow?tab=readme-ov-file) - BrokenSource ![Star](https://img.shields.io/github/stars/BrokenSource/DepthFlow.svg?style=social&label=Star)
+
+	 *🌊 Image to → 2.5D Parallax Effect Video. A Free and Open Source ImmersityAI alternative*
+- **OSV: One Step is Enough for High-Quality Image to Video Generation**, `arXiv, 2409.11367`, [arxiv](http://arxiv.org/abs/2409.11367v1), [pdf](http://arxiv.org/pdf/2409.11367v1.pdf), cication: [**-1**](None)
+
+	 *Xiaofeng Mao, Zhengkai Jiang, Fu-Yun Wang, Wenbing Zhu, Jiangning Zhang, Hao Chen, Mingmin Chi, Yabiao Wang*
+- **DrawingSpinUp: 3D Animation from Single Character Drawings**, `arXiv, 2409.08615`, [arxiv](http://arxiv.org/abs/2409.08615v1), [pdf](http://arxiv.org/pdf/2409.08615v1.pdf), cication: [**-1**](None)
+
+	 *Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu*
 
 	 · ([DrawingSpinUp](https://github.com/LordLiang/DrawingSpinUp) - LordLiang) ![Star](https://img.shields.io/github/stars/LordLiang/DrawingSpinUp.svg?style=social&label=Star)
 - [**Open-AnimateAnyone**](https://github.com/guoqincode/Open-AnimateAnyone) - guoqincode ![Star](https://img.shields.io/github/stars/guoqincode/Open-AnimateAnyone.svg?style=social&label=Star)
@@ -695,7 +724,17 @@
 
 	 *Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen* · ([FollowYourPose](https://github.com/mayuelala/FollowYourPose) - mayuelala) ![Star](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)
 ## Video Editting
-- [[2409.12960] LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960)
+- **MIMO: Controllable Character Video Synthesis with Spatial Decomposed
+  Modeling**, `arXiv, 2409.16160`, [arxiv](http://arxiv.org/abs/2409.16160v1), [pdf](http://arxiv.org/pdf/2409.16160v1.pdf), cication: [**-1**](None)
+
+	 *Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo* · ([menyifang.github](https://menyifang.github.io/projects/MIMO/index.html))
+- **I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion
+  Models**, `arXiv, 2405.16537`, [arxiv](http://arxiv.org/abs/2405.16537v1), [pdf](http://arxiv.org/pdf/2405.16537v1.pdf), cication: [**-1**](None)
+
+	 *Wenqi Ouyang, Yi Dong, Lei Yang, Jianlou Si, Xingang Pan* · ([i2vedit.github](https://i2vedit.github.io/))
+- **LVCD: Reference-based Lineart Video Colorization with Diffusion Models**, `acm siggraph 2024 conference papers, 2024`, [arxiv](http://arxiv.org/abs/2409.12960v1), [pdf](http://arxiv.org/pdf/2409.12960v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14617607029797387641&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhitong Huang, Mohan Zhang, Jing Liao*
 
 	 · ([luckyhzt.github](https://luckyhzt.github.io/lvcd))
 - **Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive
@@ -841,6 +880,10 @@
 	 *Wenhao Wang, Yi Yang*
 
 ## Evaluation
+- **The Dawn of Video Generation: Preliminary Explorations with SORA-like
+  Models**, `arXiv, 2410.05227`, [arxiv](http://arxiv.org/abs/2410.05227v2), [pdf](http://arxiv.org/pdf/2410.05227v2.pdf), cication: [**-1**](None)
+
+	 *Ailing Zeng, Yuhang Yang, Weidong Chen, Wei Liu* · ([ailab-cvc.github](https://ailab-cvc.github.io/VideoGen-Eval/)) · ([VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval) - AILab-CVC) ![Star](https://img.shields.io/github/stars/AILab-CVC/VideoGen-Eval.svg?style=social&label=Star)
 - [video arena](https://www.videoarena.tv/leaderboard)
 - **TWLV-I: Analysis and Insights from Holistic Evaluation on Video
   Foundation Models**, `arXiv, 2408.11318`, [arxiv](http://arxiv.org/abs/2408.11318v2), [pdf](http://arxiv.org/pdf/2408.11318v2.pdf), cication: [**-1**](None)
@@ -888,6 +931,7 @@
 	 *Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang, Aaran Arulraj* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/VideoScore/))
 
 ## Projects
+- [High-quality Text-to-video Models](https://jiutiancv.github.io/JV-CV-T2V/)
 - [**VBench_Leaderboard**](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard) - Vchitect 🤗
 - [**CogVideoX-Fun**](https://github.com/aigc-apps/CogVideoX-Fun) - aigc-apps ![Star](https://img.shields.io/github/stars/aigc-apps/CogVideoX-Fun.svg?style=social&label=Star)
 
@@ -915,6 +959,8 @@
 - [AI 视频生成距「GPT时刻」还有多远？](https://mp.weixin.qq.com/s?__biz=MzAxMTk4NDkwNw==&mid=2247495252&idx=1&sn=db40cdaf621b5dbe9d564274426ad26d)
 
 ## Product
+- [Fetching Title#l01l](https://video-ocean.com/en)
+- [movie gen](https://ai.meta.com/research/movie-gen/)
 - [ Introducing the Dream Machine API](https://x.com/lumalabsai/status/1835742651662139529?s=46)
 - [Ideogram 2.0 ](https://x.com/ideogram_ai/status/1826374466303115580)
 - [Introducing Gen-3 Alpha: A New Frontier for Video Generation](https://runwayml.com/blog/introducing-gen-3-alpha/)

@@ -16,10 +16,20 @@
 
 
 ## 3D Generation
-- [[2409.12957] 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957)
+- **Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model
+  And Input View Curation**, `arXiv, 2410.00890`, [arxiv](http://arxiv.org/abs/2410.00890v2), [pdf](http://arxiv.org/pdf/2410.00890v2.pdf), cication: [**-1**](None)
+
+	 *Junlin Han, Jianyuan Wang, Andrea Vedaldi, Philip Torr, Filippos Kokkinos* · ([junlinhan.github](https://junlinhan.github.io/projects/flex3d/))
+- **3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive
+  Diffusion**, `arXiv, 2409.12957`, [arxiv](http://arxiv.org/abs/2409.12957v1), [pdf](http://arxiv.org/pdf/2409.12957v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=7542110110035274899&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhaoxi Chen, Jiaxiang Tang, Yuhao Dong, Ziang Cao, Fangzhou Hong, Yushi Lan, Tengfei Wang, Haozhe Xie, Tong Wu, Shunsuke Saito*
 
 	 · ([3DTopia-XL](https://github.com/3DTopia/3DTopia-XL) - 3DTopia) ![Star](https://img.shields.io/github/stars/3DTopia/3DTopia-XL.svg?style=social&label=Star)
-- [[2409.11406] Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406)
+- **Phidias: A Generative Model for Creating 3D Content from Text, Image,
+  and 3D Conditions with Reference-Augmented Diffusion**, `arXiv, 2409.11406`, [arxiv](http://arxiv.org/abs/2409.11406v1), [pdf](http://arxiv.org/pdf/2409.11406v1.pdf), cication: [**-1**](None)
+
+	 *Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W. H. Lau*
 
 	 · ([rag-3d.github](https://rag-3d.github.io/))
 - **OctFusion: Octree-based Diffusion Models for 3D Shape Generation**, `arXiv, 2408.14732`, [arxiv](http://arxiv.org/abs/2408.14732v1), [pdf](http://arxiv.org/pdf/2408.14732v1.pdf), cication: [**-1**](None)
@@ -137,7 +147,9 @@
 	 *Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu*
 
 ## Image to 3D
-- [[2409.12193] Vista3D: Unravel the 3D Darkside of a Single Image](https://arxiv.org/abs/2409.12193)
+- **Vista3D: Unravel the 3D Darkside of a Single Image**, `arXiv, 2409.12193`, [arxiv](http://arxiv.org/abs/2409.12193v1), [pdf](http://arxiv.org/pdf/2409.12193v1.pdf), cication: [**-1**](None)
+
+	 *Qiuhong Shen, Xingyi Yang, Michael Bi Mi, Xinchao Wang*
 
 	 · ([Vista3D](https://github.com/florinshen/Vista3D) - florinshen) ![Star](https://img.shields.io/github/stars/florinshen/Vista3D.svg?style=social&label=Star)
 - **Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
@@ -201,6 +213,8 @@
   Models**, `arXiv, 2403.12034`, [arxiv](http://arxiv.org/abs/2403.12034v1), [pdf](http://arxiv.org/pdf/2403.12034v1.pdf), cication: [**-1**](None)
 
 	 *Junlin Han, Filippos Kokkinos, Philip Torr*
+
+	 · ([huggingface](https://huggingface.co/facebook/vfusion3d))
 - **LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D
   Generation**, `arXiv, 2403.12019`, [arxiv](http://arxiv.org/abs/2403.12019v1), [pdf](http://arxiv.org/pdf/2403.12019v1.pdf), cication: [**-1**](None)
 
@@ -293,7 +307,13 @@
 	 *Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein* · ([grm](https://github.com/justimyhxu/grm) - justimyhxu) ![Star](https://img.shields.io/github/stars/justimyhxu/grm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/GRM-demo/GRM))
 
 ## 4D Generation
-- [[2409.11211] SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction](https://arxiv.org/abs/2409.11211)
+- **Disco4D: Disentangled 4D Human Generation and Animation from a Single
+  Image**, `arXiv, 2409.17280`, [arxiv](http://arxiv.org/abs/2409.17280v1), [pdf](http://arxiv.org/pdf/2409.17280v1.pdf), cication: [**-1**](None)
+
+	 *Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu* · ([disco-4d.github](https://disco-4d.github.io/))
+- **SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**, `arXiv, 2409.11211`, [arxiv](http://arxiv.org/abs/2409.11211v1), [pdf](http://arxiv.org/pdf/2409.11211v1.pdf), cication: [**-1**](None)
+
+	 *Marko Mihajlovic, Sergey Prokudin, Siyu Tang, Robert Maier, Federica Bogo, Tony Tung, Edmond Boyer*
 
 	 · ([markomih.github](https://markomih.github.io/SplatFields/))
 - **CT4D: Consistent Text-to-4D Generation with Animatable Meshes**, `arXiv, 2408.08342`, [arxiv](http://arxiv.org/abs/2408.08342v1), [pdf](http://arxiv.org/pdf/2408.08342v1.pdf), cication: [**-1**](None)

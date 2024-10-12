@@ -42,7 +42,15 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
-- [[2409.11340] OmniGen: Unified Image Generation](https://arxiv.org/abs/2409.11340)
+- **MaskBit: Embedding-free Image Generation via Bit Tokens**, `arXiv, 2409.16211`, [arxiv](http://arxiv.org/abs/2409.16211v1), [pdf](http://arxiv.org/pdf/2409.16211v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11459010980908728438&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Mark Weber, Lijun Yu, Qihang Yu, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen* · ([weber-mark.github](https://weber-mark.github.io/projects/maskbit.html))
+- **CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**, `arXiv, 2403.05121`, [arxiv](http://arxiv.org/abs/2403.05121v1), [pdf](http://arxiv.org/pdf/2403.05121v1.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=3689017350354211798&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang* · ([CogView3](https://github.com/THUDM/CogView3) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogView3.svg?style=social&label=Star)
+- **OmniGen: Unified Image Generation**, `arXiv, 2409.11340`, [arxiv](http://arxiv.org/abs/2409.11340v1), [pdf](http://arxiv.org/pdf/2409.11340v1.pdf), cication: [**-1**](None)
+
+	 *Shitao Xiao, Yueze Wang, Junjie Zhou, Huaying Yuan, Xingrun Xing, Ruiran Yan, Shuting Wang, Tiejun Huang, Zheng Liu*
 
 	 · ([OmniGen](https://github.com/VectorSpaceLab/OmniGen) - VectorSpaceLab) ![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen.svg?style=social&label=Star)
 - **JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**, `arXiv, 2408.08459`, [arxiv](http://arxiv.org/abs/2408.08459v1), [pdf](http://arxiv.org/pdf/2408.08459v1.pdf), cication: [**-1**](None)
@@ -122,10 +130,20 @@
 	 *Wendi Zheng, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong, Ming Ding, Jie Tang*
 
 ## Control Generation
-- [[2409.08520] GroundingBooth: Grounding Text-to-Image Customization](https://arxiv.org/abs/2409.08520)
+- [**TweedieMix**](https://github.com/KwonGihyun/TweedieMix) - KwonGihyun ![Star](https://img.shields.io/github/stars/KwonGihyun/TweedieMix.svg?style=social&label=Star)
+
+	 *Official source codes of "TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation"*
+- [[2406.07540] Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance](https://arxiv.org/abs/2406.07540)
+
+	 · ([ctrl-x](https://github.com/genforce/ctrl-x) - genforce) ![Star](https://img.shields.io/github/stars/genforce/ctrl-x.svg?style=social&label=Star)
+- **GroundingBooth: Grounding Text-to-Image Customization**, `arXiv, 2409.08520`, [arxiv](http://arxiv.org/abs/2409.08520v2), [pdf](http://arxiv.org/pdf/2409.08520v2.pdf), cication: [**-1**](None)
+
+	 *Zhexiao Xiong, Wei Xiong, Jing Shi, He Zhang, Yizhi Song, Nathan Jacobs*
 
 	 · ([groundingbooth.github](https://groundingbooth.github.io/))
-- [[2409.11355] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think](https://arxiv.org/abs/2409.11355)
+- **Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**, `arXiv, 2409.11355`, [arxiv](http://arxiv.org/abs/2409.11355v1), [pdf](http://arxiv.org/pdf/2409.11355v1.pdf), cication: [**-1**](None)
+
+	 *Gonzalo Martin Garcia, Karim Abou Zeid, Christian Schmidt, Daan de Geus, Alexander Hermans, Bastian Leibe*
 
 	 · ([gonzalomartingarcia.github](https://gonzalomartingarcia.github.io/diffusion-e2e-ft/))
 - **One-Shot Diffusion Mimicker for Handwritten Text Generation**, `arXiv, 2409.04004`, [arxiv](http://arxiv.org/abs/2409.04004v2), [pdf](http://arxiv.org/pdf/2409.04004v2.pdf), cication: [**-1**](None)
@@ -297,6 +315,10 @@
 	 · ([echopluto.github](https://echopluto.github.io/UniHDA-project/))
 
 ## Efficiency
+- **FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity
+  Refiner**, `arXiv, 2409.18128`, [arxiv](http://arxiv.org/abs/2409.18128v1), [pdf](http://arxiv.org/pdf/2409.18128v1.pdf), cication: [**-1**](None)
+
+	 *Wenliang Zhao, Minglei Shi, Xumin Yu, Jie Zhou, Jiwen Lu* · ([FlowTurbo](https://github.com/shiml20/FlowTurbo) - shiml20) ![Star](https://img.shields.io/github/stars/shiml20/FlowTurbo.svg?style=social&label=Star)
 - **VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion
   Transformers**, `arXiv, 2408.17131`, [arxiv](http://arxiv.org/abs/2408.17131v1), [pdf](http://arxiv.org/pdf/2408.17131v1.pdf), cication: [**-1**](None)
 
@@ -378,9 +400,22 @@
 - **SDXL-Lightning: Progressive Adversarial Diffusion Distillation**, `arXiv, 2402.13929`, [arxiv](http://arxiv.org/abs/2402.13929v3), [pdf](http://arxiv.org/pdf/2402.13929v3.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=15402790534057305106&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Shanchuan Lin, Anran Wang, Xiao Yang* · ([huggingface](https://huggingface.co/ByteDance/SDXL-Lightning))
+- **On Distillation of Guided Diffusion Models**, `CVPR, 2023`, [arxiv](http://arxiv.org/abs/2210.03142v3), [pdf](http://arxiv.org/pdf/2210.03142v3.pdf), cication: [**315**](https://scholar.google.com/scholar?cites=2285046295806792577&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans*
 
 ## Editting
-- [arxiv.org/pdf/2311.12092](https://arxiv.org/pdf/2311.12092.pdf)
+- **OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal
+  Instruction**, `arXiv, 2410.04932`, [arxiv](http://arxiv.org/abs/2410.04932v1), [pdf](http://arxiv.org/pdf/2410.04932v1.pdf), cication: [**-1**](None)
+
+	 *Leheng Li, Weichao Qiu, Xu Yan, Jing He, Kaiqiang Zhou, Yingjie Cai, Qing Lian, Bingbing Liu, Ying-Cong Chen* · ([len-li.github](https://len-li.github.io/omnibooth-web/))
+- **PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language
+  Instructions**, `arXiv, 2409.15278`, [arxiv](http://arxiv.org/abs/2409.15278v2), [pdf](http://arxiv.org/pdf/2409.15278v2.pdf), cication: [**-1**](None)
+
+	 *Weifeng Lin, Xinyu Wei, Renrui Zhang, Le Zhuo, Shitian Zhao, Siyuan Huang, Junlin Xie, Yu Qiao, Peng Gao, Hongsheng Li* · ([PixWizard](https://github.com/AFeng-x/PixWizard) - AFeng-x) ![Star](https://img.shields.io/github/stars/AFeng-x/PixWizard.svg?style=social&label=Star)
+- **Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**, `arXiv, 2311.12092`, [arxiv](http://arxiv.org/abs/2311.12092v2), [pdf](http://arxiv.org/pdf/2311.12092v2.pdf), cication: [**21**](https://scholar.google.com/scholar?cites=2248400264563551131&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Rohit Gandikota, Joanna Materzynska, Tingrui Zhou, Antonio Torralba, David Bau*
 
 	 · ([sliders](https://github.com/rohitgandikota/sliders) - rohitgandikota) ![Star](https://img.shields.io/github/stars/rohitgandikota/sliders.svg?style=social&label=Star)
 - **Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free
@@ -498,6 +533,9 @@
 	 *Sergio Calvo-Ordonez, Chun-Wun Cheng, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schonlieb, Angelica I Aviles-Rivero* · ([reddit](https://www.reddit.com/r/MachineLearning/comments/1bzfns4/r_the_missing_u_for_efficient_diffusion_models/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the))
 
 ## DiT
+- **Scaling Laws For Diffusion Transformers**, `arXiv, 2410.08184`, [arxiv](http://arxiv.org/abs/2410.08184v1), [pdf](http://arxiv.org/pdf/2410.08184v1.pdf), cication: [**-1**](None)
+
+	 *Zhengyang Liang, Hao He, Ceyuan Yang, Bo Dai*
 - **Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens
   for Text-to-Any-Task**, `arXiv, 2409.04005`, [arxiv](http://arxiv.org/abs/2409.04005v1), [pdf](http://arxiv.org/pdf/2409.04005v1.pdf), cication: [**-1**](None)
 
@@ -528,7 +566,17 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
-- [[2409.12576] StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation](https://arxiv.org/abs/2409.12576)
+- **Story-Adapter: A Training-free Iterative Framework for Long Story
+  Visualization**, `arXiv, 2410.06244`, [arxiv](http://arxiv.org/abs/2410.06244v1), [pdf](http://arxiv.org/pdf/2410.06244v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Mao, Xiaoke Huang, Yunfei Xie, Yuanqi Chang, Mude Hui, Bingjie Xu, Yuyin Zhou* · ([jwmao1.github](https://jwmao1.github.io/storyadapter/)) · ([story-adapter](https://github.com/jwmao1/story-adapter) - jwmao1) ![Star](https://img.shields.io/github/stars/jwmao1/story-adapter.svg?style=social&label=Star)
+- **Imagine yourself: Tuning-Free Personalized Image Generation**, `arXiv, 2409.13346`, [arxiv](http://arxiv.org/abs/2409.13346v1), [pdf](http://arxiv.org/pdf/2409.13346v1.pdf), cication: [**-1**](None)
+
+	 *Zecheng He, Bo Sun, Felix Juefei-Xu, Haoyu Ma, Ankit Ramchandani, Vincent Cheung, Siddharth Shah, Anmol Kalia, Harihar Subramanyam, Alireza Zareian*
+- **StoryMaker: Towards Holistic Consistent Characters in Text-to-image
+  Generation**, `arXiv, 2409.12576`, [arxiv](http://arxiv.org/abs/2409.12576v1), [pdf](http://arxiv.org/pdf/2409.12576v1.pdf), cication: [**-1**](None)
+
+	 *Zhengguang Zhou, Jing Li, Huaxia Li, Nemo Chen, Xu Tang*
 
 	 · ([StoryMaker](https://github.com/RedAIGC/StoryMaker) - RedAIGC) ![Star](https://img.shields.io/github/stars/RedAIGC/StoryMaker.svg?style=social&label=Star)
 - **TextBoost: Towards One-Shot Personalization of Text-to-Image Models via
@@ -752,8 +800,26 @@
 
 	 · ([huggingface](https://huggingface.co/spaces/Linaqruf/animagine-xl))
 
+## Prompting
+- **ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**, `arXiv, 2410.01731`, [arxiv](http://arxiv.org/abs/2410.01731v1), [pdf](http://arxiv.org/pdf/2410.01731v1.pdf), cication: [**-1**](None)
+
+	 *Rinon Gal, Adi Haviv, Yuval Alaluf, Amit H. Bermano, Daniel Cohen-Or, Gal Chechik* · ([comfygen-paper.github](https://comfygen-paper.github.io/))
+- [**TIPO-500M**](https://huggingface.co/KBlueLeaf/TIPO-500M) - KBlueLeaf 🤗
+
+	 · ([hackmd](https://hackmd.io/@KBlueLeaf/BJULOQBR0))
+
 ## Optimization
-- [[2409.10695] Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models](https://arxiv.org/abs/2409.10695)
+
+- **Pixel-Space Post-Training of Latent Diffusion Models**, `arXiv, 2409.17565`, [arxiv](http://arxiv.org/abs/2409.17565v1), [pdf](http://arxiv.org/pdf/2409.17565v1.pdf), cication: [**-1**](None)
+
+	 *Christina Zhang, Simran Motwani, Matthew Yu, Ji Hou, Felix Juefei-Xu, Sam Tsai, Peter Vajda, Zijian He, Jialiang Wang*
+- **Improvements to SDXL in NovelAI Diffusion V3**, `arXiv, 2409.15997`, [arxiv](http://arxiv.org/abs/2409.15997v2), [pdf](http://arxiv.org/pdf/2409.15997v2.pdf), cication: [**-1**](None)
+
+	 *Juan Ossa, Eren Doğan, Alex Birch, F. Johnson*
+- **Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large
+  Language Models**, `arXiv, 2409.10695`, [arxiv](http://arxiv.org/abs/2409.10695v1), [pdf](http://arxiv.org/pdf/2409.10695v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=13361156056378633121&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Bingchen Liu, Ehsan Akhgari, Alexander Visheratin, Aleks Kamko, Linmiao Xu, Shivam Shrirao, Joao Souza, Suhail Doshi, Daiqing Li*
 - **RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in
   Generated Images**, `arXiv, 2409.03644`, [arxiv](http://arxiv.org/abs/2409.03644v1), [pdf](http://arxiv.org/pdf/2409.03644v1.pdf), cication: [**-1**](None)
 
@@ -850,6 +916,8 @@
 	 *Clarity-Upscaler: Reimagined image upscaling for everyone*
 
 ## Evaluation
+- [**GenAI-Arena**](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena) - TIGER-Lab 🤗
+- [**Text-to-Image-Leaderboard**](https://huggingface.co/spaces/ArtificialAnalysis/Text-to-Image-Leaderboard) - ArtificialAnalysis 🤗
 - [**K-Sort-Arena**](https://huggingface.co/spaces/ksort/K-Sort-Arena) - ksort 🤗
 - **MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for
   Text-to-Image Generation?**, `arXiv, 2407.04842`, [arxiv](http://arxiv.org/abs/2407.04842v1), [pdf](http://arxiv.org/pdf/2407.04842v1.pdf), cication: [**-1**](None)
@@ -897,6 +965,7 @@
 - [RenderNet - Create AI images with Unmatched Control](https://rendernet.ai/?via=chase)
 
 ## Tutorials
+- [Site Unreachable](https://www.youtube.com/watch?v=B4oHJpEJBAA&ab_channel=Outlier)
 - **Step-by-Step Diffusion: An Elementary Tutorial**, `arXiv, 2406.08929`, [arxiv](http://arxiv.org/abs/2406.08929v2), [pdf](http://arxiv.org/pdf/2406.08929v2.pdf), cication: [**-1**](None)
 
 	 *Preetum Nakkiran, Arwen Bradley, Hattie Zhou, Madhu Advani*
@@ -906,7 +975,20 @@
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-04-06-7))
 
+- [【AI知识分享】Flow Matching续集：你一定能听懂的扩散模型Rectified Flow基本原理深度解析-1-方法简介\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV19m421G7W8/?spm_id_from=333.788.recommend_more_video.17)
+- [深入解析Flow Matching技术](https://zhuanlan.zhihu.com/p/685921518)
 ## Autoregressive 
+- **A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive
+  Transformer for Efficient Finegrained Image Generation**, `arXiv, 2410.01912`, [arxiv](http://arxiv.org/abs/2410.01912v1), [pdf](http://arxiv.org/pdf/2410.01912v1.pdf), cication: [**-1**](None)
+
+	 *Liang Chen, Sinan Tan, Zefan Cai, Weichu Xie, Haozhe Zhao, Yichi Zhang, Junyang Lin, Jinze Bai, Tianyu Liu, Baobao Chang* · ([DnD-Transformer](https://github.com/chenllliang/DnD-Transformer) - chenllliang) ![Star](https://img.shields.io/github/stars/chenllliang/DnD-Transformer.svg?style=social&label=Star)
+- **Accelerating Auto-regressive Text-to-Image Generation with Training-free
+  Speculative Jacobi Decoding**, `arXiv, 2410.01699`, [arxiv](http://arxiv.org/abs/2410.01699v1), [pdf](http://arxiv.org/pdf/2410.01699v1.pdf), cication: [**-1**](None)
+
+	 *Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu* · ([SJD-T2I-AR](https://github.com/tyshiwo1/SJD-T2I-AR) - tyshiwo1) ![Star](https://img.shields.io/github/stars/tyshiwo1/SJD-T2I-AR.svg?style=social&label=Star)
+- **MonoFormer: One Transformer for Both Diffusion and Autoregression**, `arXiv, 2409.16280`, [arxiv](http://arxiv.org/abs/2409.16280v1), [pdf](http://arxiv.org/pdf/2409.16280v1.pdf), cication: [**-1**](None)
+
+	 *Chuyang Zhao, Yuxing Song, Wenhao Wang, Haocheng Feng, Errui Ding, Yifan Sun, Xinyan Xiao, Jingdong Wang*
 - **Open-MAGVIT2: An Open-Source Project Toward Democratizing
   Auto-regressive Visual Generation**, `arXiv, 2409.04410`, [arxiv](http://arxiv.org/abs/2409.04410v1), [pdf](http://arxiv.org/pdf/2409.04410v1.pdf), cication: [**-1**](None)
 
@@ -928,9 +1010,14 @@
 - **Autoregressive Image Generation without Vector Quantization**, `arXiv, 2406.11838`, [arxiv](http://arxiv.org/abs/2406.11838v2), [pdf](http://arxiv.org/pdf/2406.11838v2.pdf), cication: [**-1**](None)
 
 	 *Tianhong Li, Yonglong Tian, He Li, Mingyang Deng, Kaiming He* · ([mar](https://github.com/lth14/mar) - lth14) ![Star](https://img.shields.io/github/stars/lth14/mar.svg?style=social&label=Star)
-- [[2403.05196] Denoising Autoregressive Representation Learning](https://arxiv.org/abs/2403.05196)
+- **Denoising Autoregressive Representation Learning**, `arXiv, 2403.05196`, [arxiv](http://arxiv.org/abs/2403.05196v2), [pdf](http://arxiv.org/pdf/2403.05196v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=3352907373391009891&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yazhe Li, Jorg Bornschein, Ting Chen*
 
 ## Detection
+- **Present and Future Generalization of Synthetic Image Detectors**, `arXiv, 2409.14128`, [arxiv](http://arxiv.org/abs/2409.14128v1), [pdf](http://arxiv.org/pdf/2409.14128v1.pdf), cication: [**-1**](None)
+
+	 *Pablo Bernabeu-Perez, Enrique Lopez-Cuena, Dario Garcia-Gasulla*
 - **DeepSpeak Dataset v1.0**, `arXiv, 2408.05366`, [arxiv](http://arxiv.org/abs/2408.05366v2), [pdf](http://arxiv.org/pdf/2408.05366v2.pdf), cication: [**-1**](None)
 
 	 *Sarah Barrington, Matyas Bohacek, Hany Farid*
@@ -968,6 +1055,8 @@
 - [Kijai/flux-fp8 at main](https://huggingface.co/Kijai/flux-fp8/tree/main)
 
 ### Finetuning
+- [**flux-dev-de-distill**](https://huggingface.co/nyanko7/flux-dev-de-distill) - nyanko7 🤗
+- [**OpenFLUX.1**](https://huggingface.co/ostris/OpenFLUX.1) - ostris 🤗
 - [Train your own FLUX LoRA model (Windows/Linux)](https://www.stablediffusiontutorials.com/2024/08/flux-lora.html)
 - [Tutorial (setup): Train Flux.1 Dev LoRAs using "ComfyUI Flux Trainer" : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1f5onyx/tutorial_setup_train_flux1_dev_loras_using)
 - [**ai-toolkit**](https://github.com/ostris/ai-toolkit/blob/main/flux_train_ui.py) - ostris ![Star](https://img.shields.io/github/stars/ostris/ai-toolkit.svg?style=social&label=Star)
@@ -976,6 +1065,9 @@
 - [Flux fine tuning with specific layers : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fdczqy/flux_fine_tuning_with_specific_layers/)
 
 ### Loras
+- [**flux-lora-lab**](https://huggingface.co/spaces/multimodalart/flux-lora-lab) - multimodalart 🤗
+- [RealFlux 1.0b - 1.0b\_Compact\_Schnell | Flux Checkpoint | Civitai](https://civitai.com/models/788550?modelVersionId=881836)
+- [**simplevectorflux**](https://huggingface.co/renderartist/simplevectorflux) - renderartist 🤗
 - [**flux-lora-the-explorer**](https://huggingface.co/spaces/multimodalart/flux-lora-the-explorer) - multimodalart 🤗
 - [SameFace Fix [Flux Lora] - v0.1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/766608/sameface-fix-flux-lora?modelVersionId=857446)
 - [**Flux-uncensored**](https://huggingface.co/enhanceaiteam/Flux-uncensored) - enhanceaiteam 🤗
