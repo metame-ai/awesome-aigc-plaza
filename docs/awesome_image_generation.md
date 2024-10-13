@@ -133,7 +133,10 @@
 - [**TweedieMix**](https://github.com/KwonGihyun/TweedieMix) - KwonGihyun ![Star](https://img.shields.io/github/stars/KwonGihyun/TweedieMix.svg?style=social&label=Star)
 
 	 *Official source codes of "TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation"*
-- [[2406.07540] Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance](https://arxiv.org/abs/2406.07540)
+- **Ctrl-X: Controlling Structure and Appearance for Text-To-Image
+  Generation Without Guidance**, `arXiv, 2406.07540`, [arxiv](http://arxiv.org/abs/2406.07540v1), [pdf](http://arxiv.org/pdf/2406.07540v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=6973244352111830558&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Kuan Heng Lin, Sicheng Mo, Ben Klingher, Fangzhou Mu, Bolei Zhou*
 
 	 · ([ctrl-x](https://github.com/genforce/ctrl-x) - genforce) ![Star](https://img.shields.io/github/stars/genforce/ctrl-x.svg?style=social&label=Star)
 - **GroundingBooth: Grounding Text-to-Image Customization**, `arXiv, 2409.08520`, [arxiv](http://arxiv.org/abs/2409.08520v2), [pdf](http://arxiv.org/pdf/2409.08520v2.pdf), cication: [**-1**](None)
@@ -405,6 +408,9 @@
 	 *Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans*
 
 ## Editting
+- **ByteEdit: Boost, Comply and Accelerate Generative Image Editing**, `arXiv, 2404.04860`, [arxiv](http://arxiv.org/abs/2404.04860v1), [pdf](http://arxiv.org/pdf/2404.04860v1.pdf), cication: [**-1**](None)
+
+	 *Yuxi Ren, Jie Wu, Yanzuo Lu, Huafeng Kuang, Xin Xia, Xionghui Wang, Qianqian Wang, Yixing Zhu, Pan Xie, Shiyin Wang* · ([byte-edit.github](https://byte-edit.github.io/))
 - **OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal
   Instruction**, `arXiv, 2410.04932`, [arxiv](http://arxiv.org/abs/2410.04932v1), [pdf](http://arxiv.org/pdf/2410.04932v1.pdf), cication: [**-1**](None)
 
@@ -566,6 +572,10 @@
 	 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan*
 
 ## Personlazation
+- **RealCustom++: Representing Images as Real-Word for Real-Time
+  Customization**, `arXiv, 2408.09744`, [arxiv](http://arxiv.org/abs/2408.09744v1), [pdf](http://arxiv.org/pdf/2408.09744v1.pdf), cication: [**-1**](None)
+
+	 *Zhendong Mao, Mengqi Huang, Fei Ding, Mingcong Liu, Qian He, Xiaojun Chang, Yongdong Zhang* · ([corleone-huang.github](https://corleone-huang.github.io/RealCustom_plus_plus/))
 - **Story-Adapter: A Training-free Iterative Framework for Long Story
   Visualization**, `arXiv, 2410.06244`, [arxiv](http://arxiv.org/abs/2410.06244v1), [pdf](http://arxiv.org/pdf/2410.06244v1.pdf), cication: [**-1**](None)
 

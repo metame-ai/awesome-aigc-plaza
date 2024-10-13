@@ -42,6 +42,9 @@
 	 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* · ([A-Survey-on-Generative-Diffusion-Model](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model) - chq1155) ![Star](https://img.shields.io/github/stars/chq1155/A-Survey-on-Generative-Diffusion-Model.svg?style=social&label=Star) · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-22-2))
 
 ## Video Generation
+- **Diffusion for World Modeling: Visual Details Matter in Atari**, `arXiv, 2405.12399`, [arxiv](http://arxiv.org/abs/2405.12399v1), [pdf](http://arxiv.org/pdf/2405.12399v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=4180418892258866323&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Eloi Alonso, Adam Jelley, Vincent Micheli, Anssi Kanervisto, Amos Storkey, Tim Pearce, François Fleuret* · ([diamond](https://github.com/eloialonso/diamond/tree/csgo) - eloialonso) ![Star](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Star) · ([x](https://x.com/EloiAlonso1/status/1844803606064611771))
 - **VideoGuide: Improving Video Diffusion Models without Training Through a
   Teacher's Guide**, `arXiv, 2410.04364`, [arxiv](http://arxiv.org/abs/2410.04364v2), [pdf](http://arxiv.org/pdf/2410.04364v2.pdf), cication: [**-1**](None)
 
