@@ -42,6 +42,18 @@
 	 *Lijun Yu, José Lezama, Nitesh B. Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Vighnesh Birodkar, Agrim Gupta, Xiuye Gu* · ([Open-MAGVIT2](https://github.com/TencentARC/Open-MAGVIT2?tab=readme-ov-file) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/Open-MAGVIT2.svg?style=social&label=Star)
 
 ## Generation
+- **IterComp: Iterative Composition-Aware Feedback Learning from Model
+  Gallery for Text-to-Image Generation**, `arXiv, 2410.07171`, [arxiv](http://arxiv.org/abs/2410.07171v1), [pdf](http://arxiv.org/pdf/2410.07171v1.pdf), cication: [**-1**](None)
+
+	 *Xinchen Zhang, Ling Yang, Guohao Li, Yaqi Cai, Jiake Xie, Yong Tang, Yujiu Yang, Mengdi Wang, Bin Cui* · ([IterComp](https://github.com/YangLing0818/IterComp) - YangLing0818) ![Star](https://img.shields.io/github/stars/YangLing0818/IterComp.svg?style=social&label=Star)
+- **Meissonic: Revitalizing Masked Generative Transformers for Efficient
+  High-Resolution Text-to-Image Synthesis**, `arXiv, 2410.08261`, [arxiv](http://arxiv.org/abs/2410.08261v1), [pdf](http://arxiv.org/pdf/2410.08261v1.pdf), cication: [**-1**](None)
+
+	 *Jinbin Bai, Tian Ye, Wei Chow, Enxin Song, Qing-Guo Chen, Xiangtai Li, Zhen Dong, Lei Zhu, Shuicheng Yan* · ([huggingface](https://huggingface.co/MeissonFlow/Meissonic)) · ([Meissonic](https://github.com/viiika/Meissonic) - viiika) ![Star](https://img.shields.io/github/stars/viiika/Meissonic.svg?style=social&label=Star)
+- **SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion
+  Transformers**, `arXiv, 2410.10629`, [arxiv](http://arxiv.org/abs/2410.10629v2), [pdf](http://arxiv.org/pdf/2410.10629v2.pdf), cication: [**-1**](None)
+
+	 *Enze Xie, Junsong Chen, Junyu Chen, Han Cai, Haotian Tang, Yujun Lin, Zhekai Zhang, Muyang Li, Ligeng Zhu, Yao Lu* · ([nvlabs.github](https://nvlabs.github.io/Sana/)) · ([Sana](https://github.com/NVlabs/Sana) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star)
 - **MaskBit: Embedding-free Image Generation via Bit Tokens**, `arXiv, 2409.16211`, [arxiv](http://arxiv.org/abs/2409.16211v1), [pdf](http://arxiv.org/pdf/2409.16211v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=11459010980908728438&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Mark Weber, Lijun Yu, Qihang Yu, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen* · ([weber-mark.github](https://weber-mark.github.io/projects/maskbit.html))
@@ -408,6 +420,10 @@
 	 *Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans*
 
 ## Editting
+- **Semantic Image Inversion and Editing using Rectified Stochastic
+  Differential Equations**, `arXiv, 2410.10792`, [arxiv](http://arxiv.org/abs/2410.10792v1), [pdf](http://arxiv.org/pdf/2410.10792v1.pdf), cication: [**-1**](None)
+
+	 *Litu Rout, Yujia Chen, Nataniel Ruiz, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu* · ([rf-inversion.github](https://rf-inversion.github.io/)) · ([RF-Inversion](https://github.com/LituRout/RF-Inversion) - LituRout) ![Star](https://img.shields.io/github/stars/LituRout/RF-Inversion.svg?style=social&label=Star)
 - **ByteEdit: Boost, Comply and Accelerate Generative Image Editing**, `arXiv, 2404.04860`, [arxiv](http://arxiv.org/abs/2404.04860v1), [pdf](http://arxiv.org/pdf/2404.04860v1.pdf), cication: [**-1**](None)
 
 	 *Yuxi Ren, Jie Wu, Yanzuo Lu, Huafeng Kuang, Xin Xia, Xionghui Wang, Qianqian Wang, Yixing Zhu, Pan Xie, Shiyin Wang* · ([byte-edit.github](https://byte-edit.github.io/))
@@ -819,7 +835,10 @@
 	 · ([hackmd](https://hackmd.io/@KBlueLeaf/BJULOQBR0))
 
 ## Optimization
+- **Representation Alignment for Generation: Training Diffusion Transformers
+  Is Easier Than You Think**, `arXiv, 2410.06940`, [arxiv](http://arxiv.org/abs/2410.06940v1), [pdf](http://arxiv.org/pdf/2410.06940v1.pdf), cication: [**-1**](None)
 
+	 *Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie* · ([sihyun](https://sihyun.me/REPA/)) · ([REPA](https://github.com/sihyun-yu/REPA) - sihyun-yu) ![Star](https://img.shields.io/github/stars/sihyun-yu/REPA.svg?style=social&label=Star)
 - **Pixel-Space Post-Training of Latent Diffusion Models**, `arXiv, 2409.17565`, [arxiv](http://arxiv.org/abs/2409.17565v1), [pdf](http://arxiv.org/pdf/2409.17565v1.pdf), cication: [**-1**](None)
 
 	 *Christina Zhang, Simran Motwani, Matthew Yu, Ji Hou, Felix Juefei-Xu, Sam Tsai, Peter Vajda, Zijian He, Jialiang Wang*
@@ -992,6 +1011,14 @@
   Transformer for Efficient Finegrained Image Generation**, `arXiv, 2410.01912`, [arxiv](http://arxiv.org/abs/2410.01912v1), [pdf](http://arxiv.org/pdf/2410.01912v1.pdf), cication: [**-1**](None)
 
 	 *Liang Chen, Sinan Tan, Zefan Cai, Weichu Xie, Haozhe Zhao, Yichi Zhang, Junyang Lin, Jinze Bai, Tianyu Liu, Baobao Chang* · ([DnD-Transformer](https://github.com/chenllliang/DnD-Transformer) - chenllliang) ![Star](https://img.shields.io/github/stars/chenllliang/DnD-Transformer.svg?style=social&label=Star)
+- **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image
+  Generation**, `arXiv, 2410.08159`, [arxiv](http://arxiv.org/abs/2410.08159v1), [pdf](http://arxiv.org/pdf/2410.08159v1.pdf), cication: [**-1**](None)
+
+	 *Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Josh Susskind, Shuangfei Zhai*
+- **A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive
+  Transformer for Efficient Finegrained Image Generation**, `arXiv, 2410.01912`, [arxiv](http://arxiv.org/abs/2410.01912v1), [pdf](http://arxiv.org/pdf/2410.01912v1.pdf), cication: [**-1**](None)
+
+	 *Liang Chen, Sinan Tan, Zefan Cai, Weichu Xie, Haozhe Zhao, Yichi Zhang, Junyang Lin, Jinze Bai, Tianyu Liu, Baobao Chang* · ([DnD-Transformer](https://github.com/chenllliang/DnD-Transformer) - chenllliang) ![Star](https://img.shields.io/github/stars/chenllliang/DnD-Transformer.svg?style=social&label=Star)
 - **Accelerating Auto-regressive Text-to-Image Generation with Training-free
   Speculative Jacobi Decoding**, `arXiv, 2410.01699`, [arxiv](http://arxiv.org/abs/2410.01699v1), [pdf](http://arxiv.org/pdf/2410.01699v1.pdf), cication: [**-1**](None)
 
@@ -1053,6 +1080,7 @@
 	 *Dead simple FLUX LoRA training UI with LOW VRAM support*
 
 ### Efficient 
+- [**FLUX.1-Turbo-Alpha**](https://huggingface.co/alimama-creative/FLUX.1-Turbo-Alpha) - alimama-creative 🤗
 - [**comfyui-flux-accelerator**](https://github.com/discus0434/comfyui-flux-accelerator) - discus0434 ![Star](https://img.shields.io/github/stars/discus0434/comfyui-flux-accelerator.svg?style=social&label=Star)
 
 	 *Accelerates Flux.1 image generation, just by using this node.*
@@ -1075,6 +1103,9 @@
 - [Flux fine tuning with specific layers : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1fdczqy/flux_fine_tuning_with_specific_layers/)
 
 ### Loras
+- [**toyboxflux**](https://huggingface.co/renderartist/toyboxflux) - renderartist 🤗
+- [**flux-ghibsky-illustration**](https://huggingface.co/aleksa-codes/flux-ghibsky-illustration) - aleksa-codes 🤗
+- [**FLUX.1-dev-LoRA-One-Click-Creative-Template**](https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template) - Shakker-Labs 🤗
 - [**flux-lora-lab**](https://huggingface.co/spaces/multimodalart/flux-lora-lab) - multimodalart 🤗
 - [RealFlux 1.0b - 1.0b\_Compact\_Schnell | Flux Checkpoint | Civitai](https://civitai.com/models/788550?modelVersionId=881836)
 - [**simplevectorflux**](https://huggingface.co/renderartist/simplevectorflux) - renderartist 🤗
