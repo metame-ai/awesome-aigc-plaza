@@ -66,6 +66,9 @@
 
 	 *ZiDong Wang, Zeyu Lu, Di Huang, ..., Wanli Ouyang, and Lei Bai*
 
+## Flow Matching
+
+
 ## Efficient
 
 - **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**, `arXiv, 2410.11081`, [arxiv](http://arxiv.org/abs/2410.11081v1), [pdf](http://arxiv.org/pdf/2410.11081v1.pdf), cication: [**-1**](None)
@@ -90,6 +93,7 @@
 
 ## Try On
 
+- [**KlingAI-Virtual-Try-On**](https://github.com/AtaUllahB/KlingAI-Virtual-Try-On) - AtaUllahB ![Star](https://img.shields.io/github/stars/AtaUllahB/KlingAI-Virtual-Try-On.svg?style=social&label=Star)
 
 ## Detection
 
@@ -120,6 +124,9 @@
 
 ## Editting
 
+- [**PMRF**](https://github.com/ohayonguy/PMRF) - ohayonguy ![Star](https://img.shields.io/github/stars/ohayonguy/PMRF.svg?style=social&label=Star)
+
+	 *Towards Minimum MSE Photo-Realistic Image Restoration*
 - **Semantic Image Inversion and Editing using Rectified Stochastic
   Differential Equations**, `arXiv, 2410.10792`, [arxiv](http://arxiv.org/abs/2410.10792v1), [pdf](http://arxiv.org/pdf/2410.10792v1.pdf), cication: [**-1**](None)
 
@@ -127,6 +134,9 @@
 
 ## Alignment
 
+- [Paper page - Scalable Ranked Preference Optimization for Text-to-Image Generation](https://huggingface.co/papers/2410.18013)
+
+	 · ([snap-research.github](https://snap-research.github.io/RankDPO/))
 - **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, `arXiv, 2410.11817`, [arxiv](http://arxiv.org/abs/2410.11817v1), [pdf](http://arxiv.org/pdf/2410.11817v1.pdf), cication: [**-1**](None)
 
 	 *Luping Liu, Chao Du, Tianyu Pang, ..., Chongxuan Li, Dong Xu* · ([LongAlign](https://github.com/luping-liu/LongAlign) - luping-liu) ![Star](https://img.shields.io/github/stars/luping-liu/LongAlign.svg?style=social&label=Star)
@@ -145,4 +155,3 @@
 - [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)
 
 ## Misc
-

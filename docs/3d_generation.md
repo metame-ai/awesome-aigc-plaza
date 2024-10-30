@@ -31,12 +31,14 @@
 
 ## 3D Reconstruction
 
+- [Paper page - SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://huggingface.co/papers/2410.17249)
 
 ## 4D Generation
 
 
 ## Gaussian Splatting
 
+- [**FCGS**](https://github.com/YihangChen-ee/FCGS) - YihangChen-ee ![Star](https://img.shields.io/github/stars/YihangChen-ee/FCGS.svg?style=social&label=Star)
 
 ## Tutorials
 
@@ -46,3 +48,4 @@
 
 ## Misc
 
+- [**blendify**](https://github.com/ptrvilya/blendify) - ptrvilya ![Star](https://img.shields.io/github/stars/ptrvilya/blendify.svg?style=social&label=Star)

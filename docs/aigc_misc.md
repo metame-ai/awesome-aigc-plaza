@@ -21,4 +21,3 @@
 	 *Junyan Ye, Baichuan Zhou, Zilong Huang, ..., Conghui He, Weijia Li* · ([opendatalab.github](https://opendatalab.github.io/LOKI/))
 
 ## Misc
-

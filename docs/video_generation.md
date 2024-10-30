@@ -22,6 +22,9 @@
 
 ## Generation
 
+- [Paper page - WorldSimBench: Towards Video Generation Models as World Simulators](https://huggingface.co/papers/2410.18072)
+
+	 · ([iranqin.github](https://iranqin.github.io/WorldSimBench.github.io))
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)
 - [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)
 - [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)
@@ -37,6 +40,7 @@
 
 ## Animation
 
+- [FrameBridge: Improving Image-to-Video  Generation with Bridge Models](https://framebridge-demo.github.io/)
 - **Animate-X: Universal Character Image Animation with Enhanced Motion
   Representation**, `arXiv, 2410.10306`, [arxiv](http://arxiv.org/abs/2410.10306v1), [pdf](http://arxiv.org/pdf/2410.10306v1.pdf), cication: [**-1**](None)
 
@@ -57,9 +61,13 @@
 
 ## Auto Regressive
 
+- [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151)
+
+	 · ([desaixie.github](https://desaixie.github.io/pa-vdm/))
 
 ## Editting
 
+- [Paper page - Framer: Interactive Frame Interpolation](https://huggingface.co/papers/2410.18978)
 
 ## Datasets
 

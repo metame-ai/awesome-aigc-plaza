@@ -31,12 +31,14 @@
 
 ## 3D Reconstruction
 
+- [Paper page - SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://huggingface.co/papers/2410.17249)
 
 ## 4D Generation
 
 
 ## Gaussian Splatting
 
+- [Compress existing 3DGS rapidly in seconds without optimization!](https://github.com/YihangChen-ee/FCGS)
 
 ## Tutorials
 
@@ -46,4 +48,4 @@
 
 ## Misc
 
-
+- [Blendify is a lightweight Python framework that provides a high-level API for creating and rendering scenes with Blender.](https://github.com/ptrvilya/blendify)
