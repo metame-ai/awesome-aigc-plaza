@@ -22,7 +22,16 @@
 
 ## Generation
 
-- [Paper page - WorldSimBench: Towards Video Generation Models as World Simulators](https://huggingface.co/papers/2410.18072)
+- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)
+- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)
+- [Multi-Style Video Generation with Enhanced Effects](https://x.com/DigestDiff93383/status/1851175936944640384)
+- **ARLON: Boosting Diffusion Transformers with Autoregressive Models for
+  Long Video Generation**, `arXiv, 2410.20502`, [arxiv](http://arxiv.org/abs/2410.20502v1), [pdf](http://arxiv.org/pdf/2410.20502v1.pdf), cication: [**-1**](None)
+
+	 *Zongyi Li, Shujie Hu, Shujie Liu, ..., Hefei Ling, Furu Wei* · ([aka](http://aka.ms/arlon))
+- **WorldSimBench: Towards Video Generation Models as World Simulators**, `arXiv, 2410.18072`, [arxiv](http://arxiv.org/abs/2410.18072v1), [pdf](http://arxiv.org/pdf/2410.18072v1.pdf), cication: [**-1**](None)
+
+	 *Yiran Qin, Zhelun Shi, Jiwen Yu, ..., Wanli Ouyang, Ruimao Zhang*
 
 	 · ([iranqin.github](https://iranqin.github.io/WorldSimBench.github.io))
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)
@@ -61,13 +70,17 @@
 
 ## Auto Regressive
 
-- [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151)
+- **Progressive Autoregressive Video Diffusion Models**, `arXiv, 2410.08151`, [arxiv](http://arxiv.org/abs/2410.08151v1), [pdf](http://arxiv.org/pdf/2410.08151v1.pdf), cication: [**-1**](None)
+
+	 *Desai Xie, Zhan Xu, Yicong Hong, ..., Arie Kaufman, Yang Zhou*
 
 	 · ([desaixie.github](https://desaixie.github.io/pa-vdm/))
 
 ## Editting
 
-- [Paper page - Framer: Interactive Frame Interpolation](https://huggingface.co/papers/2410.18978)
+- **Framer: Interactive Frame Interpolation**, `arXiv, 2410.18978`, [arxiv](http://arxiv.org/abs/2410.18978v1), [pdf](http://arxiv.org/pdf/2410.18978v1.pdf), cication: [**-1**](None)
+
+	 *Wen Wang, Qiuyu Wang, Kecheng Zheng, ..., Yujun Shen, Chunhua Shen*
 
 ## Datasets
 

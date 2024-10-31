@@ -80,6 +80,9 @@
 
 ## Personalization
 
+- [EcomID aims to generate customized images from a single reference ID image, ensuring strong semantic consistency while being controlled by keypoints.](https://huggingface.co/alimama-creative/SDXL-EcomID)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/wgjMgmzkte2NylpfwarXtg)) · ([SDXL_EcomID_ComfyUI](https://github.com/alimama-creative/SDXL_EcomID_ComfyUI) - alimama-creative) ![Star](https://img.shields.io/github/stars/alimama-creative/SDXL_EcomID_ComfyUI.svg?style=social&label=Star)
 - **MagicTailor: Component-Controllable Personalization in Text-to-Image
   Diffusion Models**, `arXiv, 2410.13370`, [arxiv](http://arxiv.org/abs/2410.13370v1), [pdf](http://arxiv.org/pdf/2410.13370v1.pdf), cication: [**-1**](None)
 
@@ -134,7 +137,9 @@
 
 ## Alignment
 
-- [Paper page - Scalable Ranked Preference Optimization for Text-to-Image Generation](https://huggingface.co/papers/2410.18013)
+- **Scalable Ranked Preference Optimization for Text-to-Image Generation**, `arXiv, 2410.18013`, [arxiv](http://arxiv.org/abs/2410.18013v2), [pdf](http://arxiv.org/pdf/2410.18013v2.pdf), cication: [**-1**](None)
+
+	 *Shyamgopal Karthik, Huseyin Coskun, Zeynep Akata, ..., Jian Ren, Anil Kag*
 
 	 · ([snap-research.github](https://snap-research.github.io/RankDPO/))
 - **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, `arXiv, 2410.11817`, [arxiv](http://arxiv.org/abs/2410.11817v1), [pdf](http://arxiv.org/pdf/2410.11817v1.pdf), cication: [**-1**](None)
@@ -149,9 +154,13 @@
 
 ## Blog
 
+- [extensive details on fine-tuning SDXL for 40M samples, including dataset preparation, quality modeling, captioning, and training specifics.](https://buttondown.com/ainews/archive/ainews-not-much-happened-this-weekend-2670/)
+
+	 · ([reddit](https://www.reddit.com/r/StableDiffusion/comments/1gdkpqp/the_gory_details_of_finetuning_sdxl_for_40m/))
 
 ## Products
 
+- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)
 - [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)
 
 ## Misc

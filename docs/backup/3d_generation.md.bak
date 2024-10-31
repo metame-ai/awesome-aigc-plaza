@@ -25,6 +25,8 @@
 
 ## Image to 3D
 
+- [Large Spatial Model: End-to-end Unposed Images to Semantic 3D](https://arxiv.org/abs/2410.18956)
+   - [largespatialmodel.github.io](https://largespatialmodel.github.io/)
 
 ## 3D Editting
 
@@ -38,7 +40,7 @@
 
 ## Gaussian Splatting
 
-- [Compress existing 3DGS rapidly in seconds without optimization!](https://github.com/YihangChen-ee/FCGS)
+- [**FCGS**](https://github.com/YihangChen-ee/FCGS) - YihangChen-ee ![Star](https://img.shields.io/github/stars/YihangChen-ee/FCGS.svg?style=social&label=Star)
 
 ## Tutorials
 
@@ -48,4 +50,4 @@
 
 ## Misc
 
-- [Blendify is a lightweight Python framework that provides a high-level API for creating and rendering scenes with Blender.](https://github.com/ptrvilya/blendify)
+- [**blendify**](https://github.com/ptrvilya/blendify) - ptrvilya ![Star](https://img.shields.io/github/stars/ptrvilya/blendify.svg?style=social&label=Star)

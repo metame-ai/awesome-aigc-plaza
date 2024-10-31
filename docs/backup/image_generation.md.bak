@@ -80,6 +80,9 @@
 
 ## Personalization
 
+- [EcomID aims to generate customized images from a single reference ID image, ensuring strong semantic consistency while being controlled by keypoints.](https://huggingface.co/alimama-creative/SDXL-EcomID)
+   - [mp.weixin.qq.com](https://mp.weixin.qq.com/s/wgjMgmzkte2NylpfwarXtg)
+   - [github.com](https://github.com/alimama-creative/SDXL_EcomID_ComfyUI)
 - **MagicTailor: Component-Controllable Personalization in Text-to-Image
   Diffusion Models**, `arXiv, 2410.13370`, [arxiv](http://arxiv.org/abs/2410.13370v1), [pdf](http://arxiv.org/pdf/2410.13370v1.pdf), cication: [**-1**](None)
 
@@ -93,7 +96,7 @@
 
 ## Try On
 
-- [KlingAI API to provide a virtual try-on experience using images of people and garments](https://github.com/AtaUllahB/KlingAI-Virtual-Try-On)
+- [**KlingAI-Virtual-Try-On**](https://github.com/AtaUllahB/KlingAI-Virtual-Try-On) - AtaUllahB ![Star](https://img.shields.io/github/stars/AtaUllahB/KlingAI-Virtual-Try-On.svg?style=social&label=Star)
 
 ## Detection
 
@@ -124,7 +127,9 @@
 
 ## Editting
 
-- [Posterior-Mean Rectified Flow:Towards Minimum MSE Photo-Realistic Image Restoration](https://github.com/ohayonguy/PMRF)
+- [**PMRF**](https://github.com/ohayonguy/PMRF) - ohayonguy ![Star](https://img.shields.io/github/stars/ohayonguy/PMRF.svg?style=social&label=Star)
+
+	 *Towards Minimum MSE Photo-Realistic Image Restoration*
 - **Semantic Image Inversion and Editing using Rectified Stochastic
   Differential Equations**, `arXiv, 2410.10792`, [arxiv](http://arxiv.org/abs/2410.10792v1), [pdf](http://arxiv.org/pdf/2410.10792v1.pdf), cication: [**-1**](None)
 
@@ -133,7 +138,8 @@
 ## Alignment
 
 - [Paper page - Scalable Ranked Preference Optimization for Text-to-Image Generation](https://huggingface.co/papers/2410.18013)
-   - [snap-research.github.io](https://snap-research.github.io/RankDPO/)
+
+	 · ([snap-research.github](https://snap-research.github.io/RankDPO/))
 - **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, `arXiv, 2410.11817`, [arxiv](http://arxiv.org/abs/2410.11817v1), [pdf](http://arxiv.org/pdf/2410.11817v1.pdf), cication: [**-1**](None)
 
 	 *Luping Liu, Chao Du, Tianyu Pang, ..., Chongxuan Li, Dong Xu* · ([LongAlign](https://github.com/luping-liu/LongAlign) - luping-liu) ![Star](https://img.shields.io/github/stars/luping-liu/LongAlign.svg?style=social&label=Star)
@@ -146,10 +152,12 @@
 
 ## Blog
 
+- [extensive details on fine-tuning SDXL for 40M samples, including dataset preparation, quality modeling, captioning, and training specifics.](https://buttondown.com/ainews/archive/ainews-not-much-happened-this-weekend-2670/)
+   - [www.reddit.com](https://www.reddit.com/r/StableDiffusion/comments/1gdkpqp/the_gory_details_of_finetuning_sdxl_for_40m/)
 
 ## Products
 
+- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)
 - [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)
 
 ## Misc
-

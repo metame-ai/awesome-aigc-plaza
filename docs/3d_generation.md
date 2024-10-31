@@ -25,13 +25,18 @@
 
 ## Image to 3D
 
+- **Large Spatial Model: End-to-end Unposed Images to Semantic 3D**, `arXiv, 2410.18956`, [arxiv](http://arxiv.org/abs/2410.18956v1), [pdf](http://arxiv.org/pdf/2410.18956v1.pdf), cication: [**-1**](None)
+
+	 *Zhiwen Fan, Jian Zhang, Wenyan Cong, ..., Marco Pavone, Yue Wang* · ([largespatialmodel.github](https://largespatialmodel.github.io/))
 
 ## 3D Editting
 
 
 ## 3D Reconstruction
 
-- [Paper page - SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://huggingface.co/papers/2410.17249)
+- **SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**, `arXiv, 2410.17249`, [arxiv](http://arxiv.org/abs/2410.17249v1), [pdf](http://arxiv.org/pdf/2410.17249v1.pdf), cication: [**-1**](None)
+
+	 *Cheng-De Fan, Chen-Wei Chang, Yi-Ruei Liu, ..., Yu-Chee Tseng, Yu-Lun Liu*
 
 ## 4D Generation
 
