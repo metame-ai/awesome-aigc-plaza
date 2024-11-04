@@ -43,8 +43,8 @@
 
 	 · ([iranqin.github](https://iranqin.github.io/WorldSimBench.github.io))
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star) 
-- [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)  🤗
-- [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)  🤗
+- [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)  🤗 
+- [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)  🤗 
 - [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990) 
 
 	 · ([genmo](https://www.genmo.ai/play)) · ([models](https://github.com/genmoai/models) - genmoai) ![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)

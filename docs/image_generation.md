@@ -199,9 +199,9 @@
 
 ## Products
 
-- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335) 
-- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776) 
-- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143) 
+- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335)  𝕏
+- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)  𝕏
+- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)  𝕏
 
 ## Misc
 

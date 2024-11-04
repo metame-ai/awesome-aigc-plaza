@@ -45,7 +45,7 @@
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star) 
 - [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)  🤗 
 - [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)  🤗 
-- [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990) 
+- [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990)  𝕏
 
 	 · ([genmo](https://www.genmo.ai/play)) · ([models](https://github.com/genmoai/models) - genmoai) ![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)
 - **Movie Gen: A Cast of Media Foundation Models**, `arXiv, 2410.13720`, [arxiv](http://arxiv.org/abs/2410.13720v1), [pdf](http://arxiv.org/pdf/2410.13720v1.pdf), cication: [**-1**](None) 
@@ -113,9 +113,9 @@
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
 
 	 · ([reddit](https://www.reddit.com/r/singularity/comments/1gfrmvt/wonder_animation_transform_any_video_into_a_3d/))
-- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517) 
-- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696) 
-- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282) 
+- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517)  𝕏
+- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)  𝕏
+- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)  𝕏
 
 ## Misc
 
