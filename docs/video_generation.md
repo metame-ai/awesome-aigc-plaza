@@ -22,9 +22,17 @@
 
 ## Generation
 
-- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)
-- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)
-- [Multi-Style Video Generation with Enhanced Effects](https://x.com/DigestDiff93383/status/1851175936944640384)
+- **Enhancing Motion in Text-to-Video Generation with Decomposed Encoding
+  and Conditioning**, `arXiv, 2410.24219`, [arxiv](http://arxiv.org/abs/2410.24219v1), [pdf](http://arxiv.org/pdf/2410.24219v1.pdf), cication: [**-1**](None)
+
+	 *Penghui Ruan, Pichao Wang, Divya Saxena, ..., Jiannong Cao, Yuhui Shi* · ([pr-ryan.github](https://pr-ryan.github.io/DEMO-project/)) · ([DEMO](https://github.com/PR-Ryan/DEMO) - PR-Ryan) ![Star](https://img.shields.io/github/stars/PR-Ryan/DEMO.svg?style=social&label=Star)
+- 🤗 **FasterCache: Training-Free Video Diffusion Model Acceleration with High
+  Quality**, `arXiv, 2410.19355`, [arxiv](http://arxiv.org/abs/2410.19355v1), [pdf](http://arxiv.org/pdf/2410.19355v1.pdf), cication: [**-1**](None)
+
+	 *Zhengyao Lv, Chenyang Si, Junhao Song, ..., Ziwei Liu, Kwan-Yee K. Wong* · ([FasterCache](https://github.com/Vchitect/FasterCache) - Vchitect) ![Star](https://img.shields.io/github/stars/Vchitect/FasterCache.svg?style=social&label=Star)
+- 🤗 **MarDini: Masked Autoregressive Diffusion for Video Generation at Scale**, `arXiv, 2410.20280`, [arxiv](http://arxiv.org/abs/2410.20280v1), [pdf](http://arxiv.org/pdf/2410.20280v1.pdf), cication: [**-1**](None)
+
+	 *Haozhe Liu, Shikun Liu, Zijian Zhou, ..., Jürgen Schmidhuber, Juan-Manuel Pérez-Rúa* · ([mardini-vidgen.github](https://mardini-vidgen.github.io/)- [Multi-Style Video Generation with Enhanced Effects](https://x.com/DigestDiff93383/status/1851175936944640384))
 - **ARLON: Boosting Diffusion Transformers with Autoregressive Models for
   Long Video Generation**, `arXiv, 2410.20502`, [arxiv](http://arxiv.org/abs/2410.20502v1), [pdf](http://arxiv.org/pdf/2410.20502v1.pdf), cication: [**-1**](None)
 
@@ -35,8 +43,8 @@
 
 	 · ([iranqin.github](https://iranqin.github.io/WorldSimBench.github.io))
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)
-- [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)
-- [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)
+- 🤗 [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)
+- 🤗 [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)
 - [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990)
 
 	 · ([genmo](https://www.genmo.ai/play)) · ([models](https://github.com/genmoai/models) - genmoai) ![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)
@@ -49,6 +57,9 @@
 
 ## Animation
 
+- **CamI2V: Camera-Controlled Image-to-Video Diffusion Model**, `arXiv, 2410.15957`, [arxiv](http://arxiv.org/abs/2410.15957v2), [pdf](http://arxiv.org/pdf/2410.15957v2.pdf), cication: [**-1**](None)
+
+	 *Guangcong Zheng, Teng Li, Rui Jiang, ..., Tao Wu, Xi Li* · ([zgctroy.github](https://zgctroy.github.io/CamI2V)) · ([CamI2V](https://github.com/ZGCTroy/CamI2V) - ZGCTroy) ![Star](https://img.shields.io/github/stars/ZGCTroy/CamI2V.svg?style=social&label=Star)
 - [FrameBridge: Improving Image-to-Video  Generation with Bridge Models](https://framebridge-demo.github.io/)
 - **Animate-X: Universal Character Image Animation with Enhanced Motion
   Representation**, `arXiv, 2410.10306`, [arxiv](http://arxiv.org/abs/2410.10306v1), [pdf](http://arxiv.org/pdf/2410.10306v1.pdf), cication: [**-1**](None)
@@ -61,6 +72,7 @@
 
 ## Evaluation
 
+- [Artificial Analysis Video Generation Arena Leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=Leaderboard)
 
 ## Detection
 
@@ -78,6 +90,8 @@
 
 ## Editting
 
+- [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) - invoke-ai ![Star](https://img.shields.io/github/stars/invoke-ai/InvokeAI.svg?style=social&label=Star)
+- [**ComfyUI-MochiEdit**](https://github.com/logtd/ComfyUI-MochiEdit) - logtd ![Star](https://img.shields.io/github/stars/logtd/ComfyUI-MochiEdit.svg?style=social&label=Star)
 - **Framer: Interactive Frame Interpolation**, `arXiv, 2410.18978`, [arxiv](http://arxiv.org/abs/2410.18978v1), [pdf](http://arxiv.org/pdf/2410.18978v1.pdf), cication: [**-1**](None)
 
 	 *Wen Wang, Qiuyu Wang, Kecheng Zheng, ..., Yujun Shen, Chunhua Shen*
@@ -96,6 +110,12 @@
 
 ## Products
 
+- [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+
+	 · ([reddit](https://www.reddit.com/r/singularity/comments/1gfrmvt/wonder_animation_transform_any_video_into_a_3d/))
+- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517)
+- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)
+- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)
 
 ## Misc
 

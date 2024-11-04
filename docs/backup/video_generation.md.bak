@@ -22,12 +22,20 @@
 
 ## Generation
 
-- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)
-- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)
-- [Multi-Style Video Generation with Enhanced Effects](https://x.com/DigestDiff93383/status/1851175936944640384)
-- [ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation](https://arxiv.org/abs/2410.20502)
-   - [aka.ms](http://aka.ms/arlon)
-- [Paper page - WorldSimBench: Towards Video Generation Models as World Simulators](https://huggingface.co/papers/2410.18072)
+- [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning](https://arxiv.org/abs/2410.24219)
+   - [pr-ryan.github.io](https://pr-ryan.github.io/DEMO-project/)
+   - [github.com](https://github.com/PR-Ryan/DEMO)
+- [Paper page - FasterCache: Training-Free Video Diffusion Model Acceleration with High  Quality](https://huggingface.co/papers/2410.19355)
+   - [github.com](https://github.com/Vchitect/FasterCache)
+- [Paper page - MarDini: Masked Autoregressive Diffusion for Video Generation at Scale](https://huggingface.co/papers/2410.20280)
+   - [mardini-vidgen.github.io](https://mardini-vidgen.github.io/)- [Multi-Style Video Generation with Enhanced Effects](https://x.com/DigestDiff93383/status/1851175936944640384)
+- **ARLON: Boosting Diffusion Transformers with Autoregressive Models for
+  Long Video Generation**, `arXiv, 2410.20502`, [arxiv](http://arxiv.org/abs/2410.20502v1), [pdf](http://arxiv.org/pdf/2410.20502v1.pdf), cication: [**-1**](None)
+
+	 *Zongyi Li, Shujie Hu, Shujie Liu, ..., Hefei Ling, Furu Wei* · ([aka](http://aka.ms/arlon))
+- **WorldSimBench: Towards Video Generation Models as World Simulators**, `arXiv, 2410.18072`, [arxiv](http://arxiv.org/abs/2410.18072v1), [pdf](http://arxiv.org/pdf/2410.18072v1.pdf), cication: [**-1**](None)
+
+	 *Yiran Qin, Zhelun Shi, Jiwen Yu, ..., Wanli Ouyang, Ruimao Zhang*
 
 	 · ([iranqin.github](https://iranqin.github.io/WorldSimBench.github.io))
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star)
@@ -45,6 +53,9 @@
 
 ## Animation
 
+- [CamI2V: Camera-Controlled Image-to-Video Diffusion Model](https://arxiv.org/abs/2410.15957)
+   - [zgctroy.github.io](https://zgctroy.github.io/CamI2V)
+   - [github.com](https://github.com/ZGCTroy/CamI2V)
 - [FrameBridge: Improving Image-to-Video  Generation with Bridge Models](https://framebridge-demo.github.io/)
 - **Animate-X: Universal Character Image Animation with Enhanced Motion
   Representation**, `arXiv, 2410.10306`, [arxiv](http://arxiv.org/abs/2410.10306v1), [pdf](http://arxiv.org/pdf/2410.10306v1.pdf), cication: [**-1**](None)
@@ -57,6 +68,7 @@
 
 ## Evaluation
 
+- [Artificial Analysis Video Generation Arena Leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=Leaderboard)
 
 ## Detection
 
@@ -66,13 +78,19 @@
 
 ## Auto Regressive
 
-- [Progressive Autoregressive Video Diffusion Models](https://arxiv.org/abs/2410.08151)
+- **Progressive Autoregressive Video Diffusion Models**, `arXiv, 2410.08151`, [arxiv](http://arxiv.org/abs/2410.08151v1), [pdf](http://arxiv.org/pdf/2410.08151v1.pdf), cication: [**-1**](None)
+
+	 *Desai Xie, Zhan Xu, Yicong Hong, ..., Arie Kaufman, Yang Zhou*
 
 	 · ([desaixie.github](https://desaixie.github.io/pa-vdm/))
 
 ## Editting
 
-- [Paper page - Framer: Interactive Frame Interpolation](https://huggingface.co/papers/2410.18978)
+- [Invoke is a leading creative engine built to empower professionals and enthusiasts alike.](https://github.com/invoke-ai/InvokeAI)
+- [ComfyUI-MochiEdit](https://github.com/logtd/ComfyUI-MochiEdit)
+- **Framer: Interactive Frame Interpolation**, `arXiv, 2410.18978`, [arxiv](http://arxiv.org/abs/2410.18978v1), [pdf](http://arxiv.org/pdf/2410.18978v1.pdf), cication: [**-1**](None)
+
+	 *Wen Wang, Qiuyu Wang, Kecheng Zheng, ..., Yujun Shen, Chunhua Shen*
 
 ## Datasets
 
@@ -88,6 +106,11 @@
 
 ## Products
 
+- [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+   - [www.reddit.com](https://www.reddit.com/r/singularity/comments/1gfrmvt/wonder_animation_transform_any_video_into_a_3d/)
+- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517)
+- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)
+- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)
 
 ## Misc
 

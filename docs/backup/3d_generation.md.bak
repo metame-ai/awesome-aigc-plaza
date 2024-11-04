@@ -25,21 +25,30 @@
 
 ## Image to 3D
 
-- [Large Spatial Model: End-to-end Unposed Images to Semantic 3D](https://arxiv.org/abs/2410.18956)
-   - [largespatialmodel.github.io](https://largespatialmodel.github.io/)
+- [DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model](https://arxiv.org/abs/2410.12928)
+   - [dreamcraft3dplus.github.io](https://dreamcraft3dplus.github.io/)
+- **Large Spatial Model: End-to-end Unposed Images to Semantic 3D**, `arXiv, 2410.18956`, [arxiv](http://arxiv.org/abs/2410.18956v1), [pdf](http://arxiv.org/pdf/2410.18956v1.pdf), cication: [**-1**](None)
+
+	 *Zhiwen Fan, Jian Zhang, Wenyan Cong, ..., Marco Pavone, Yue Wang* · ([largespatialmodel.github](https://largespatialmodel.github.io/))
 
 ## 3D Editting
 
 
 ## 3D Reconstruction
 
-- [Paper page - SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://huggingface.co/papers/2410.17249)
+- **SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**, `arXiv, 2410.17249`, [arxiv](http://arxiv.org/abs/2410.17249v1), [pdf](http://arxiv.org/pdf/2410.17249v1.pdf), cication: [**-1**](None)
+
+	 *Cheng-De Fan, Chen-Wei Chang, Yi-Ruei Liu, ..., Yu-Chee Tseng, Yu-Lun Liu*
 
 ## 4D Generation
 
+- [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/abs/2410.10821)
+   - [tex4d.github.io](https://tex4d.github.io/)
+   - [github.com](https://github.com/ZqlwMatt/Tex4D)
 
 ## Gaussian Splatting
 
+- [PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting](https://github.com/cvlab-kaist/PF3plat)
 - [**FCGS**](https://github.com/YihangChen-ee/FCGS) - YihangChen-ee ![Star](https://img.shields.io/github/stars/YihangChen-ee/FCGS.svg?style=social&label=Star)
 
 ## Tutorials
