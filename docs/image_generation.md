@@ -37,7 +37,7 @@
 
 ## Generation
 
-- [Monetico: An Efficient Reproduction of Meissonic for Text-to-Image Synthesis](https://huggingface.co/Collov-Labs/Monetico)  🤗
+- [Monetico: An Efficient Reproduction of Meissonic for Text-to-Image Synthesis](https://huggingface.co/Collov-Labs/Monetico)  🤗 
 
 	 · ([Meissonic](https://github.com/viiika/Meissonic) - viiika) ![Star](https://img.shields.io/github/stars/viiika/Meissonic.svg?style=social&label=Star)
 - **How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation 
@@ -100,7 +100,7 @@
   Diffusion Models**, `arXiv, 2410.13370`, [arxiv](http://arxiv.org/abs/2410.13370v1), [pdf](http://arxiv.org/pdf/2410.13370v1.pdf), cication: [**-1**](None)
 
 	 *Donghao Zhou, Jiancheng Huang, Jinbin Bai, ..., Xiaowei Hu, Pheng-Ann Heng* · ([correr-zhou.github](https://correr-zhou.github.io/MagicTailor)) · ([MagicTailor](https://github.com/correr-zhou/MagicTailor) - correr-zhou) ![Star](https://img.shields.io/github/stars/correr-zhou/MagicTailor.svg?style=social&label=Star)
-- [EcomID aims to generate customized images from a single reference ID image, ensuring strong semantic consistency while being controlled by keypoints.](https://huggingface.co/alimama-creative/SDXL-EcomID)  🤗
+- [EcomID aims to generate customized images from a single reference ID image, ensuring strong semantic consistency while being controlled by keypoints.](https://huggingface.co/alimama-creative/SDXL-EcomID)  🤗 
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s/wgjMgmzkte2NylpfwarXtg)) · ([SDXL_EcomID_ComfyUI](https://github.com/alimama-creative/SDXL_EcomID_ComfyUI) - alimama-creative) ![Star](https://img.shields.io/github/stars/alimama-creative/SDXL_EcomID_ComfyUI.svg?style=social&label=Star)
 - **MagicTailor: Component-Controllable Personalization in Text-to-Image 
@@ -184,7 +184,7 @@
 ## Projects
 
 - [**ComfyUI-Image-Filters**](https://github.com/spacepxl/ComfyUI-Image-Filters) - spacepxl ![Star](https://img.shields.io/github/stars/spacepxl/ComfyUI-Image-Filters.svg?style=social&label=Star) 
-- [Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)  🤗
+- [Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)  🤗 
 
 	 · ([huggingface](https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-large)) · ([sd3.5](https://github.com/Stability-AI/sd3.5) - Stability-AI) ![Star](https://img.shields.io/github/stars/Stability-AI/sd3.5.svg?style=social&label=Star)
 
