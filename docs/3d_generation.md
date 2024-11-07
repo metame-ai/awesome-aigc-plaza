@@ -22,6 +22,9 @@
 
 ## Text to 3D
 
+- [Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://huggingface.co/tencent/Hunyuan3D-1)  🤗
+
+	 · ([Hunyuan3D-1](https://github.com/tencent/Hunyuan3D-1) - tencent) ![Star](https://img.shields.io/github/stars/tencent/Hunyuan3D-1.svg?style=social&label=Star) · ([3d.hunyuan.tencent](https://3d.hunyuan.tencent.com/hunyuan3d.pdf)) · ([qbitai](https://www.qbitai.com/2024/11/215630.html))
 
 ## Image to 3D
 

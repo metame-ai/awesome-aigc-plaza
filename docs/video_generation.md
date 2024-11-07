@@ -45,7 +45,7 @@
 - [**Allegro**](https://github.com/rhymes-ai/Allegro) - rhymes-ai ![Star](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Star) 
 - [Allegro: Advanced Video Generation Model](https://huggingface.co/blog/RhymesAI/allegro)  🤗 
 - [Open-Sora Plan](https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.3.0)  🤗 
-- [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990)  𝕏
+- [Introducing Mochi 1 preview. A new SOTA in open-source video generation. Apache 2.0.](https://x.com/genmoai/status/1848762405779574990)  𝕏 
 
 	 · ([genmo](https://www.genmo.ai/play)) · ([models](https://github.com/genmoai/models) - genmoai) ![Star](https://img.shields.io/github/stars/genmoai/models.svg?style=social&label=Star)
 - **Movie Gen: A Cast of Media Foundation Models**, `arXiv, 2410.13720`, [arxiv](http://arxiv.org/abs/2410.13720v1), [pdf](http://arxiv.org/pdf/2410.13720v1.pdf), cication: [**-1**](None) 
@@ -57,6 +57,10 @@
 
 ## Animation
 
+- **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level
+  and Fidelity-Rich Conditions in Diffusion Models**, `arXiv, 2410.22901`, [arxiv](http://arxiv.org/abs/2410.22901v1), [pdf](http://arxiv.org/pdf/2410.22901v1.pdf), cication: [**-1**](None) 
+
+	 *Shengkai Zhang, Nianhong Jiao, Tian Li, ..., Boya Niu, Jun Gao* · ([HelloMeme](https://github.com/HelloVision/HelloMeme) - HelloVision) ![Star](https://img.shields.io/github/stars/HelloVision/HelloMeme.svg?style=social&label=Star) · ([songkey.github](https://songkey.github.io/hellomeme/))
 - **CamI2V: Camera-Controlled Image-to-Video Diffusion Model**, `arXiv, 2410.15957`, [arxiv](http://arxiv.org/abs/2410.15957v2), [pdf](http://arxiv.org/pdf/2410.15957v2.pdf), cication: [**-1**](None) 
 
 	 *Guangcong Zheng, Teng Li, Rui Jiang, ..., Tao Wu, Xi Li* · ([zgctroy.github](https://zgctroy.github.io/CamI2V)) · ([CamI2V](https://github.com/ZGCTroy/CamI2V) - ZGCTroy) ![Star](https://img.shields.io/github/stars/ZGCTroy/CamI2V.svg?style=social&label=Star)
@@ -90,6 +94,9 @@
 
 ## Editting
 
+- **Fashion-VDM: Video Diffusion Model for Virtual Try-On**, `arXiv, 2411.00225`, [arxiv](http://arxiv.org/abs/2411.00225v2), [pdf](http://arxiv.org/pdf/2411.00225v2.pdf), cication: [**-1**](None) 
+
+	 *Johanna Karras, Yingwei Li, Nan Liu, ..., Chris Lee, Ira Kemelmacher-Shlizerman* · ([johannakarras.github](https://johannakarras.github.io/Fashion-VDM/)) · ([arxiv](https://arxiv.org/abs/2411.00225))
 - [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) - invoke-ai ![Star](https://img.shields.io/github/stars/invoke-ai/InvokeAI.svg?style=social&label=Star) 
 - [**ComfyUI-MochiEdit**](https://github.com/logtd/ComfyUI-MochiEdit) - logtd ![Star](https://img.shields.io/github/stars/logtd/ComfyUI-MochiEdit.svg?style=social&label=Star) 
 - **Framer: Interactive Frame Interpolation**, `arXiv, 2410.18978`, [arxiv](http://arxiv.org/abs/2410.18978v1), [pdf](http://arxiv.org/pdf/2410.18978v1.pdf), cication: [**-1**](None) 
@@ -113,9 +120,9 @@
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
 
 	 · ([reddit](https://www.reddit.com/r/singularity/comments/1gfrmvt/wonder_animation_transform_any_video_into_a_3d/))
-- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517)  𝕏
-- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)  𝕏
-- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)  𝕏
+- [Advanced Camera Control' feature for its AI video generation model](https://x.com/adcock_brett/status/1853120761369608517)  𝕏 
+- [Runway introduced Act-One, a new AI system that generates expressive character animations from a single video and image.](https://x.com/adcock_brett/status/1850569033776496696)  𝕏 
+- [Haiper launched version 2 of its video generation platform](https://x.com/adcock_brett/status/1850569170892546282)  𝕏 
 
 ## Misc
 

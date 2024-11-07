@@ -27,6 +27,9 @@
 
 ## Misc
 
+- **In-Context LoRA for Diffusion Transformers**, `arXiv, 2410.23775`, [arxiv](http://arxiv.org/abs/2410.23775v3), [pdf](http://arxiv.org/pdf/2410.23775v3.pdf), cication: [**-1**](None) 
+
+	 *Lianghua Huang, Wei Wang, Zhi-Fan Wu, ..., Yu Liu, Jingren Zhou* · ([In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA.svg?style=social&label=Star)
 - [XLabs-AI / flux-ip-adapter-v2](https://huggingface.co/XLabs-AI/flux-ip-adapter-v2)  🤗 
 - [**ComfyUI-Detail-Daemon**](https://github.com/Jonseed/ComfyUI-Detail-Daemon) - Jonseed ![Star](https://img.shields.io/github/stars/Jonseed/ComfyUI-Detail-Daemon.svg?style=social&label=Star) 
 - [Flux text encoder checkpoints meant to be used with the DualClipLoader node of ComfyUI](https://huggingface.co/comfyanonymous/flux_text_encoders)  🤗 

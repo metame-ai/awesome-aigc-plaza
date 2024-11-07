@@ -84,6 +84,9 @@
 
 ## Flow Matching
 
+- **Constant Acceleration Flow**, `arXiv, 2411.00322`, [arxiv](http://arxiv.org/abs/2411.00322v1), [pdf](http://arxiv.org/pdf/2411.00322v1.pdf), cication: [**-1**](None) 
+
+	 *Dogyun Park, Sojin Lee, Sihyeon Kim, ..., Youngjoon Hong, Hyunwoo J. Kim* · ([CAF](https://github.com/mlvlab/CAF) - mlvlab) ![Star](https://img.shields.io/github/stars/mlvlab/CAF.svg?style=social&label=Star)
 
 ## Efficient
 
@@ -96,6 +99,9 @@
 
 ## Personalization
 
+- [**consistory**](https://github.com/NVlabs/consistory) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/consistory.svg?style=social&label=Star)
+
+	 *Training-Free Consistent Text-to-Image Generation*
 - **MagicTailor: Component-Controllable Personalization in Text-to-Image 
   Diffusion Models**, `arXiv, 2410.13370`, [arxiv](http://arxiv.org/abs/2410.13370v1), [pdf](http://arxiv.org/pdf/2410.13370v1.pdf), cication: [**-1**](None)
 
@@ -116,6 +122,9 @@
 
 ## Try On
 
+- **Fashion-VDM: Video Diffusion Model for Virtual Try-On**, `arXiv, 2411.00225`, [arxiv](http://arxiv.org/abs/2411.00225v2), [pdf](http://arxiv.org/pdf/2411.00225v2.pdf), cication: [**-1**](None) 
+
+	 *Johanna Karras, Yingwei Li, Nan Liu, ..., Chris Lee, Ira Kemelmacher-Shlizerman* · ([johannakarras.github](https://johannakarras.github.io/Fashion-VDM/)) · ([arxiv](https://arxiv.org/abs/2411.00225))
 - [**KlingAI-Virtual-Try-On**](https://github.com/AtaUllahB/KlingAI-Virtual-Try-On) - AtaUllahB ![Star](https://img.shields.io/github/stars/AtaUllahB/KlingAI-Virtual-Try-On.svg?style=social&label=Star) 
 
 ## Detection
@@ -126,6 +135,9 @@
 
 ## Auto Regressive
 
+- **Randomized Autoregressive Visual Generation**, `arXiv, 2411.00776`, [arxiv](http://arxiv.org/abs/2411.00776v1), [pdf](http://arxiv.org/pdf/2411.00776v1.pdf), cication: [**-1**](None) 
+
+	 *Qihang Yu, Ju He, Xueqing Deng, ..., Xiaohui Shen, Liang-Chieh Chen* · ([yucornetto.github](https://yucornetto.github.io/projects/rar.html))
 - **Customize Your Visual Autoregressive Recipe with Set Autoregressive 
   Modeling**, `arXiv, 2410.10511`, [arxiv](http://arxiv.org/abs/2410.10511v1), [pdf](http://arxiv.org/pdf/2410.10511v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2757211234717374113&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -199,13 +211,17 @@
 
 ## Products
 
-- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335)  𝕏
-- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)  𝕏
-- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)  𝕏
+- **Survey of User Interface Design and Interaction Techniques in Generative
+  AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
+
+	 *Reuben Luera, Ryan A. Rossi, Alexa Siu, ..., Puneet Mathur, Nedim Lipka*
+- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335)  𝕏 
+- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)  𝕏 
+- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)  𝕏 
 
 ## Misc
 
-- :star2: 🤗 **Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse 
+- 🌟 **Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse 
   Autoencoders**, `arXiv, 2410.22366`, [arxiv](http://arxiv.org/abs/2410.22366v1), [pdf](http://arxiv.org/pdf/2410.22366v1.pdf), cication: [**-1**](None)
 
 	 *Viacheslav Surkov, Chris Wendler, Mikhail Terekhov, ..., Robert West, Caglar Gulcehre*
