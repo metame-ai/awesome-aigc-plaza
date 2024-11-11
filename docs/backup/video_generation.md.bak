@@ -22,17 +22,19 @@
 
 ## Generation
 
-- [GameGen-X: Interactive Open-world Game Video Generation](https://arxiv.org/abs/2411.00769)
-   - [github.com](https://github.com/GameGen-X/GameGen-X)
-   - [mp.weixin.qq.com](https://mp.weixin.qq.com/s/hAcDciiJ5oRB-9bIsYEt5w)
-- [Paper page - Adaptive Caching for Faster Video Generation with Diffusion Transformers](https://huggingface.co/papers/2411.02397)
-   - [adacache-dit.github.io](https://adacache-dit.github.io/)
-   - [github.com](https://github.com/AdaCache-DiT/AdaCache)
-- [CogVideoX is an open-source video generation model originating from Qingying.](https://huggingface.co/THUDM/CogVideoX1.5-5B-SAT)
-   - [github.com](https://github.com/THUDM/CogVideo)
-- [Paper page - DimensionX: Create Any 3D and 4D Scenes from a Single Image with  Controllable Video Diffusion](https://huggingface.co/papers/2411.04928)
-   - [chenshuo20.github.io](https://chenshuo20.github.io/DimensionX/)
-   - [github.com](https://github.com/wenqsun/DimensionX)
+- **GameGen-X: Interactive Open-world Game Video Generation**, `arXiv, 2411.00769`, [arxiv](http://arxiv.org/abs/2411.00769v1), [pdf](http://arxiv.org/pdf/2411.00769v1.pdf), cication: [**-1**](None) 
+
+	 *Haoxuan Che, Xuanhua He, Quande Liu, ..., Cheng Jin, Hao Chen* · ([GameGen-X](https://github.com/GameGen-X/GameGen-X) - GameGen-X) ![Star](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/hAcDciiJ5oRB-9bIsYEt5w))
+- **Adaptive Caching for Faster Video Generation with Diffusion Transformers**, `arXiv, 2411.02397`, [arxiv](http://arxiv.org/abs/2411.02397v2), [pdf](http://arxiv.org/pdf/2411.02397v2.pdf), cication: [**-1**](None) 
+
+	 *Kumara Kahatapitiya, Haozhe Liu, Sen He, ..., Michael S. Ryoo, Tian Xie* · ([adacache-dit.github](https://adacache-dit.github.io/)) · ([AdaCache](https://github.com/AdaCache-DiT/AdaCache) - AdaCache-DiT) ![Star](https://img.shields.io/github/stars/AdaCache-DiT/AdaCache.svg?style=social&label=Star)
+- [CogVideoX is an open-source video generation model originating from Qingying.](https://huggingface.co/THUDM/CogVideoX1.5-5B-SAT)  🤗
+
+	 · ([CogVideo](https://github.com/THUDM/CogVideo) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
+- **DimensionX: Create Any 3D and 4D Scenes from a Single Image with
+  Controllable Video Diffusion**, `arXiv, 2411.04928`, [arxiv](http://arxiv.org/abs/2411.04928v1), [pdf](http://arxiv.org/pdf/2411.04928v1.pdf), cication: [**-1**](None) 
+
+	 *Wenqiang Sun, Shuo Chen, Fangfu Liu, ..., Jun Zhang, Yikai Wang* · ([chenshuo20.github](https://chenshuo20.github.io/DimensionX/)) · ([DimensionX](https://github.com/wenqsun/DimensionX) - wenqsun) ![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)
 - **Enhancing Motion in Text-to-Video Generation with Decomposed Encoding 
   and Conditioning**, `arXiv, 2410.24219`, [arxiv](http://arxiv.org/abs/2410.24219v1), [pdf](http://arxiv.org/pdf/2410.24219v1.pdf), cication: [**-1**](None)
 
@@ -68,9 +70,10 @@
 
 ## Animation
 
-- [Paper page - SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://huggingface.co/papers/2411.04989)
-   - [kmcode1.github.io](https://kmcode1.github.io/Projects/SG-I2V/)
-- **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level
+- **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**, `arXiv, 2411.04989`, [arxiv](http://arxiv.org/abs/2411.04989v1), [pdf](http://arxiv.org/pdf/2411.04989v1.pdf), cication: [**-1**](None) 
+
+	 *Koichi Namekata, Sherwin Bahmani, Ziyi Wu, ..., Igor Gilitschenski, David B. Lindell* · ([kmcode1.github](https://kmcode1.github.io/Projects/SG-I2V/))
+- **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level 
   and Fidelity-Rich Conditions in Diffusion Models**, `arXiv, 2410.22901`, [arxiv](http://arxiv.org/abs/2410.22901v1), [pdf](http://arxiv.org/pdf/2410.22901v1.pdf), cication: [**-1**](None) 
 
 	 *Shengkai Zhang, Nianhong Jiao, Tian Li, ..., Boya Niu, Jun Gao* · ([HelloMeme](https://github.com/HelloVision/HelloMeme) - HelloVision) ![Star](https://img.shields.io/github/stars/HelloVision/HelloMeme.svg?style=social&label=Star) · ([songkey.github](https://songkey.github.io/hellomeme/))
@@ -89,8 +92,9 @@
 
 ## Evaluation
 
-- [Paper page - How Far is Video Generation from World Model: A Physical Law Perspective](https://huggingface.co/papers/2411.02385)
-   - [phyworld.github.io](https://phyworld.github.io/)
+- **How Far is Video Generation from World Model: A Physical Law Perspective**, `arXiv, 2411.02385`, [arxiv](http://arxiv.org/abs/2411.02385v1), [pdf](http://arxiv.org/pdf/2411.02385v1.pdf), cication: [**-1**](None) 
+
+	 *Bingyi Kang, Yang Yue, Rui Lu, ..., Gao Huang, Jiashi Feng* · ([phyworld.github](https://phyworld.github.io/))
 - [Artificial Analysis Video Generation Arena Leaderboard](https://artificialanalysis.ai/text-to-video/arena?tab=Leaderboard) 
 
 ## Detection
@@ -109,12 +113,15 @@
 
 ## Editting
 
-- [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/)
-- [Paper page - AutoVFX: Physically Realistic Video Editing from Natural Language  Instructions](https://huggingface.co/papers/2411.02394)
-   - [haoyuhsu.github.io](https://haoyuhsu.github.io/autovfx-website/)
-   - [github.com](https://github.com/haoyuhsu/autovfx)
-- [Paper page - ReCapture: Generative Video Camera Controls for User-Provided Videos  using Masked Video Fine-Tuning](https://huggingface.co/papers/2411.05003)|star|
-   - [generative-video-camera-controls.github.io](https://generative-video-camera-controls.github.io/)
+- [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) 
+- **AutoVFX: Physically Realistic Video Editing from Natural Language
+  Instructions**, `arXiv, 2411.02394`, [arxiv](http://arxiv.org/abs/2411.02394v1), [pdf](http://arxiv.org/pdf/2411.02394v1.pdf), cication: [**-1**](None) 
+
+	 *Hao-Yu Hsu, Zhi-Hao Lin, Albert Zhai, ..., Hongchi Xia, Shenlong Wang* · ([haoyuhsu.github](https://haoyuhsu.github.io/autovfx-website/)) · ([autovfx](https://github.com/haoyuhsu/autovfx) - haoyuhsu) ![Star](https://img.shields.io/github/stars/haoyuhsu/autovfx.svg?style=social&label=Star)
+- 🌟 **ReCapture: Generative Video Camera Controls for User-Provided Videos
+  using Masked Video Fine-Tuning**, `arXiv, 2411.05003`, [arxiv](http://arxiv.org/abs/2411.05003v1), [pdf](http://arxiv.org/pdf/2411.05003v1.pdf), cication: [**-1**](None) 
+
+	 *David Junhao Zhang, Roni Paiss, Shiran Zada, ..., Neal Wadhwa, Nataniel Ruiz* · ([generative-video-camera-controls.github](https://generative-video-camera-controls.github.io/))
 - **Fashion-VDM: Video Diffusion Model for Virtual Try-On**, `arXiv, 2411.00225`, [arxiv](http://arxiv.org/abs/2411.00225v2), [pdf](http://arxiv.org/pdf/2411.00225v2.pdf), cication: [**-1**](None) 
 
 	 *Johanna Karras, Yingwei Li, Nan Liu, ..., Chris Lee, Ira Kemelmacher-Shlizerman* · ([johannakarras.github](https://johannakarras.github.io/Fashion-VDM/)) · ([arxiv](https://arxiv.org/abs/2411.00225))
@@ -126,8 +133,10 @@
 
 ## Datasets
 
-- [Paper page - TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for  Image-to-Video Generation](https://huggingface.co/papers/2411.04709)
-   - [tip-i2v.github.io.](https://tip-i2v.github.io.)
+- **TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for
+  Image-to-Video Generation**, `arXiv, 2411.04709`, [arxiv](http://arxiv.org/abs/2411.04709v1), [pdf](http://arxiv.org/pdf/2411.04709v1.pdf), cication: [**-1**](None) 
+
+	 *Wenhao Wang, Yi Yang* · ([tip-i2v.github.io](https://tip-i2v.github.io.))
 
 ## Toolkits
 
@@ -149,6 +158,7 @@
 
 ## Misc
 
-- [optimized support for Genmo’s latest model and can run it fast on a GPU like 4090](https://x.com/ComfyUI/status/1853838184012251317)
-   - [blog.comfy.org](https://blog.comfy.org/mochi-1/)
+- [optimized support for Genmo’s latest model and can run it fast on a GPU like 4090](https://x.com/ComfyUI/status/1853838184012251317)  𝕏
+
+	 · ([blog.comfy](https://blog.comfy.org/mochi-1/))
 - [**ComfyUI-MochiWrapper**](https://github.com/kijai/ComfyUI-MochiWrapper) - kijai ![Star](https://img.shields.io/github/stars/kijai/ComfyUI-MochiWrapper.svg?style=social&label=Star) 

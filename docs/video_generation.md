@@ -28,10 +28,10 @@
 - **Adaptive Caching for Faster Video Generation with Diffusion Transformers**, `arXiv, 2411.02397`, [arxiv](http://arxiv.org/abs/2411.02397v2), [pdf](http://arxiv.org/pdf/2411.02397v2.pdf), cication: [**-1**](None) 
 
 	 *Kumara Kahatapitiya, Haozhe Liu, Sen He, ..., Michael S. Ryoo, Tian Xie* · ([adacache-dit.github](https://adacache-dit.github.io/)) · ([AdaCache](https://github.com/AdaCache-DiT/AdaCache) - AdaCache-DiT) ![Star](https://img.shields.io/github/stars/AdaCache-DiT/AdaCache.svg?style=social&label=Star)
-- [CogVideoX is an open-source video generation model originating from Qingying.](https://huggingface.co/THUDM/CogVideoX1.5-5B-SAT)  🤗
+- [CogVideoX is an open-source video generation model originating from Qingying.](https://huggingface.co/THUDM/CogVideoX1.5-5B-SAT)  🤗 
 
 	 · ([CogVideo](https://github.com/THUDM/CogVideo) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)
-- **DimensionX: Create Any 3D and 4D Scenes from a Single Image with
+- **DimensionX: Create Any 3D and 4D Scenes from a Single Image with 
   Controllable Video Diffusion**, `arXiv, 2411.04928`, [arxiv](http://arxiv.org/abs/2411.04928v1), [pdf](http://arxiv.org/pdf/2411.04928v1.pdf), cication: [**-1**](None) 
 
 	 *Wenqiang Sun, Shuo Chen, Fangfu Liu, ..., Jun Zhang, Yikai Wang* · ([chenshuo20.github](https://chenshuo20.github.io/DimensionX/)) · ([DimensionX](https://github.com/wenqsun/DimensionX) - wenqsun) ![Star](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)
@@ -114,11 +114,11 @@
 ## Editting
 
 - [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) 
-- **AutoVFX: Physically Realistic Video Editing from Natural Language
+- **AutoVFX: Physically Realistic Video Editing from Natural Language 
   Instructions**, `arXiv, 2411.02394`, [arxiv](http://arxiv.org/abs/2411.02394v1), [pdf](http://arxiv.org/pdf/2411.02394v1.pdf), cication: [**-1**](None) 
 
 	 *Hao-Yu Hsu, Zhi-Hao Lin, Albert Zhai, ..., Hongchi Xia, Shenlong Wang* · ([haoyuhsu.github](https://haoyuhsu.github.io/autovfx-website/)) · ([autovfx](https://github.com/haoyuhsu/autovfx) - haoyuhsu) ![Star](https://img.shields.io/github/stars/haoyuhsu/autovfx.svg?style=social&label=Star)
-- 🌟 **ReCapture: Generative Video Camera Controls for User-Provided Videos
+- 🌟 **ReCapture: Generative Video Camera Controls for User-Provided Videos 
   using Masked Video Fine-Tuning**, `arXiv, 2411.05003`, [arxiv](http://arxiv.org/abs/2411.05003v1), [pdf](http://arxiv.org/pdf/2411.05003v1.pdf), cication: [**-1**](None) 
 
 	 *David Junhao Zhang, Roni Paiss, Shiran Zada, ..., Neal Wadhwa, Nataniel Ruiz* · ([generative-video-camera-controls.github](https://generative-video-camera-controls.github.io/))
@@ -133,7 +133,7 @@
 
 ## Datasets
 
-- **TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for
+- **TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for 
   Image-to-Video Generation**, `arXiv, 2411.04709`, [arxiv](http://arxiv.org/abs/2411.04709v1), [pdf](http://arxiv.org/pdf/2411.04709v1.pdf), cication: [**-1**](None) 
 
 	 *Wenhao Wang, Yi Yang* · ([tip-i2v.github.io](https://tip-i2v.github.io.))
@@ -158,7 +158,7 @@
 
 ## Misc
 
-- [optimized support for Genmo’s latest model and can run it fast on a GPU like 4090](https://x.com/ComfyUI/status/1853838184012251317)  𝕏
+- [optimized support for Genmo’s latest model and can run it fast on a GPU like 4090](https://x.com/ComfyUI/status/1853838184012251317)  𝕏 
 
 	 · ([blog.comfy](https://blog.comfy.org/mochi-1/))
 - [**ComfyUI-MochiWrapper**](https://github.com/kijai/ComfyUI-MochiWrapper) - kijai ![Star](https://img.shields.io/github/stars/kijai/ComfyUI-MochiWrapper.svg?style=social&label=Star) 

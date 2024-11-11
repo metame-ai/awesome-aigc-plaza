@@ -14,7 +14,7 @@
 
 ## LoRA
 
-- [tryonlabs / FLUX.1-dev-LoRA-Outfit-Generator](https://huggingface.co/tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator)  🤗
+- [tryonlabs / FLUX.1-dev-LoRA-Outfit-Generator](https://huggingface.co/tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator)  🤗 
 
 ## Control Generation
 
