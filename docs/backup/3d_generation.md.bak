@@ -22,13 +22,16 @@
 
 ## Text to 3D
 
-- [Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://huggingface.co/tencent/Hunyuan3D-1)
-   - [github.com](https://github.com/tencent/Hunyuan3D-1)
-   - [3d.hunyuan.tencent.com](https://3d.hunyuan.tencent.com/hunyuan3d.pdf)
-   - [www.qbitai.com](https://www.qbitai.com/2024/11/215630.html)
+- [Paper page - DreamPolish: Domain Score Distillation With Progressive Geometry  Generation](https://huggingface.co/papers/2411.01602)
+- [Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://huggingface.co/tencent/Hunyuan3D-1)  🤗
+
+	 · ([Hunyuan3D-1](https://github.com/tencent/Hunyuan3D-1) - tencent) ![Star](https://img.shields.io/github/stars/tencent/Hunyuan3D-1.svg?style=social&label=Star) · ([3d.hunyuan.tencent](https://3d.hunyuan.tencent.com/hunyuan3d.pdf)) · ([qbitai](https://www.qbitai.com/2024/11/215630.html))
 
 ## Image to 3D
 
+- [Paper page - GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single  In-the-Wild Image using a Dataset with Levels of Details](https://huggingface.co/papers/2411.03047)
+   - [garverselod.github.io](https://garverselod.github.io/)
+   - [arxiv.org](https://arxiv.org/abs/2411.03047)
 - **DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane 
   Reconstruction Model**, `arXiv, 2410.12928`, [arxiv](http://arxiv.org/abs/2410.12928v1), [pdf](http://arxiv.org/pdf/2410.12928v1.pdf), cication: [**-1**](None)
 
@@ -48,6 +51,8 @@
 
 ## 4D Generation
 
+- [Paper page - GenXD: Generating Any 3D and 4D Scenes](https://huggingface.co/papers/2411.02319)
+   - [gen-x-d.github.io](https://gen-x-d.github.io)
 - **Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**, `arXiv, 2410.10821`, [arxiv](http://arxiv.org/abs/2410.10821v2), [pdf](http://arxiv.org/pdf/2410.10821v2.pdf), cication: [**-1**](None) 
 
 	 *Jingzhi Bao, Xueting Li, Ming-Hsuan Yang* · ([tex4d.github](https://tex4d.github.io/)) · ([Tex4D](https://github.com/ZqlwMatt/Tex4D) - ZqlwMatt) ![Star](https://img.shields.io/github/stars/ZqlwMatt/Tex4D.svg?style=social&label=Star)
@@ -67,4 +72,7 @@
 
 ## Misc
 
+- [Paper page - MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D](https://huggingface.co/papers/2411.02336)
+   - [mvpaint.github.io](https://mvpaint.github.io/)
+   - [github.com](https://github.com/3DTopia/MVPaint)
 - [**blendify**](https://github.com/ptrvilya/blendify) - ptrvilya ![Star](https://img.shields.io/github/stars/ptrvilya/blendify.svg?style=social&label=Star) 

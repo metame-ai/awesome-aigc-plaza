@@ -47,6 +47,7 @@
 
 ## Evaluation
 
+- [TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models](https://arxiv.org/abs/2411.02437)
 - **Diffusion Beats Autoregressive: An Evaluation of Compositional 
   Generation in Text-to-Image Models**, `arXiv, 2410.22775`, [arxiv](http://arxiv.org/abs/2410.22775v1), [pdf](http://arxiv.org/pdf/2410.22775v1.pdf), cication: [**-1**](None)
 
@@ -63,6 +64,13 @@
 
 ## Optimization
 
+- [Paper page - SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion  Models](https://huggingface.co/papers/2411.05007)
+   - [github.com](https://github.com/mit-han-lab/deepcompressor)
+   - [github.com](https://github.com/mit-han-lab/nunchaku)
+   - [hanlab.mit.edu](https://hanlab.mit.edu/projects/svdquant)
+   - [svdquant.mit.edu](https://svdquant.mit.edu/)
+   - [hanlab.mit.edu](https://hanlab.mit.edu/blog/svdquant)
+- [SEE-DPO: Self Entropy Enhanced Direct Preference Optimization](https://arxiv.org/abs/2411.04712)
 - **Simpler Diffusion (SiD2): 1.5 FID on ImageNet512 with pixel-space 
   diffusion**, `arXiv, 2410.19324`, [arxiv](http://arxiv.org/abs/2410.19324v1), [pdf](http://arxiv.org/pdf/2410.19324v1.pdf), cication: [**-1**](None)
 
@@ -70,6 +78,9 @@
 
 ## Control Generation
 
+- [xinsir / controlnet-openpose-sdxl-1.0](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0)
+- [ControlNet++: All-in-one ControlNet for image generations and editing!](https://github.com/xinsir6/ControlNetPlus)
+- [Paper page - Controlling Language and Diffusion Models by Transporting Activations](https://huggingface.co/papers/2410.23054)
 - **CtrLoRA: An Extensible and Efficient Framework for Controllable Image 
   Generation**, `arXiv, 2410.09400`, [arxiv](http://arxiv.org/abs/2410.09400v1), [pdf](http://arxiv.org/pdf/2410.09400v1.pdf), cication: [**-1**](None)
 
@@ -77,6 +88,9 @@
 
 ## DiT
 
+- [2405.14430v2.pdf](https://arxiv.org/abs/2405.14430)
+   - [github.com](https://github.com/xdit-project/xDiT)
+   - [models.our](http://models.our/)
 - **FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion 
   Model**, `arXiv, 2410.13925`, [arxiv](http://arxiv.org/abs/2410.13925v1), [pdf](http://arxiv.org/pdf/2410.13925v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=10362575906962583029&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -84,8 +98,11 @@
 
 ## Flow Matching
 
-- [Paper page - Constant Acceleration Flow](https://huggingface.co/papers/2411.00322)
-   - [github.com](https://github.com/mlvlab/CAF)
+- [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2411.04746)
+   - [github.com](https://github.com/wangjiangshan0725/RF-Solver-Edit)
+- **Constant Acceleration Flow**, `arXiv, 2411.00322`, [arxiv](http://arxiv.org/abs/2411.00322v1), [pdf](http://arxiv.org/pdf/2411.00322v1.pdf), cication: [**-1**](None) 
+
+	 *Dogyun Park, Sojin Lee, Sihyeon Kim, ..., Youngjoon Hong, Hyunwoo J. Kim* · ([CAF](https://github.com/mlvlab/CAF) - mlvlab) ![Star](https://img.shields.io/github/stars/mlvlab/CAF.svg?style=social&label=Star)
 
 ## Efficient
 
@@ -98,7 +115,9 @@
 
 ## Personalization
 
-- [ConsiStory: Training-Free Consistent Text-to-Image Generation](https://github.com/NVlabs/consistory)
+- [**consistory**](https://github.com/NVlabs/consistory) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/consistory.svg?style=social&label=Star)
+
+	 *Training-Free Consistent Text-to-Image Generation*
 - **MagicTailor: Component-Controllable Personalization in Text-to-Image 
   Diffusion Models**, `arXiv, 2410.13370`, [arxiv](http://arxiv.org/abs/2410.13370v1), [pdf](http://arxiv.org/pdf/2410.13370v1.pdf), cication: [**-1**](None)
 
@@ -119,9 +138,10 @@
 
 ## Try On
 
-- [Paper page - Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://huggingface.co/papers/2411.00225)
-   - [johannakarras.github.io](https://johannakarras.github.io/Fashion-VDM/)
-   - [arxiv.org](https://arxiv.org/abs/2411.00225)
+- [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/)
+- **Fashion-VDM: Video Diffusion Model for Virtual Try-On**, `arXiv, 2411.00225`, [arxiv](http://arxiv.org/abs/2411.00225v2), [pdf](http://arxiv.org/pdf/2411.00225v2.pdf), cication: [**-1**](None) 
+
+	 *Johanna Karras, Yingwei Li, Nan Liu, ..., Chris Lee, Ira Kemelmacher-Shlizerman* · ([johannakarras.github](https://johannakarras.github.io/Fashion-VDM/)) · ([arxiv](https://arxiv.org/abs/2411.00225))
 - [**KlingAI-Virtual-Try-On**](https://github.com/AtaUllahB/KlingAI-Virtual-Try-On) - AtaUllahB ![Star](https://img.shields.io/github/stars/AtaUllahB/KlingAI-Virtual-Try-On.svg?style=social&label=Star) 
 
 ## Detection
@@ -132,8 +152,10 @@
 
 ## Auto Regressive
 
-- [Paper page - Randomized Autoregressive Visual Generation](https://huggingface.co/papers/2411.00776)
-   - [yucornetto.github.io](https://yucornetto.github.io/projects/rar.html)
+- [Paper page - Mixture-of-Transformers: A Sparse and Scalable Architecture for  Multi-Modal Foundation Models](https://huggingface.co/papers/2411.04996)|star|
+- **Randomized Autoregressive Visual Generation**, `arXiv, 2411.00776`, [arxiv](http://arxiv.org/abs/2411.00776v1), [pdf](http://arxiv.org/pdf/2411.00776v1.pdf), cication: [**-1**](None) 
+
+	 *Qihang Yu, Ju He, Xueqing Deng, ..., Xiaohui Shen, Liang-Chieh Chen* · ([yucornetto.github](https://yucornetto.github.io/projects/rar.html))
 - **Customize Your Visual Autoregressive Recipe with Set Autoregressive 
   Modeling**, `arXiv, 2410.10511`, [arxiv](http://arxiv.org/abs/2410.10511v1), [pdf](http://arxiv.org/pdf/2410.10511v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2757211234717374113&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -159,6 +181,8 @@
 
 ## Editting
 
+- [Paper page - Training-free Regional Prompting for Diffusion Transformers](https://huggingface.co/papers/2411.02395)
+   - [github.com](https://github.com/instantX-research/Regional-Prompting-FLUX)
 - **DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe 
   Dataset Curation**, `arXiv, 2410.18666`, [arxiv](http://arxiv.org/abs/2410.18666v2), [pdf](http://arxiv.org/pdf/2410.18666v2.pdf), cication: [**-1**](None)
 
@@ -191,6 +215,7 @@
 
 ## Projects
 
+- [advanced image captioning tool based on the Microsoft Florence-2 Model Fine-tuned to perfection.](https://github.com/miaoshouai/ComfyUI-Miaoshouai-Tagger)
 - [**ComfyUI-Image-Filters**](https://github.com/spacepxl/ComfyUI-Image-Filters) - spacepxl ![Star](https://img.shields.io/github/stars/spacepxl/ComfyUI-Image-Filters.svg?style=social&label=Star) 
 - [Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)  🤗 
 
@@ -207,10 +232,13 @@
 
 ## Products
 
-- [Paper page - Survey of User Interface Design and Interaction Techniques in Generative  AI Applications](https://huggingface.co/papers/2410.22370)
-- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335)  𝕏
-- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)  𝕏
-- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)  𝕏
+- **Survey of User Interface Design and Interaction Techniques in Generative
+  AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
+
+	 *Reuben Luera, Ryan A. Rossi, Alexa Siu, ..., Puneet Mathur, Nedim Lipka*
+- [Recraft V3, the new frontier Text to Image model!](https://x.com/ArtificialAnlys/status/1851707166744584335)  𝕏 
+- [Indie Game Studio Creates Custom Stable Diffusion Based Texturing Pipeline](https://x.com/DigestDiff93383/status/1850458947162980776)  𝕏 
+- [Ideogram Canvas, an infinite creative board for organizing, generating, editing, and combining images.](https://x.com/ideogram_ai/status/1848757699606983143)  𝕏 
 
 ## Misc
 

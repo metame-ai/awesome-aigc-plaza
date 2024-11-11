@@ -22,12 +22,20 @@
 
 ## Text to 3D
 
-- [Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://huggingface.co/tencent/Hunyuan3D-1)  🤗
+- **DreamPolish: Domain Score Distillation With Progressive Geometry
+  Generation**, `arXiv, 2411.01602`, [arxiv](http://arxiv.org/abs/2411.01602v1), [pdf](http://arxiv.org/pdf/2411.01602v1.pdf), cication: [**-1**](None) 
+
+	 *Yean Cheng, Ziqi Cai, Ming Ding, ..., Jie Tang, Boxin Shi*
+- [Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://huggingface.co/tencent/Hunyuan3D-1)  🤗 
 
 	 · ([Hunyuan3D-1](https://github.com/tencent/Hunyuan3D-1) - tencent) ![Star](https://img.shields.io/github/stars/tencent/Hunyuan3D-1.svg?style=social&label=Star) · ([3d.hunyuan.tencent](https://3d.hunyuan.tencent.com/hunyuan3d.pdf)) · ([qbitai](https://www.qbitai.com/2024/11/215630.html))
 
 ## Image to 3D
 
+- **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single
+  In-the-Wild Image using a Dataset with Levels of Details**, `arXiv, 2411.03047`, [arxiv](http://arxiv.org/abs/2411.03047v1), [pdf](http://arxiv.org/pdf/2411.03047v1.pdf), cication: [**-1**](None) 
+
+	 *Zhongjin Luo, Haolin Liu, Chenghong Li, ..., Weikai Chen, Xiaoguang Han* · ([garverselod.github](https://garverselod.github.io/)) · ([arxiv](https://arxiv.org/abs/2411.03047))
 - **DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane 
   Reconstruction Model**, `arXiv, 2410.12928`, [arxiv](http://arxiv.org/abs/2410.12928v1), [pdf](http://arxiv.org/pdf/2410.12928v1.pdf), cication: [**-1**](None)
 
@@ -47,6 +55,9 @@
 
 ## 4D Generation
 
+- **GenXD: Generating Any 3D and 4D Scenes**, `arXiv, 2411.02319`, [arxiv](http://arxiv.org/abs/2411.02319v2), [pdf](http://arxiv.org/pdf/2411.02319v2.pdf), cication: [**-1**](None) 
+
+	 *Yuyang Zhao, Chung-Ching Lin, Kevin Lin, ..., Gim Hee Lee, Lijuan Wang* · ([gen-x-d.github](https://gen-x-d.github.io))
 - **Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**, `arXiv, 2410.10821`, [arxiv](http://arxiv.org/abs/2410.10821v2), [pdf](http://arxiv.org/pdf/2410.10821v2.pdf), cication: [**-1**](None) 
 
 	 *Jingzhi Bao, Xueting Li, Ming-Hsuan Yang* · ([tex4d.github](https://tex4d.github.io/)) · ([Tex4D](https://github.com/ZqlwMatt/Tex4D) - ZqlwMatt) ![Star](https://img.shields.io/github/stars/ZqlwMatt/Tex4D.svg?style=social&label=Star)
@@ -66,4 +77,7 @@
 
 ## Misc
 
+- **MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**, `arXiv, 2411.02336`, [arxiv](http://arxiv.org/abs/2411.02336v1), [pdf](http://arxiv.org/pdf/2411.02336v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Cheng, Juncheng Mu, Xianfang Zeng, ..., Ziwei Liu, Liang Pan* · ([mvpaint.github](https://mvpaint.github.io/)) · ([MVPaint](https://github.com/3DTopia/MVPaint) - 3DTopia) ![Star](https://img.shields.io/github/stars/3DTopia/MVPaint.svg?style=social&label=Star)
 - [**blendify**](https://github.com/ptrvilya/blendify) - ptrvilya ![Star](https://img.shields.io/github/stars/ptrvilya/blendify.svg?style=social&label=Star) 

@@ -14,6 +14,7 @@
 
 ## LoRA
 
+- [tryonlabs / FLUX.1-dev-LoRA-Outfit-Generator](https://huggingface.co/tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator)  🤗
 
 ## Control Generation
 
@@ -27,6 +28,9 @@
 
 ## Misc
 
+- **Training-free Regional Prompting for Diffusion Transformers**, `arXiv, 2411.02395`, [arxiv](http://arxiv.org/abs/2411.02395v1), [pdf](http://arxiv.org/pdf/2411.02395v1.pdf), cication: [**-1**](None) 
+
+	 *Anthony Chen, Jianjin Xu, Wenzhao Zheng, ..., Haofan Wang, Shanghang Zhang* · ([Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - instantX-research) ![Star](https://img.shields.io/github/stars/instantX-research/Regional-Prompting-FLUX.svg?style=social&label=Star)
 - **In-Context LoRA for Diffusion Transformers**, `arXiv, 2410.23775`, [arxiv](http://arxiv.org/abs/2410.23775v3), [pdf](http://arxiv.org/pdf/2410.23775v3.pdf), cication: [**-1**](None) 
 
 	 *Lianghua Huang, Wei Wang, Zhi-Fan Wu, ..., Yu Liu, Jingren Zhou* · ([In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA.svg?style=social&label=Star)
