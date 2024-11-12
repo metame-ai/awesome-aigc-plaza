@@ -80,6 +80,9 @@
 
 ## Control Generation
 
+- [In-Context LoRA for Diffusion Transformers](https://ali-vilab.github.io/In-Context-LoRA-Page/) 
+
+	 · ([arxiv](https://arxiv.org/abs/2410.23775)) · ([In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ali-vilab/In-Context-LoRA))
 - [xinsir / controlnet-openpose-sdxl-1.0](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0)  🤗 
 - [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star) 
 

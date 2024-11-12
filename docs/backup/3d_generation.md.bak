@@ -22,7 +22,7 @@
 
 ## Text to 3D
 
-- **DreamPolish: Domain Score Distillation With Progressive Geometry
+- **DreamPolish: Domain Score Distillation With Progressive Geometry 
   Generation**, `arXiv, 2411.01602`, [arxiv](http://arxiv.org/abs/2411.01602v1), [pdf](http://arxiv.org/pdf/2411.01602v1.pdf), cication: [**-1**](None) 
 
 	 *Yean Cheng, Ziqi Cai, Ming Ding, ..., Jie Tang, Boxin Shi*
@@ -32,7 +32,7 @@
 
 ## Image to 3D
 
-- **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single
+- **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single 
   In-the-Wild Image using a Dataset with Levels of Details**, `arXiv, 2411.03047`, [arxiv](http://arxiv.org/abs/2411.03047v1), [pdf](http://arxiv.org/pdf/2411.03047v1.pdf), cication: [**-1**](None) 
 
 	 *Zhongjin Luo, Haolin Liu, Chenghong Li, ..., Weikai Chen, Xiaoguang Han* · ([garverselod.github](https://garverselod.github.io/)) · ([arxiv](https://arxiv.org/abs/2411.03047))

@@ -66,7 +66,7 @@
 
 ## Optimization
 
-- **SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion
+- **SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion 
   Models**, `arXiv, 2411.05007`, [arxiv](http://arxiv.org/abs/2411.05007v2), [pdf](http://arxiv.org/pdf/2411.05007v2.pdf), cication: [**-1**](None) 
 
 	 *Muyang Li, Yujun Lin, Zhekai Zhang, ..., Jun-Yan Zhu, Song Han* · ([deepcompressor](https://github.com/mit-han-lab/deepcompressor) - mit-han-lab) ![Star](https://img.shields.io/github/stars/mit-han-lab/deepcompressor.svg?style=social&label=Star) · ([nunchaku](https://github.com/mit-han-lab/nunchaku) - mit-han-lab) ![Star](https://img.shields.io/github/stars/mit-han-lab/nunchaku.svg?style=social&label=Star) · ([hanlab.mit](https://hanlab.mit.edu/projects/svdquant)) · ([svdquant.mit](https://svdquant.mit.edu/)) · ([hanlab.mit](https://hanlab.mit.edu/blog/svdquant))
@@ -80,8 +80,12 @@
 
 ## Control Generation
 
-- [xinsir / controlnet-openpose-sdxl-1.0](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0)  🤗
-- [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star)
+- [In-Context LoRA for Diffusion Transformers](https://ali-vilab.github.io/In-Context-LoRA-Page/)
+   - [arxiv.org](https://arxiv.org/abs/2410.23775)
+   - [github.com](https://github.com/ali-vilab/In-Context-LoRA)
+   - [huggingface.co](https://huggingface.co/ali-vilab/In-Context-LoRA)
+- [xinsir / controlnet-openpose-sdxl-1.0](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0)  🤗 
+- [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star) 
 
 	 *All-in-one ControlNet for image generations and editing!*
 - **Controlling Language and Diffusion Models by Transporting Activations**, `arXiv, 2410.23054`, [arxiv](http://arxiv.org/abs/2410.23054v1), [pdf](http://arxiv.org/pdf/2410.23054v1.pdf), cication: [**-1**](None) 
@@ -94,7 +98,7 @@
 
 ## DiT
 
-- **PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers
+- **PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers 
   Inference**, `arXiv, 2405.14430`, [arxiv](http://arxiv.org/abs/2405.14430v3), [pdf](http://arxiv.org/pdf/2405.14430v3.pdf), cication: [**-1**](None) 
 
 	 *Jiarui Fang, Jinzhe Pan, Jiannan Wang, ..., Aoyu Li, Xibo Sun* · ([xDiT](https://github.com/xdit-project/xDiT) - xdit-project) ![Star](https://img.shields.io/github/stars/xdit-project/xDiT.svg?style=social&label=Star) · ([models](http://models.our/))
@@ -160,7 +164,7 @@
 
 ## Auto Regressive
 
-- 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for
+- 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 
 	 *Weixin Liang, Lili Yu, Liang Luo, ..., Luke Zettlemoyer, Xi Victoria Lin*
@@ -227,7 +231,7 @@
 
 ## Projects
 
-- [**ComfyUI-Miaoshouai-Tagger**](https://github.com/miaoshouai/ComfyUI-Miaoshouai-Tagger) - miaoshouai ![Star](https://img.shields.io/github/stars/miaoshouai/ComfyUI-Miaoshouai-Tagger.svg?style=social&label=Star)
+- [**ComfyUI-Miaoshouai-Tagger**](https://github.com/miaoshouai/ComfyUI-Miaoshouai-Tagger) - miaoshouai ![Star](https://img.shields.io/github/stars/miaoshouai/ComfyUI-Miaoshouai-Tagger.svg?style=social&label=Star) 
 - [**ComfyUI-Image-Filters**](https://github.com/spacepxl/ComfyUI-Image-Filters) - spacepxl ![Star](https://img.shields.io/github/stars/spacepxl/ComfyUI-Image-Filters.svg?style=social&label=Star) 
 - [Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)  🤗 
 

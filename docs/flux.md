@@ -11,6 +11,7 @@
 
 ## Efficient
 
+- [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star)
 
 ## LoRA
 
@@ -28,6 +29,12 @@
 
 ## Misc
 
+- [Kijai / flux-fp8](https://huggingface.co/Kijai/flux-fp8/tree/main)  🤗
+- [**stable-diffusion-webui-forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/981) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge.svg?style=social&label=Star)
+- [Performance of fp16 vs fp8 Using Flux Model on RTX 4080 Super](https://medium.com/@wxbxtxr/lightning-fast-ai-creation-revealing-fp8-modes-astonishing-performance-on-rtx-4080-super-69de462e277b) 
+- [ComfyUI_examples](https://comfyanonymous.github.io/ComfyUI_examples/flux/) 
+- [Flux.1 ComfyUI install guidance, workflow and example](https://comfyui-wiki.com/tutorial/advanced/flux1-comfyui-guide-workflow-and-examples) 
+- [Comfyui workflow for FLUX (schnell fp8) with 8GB of VRAM Card0](https://civitai.com/articles/6537/comfyui-workflow-for-flux-schnell-fp8-with-8gb-of-vram-card) 
 - **Training-free Regional Prompting for Diffusion Transformers**, `arXiv, 2411.02395`, [arxiv](http://arxiv.org/abs/2411.02395v1), [pdf](http://arxiv.org/pdf/2411.02395v1.pdf), cication: [**-1**](None) 
 
 	 *Anthony Chen, Jianjin Xu, Wenzhao Zheng, ..., Haofan Wang, Shanghang Zhang* · ([Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - instantX-research) ![Star](https://img.shields.io/github/stars/instantX-research/Regional-Prompting-FLUX.svg?style=social&label=Star)
