@@ -28,7 +28,7 @@
 - **LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**, `arXiv, 2411.09595`, [arxiv](http://arxiv.org/abs/2411.09595v1), [pdf](http://arxiv.org/pdf/2411.09595v1.pdf), cication: [**-1**](None) 
 
 	 *Zhengyi Wang, Jonathan Lorraine, Yikai Wang, ..., Sanja Fidler, Xiaohui Zeng*
-- **Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model
+- **Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model 
   with Compact Wavelet Encodings**, `arXiv, 2411.08017`, [arxiv](http://arxiv.org/abs/2411.08017v1), [pdf](http://arxiv.org/pdf/2411.08017v1.pdf), cication: [**-1**](None) 
 
 	 *Aditya Sanghi, Aliasghar Khani, Pradyumna Reddy, ..., Kanika Madan, Hooman Shayani* · ([wala](https://github.com/autodeskailab/wala?tab=readme-ov-file) - autodeskailab) ![Star](https://img.shields.io/github/stars/autodeskailab/wala.svg?style=social&label=Star) · ([autodeskailab.github](https://autodeskailab.github.io/WaLaProject/))
@@ -83,7 +83,7 @@
 - **SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**, `arXiv, 2411.06390`, [arxiv](http://arxiv.org/abs/2411.06390v2), [pdf](http://arxiv.org/pdf/2411.06390v2.pdf), cication: [**-1**](None) 
 
 	 *Yutong Chen, Marko Mihajlovic, Xiyi Chen, ..., Sergey Prokudin, Siyu Tang* · ([SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU) ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star) · ([sergeyprokudin.github](https://sergeyprokudin.github.io/splatformer/))
-- [**SplatFormer**](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star)
+- [**SplatFormer**](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star) 
 
 	 *Point Transformer for Robust 3D Gaussian Splatting*
 - [MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views](https://donydchen.github.io/mvsplat360/) 
