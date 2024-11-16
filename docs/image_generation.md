@@ -37,6 +37,10 @@
 
 ## Generation
 
+- **Edify Image: High-Quality Image Generation with Pixel Space Laplacian
+  Diffusion Models**, `arXiv, 2411.07126`, [arxiv](http://arxiv.org/abs/2411.07126v1), [pdf](http://arxiv.org/pdf/2411.07126v1.pdf), cication: [**-1**](None) 
+
+	 *NVIDIA, :, Yuval Atzmon, ..., Yu Zeng, Qinsheng Zhang* · ([research.nvidia](https://research.nvidia.com/labs/dir/edify-image/))
 - [Monetico: An Efficient Reproduction of Meissonic for Text-to-Image Synthesis](https://huggingface.co/Collov-Labs/Monetico)  🤗 
 
 	 · ([Meissonic](https://github.com/viiika/Meissonic) - viiika) ![Star](https://img.shields.io/github/stars/viiika/Meissonic.svg?style=social&label=Star)
@@ -146,6 +150,7 @@
 
 ## Prompt
 
+- [Stable Diffusion 3.5 Prompt Guide                                                    Open Models](https://stability.ai/learning-hub/stable-diffusion-3-5-prompt-guide) 
 
 ## Try On
 
@@ -157,12 +162,19 @@
 
 ## Detection
 
+- **Watermark Anything with Localized Messages**, `arXiv, 2411.07231`, [arxiv](http://arxiv.org/abs/2411.07231v1), [pdf](http://arxiv.org/pdf/2411.07231v1.pdf), cication: [**-1**](None) 
+
+	 *Tom Sander, Pierre Fernandez, Alain Durmus, ..., Teddy Furon, Matthijs Douze* · ([watermark-anything](https://github.com/facebookresearch/watermark-anything) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/watermark-anything.svg?style=social&label=Star)
 
 ## Text Rendering
 
 
 ## Auto Regressive
 
+- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified
+  Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
+
+	 *Yiyang Ma, Xingchao Liu, Xiaokang Chen, ..., Jiaying Liu, Chong Ruan* · ([Janus](https://github.com/deepseek-ai/Janus?tab=readme-ov-file) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)
 - 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 
@@ -195,6 +207,21 @@
 
 ## Editting
 
+- [RMBG v2.0 is our new state-of-the-art background removal model, designed to effectively separate foreground from background in a range ofcategories and image types.](https://huggingface.co/briaai/RMBG-2.0)  🤗
+- **Add-it: Training-Free Object Insertion in Images With Pretrained
+  Diffusion Models**, `arXiv, 2411.07232`, [arxiv](http://arxiv.org/abs/2411.07232v2), [pdf](http://arxiv.org/pdf/2411.07232v2.pdf), cication: [**-1**](None) 
+
+	 *Yoad Tewel, Rinon Gal, Dvir Samuel, ..., Lior Wolf, Gal Chechik* · ([research.nvidia](https://research.nvidia.com/labs/par/addit/))
+- **OmniEdit: Building Image Editing Generalist Models Through Specialist
+  Supervision**, `arXiv, 2411.07199`, [arxiv](http://arxiv.org/abs/2411.07199v1), [pdf](http://arxiv.org/pdf/2411.07199v1.pdf), cication: [**-1**](None) 
+
+	 *Cong Wei, Zheyang Xiong, Weiming Ren, ..., Ge Zhang, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/OmniEdit/))
+- **SeedEdit: Align Image Re-Generation to Image Editing**, `arXiv, 2411.06686`, [arxiv](http://arxiv.org/abs/2411.06686v1), [pdf](http://arxiv.org/pdf/2411.06686v1.pdf), cication: [**-1**](None) 
+
+	 *Yichun Shi, Peng Wang, Weilin Huang* · ([team.doubao](https://team.doubao.com/seededit))
+- **MagicQuill: An Intelligent Interactive Image Editing System**, `arXiv, 2411.09703`, [arxiv](http://arxiv.org/abs/2411.09703v1), [pdf](http://arxiv.org/pdf/2411.09703v1.pdf), cication: [**-1**](None) 
+
+	 *Zichen Liu, Yue Yu, Hao Ouyang, ..., Qifeng Chen, Yujun Shen* · ([magicquill](https://github.com/magic-quill/magicquill) - magic-quill) ![Star](https://img.shields.io/github/stars/magic-quill/magicquill.svg?style=social&label=Star)
 - **Training-free Regional Prompting for Diffusion Transformers**, `arXiv, 2411.02395`, [arxiv](http://arxiv.org/abs/2411.02395v1), [pdf](http://arxiv.org/pdf/2411.02395v1.pdf), cication: [**-1**](None) 
 
 	 *Anthony Chen, Jianjin Xu, Wenzhao Zheng, ..., Haofan Wang, Shanghang Zhang* · ([Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - instantX-research) ![Star](https://img.shields.io/github/stars/instantX-research/Regional-Prompting-FLUX.svg?style=social&label=Star)

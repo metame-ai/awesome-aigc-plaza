@@ -19,6 +19,19 @@
 
 ## 3D Generation
 
+- **CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**, `arXiv, 2411.04954`, [arxiv](http://arxiv.org/abs/2411.04954v1), [pdf](http://arxiv.org/pdf/2411.04954v1.pdf), cication: [**-1**](None) 
+
+	 *Jingwei Xu, Chenyu Wang, Zibo Zhao, ..., Yi Ma, Shenghua Gao* · ([cad-mllm.github](https://cad-mllm.github.io/))
+- [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://ai.stanford.edu/~yzzhang/projects/scene-language/) 
+
+	 · ([scene-language](https://github.com/zzyunzhi/scene-language) - zzyunzhi) ![Star](https://img.shields.io/github/stars/zzyunzhi/scene-language.svg?style=social&label=Star)
+- **LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**, `arXiv, 2411.09595`, [arxiv](http://arxiv.org/abs/2411.09595v1), [pdf](http://arxiv.org/pdf/2411.09595v1.pdf), cication: [**-1**](None) 
+
+	 *Zhengyi Wang, Jonathan Lorraine, Yikai Wang, ..., Sanja Fidler, Xiaohui Zeng*
+- **Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model
+  with Compact Wavelet Encodings**, `arXiv, 2411.08017`, [arxiv](http://arxiv.org/abs/2411.08017v1), [pdf](http://arxiv.org/pdf/2411.08017v1.pdf), cication: [**-1**](None) 
+
+	 *Aditya Sanghi, Aliasghar Khani, Pradyumna Reddy, ..., Kanika Madan, Hooman Shayani* · ([wala](https://github.com/autodeskailab/wala?tab=readme-ov-file) - autodeskailab) ![Star](https://img.shields.io/github/stars/autodeskailab/wala.svg?style=social&label=Star) · ([autodeskailab.github](https://autodeskailab.github.io/WaLaProject/))
 
 ## Text to 3D
 
@@ -32,6 +45,9 @@
 
 ## Image to 3D
 
+- **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**, `arXiv, 2411.05738`, [arxiv](http://arxiv.org/abs/2411.05738v1), [pdf](http://arxiv.org/pdf/2411.05738v1.pdf), cication: [**-1**](None) 
+
+	 *Yuze He, Yanning Zhou, Wang Zhao, ..., Yong-Jin Liu, Xiao Han* · ([stdgen.github](https://stdgen.github.io))
 - **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single 
   In-the-Wild Image using a Dataset with Levels of Details**, `arXiv, 2411.03047`, [arxiv](http://arxiv.org/abs/2411.03047v1), [pdf](http://arxiv.org/pdf/2411.03047v1.pdf), cication: [**-1**](None) 
 
@@ -64,6 +80,13 @@
 
 ## Gaussian Splatting
 
+- **SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**, `arXiv, 2411.06390`, [arxiv](http://arxiv.org/abs/2411.06390v2), [pdf](http://arxiv.org/pdf/2411.06390v2.pdf), cication: [**-1**](None) 
+
+	 *Yutong Chen, Marko Mihajlovic, Xiyi Chen, ..., Sergey Prokudin, Siyu Tang* · ([SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU) ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star) · ([sergeyprokudin.github](https://sergeyprokudin.github.io/splatformer/))
+- [**SplatFormer**](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star)
+
+	 *Point Transformer for Robust 3D Gaussian Splatting*
+- [MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views](https://donydchen.github.io/mvsplat360/) 
 - [**PF3plat**](https://github.com/cvlab-kaist/PF3plat) - cvlab-kaist ![Star](https://img.shields.io/github/stars/cvlab-kaist/PF3plat.svg?style=social&label=Star) 
 
 	 *Pose-Free Feed-Forward 3D Gaussian Splatting*

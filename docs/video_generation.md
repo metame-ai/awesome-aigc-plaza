@@ -22,6 +22,10 @@
 
 ## Generation
 
+- [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star)
+- **Motion Control for Enhanced Complex Action Video Generation**, `arXiv, 2411.08328`, [arxiv](http://arxiv.org/abs/2411.08328v1), [pdf](http://arxiv.org/pdf/2411.08328v1.pdf), cication: [**-1**](None) 
+
+	 *Qiang Zhou, Shaofeng Zhang, Nianzu Yang, ..., Ye Qian, Hao Li* · ([mvideo-v1.github](https://mvideo-v1.github.io/))
 - **GameGen-X: Interactive Open-world Game Video Generation**, `arXiv, 2411.00769`, [arxiv](http://arxiv.org/abs/2411.00769v1), [pdf](http://arxiv.org/pdf/2411.00769v1.pdf), cication: [**-1**](None) 
 
 	 *Haoxuan Che, Xuanhua He, Quande Liu, ..., Cheng Jin, Hao Chen* · ([GameGen-X](https://github.com/GameGen-X/GameGen-X) - GameGen-X) ![Star](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/hAcDciiJ5oRB-9bIsYEt5w))
@@ -133,6 +137,10 @@
 
 ## Datasets
 
+- **EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video
+  Generation**, `arXiv, 2411.08380`, [arxiv](http://arxiv.org/abs/2411.08380v1), [pdf](http://arxiv.org/pdf/2411.08380v1.pdf), cication: [**-1**](None) 
+
+	 *Xiaofeng Wang, Kang Zhao, Feng Liu, ..., Yingya Zhang, Xingang Wang* · ([egovid.github](https://egovid.github.io/))
 - **TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for 
   Image-to-Video Generation**, `arXiv, 2411.04709`, [arxiv](http://arxiv.org/abs/2411.04709v1), [pdf](http://arxiv.org/pdf/2411.04709v1.pdf), cication: [**-1**](None) 
 
@@ -140,6 +148,7 @@
 
 ## Toolkits
 
+- [**cogvideox-factory**](https://github.com/a-r-r-o-w/cogvideox-factory) - a-r-r-o-w ![Star](https://img.shields.io/github/stars/a-r-r-o-w/cogvideox-factory.svg?style=social&label=Star)
 
 ## Tutorials
 

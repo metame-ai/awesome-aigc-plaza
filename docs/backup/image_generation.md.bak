@@ -37,6 +37,8 @@
 
 ## Generation
 
+- [Paper page - Edify Image: High-Quality Image Generation with Pixel Space Laplacian  Diffusion Models](https://huggingface.co/papers/2411.07126)
+   - [research.nvidia.com](https://research.nvidia.com/labs/dir/edify-image/)
 - [Monetico: An Efficient Reproduction of Meissonic for Text-to-Image Synthesis](https://huggingface.co/Collov-Labs/Monetico)  🤗 
 
 	 · ([Meissonic](https://github.com/viiika/Meissonic) - viiika) ![Star](https://img.shields.io/github/stars/viiika/Meissonic.svg?style=social&label=Star)
@@ -80,10 +82,9 @@
 
 ## Control Generation
 
-- [In-Context LoRA for Diffusion Transformers](https://ali-vilab.github.io/In-Context-LoRA-Page/)
-   - [arxiv.org](https://arxiv.org/abs/2410.23775)
-   - [github.com](https://github.com/ali-vilab/In-Context-LoRA)
-   - [huggingface.co](https://huggingface.co/ali-vilab/In-Context-LoRA)
+- [In-Context LoRA for Diffusion Transformers](https://ali-vilab.github.io/In-Context-LoRA-Page/) 
+
+	 · ([arxiv](https://arxiv.org/abs/2410.23775)) · ([In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ali-vilab/In-Context-LoRA))
 - [xinsir / controlnet-openpose-sdxl-1.0](https://huggingface.co/xinsir/controlnet-openpose-sdxl-1.0)  🤗 
 - [**ControlNetPlus**](https://github.com/xinsir6/ControlNetPlus) - xinsir6 ![Star](https://img.shields.io/github/stars/xinsir6/ControlNetPlus.svg?style=social&label=Star) 
 
@@ -147,6 +148,7 @@
 
 ## Prompt
 
+- [Stable Diffusion 3.5 Prompt Guide                                                    Open Models](https://stability.ai/learning-hub/stable-diffusion-3-5-prompt-guide)
 
 ## Try On
 
@@ -158,12 +160,16 @@
 
 ## Detection
 
+- [Paper page - Watermark Anything with Localized Messages](https://huggingface.co/papers/2411.07231)
+   - [github.com](https://github.com/facebookresearch/watermark-anything)
 
 ## Text Rendering
 
 
 ## Auto Regressive
 
+- [Paper page - JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified  Multimodal Understanding and Generation](https://huggingface.co/papers/2411.07975)|star|
+   - [github.com](https://github.com/deepseek-ai/Janus?tab=readme-ov-file)
 - 🌟 **Mixture-of-Transformers: A Sparse and Scalable Architecture for 
   Multi-Modal Foundation Models**, `arXiv, 2411.04996`, [arxiv](http://arxiv.org/abs/2411.04996v1), [pdf](http://arxiv.org/pdf/2411.04996v1.pdf), cication: [**-1**](None) 
 
@@ -196,6 +202,15 @@
 
 ## Editting
 
+- [RMBG v2.0 is our new state-of-the-art background removal model, designed to effectively separate foreground from background in a range ofcategories and image types.](https://huggingface.co/briaai/RMBG-2.0)
+- [Paper page - Add-it: Training-Free Object Insertion in Images With Pretrained  Diffusion Models](https://huggingface.co/papers/2411.07232)
+   - [research.nvidia.com](https://research.nvidia.com/labs/par/addit/)
+- [Paper page - OmniEdit: Building Image Editing Generalist Models Through Specialist  Supervision](https://huggingface.co/papers/2411.07199)
+   - [tiger-ai-lab.github.io](https://tiger-ai-lab.github.io/OmniEdit/)
+- [SeedEdit: Align Image Re-Generation to Image Editing](https://arxiv.org/abs/2411.06686)
+   - [team.doubao.com](https://team.doubao.com/seededit)
+- [Paper page - MagicQuill: An Intelligent Interactive Image Editing System](https://huggingface.co/papers/2411.09703)
+   - [github.com](https://github.com/magic-quill/magicquill)
 - **Training-free Regional Prompting for Diffusion Transformers**, `arXiv, 2411.02395`, [arxiv](http://arxiv.org/abs/2411.02395v1), [pdf](http://arxiv.org/pdf/2411.02395v1.pdf), cication: [**-1**](None) 
 
 	 *Anthony Chen, Jianjin Xu, Wenzhao Zheng, ..., Haofan Wang, Shanghang Zhang* · ([Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - instantX-research) ![Star](https://img.shields.io/github/stars/instantX-research/Regional-Prompting-FLUX.svg?style=social&label=Star)

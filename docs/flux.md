@@ -11,7 +11,7 @@
 
 ## Efficient
 
-- [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star)
+- [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star) 
 
 ## LoRA
 
@@ -29,8 +29,8 @@
 
 ## Misc
 
-- [Kijai / flux-fp8](https://huggingface.co/Kijai/flux-fp8/tree/main)  🤗
-- [**stable-diffusion-webui-forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/981) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge.svg?style=social&label=Star)
+- [Kijai / flux-fp8](https://huggingface.co/Kijai/flux-fp8/tree/main)  🤗 
+- [**stable-diffusion-webui-forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/981) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge.svg?style=social&label=Star) 
 - [Performance of fp16 vs fp8 Using Flux Model on RTX 4080 Super](https://medium.com/@wxbxtxr/lightning-fast-ai-creation-revealing-fp8-modes-astonishing-performance-on-rtx-4080-super-69de462e277b) 
 - [ComfyUI_examples](https://comfyanonymous.github.io/ComfyUI_examples/flux/) 
 - [Flux.1 ComfyUI install guidance, workflow and example](https://comfyui-wiki.com/tutorial/advanced/flux1-comfyui-guide-workflow-and-examples) 

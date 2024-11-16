@@ -19,6 +19,14 @@
 
 ## 3D Generation
 
+- [Paper page - CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](https://huggingface.co/papers/2411.04954)
+   - [cad-mllm.github.io](https://cad-mllm.github.io/)
+- [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
+   - [github.com](https://github.com/zzyunzhi/scene-language)
+- [Paper page - LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://huggingface.co/papers/2411.09595)
+- [Paper page - Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model  with Compact Wavelet Encodings](https://huggingface.co/papers/2411.08017)
+   - [github.com](https://github.com/autodeskailab/wala?tab=readme-ov-file)
+   - [autodeskailab.github.io](https://autodeskailab.github.io/WaLaProject/)
 
 ## Text to 3D
 
@@ -32,6 +40,8 @@
 
 ## Image to 3D
 
+- [Paper page - StdGEN: Semantic-Decomposed 3D Character Generation from Single Images](https://huggingface.co/papers/2411.05738)
+   - [stdgen.github.io](https://stdgen.github.io)
 - **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single 
   In-the-Wild Image using a Dataset with Levels of Details**, `arXiv, 2411.03047`, [arxiv](http://arxiv.org/abs/2411.03047v1), [pdf](http://arxiv.org/pdf/2411.03047v1.pdf), cication: [**-1**](None) 
 
@@ -64,6 +74,11 @@
 
 ## Gaussian Splatting
 
+- [SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](https://arxiv.org/abs/2411.06390)
+   - [github.com](https://github.com/ChenYutongTHU/SplatFormer)
+   - [sergeyprokudin.github.io](https://sergeyprokudin.github.io/splatformer/)
+- [SplatFormer: Point Transformer for Robust 3D Gaussian Splatting](https://github.com/ChenYutongTHU/SplatFormer)
+- [MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views](https://donydchen.github.io/mvsplat360/)
 - [**PF3plat**](https://github.com/cvlab-kaist/PF3plat) - cvlab-kaist ![Star](https://img.shields.io/github/stars/cvlab-kaist/PF3plat.svg?style=social&label=Star) 
 
 	 *Pose-Free Feed-Forward 3D Gaussian Splatting*
