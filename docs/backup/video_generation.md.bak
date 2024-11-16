@@ -22,7 +22,7 @@
 
 ## Generation
 
-- [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star)
+- [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star) 
 - **Motion Control for Enhanced Complex Action Video Generation**, `arXiv, 2411.08328`, [arxiv](http://arxiv.org/abs/2411.08328v1), [pdf](http://arxiv.org/pdf/2411.08328v1.pdf), cication: [**-1**](None) 
 
 	 *Qiang Zhou, Shaofeng Zhang, Nianzu Yang, ..., Ye Qian, Hao Li* · ([mvideo-v1.github](https://mvideo-v1.github.io/))
@@ -137,7 +137,7 @@
 
 ## Datasets
 
-- **EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video
+- **EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video 
   Generation**, `arXiv, 2411.08380`, [arxiv](http://arxiv.org/abs/2411.08380v1), [pdf](http://arxiv.org/pdf/2411.08380v1.pdf), cication: [**-1**](None) 
 
 	 *Xiaofeng Wang, Kang Zhao, Feng Liu, ..., Yingya Zhang, Xingang Wang* · ([egovid.github](https://egovid.github.io/))
@@ -148,7 +148,7 @@
 
 ## Toolkits
 
-- [**cogvideox-factory**](https://github.com/a-r-r-o-w/cogvideox-factory) - a-r-r-o-w ![Star](https://img.shields.io/github/stars/a-r-r-o-w/cogvideox-factory.svg?style=social&label=Star)
+- [**cogvideox-factory**](https://github.com/a-r-r-o-w/cogvideox-factory) - a-r-r-o-w ![Star](https://img.shields.io/github/stars/a-r-r-o-w/cogvideox-factory.svg?style=social&label=Star) 
 
 ## Tutorials
 

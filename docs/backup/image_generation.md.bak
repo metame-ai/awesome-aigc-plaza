@@ -37,7 +37,7 @@
 
 ## Generation
 
-- **Edify Image: High-Quality Image Generation with Pixel Space Laplacian
+- **Edify Image: High-Quality Image Generation with Pixel Space Laplacian 
   Diffusion Models**, `arXiv, 2411.07126`, [arxiv](http://arxiv.org/abs/2411.07126v1), [pdf](http://arxiv.org/pdf/2411.07126v1.pdf), cication: [**-1**](None) 
 
 	 *NVIDIA, :, Yuval Atzmon, ..., Yu Zeng, Qinsheng Zhang* · ([research.nvidia](https://research.nvidia.com/labs/dir/edify-image/))
@@ -171,7 +171,7 @@
 
 ## Auto Regressive
 
-- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified
+- 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified 
   Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
 
 	 *Yiyang Ma, Xingchao Liu, Xiaokang Chen, ..., Jiaying Liu, Chong Ruan* · ([Janus](https://github.com/deepseek-ai/Janus?tab=readme-ov-file) - deepseek-ai) ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)
@@ -207,12 +207,12 @@
 
 ## Editting
 
-- [RMBG v2.0 is our new state-of-the-art background removal model, designed to effectively separate foreground from background in a range ofcategories and image types.](https://huggingface.co/briaai/RMBG-2.0)  🤗
-- **Add-it: Training-Free Object Insertion in Images With Pretrained
+- [RMBG v2.0 is our new state-of-the-art background removal model, designed to effectively separate foreground from background in a range ofcategories and image types.](https://huggingface.co/briaai/RMBG-2.0)  🤗 
+- **Add-it: Training-Free Object Insertion in Images With Pretrained 
   Diffusion Models**, `arXiv, 2411.07232`, [arxiv](http://arxiv.org/abs/2411.07232v2), [pdf](http://arxiv.org/pdf/2411.07232v2.pdf), cication: [**-1**](None) 
 
 	 *Yoad Tewel, Rinon Gal, Dvir Samuel, ..., Lior Wolf, Gal Chechik* · ([research.nvidia](https://research.nvidia.com/labs/par/addit/))
-- **OmniEdit: Building Image Editing Generalist Models Through Specialist
+- **OmniEdit: Building Image Editing Generalist Models Through Specialist 
   Supervision**, `arXiv, 2411.07199`, [arxiv](http://arxiv.org/abs/2411.07199v1), [pdf](http://arxiv.org/pdf/2411.07199v1.pdf), cication: [**-1**](None) 
 
 	 *Cong Wei, Zheyang Xiong, Weiming Ren, ..., Ge Zhang, Wenhu Chen* · ([tiger-ai-lab.github](https://tiger-ai-lab.github.io/OmniEdit/))
