@@ -74,6 +74,7 @@
 
 ## Animation
 
+- [**EasyAnimate**](https://github.com/aigc-apps/EasyAnimate) - aigc-apps ![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star)
 - **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**, `arXiv, 2411.04989`, [arxiv](http://arxiv.org/abs/2411.04989v1), [pdf](http://arxiv.org/pdf/2411.04989v1.pdf), cication: [**-1**](None) 
 
 	 *Koichi Namekata, Sherwin Bahmani, Ziyi Wu, ..., Igor Gilitschenski, David B. Lindell* · ([kmcode1.github](https://kmcode1.github.io/Projects/SG-I2V/))
@@ -167,6 +168,7 @@
 
 ## Misc
 
+- [**ComfyUI-CogVideoXWrapper**](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - kijai ![Star](https://img.shields.io/github/stars/kijai/ComfyUI-CogVideoXWrapper.svg?style=social&label=Star)
 - [optimized support for Genmo’s latest model and can run it fast on a GPU like 4090](https://x.com/ComfyUI/status/1853838184012251317)  𝕏 
 
 	 · ([blog.comfy](https://blog.comfy.org/mochi-1/))
