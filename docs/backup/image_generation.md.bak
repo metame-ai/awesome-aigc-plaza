@@ -121,6 +121,7 @@
 
 ## Efficient
 
+- [Paper page - Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply  Better Samples](https://huggingface.co/papers/2411.08954)
 - **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**, `arXiv, 2410.11081`, [arxiv](http://arxiv.org/abs/2410.11081v1), [pdf](http://arxiv.org/pdf/2410.11081v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng Lu, Yang Song* · ([openai](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/))

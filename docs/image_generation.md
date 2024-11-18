@@ -121,6 +121,10 @@
 
 ## Efficient
 
+- **Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply
+  Better Samples**, `arXiv, 2411.08954`, [arxiv](http://arxiv.org/abs/2411.08954v2), [pdf](http://arxiv.org/pdf/2411.08954v2.pdf), cication: [**-1**](None) 
+
+	 *Noël Vouitsis, Rasa Hosseinzadeh, Brendan Leigh Ross, ..., Jesse C. Cresswell, Gabriel Loaiza-Ganem*
 - **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**, `arXiv, 2410.11081`, [arxiv](http://arxiv.org/abs/2410.11081v1), [pdf](http://arxiv.org/pdf/2410.11081v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng Lu, Yang Song* · ([openai](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/))
