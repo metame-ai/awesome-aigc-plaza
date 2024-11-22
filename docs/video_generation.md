@@ -22,6 +22,15 @@
 
 ## Generation
 
+- [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗
+
+	 · ([pyramid-flow.github](https://pyramid-flow.github.io/)) · ([Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - jy0205) ![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)
+- 🌟 **Generative World Explorer**, `arXiv, 2411.11844`, [arxiv](http://arxiv.org/abs/2411.11844v2), [pdf](http://arxiv.org/pdf/2411.11844v2.pdf), cication: [**-1**](None) 
+
+	 *Taiming Lu, Tianmin Shu, Alan Yuille, ..., Daniel Khashabi, Jieneng Chen* · ([generative-world-explorer.github](https://generative-world-explorer.github.io/)) · ([𝕏](https://x.com/jieneng_chen/status/1858754157697790210)) · ([youtube](https://www.youtube.com/watch?v=_1YMpI-oHWU&ab_channel=JienengChen))
+- [The Matrix        Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/) 
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247760141&idx=4&sn=f6e815d57fcb6df68d7dfa2e9e7fedb0&chksm=e991229bca440619bccda5fdddf49c2ce501162db94bd203cdf32666ad56fc4318f5b1b0d8e7&scene=0&xtrack=1))
 - [**lucid-v1**](https://github.com/SonicCodes/lucid-v1) - SonicCodes ![Star](https://img.shields.io/github/stars/SonicCodes/lucid-v1.svg?style=social&label=Star) 
 - **Motion Control for Enhanced Complex Action Video Generation**, `arXiv, 2411.08328`, [arxiv](http://arxiv.org/abs/2411.08328v1), [pdf](http://arxiv.org/pdf/2411.08328v1.pdf), cication: [**-1**](None) 
 
@@ -74,6 +83,13 @@
 
 ## Animation
 
+- **AnimateAnything: Consistent and Controllable Animation for Video
+  Generation**, `arXiv, 2411.10836`, [arxiv](http://arxiv.org/abs/2411.10836v1), [pdf](http://arxiv.org/pdf/2411.10836v1.pdf), cication: [**-1**](None) 
+
+	 *Guojun Lei, Chi Wang, Hong Li, ..., Yikai Wang, Weiwei Xu* · ([yu-shaonian.github](https://yu-shaonian.github.io/Animate_Anything/))
+- **FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**, `arXiv, 2411.10818`, [arxiv](http://arxiv.org/abs/2411.10818v1), [pdf](http://arxiv.org/pdf/2411.10818v1.pdf), cication: [**-1**](None) 
+
+	 *Hmrishav Bandyopadhyay, Yi-Zhe Song* · ([hmrishavbandy.github](https://hmrishavbandy.github.io/flipsketch-web/))
 - [**EasyAnimate**](https://github.com/aigc-apps/EasyAnimate) - aigc-apps ![Star](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Star) 
 - **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**, `arXiv, 2411.04989`, [arxiv](http://arxiv.org/abs/2411.04989v1), [pdf](http://arxiv.org/pdf/2411.04989v1.pdf), cication: [**-1**](None) 
 
@@ -97,6 +113,10 @@
 
 ## Evaluation
 
+- **VBench++: Comprehensive and Versatile Benchmark Suite for Video
+  Generative Models**, `arXiv, 2411.13503`, [arxiv](http://arxiv.org/abs/2411.13503v1), [pdf](http://arxiv.org/pdf/2411.13503v1.pdf), cication: [**-1**](None) 
+
+	 *Ziqi Huang, Fan Zhang, Xiaojie Xu, ..., Yu Qiao, Ziwei Liu* · ([huggingface](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard))
 - **How Far is Video Generation from World Model: A Physical Law Perspective**, `arXiv, 2411.02385`, [arxiv](http://arxiv.org/abs/2411.02385v1), [pdf](http://arxiv.org/pdf/2411.02385v1.pdf), cication: [**-1**](None) 
 
 	 *Bingyi Kang, Yang Yue, Rui Lu, ..., Gao Huang, Jiashi Feng* · ([phyworld.github](https://phyworld.github.io/))
@@ -118,6 +138,9 @@
 
 ## Editting
 
+- **StableV2V: Stablizing Shape Consistency in Video-to-Video Editing**, `arXiv, 2411.11045`, [arxiv](http://arxiv.org/abs/2411.11045v1), [pdf](http://arxiv.org/pdf/2411.11045v1.pdf), cication: [**-1**](None) 
+
+	 *Chang Liu, Rui Li, Kaidong Zhang, ..., Yunwei Lan, Dong Liu*
 - [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) 
 - **AutoVFX: Physically Realistic Video Editing from Natural Language 
   Instructions**, `arXiv, 2411.02394`, [arxiv](http://arxiv.org/abs/2411.02394v1), [pdf](http://arxiv.org/pdf/2411.02394v1.pdf), cication: [**-1**](None) 

@@ -19,6 +19,8 @@
 
 ## 3D Generation
 
+- [Paper page - GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D  Generation](https://huggingface.co/papers/2411.08033)
+   - [github.com](https://github.com/NIRVANALAN/GaussianAnything)
 - **CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**, `arXiv, 2411.04954`, [arxiv](http://arxiv.org/abs/2411.04954v1), [pdf](http://arxiv.org/pdf/2411.04954v1.pdf), cication: [**-1**](None) 
 
 	 *Jingwei Xu, Chenyu Wang, Zibo Zhao, ..., Yi Ma, Shenghua Gao* · ([cad-mllm.github](https://cad-mllm.github.io/))
