@@ -22,6 +22,9 @@
 
 ## Generation
 
+- [**LTX-Video**](https://github.com/Lightricks/LTX-Video) - Lightricks ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/Lightricks/LTX-Video)) · ([𝕏](https://x.com/ltxstudio/status/1859964100203430280?s=46))
 - [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗 
 
 	 · ([pyramid-flow.github](https://pyramid-flow.github.io/)) · ([Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - jy0205) ![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)
