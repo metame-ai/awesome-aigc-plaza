@@ -19,7 +19,7 @@
 
 ## 3D Generation
 
-- **GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D
+- **GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D 
   Generation**, `arXiv, 2411.08033`, [arxiv](http://arxiv.org/abs/2411.08033v1), [pdf](http://arxiv.org/pdf/2411.08033v1.pdf), cication: [**-1**](None) 
 
 	 *Yushi Lan, Shangchen Zhou, Zhaoyang Lyu, ..., Xingang Pan, Chen Change Loy* · ([GaussianAnything](https://github.com/NIRVANALAN/GaussianAnything) - NIRVANALAN) ![Star](https://img.shields.io/github/stars/NIRVANALAN/GaussianAnything.svg?style=social&label=Star)

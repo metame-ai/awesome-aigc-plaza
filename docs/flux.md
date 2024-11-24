@@ -15,8 +15,8 @@
 
 ## LoRA
 
-- [strangerzonehf / Flux-Super-Realism-LoRA](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA)  🤗
-- [prithivMLmods / FLUX-LoRA-DLC](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC/tree/main)  🤗
+- [strangerzonehf / Flux-Super-Realism-LoRA](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA)  🤗 
+- [prithivMLmods / FLUX-LoRA-DLC](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC/tree/main)  🤗 
 
 	 · ([huggingface](https://huggingface.co/models?other=base_model:adapter:black-forest-labs/FLUX.1-dev))
 - [tryonlabs / FLUX.1-dev-LoRA-Outfit-Generator](https://huggingface.co/tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator)  🤗 
@@ -33,7 +33,7 @@
 
 ## Misc
 
-- [FLUX.1 Redux [dev] is an adapter for all FLUX.1 base models for image variation generation.](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev)  🤗
+- [FLUX.1 Redux [dev] is an adapter for all FLUX.1 base models for image variation generation.](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev)  🤗 
 - [Kwai-Kolors / Kolors-Character-With-Flux](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux/tree/main)  🤗 
 - [Kijai / flux-fp8](https://huggingface.co/Kijai/flux-fp8/tree/main)  🤗 
 - [**stable-diffusion-webui-forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge/discussions/981) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/stable-diffusion-webui-forge.svg?style=social&label=Star) 

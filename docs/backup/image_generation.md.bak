@@ -84,9 +84,13 @@
 
 ## Control Generation
 
-- [Paper page - Region-Aware Text-to-Image Generation via Hard Binding and Soft  Refinement](https://huggingface.co/papers/2411.06558)
-   - [github.com](https://github.com/NJU-PCALab/RAG-Diffusion)
-- [From Text to Pose to Image: Improving Diffusion Model Control and Quality](https://github.com/clement-bonnet/text-to-pose)
+- **Region-Aware Text-to-Image Generation via Hard Binding and Soft
+  Refinement**, `arXiv, 2411.06558`, [arxiv](http://arxiv.org/abs/2411.06558v2), [pdf](http://arxiv.org/pdf/2411.06558v2.pdf), cication: [**-1**](None) 
+
+	 *Zhennan Chen, Yajie Li, Haofan Wang, ..., Jian Yang, Ying Tai* · ([RAG-Diffusion](https://github.com/NJU-PCALab/RAG-Diffusion) - NJU-PCALab) ![Star](https://img.shields.io/github/stars/NJU-PCALab/RAG-Diffusion.svg?style=social&label=Star)
+- [**text-to-pose**](https://github.com/clement-bonnet/text-to-pose) - clement-bonnet ![Star](https://img.shields.io/github/stars/clement-bonnet/text-to-pose.svg?style=social&label=Star)
+
+	 *Improving Diffusion Model Control and Quality*
 - [In-Context LoRA for Diffusion Transformers](https://ali-vilab.github.io/In-Context-LoRA-Page/) 
 
 	 · ([arxiv](https://arxiv.org/abs/2410.23775)) · ([In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ali-vilab/In-Context-LoRA))
@@ -124,9 +128,11 @@
 
 ## Efficient
 
-- [Paper page - SmoothCache: A Universal Inference Acceleration Technique for Diffusion  Transformers](https://huggingface.co/papers/2411.10510)
-   - [github.com](https://github.com/Roblox/SmoothCache)
-- **Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply
+- **SmoothCache: A Universal Inference Acceleration Technique for Diffusion
+  Transformers**, `arXiv, 2411.10510`, [arxiv](http://arxiv.org/abs/2411.10510v1), [pdf](http://arxiv.org/pdf/2411.10510v1.pdf), cication: [**-1**](None) 
+
+	 *Joseph Liu, Joshua Geddes, Ziyu Guo, ..., Haomiao Jiang, Mahesh Kumar Nandwana* · ([SmoothCache](https://github.com/Roblox/SmoothCache) - Roblox) ![Star](https://img.shields.io/github/stars/Roblox/SmoothCache.svg?style=social&label=Star)
+- **Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply 
   Better Samples**, `arXiv, 2411.08954`, [arxiv](http://arxiv.org/abs/2411.08954v2), [pdf](http://arxiv.org/pdf/2411.08954v2.pdf), cication: [**-1**](None) 
 
 	 *Noël Vouitsis, Rasa Hosseinzadeh, Brendan Leigh Ross, ..., Jesse C. Cresswell, Gabriel Loaiza-Ganem*
@@ -163,8 +169,10 @@
 
 ## Try On
 
-- [Paper page - FitDiT: Advancing the Authentic Garment Details for High-fidelity  Virtual Try-on](https://huggingface.co/papers/2411.10499)
-   - [github.com](https://github.com/BoyuanJiang/FitDiT)
+- **FitDiT: Advancing the Authentic Garment Details for High-fidelity
+  Virtual Try-on**, `arXiv, 2411.10499`, [arxiv](http://arxiv.org/abs/2411.10499v1), [pdf](http://arxiv.org/pdf/2411.10499v1.pdf), cication: [**-1**](None) 
+
+	 *Boyuan Jiang, Xiaobin Hu, Donghao Luo, ..., Yunsheng Wu, Yanwei Fu* · ([FitDiT](https://github.com/BoyuanJiang/FitDiT) - BoyuanJiang) ![Star](https://img.shields.io/github/stars/BoyuanJiang/FitDiT.svg?style=social&label=Star)
 - [Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/) 
 - **Fashion-VDM: Video Diffusion Model for Virtual Try-On**, `arXiv, 2411.00225`, [arxiv](http://arxiv.org/abs/2411.00225v2), [pdf](http://arxiv.org/pdf/2411.00225v2.pdf), cication: [**-1**](None) 
 
@@ -173,7 +181,7 @@
 
 ## Detection
 
-- [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)
+- [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)  🤗
 - **Watermark Anything with Localized Messages**, `arXiv, 2411.07231`, [arxiv](http://arxiv.org/abs/2411.07231v1), [pdf](http://arxiv.org/pdf/2411.07231v1.pdf), cication: [**-1**](None) 
 
 	 *Tom Sander, Pierre Fernandez, Alain Durmus, ..., Teddy Furon, Matthijs Douze* · ([watermark-anything](https://github.com/facebookresearch/watermark-anything) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/watermark-anything.svg?style=social&label=Star)
@@ -183,11 +191,17 @@
 
 ## Auto Regressive
 
-- [M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation](https://arxiv.org/abs/2411.10433)
-   - [github.com](https://github.com/OliverRensu/MVAR?tab=readme-ov-file)
-- [Paper page - Bag of Design Choices for Inference of High-Resolution Masked Generative  Transformer](https://huggingface.co/papers/2411.10781)
-- [Paper page - Continuous Speculative Decoding for Autoregressive Image Generation](https://huggingface.co/papers/2411.11925)
-   - [github.com](https://github.com/MarkXCloud/CSpD)
+- **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality
+  Image Generation**, `arXiv, 2411.10433`, [arxiv](http://arxiv.org/abs/2411.10433v1), [pdf](http://arxiv.org/pdf/2411.10433v1.pdf), cication: [**-1**](None) 
+
+	 *Sucheng Ren, Yaodong Yu, Nataniel Ruiz, ..., Alan Yuille, Cihang Xie* · ([MVAR](https://github.com/OliverRensu/MVAR?tab=readme-ov-file) - OliverRensu) ![Star](https://img.shields.io/github/stars/OliverRensu/MVAR.svg?style=social&label=Star)
+- **Bag of Design Choices for Inference of High-Resolution Masked Generative
+  Transformer**, `arXiv, 2411.10781`, [arxiv](http://arxiv.org/abs/2411.10781v1), [pdf](http://arxiv.org/pdf/2411.10781v1.pdf), cication: [**-1**](None) 
+
+	 *Shitong Shao, Zikai Zhou, Tian Ye, ..., Zhiqiang Xu, Zeke Xie*
+- **Continuous Speculative Decoding for Autoregressive Image Generation**, `arXiv, 2411.11925`, [arxiv](http://arxiv.org/abs/2411.11925v1), [pdf](http://arxiv.org/pdf/2411.11925v1.pdf), cication: [**-1**](None) 
+
+	 *Zili Wang, Robert Zhang, Kun Ding, ..., Fei Li, Shiming Xiang* · ([CSpD](https://github.com/MarkXCloud/CSpD) - MarkXCloud) ![Star](https://img.shields.io/github/stars/MarkXCloud/CSpD.svg?style=social&label=Star)
 - 🌟 **JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified 
   Multimodal Understanding and Generation**, `arXiv, 2411.07975`, [arxiv](http://arxiv.org/abs/2411.07975v1), [pdf](http://arxiv.org/pdf/2411.07975v1.pdf), cication: [**-1**](None) 
 
@@ -224,9 +238,9 @@
 
 ## Editting
 
-- [BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image.](https://huggingface.co/PramaLLC/BEN)
-- [ysharma / Text_Behind_Image](https://huggingface.co/spaces/ysharma/Text_Behind_Image/tree/main)
-- [Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative](https://github.com/philz1337x/clarity-upscaler)
+- [BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image.](https://huggingface.co/PramaLLC/BEN)  🤗
+- [ysharma / Text_Behind_Image](https://huggingface.co/spaces/ysharma/Text_Behind_Image/tree/main)  🤗
+- [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star)
 - [RMBG v2.0 is our new state-of-the-art background removal model, designed to effectively separate foreground from background in a range ofcategories and image types.](https://huggingface.co/briaai/RMBG-2.0)  🤗 
 - **Add-it: Training-Free Object Insertion in Images With Pretrained 
   Diffusion Models**, `arXiv, 2411.07232`, [arxiv](http://arxiv.org/abs/2411.07232v2), [pdf](http://arxiv.org/pdf/2411.07232v2.pdf), cication: [**-1**](None) 
@@ -277,9 +291,10 @@
 
 ## Projects
 
-- [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)
-- [Sana: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://github.com/NVlabs/Sana)|star|
-   - [arxiv.org](https://arxiv.org/abs/2410.10629)
+- [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗
+- 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star)
+
+	 *Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer* · ([arxiv](https://arxiv.org/abs/2410.10629))
 - [**ComfyUI-Miaoshouai-Tagger**](https://github.com/miaoshouai/ComfyUI-Miaoshouai-Tagger) - miaoshouai ![Star](https://img.shields.io/github/stars/miaoshouai/ComfyUI-Miaoshouai-Tagger.svg?style=social&label=Star) 
 - [**ComfyUI-Image-Filters**](https://github.com/spacepxl/ComfyUI-Image-Filters) - spacepxl ![Star](https://img.shields.io/github/stars/spacepxl/ComfyUI-Image-Filters.svg?style=social&label=Star) 
 - [Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model](https://huggingface.co/stabilityai/stable-diffusion-3.5-large)  🤗 

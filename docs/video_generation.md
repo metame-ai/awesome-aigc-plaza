@@ -22,7 +22,7 @@
 
 ## Generation
 
-- [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗
+- [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗 
 
 	 · ([pyramid-flow.github](https://pyramid-flow.github.io/)) · ([Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - jy0205) ![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)
 - 🌟 **Generative World Explorer**, `arXiv, 2411.11844`, [arxiv](http://arxiv.org/abs/2411.11844v2), [pdf](http://arxiv.org/pdf/2411.11844v2.pdf), cication: [**-1**](None) 
@@ -83,7 +83,7 @@
 
 ## Animation
 
-- **AnimateAnything: Consistent and Controllable Animation for Video
+- **AnimateAnything: Consistent and Controllable Animation for Video 
   Generation**, `arXiv, 2411.10836`, [arxiv](http://arxiv.org/abs/2411.10836v1), [pdf](http://arxiv.org/pdf/2411.10836v1.pdf), cication: [**-1**](None) 
 
 	 *Guojun Lei, Chi Wang, Hong Li, ..., Yikai Wang, Weiwei Xu* · ([yu-shaonian.github](https://yu-shaonian.github.io/Animate_Anything/))
@@ -113,7 +113,7 @@
 
 ## Evaluation
 
-- **VBench++: Comprehensive and Versatile Benchmark Suite for Video
+- **VBench++: Comprehensive and Versatile Benchmark Suite for Video 
   Generative Models**, `arXiv, 2411.13503`, [arxiv](http://arxiv.org/abs/2411.13503v1), [pdf](http://arxiv.org/pdf/2411.13503v1.pdf), cication: [**-1**](None) 
 
 	 *Ziqi Huang, Fan Zhang, Xiaojie Xu, ..., Yu Qiao, Ziwei Liu* · ([huggingface](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard))
