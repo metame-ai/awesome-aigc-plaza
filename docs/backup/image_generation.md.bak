@@ -37,6 +37,9 @@
 
 ## Generation
 
+- [Paper page - One Diffusion to Generate Them All](https://huggingface.co/papers/2411.16318)
+   - [github.com](https://github.com/lehduong/OneDiffusion)
+- [Paper page - SketchAgent: Language-Driven Sequential Sketch Generation](https://huggingface.co/papers/2411.17673)
 - **Edify Image: High-Quality Image Generation with Pixel Space Laplacian 
   Diffusion Models**, `arXiv, 2411.07126`, [arxiv](http://arxiv.org/abs/2411.07126v1), [pdf](http://arxiv.org/pdf/2411.07126v1.pdf), cication: [**-1**](None) 
 
@@ -51,6 +54,11 @@
 
 ## Evaluation
 
+- [Paper page - Interleaved Scene Graph for Interleaved Text-and-Image Generation  Assessment](https://huggingface.co/papers/2411.17188)
+   - [interleave-eval.github.io](https://interleave-eval.github.io/)
+   - [github.com](https://github.com/Dongping-Chen/ISG)
+   - [arxiv.org](https://arxiv.org/abs/2411.17188)
+   - [huggingface.co](https://huggingface.co/datasets/shuaishuaicdp/ISG-Bench)
 - **TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**, `arXiv, 2411.02437`, [arxiv](http://arxiv.org/abs/2411.02437v1), [pdf](http://arxiv.org/pdf/2411.02437v1.pdf), cication: [**-1**](None) 
 
 	 *Georgia Gabriela Sampaio, Ruixiang Zhang, Shuangfei Zhai, ..., Navdeep Jaitly, Yizhe Zhang*
@@ -84,6 +92,14 @@
 
 ## Control Generation
 
+- [Paper page - Style-Friendly SNR Sampler for Style-Driven Generation](https://huggingface.co/papers/2411.14793)
+- [Paper page - OminiControl: Minimal and Universal Control for Diffusion Transformer](https://huggingface.co/papers/2411.15098)
+   - [huggingface.co](https://huggingface.co/spaces/Yuanshi/OminiControl)
+   - [github.com](https://github.com/Yuanshi9815/OminiControl)
+   - [arxiv.org](https://arxiv.org/abs/2411.15098)
+- [Paper page - ROICtrl: Boosting Instance Control for Visual Generation](https://huggingface.co/papers/2411.17949)|star|
+   - [roictrl.github.io](https://roictrl.github.io/)
+   - [github.com](https://github.com/showlab/ROICtrl)
 - **Region-Aware Text-to-Image Generation via Hard Binding and Soft 
   Refinement**, `arXiv, 2411.06558`, [arxiv](http://arxiv.org/abs/2411.06558v2), [pdf](http://arxiv.org/pdf/2411.06558v2.pdf), cication: [**-1**](None) 
 
@@ -128,6 +144,8 @@
 
 ## Efficient
 
+- [IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models](https://arxiv.org/abs/2410.21759)
+   - [github.com](https://github.com/csguoh/IntLoRA)
 - **SmoothCache: A Universal Inference Acceleration Technique for Diffusion 
   Transformers**, `arXiv, 2411.10510`, [arxiv](http://arxiv.org/abs/2411.10510v1), [pdf](http://arxiv.org/pdf/2411.10510v1.pdf), cication: [**-1**](None) 
 
@@ -145,6 +163,10 @@
 
 ## Personalization
 
+- [Paper page - Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot  Subject-Driven Image Generator](https://huggingface.co/papers/2411.15466)|star|
+   - [diptychprompting.github.io](https://diptychprompting.github.io/)
+- [Paper page - Diffusion Self-Distillation for Zero-Shot Customized Image Generation](https://huggingface.co/papers/2411.18616)
+   - [primecai.github.io](https://primecai.github.io/dsd/)
 - [**consistory**](https://github.com/NVlabs/consistory) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/consistory.svg?style=social&label=Star) 
 
 	 *Training-Free Consistent Text-to-Image Generation*
@@ -181,6 +203,8 @@
 
 ## Detection
 
+- [Detecting Human Artifacts from Text-to-Image Models](https://arxiv.org/abs/2411.13842)
+   - [github.com](https://github.com/wangkaihong/HADM)
 - [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)  🤗 
 - **Watermark Anything with Localized Messages**, `arXiv, 2411.07231`, [arxiv](http://arxiv.org/abs/2411.07231v1), [pdf](http://arxiv.org/pdf/2411.07231v1.pdf), cication: [**-1**](None) 
 
@@ -191,6 +215,10 @@
 
 ## Auto Regressive
 
+- [High-Resolution Image Synthesis via Next-Token Prediction](https://arxiv.org/abs/2411.14808)
+   - [d-jepa.github.io](https://d-jepa.github.io/t2i)
+- [Paper page - Factorized Visual Tokenization and Generation](https://huggingface.co/papers/2411.16681)
+   - [showlab.github.io](https://showlab.github.io/FQGAN/)
 - **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality 
   Image Generation**, `arXiv, 2411.10433`, [arxiv](http://arxiv.org/abs/2411.10433v1), [pdf](http://arxiv.org/pdf/2411.10433v1.pdf), cication: [**-1**](None) 
 
@@ -238,6 +266,7 @@
 
 ## Editting
 
+- [Paper page - Pathways on the Image Manifold: Image Editing via Video Generation](https://huggingface.co/papers/2411.16819)
 - [BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image.](https://huggingface.co/PramaLLC/BEN)  🤗 
 - [ysharma / Text_Behind_Image](https://huggingface.co/spaces/ysharma/Text_Behind_Image/tree/main)  🤗 
 - [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star) 
@@ -291,6 +320,7 @@
 
 ## Projects
 
+- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 
 
@@ -312,6 +342,7 @@
 
 ## Products
 
+- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
 

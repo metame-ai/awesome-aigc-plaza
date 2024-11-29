@@ -37,6 +37,12 @@
 
 ## Generation
 
+- **One Diffusion to Generate Them All**, `arXiv, 2411.16318`, [arxiv](http://arxiv.org/abs/2411.16318v1), [pdf](http://arxiv.org/pdf/2411.16318v1.pdf), cication: [**-1**](None) 
+
+	 *Duong H. Le, Tuan Pham, Sangho Lee, ..., Ranjay Krishna, Jiasen Lu* · ([OneDiffusion](https://github.com/lehduong/OneDiffusion) - lehduong) ![Star](https://img.shields.io/github/stars/lehduong/OneDiffusion.svg?style=social&label=Star)
+- **SketchAgent: Language-Driven Sequential Sketch Generation**, `arXiv, 2411.17673`, [arxiv](http://arxiv.org/abs/2411.17673v1), [pdf](http://arxiv.org/pdf/2411.17673v1.pdf), cication: [**-1**](None) 
+
+	 *Yael Vinker, Tamar Rott Shaham, Kristine Zheng, ..., Judith E Fan, Antonio Torralba*
 - **Edify Image: High-Quality Image Generation with Pixel Space Laplacian 
   Diffusion Models**, `arXiv, 2411.07126`, [arxiv](http://arxiv.org/abs/2411.07126v1), [pdf](http://arxiv.org/pdf/2411.07126v1.pdf), cication: [**-1**](None) 
 
@@ -51,6 +57,10 @@
 
 ## Evaluation
 
+- **Interleaved Scene Graph for Interleaved Text-and-Image Generation
+  Assessment**, `arXiv, 2411.17188`, [arxiv](http://arxiv.org/abs/2411.17188v1), [pdf](http://arxiv.org/pdf/2411.17188v1.pdf), cication: [**-1**](None) 
+
+	 *Dongping Chen, Ruoxi Chen, Shu Pu, ..., Pan Zhou, Ranjay Krishna* · ([interleave-eval.github](https://interleave-eval.github.io/)) · ([ISG](https://github.com/Dongping-Chen/ISG) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/ISG.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2411.17188)) · ([huggingface](https://huggingface.co/datasets/shuaishuaicdp/ISG-Bench))
 - **TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**, `arXiv, 2411.02437`, [arxiv](http://arxiv.org/abs/2411.02437v1), [pdf](http://arxiv.org/pdf/2411.02437v1.pdf), cication: [**-1**](None) 
 
 	 *Georgia Gabriela Sampaio, Ruixiang Zhang, Shuangfei Zhai, ..., Navdeep Jaitly, Yizhe Zhang*
@@ -84,6 +94,15 @@
 
 ## Control Generation
 
+- **Style-Friendly SNR Sampler for Style-Driven Generation**, `arXiv, 2411.14793`, [arxiv](http://arxiv.org/abs/2411.14793v1), [pdf](http://arxiv.org/pdf/2411.14793v1.pdf), cication: [**-1**](None) 
+
+	 *Jooyoung Choi, Chaehun Shin, Yeongtak Oh, ..., Heeseung Kim, Sungroh Yoon*
+- **OminiControl: Minimal and Universal Control for Diffusion Transformer**, `arXiv, 2411.15098`, [arxiv](http://arxiv.org/abs/2411.15098v2), [pdf](http://arxiv.org/pdf/2411.15098v2.pdf), cication: [**-1**](None) 
+
+	 *Zhenxiong Tan, Songhua Liu, Xingyi Yang, ..., Qiaochu Xue, Xinchao Wang* · ([huggingface](https://huggingface.co/spaces/Yuanshi/OminiControl)) · ([OminiControl](https://github.com/Yuanshi9815/OminiControl) - Yuanshi9815) ![Star](https://img.shields.io/github/stars/Yuanshi9815/OminiControl.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2411.15098))
+- 🌟 **ROICtrl: Boosting Instance Control for Visual Generation**, `arXiv, 2411.17949`, [arxiv](http://arxiv.org/abs/2411.17949v1), [pdf](http://arxiv.org/pdf/2411.17949v1.pdf), cication: [**-1**](None) 
+
+	 *Yuchao Gu, Yipin Zhou, Yunfan Ye, ..., Kevin Qinghong Lin, Mike Zheng Shou* · ([roictrl.github](https://roictrl.github.io/)) · ([ROICtrl](https://github.com/showlab/ROICtrl) - showlab) ![Star](https://img.shields.io/github/stars/showlab/ROICtrl.svg?style=social&label=Star)
 - **Region-Aware Text-to-Image Generation via Hard Binding and Soft 
   Refinement**, `arXiv, 2411.06558`, [arxiv](http://arxiv.org/abs/2411.06558v2), [pdf](http://arxiv.org/pdf/2411.06558v2.pdf), cication: [**-1**](None) 
 
@@ -128,6 +147,9 @@
 
 ## Efficient
 
+- **IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**, `arXiv, 2410.21759`, [arxiv](http://arxiv.org/abs/2410.21759v2), [pdf](http://arxiv.org/pdf/2410.21759v2.pdf), cication: [**-1**](None) 
+
+	 *Hang Guo, Yawei Li, Tao Dai, ..., Shu-Tao Xia, Luca Benini* · ([IntLoRA](https://github.com/csguoh/IntLoRA) - csguoh) ![Star](https://img.shields.io/github/stars/csguoh/IntLoRA.svg?style=social&label=Star)
 - **SmoothCache: A Universal Inference Acceleration Technique for Diffusion 
   Transformers**, `arXiv, 2411.10510`, [arxiv](http://arxiv.org/abs/2411.10510v1), [pdf](http://arxiv.org/pdf/2411.10510v1.pdf), cication: [**-1**](None) 
 
@@ -145,6 +167,13 @@
 
 ## Personalization
 
+- 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot
+  Subject-Driven Image Generator**, `arXiv, 2411.15466`, [arxiv](http://arxiv.org/abs/2411.15466v1), [pdf](http://arxiv.org/pdf/2411.15466v1.pdf), cication: [**-1**](None) 
+
+	 *Chaehun Shin, Jooyoung Choi, Heeseung Kim, ..., Sungroh Yoon* · ([diptychprompting.github](https://diptychprompting.github.io/))
+- **Diffusion Self-Distillation for Zero-Shot Customized Image Generation**, `arXiv, 2411.18616`, [arxiv](http://arxiv.org/abs/2411.18616v1), [pdf](http://arxiv.org/pdf/2411.18616v1.pdf), cication: [**-1**](None) 
+
+	 *Shengqu Cai, Eric Chan, Yunzhi Zhang, ..., Jiajun Wu, Gordon Wetzstein* · ([primecai.github](https://primecai.github.io/dsd/))
 - [**consistory**](https://github.com/NVlabs/consistory) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/consistory.svg?style=social&label=Star) 
 
 	 *Training-Free Consistent Text-to-Image Generation*
@@ -181,6 +210,9 @@
 
 ## Detection
 
+- **Detecting Human Artifacts from Text-to-Image Models**, `arXiv, 2411.13842`, [arxiv](http://arxiv.org/abs/2411.13842v1), [pdf](http://arxiv.org/pdf/2411.13842v1.pdf), cication: [**-1**](None) 
+
+	 *Kaihong Wang, Lingzhi Zhang, Jianming Zhang* · ([HADM](https://github.com/wangkaihong/HADM) - wangkaihong) ![Star](https://img.shields.io/github/stars/wangkaihong/HADM.svg?style=social&label=Star)
 - [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)  🤗 
 - **Watermark Anything with Localized Messages**, `arXiv, 2411.07231`, [arxiv](http://arxiv.org/abs/2411.07231v1), [pdf](http://arxiv.org/pdf/2411.07231v1.pdf), cication: [**-1**](None) 
 
@@ -191,6 +223,12 @@
 
 ## Auto Regressive
 
+- **High-Resolution Image Synthesis via Next-Token Prediction**, `arXiv, 2411.14808`, [arxiv](http://arxiv.org/abs/2411.14808v1), [pdf](http://arxiv.org/pdf/2411.14808v1.pdf), cication: [**-1**](None) 
+
+	 *Dengsheng Chen, Jie Hu, Tiezhu Yue, ..., Xiaoming Wei* · ([d-jepa.github](https://d-jepa.github.io/t2i))
+- **Factorized Visual Tokenization and Generation**, `arXiv, 2411.16681`, [arxiv](http://arxiv.org/abs/2411.16681v2), [pdf](http://arxiv.org/pdf/2411.16681v2.pdf), cication: [**-1**](None) 
+
+	 *Zechen Bai, Jianxiong Gao, Ziteng Gao, ..., Tong He, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/FQGAN/))
 - **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality 
   Image Generation**, `arXiv, 2411.10433`, [arxiv](http://arxiv.org/abs/2411.10433v1), [pdf](http://arxiv.org/pdf/2411.10433v1.pdf), cication: [**-1**](None) 
 
@@ -238,6 +276,9 @@
 
 ## Editting
 
+- **Pathways on the Image Manifold: Image Editing via Video Generation**, `arXiv, 2411.16819`, [arxiv](http://arxiv.org/abs/2411.16819v1), [pdf](http://arxiv.org/pdf/2411.16819v1.pdf), cication: [**-1**](None) 
+
+	 *Noam Rotstein, Gal Yona, Daniel Silver, ..., David Bensaïd, Ron Kimmel*
 - [BEN is a deep learning model designed to automatically remove backgrounds from images, producing both a mask and a foreground image.](https://huggingface.co/PramaLLC/BEN)  🤗 
 - [ysharma / Text_Behind_Image](https://huggingface.co/spaces/ysharma/Text_Behind_Image/tree/main)  🤗 
 - [**clarity-upscaler**](https://github.com/philz1337x/clarity-upscaler) - philz1337x ![Star](https://img.shields.io/github/stars/philz1337x/clarity-upscaler.svg?style=social&label=Star) 
@@ -291,6 +332,7 @@
 
 ## Projects
 
+- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 
 
@@ -312,6 +354,7 @@
 
 ## Products
 
+- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
 

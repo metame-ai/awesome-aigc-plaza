@@ -39,6 +39,10 @@
 
 ## Text to 3D
 
+- **MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D
+  Content Creation**, `arXiv, 2411.17945`, [arxiv](http://arxiv.org/abs/2411.17945v1), [pdf](http://arxiv.org/pdf/2411.17945v1.pdf), cication: [**-1**](None) 
+
+	 *Sankalp Sinha, Mohammad Sadil Khan, Muhammad Usama, ..., Sk Aziz Ali, Muhammad Zeshan Afzal*
 - **DreamPolish: Domain Score Distillation With Progressive Geometry 
   Generation**, `arXiv, 2411.01602`, [arxiv](http://arxiv.org/abs/2411.01602v1), [pdf](http://arxiv.org/pdf/2411.01602v1.pdf), cication: [**-1**](None) 
 
@@ -69,12 +73,18 @@
 
 ## 3D Reconstruction
 
+- [Quark: Real-time, High-resolution, and General Neural View Synthesis](https://quark-3d.github.io/) 
+
+	 · ([arxiv](http://arxiv.org/abs/2411.16680))
 - **SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**, `arXiv, 2410.17249`, [arxiv](http://arxiv.org/abs/2410.17249v1), [pdf](http://arxiv.org/pdf/2410.17249v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng-De Fan, Chen-Wei Chang, Yi-Ruei Liu, ..., Yu-Chee Tseng, Yu-Lun Liu*
 
 ## 4D Generation
 
+- **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, `arXiv, 2411.18613`, [arxiv](http://arxiv.org/abs/2411.18613v1), [pdf](http://arxiv.org/pdf/2411.18613v1.pdf), cication: [**-1**](None) 
+
+	 *Rundi Wu, Ruiqi Gao, Ben Poole, ..., Jonathan T. Barron, Aleksander Holynski* · ([cat-4d.github](https://cat-4d.github.io/))
 - **GenXD: Generating Any 3D and 4D Scenes**, `arXiv, 2411.02319`, [arxiv](http://arxiv.org/abs/2411.02319v2), [pdf](http://arxiv.org/pdf/2411.02319v2.pdf), cication: [**-1**](None) 
 
 	 *Yuyang Zhao, Chung-Ching Lin, Kevin Lin, ..., Gim Hee Lee, Lijuan Wang* · ([gen-x-d.github](https://gen-x-d.github.io))
@@ -84,6 +94,10 @@
 
 ## Gaussian Splatting
 
+- **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting
+  Synthesis**, `arXiv, 2411.16443`, [arxiv](http://arxiv.org/abs/2411.16443v1), [pdf](http://arxiv.org/pdf/2411.16443v1.pdf), cication: [**-1**](None) 
+
+	 *Hyojun Go, Byeongjun Park, Jiho Jang, ..., Soonwoo Kwon, Changick Kim* · ([gohyojun15.github](https://gohyojun15.github.io/SplatFlow/))
 - **SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**, `arXiv, 2411.06390`, [arxiv](http://arxiv.org/abs/2411.06390v2), [pdf](http://arxiv.org/pdf/2411.06390v2.pdf), cication: [**-1**](None) 
 
 	 *Yutong Chen, Marko Mihajlovic, Xiyi Chen, ..., Sergey Prokudin, Siyu Tang* · ([SplatFormer](https://github.com/ChenYutongTHU/SplatFormer) - ChenYutongTHU) ![Star](https://img.shields.io/github/stars/ChenYutongTHU/SplatFormer.svg?style=social&label=Star) · ([sergeyprokudin.github](https://sergeyprokudin.github.io/splatformer/))

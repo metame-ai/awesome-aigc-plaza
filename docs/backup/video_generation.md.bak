@@ -22,9 +22,19 @@
 
 ## Generation
 
-- [LTX-Video](https://github.com/Lightricks/LTX-Video)
-   - [huggingface.co](https://huggingface.co/Lightricks/LTX-Video)
-   - [x.com](https://x.com/ltxstudio/status/1859964100203430280?s=46)
+- [Paper page - VideoRepair: Improving Text-to-Video Generation via Misalignment  Evaluation and Localized Refinement](https://huggingface.co/papers/2411.15115)
+   - [video-repair.github.io](https://video-repair.github.io/)
+- [Paper page - DreamRunner: Fine-Grained Storytelling Video Generation with  Retrieval-Augmented Motion Adaptation](https://huggingface.co/papers/2411.16657)
+   - [dreamrunner-story2video.github.io](https://dreamrunner-story2video.github.io/)
+- [Paper page - AnchorCrafter: Animate CyberAnchors Saling Your Products via  Human-Object Interacting Video Generation](https://huggingface.co/papers/2411.17383)
+   - [cangcz.github.io](https://cangcz.github.io/Anchor-Crafter/)
+- [Paper page - Identity-Preserving Text-to-Video Generation by Frequency Decomposition](https://huggingface.co/papers/2411.17440)|star|
+   - [arxiv.org](https://arxiv.org/abs/2411.17440)
+   - [pku-yuangroup.github.io](https://pku-yuangroup.github.io/ConsisID/)
+   - [github.com](https://github.com/PKU-YuanGroup/ConsisID)
+- [**LTX-Video**](https://github.com/Lightricks/LTX-Video) - Lightricks ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/Lightricks/LTX-Video)) · ([𝕏](https://x.com/ltxstudio/status/1859964100203430280?s=46))
 - [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗 
 
 	 · ([pyramid-flow.github](https://pyramid-flow.github.io/)) · ([Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - jy0205) ![Star](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Star)
@@ -141,6 +151,10 @@
 
 ## Editting
 
+- [Paper page - MyTimeMachine: Personalized Facial Age Transformation](https://huggingface.co/papers/2411.14521)
+   - [mytimemachine.github.io](https://mytimemachine.github.io/)
+- [Generative Omnimatte            Learning to Decompose Video into Layers](https://gen-omnimatte.github.io/)|star|
+   - [x.com](https://x.com/jbhuang0604/status/1861490177912471965)
 - **StableV2V: Stablizing Shape Consistency in Video-to-Video Editing**, `arXiv, 2411.11045`, [arxiv](http://arxiv.org/abs/2411.11045v1), [pdf](http://arxiv.org/pdf/2411.11045v1.pdf), cication: [**-1**](None) 
 
 	 *Chang Liu, Rui Li, Kaidong Zhang, ..., Yunwei Lan, Dong Liu*

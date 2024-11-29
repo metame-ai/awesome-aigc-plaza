@@ -22,7 +22,22 @@
 
 ## Generation
 
-- [**LTX-Video**](https://github.com/Lightricks/LTX-Video) - Lightricks ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
+- **VideoRepair: Improving Text-to-Video Generation via Misalignment
+  Evaluation and Localized Refinement**, `arXiv, 2411.15115`, [arxiv](http://arxiv.org/abs/2411.15115v1), [pdf](http://arxiv.org/pdf/2411.15115v1.pdf), cication: [**-1**](None) 
+
+	 *Daeun Lee, Jaehong Yoon, Jaemin Cho, ..., Mohit Bansal* · ([video-repair.github](https://video-repair.github.io/))
+- **DreamRunner: Fine-Grained Storytelling Video Generation with
+  Retrieval-Augmented Motion Adaptation**, `arXiv, 2411.16657`, [arxiv](http://arxiv.org/abs/2411.16657v1), [pdf](http://arxiv.org/pdf/2411.16657v1.pdf), cication: [**-1**](None) 
+
+	 *Zun Wang, Jialu Li, Han Lin, ..., Jaehong Yoon, Mohit Bansal* · ([dreamrunner-story2video.github](https://dreamrunner-story2video.github.io/))
+- **AnchorCrafter: Animate CyberAnchors Saling Your Products via
+  Human-Object Interacting Video Generation**, `arXiv, 2411.17383`, [arxiv](http://arxiv.org/abs/2411.17383v1), [pdf](http://arxiv.org/pdf/2411.17383v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyi Xu, Ziyao Huang, Juan Cao, ..., Jintao Li, Fan Tang* · ([cangcz.github](https://cangcz.github.io/Anchor-Crafter/))
+- 🌟 **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**, `arXiv, 2411.17440`, [arxiv](http://arxiv.org/abs/2411.17440v1), [pdf](http://arxiv.org/pdf/2411.17440v1.pdf), cication: [**-1**](None) 
+
+	 *Shenghai Yuan, Jinfa Huang, Xianyi He, ..., Jiebo Luo, Li Yuan* · ([arxiv](https://arxiv.org/abs/2411.17440)) · ([pku-yuangroup.github](https://pku-yuangroup.github.io/ConsisID/)) · ([ConsisID](https://github.com/PKU-YuanGroup/ConsisID) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)
+- [**LTX-Video**](https://github.com/Lightricks/LTX-Video) - Lightricks ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/Lightricks/LTX-Video)) · ([𝕏](https://x.com/ltxstudio/status/1859964100203430280?s=46))
 - [Pyramid Flow, a training-efficient Autoregressive Video Generation method based on Flow Matching.](https://huggingface.co/rain1011/pyramid-flow-miniflux)  🤗 
@@ -141,6 +156,12 @@
 
 ## Editting
 
+- **MyTimeMachine: Personalized Facial Age Transformation**, `arXiv, 2411.14521`, [arxiv](http://arxiv.org/abs/2411.14521v1), [pdf](http://arxiv.org/pdf/2411.14521v1.pdf), cication: [**-1**](None) 
+
+	 *Luchao Qi, Jiaye Wu, Bang Gong, ..., David W. Jacobs, Roni Sengupta* · ([mytimemachine.github](https://mytimemachine.github.io/))
+- 🌟 [Generative Omnimatte            Learning to Decompose Video into Layers](https://gen-omnimatte.github.io/) 
+
+	 · ([𝕏](https://x.com/jbhuang0604/status/1861490177912471965))
 - **StableV2V: Stablizing Shape Consistency in Video-to-Video Editing**, `arXiv, 2411.11045`, [arxiv](http://arxiv.org/abs/2411.11045v1), [pdf](http://arxiv.org/pdf/2411.11045v1.pdf), cication: [**-1**](None) 
 
 	 *Chang Liu, Rui Li, Kaidong Zhang, ..., Yunwei Lan, Dong Liu*
