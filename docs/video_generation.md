@@ -22,15 +22,15 @@
 
 ## Generation
 
-- **VideoRepair: Improving Text-to-Video Generation via Misalignment
+- **VideoRepair: Improving Text-to-Video Generation via Misalignment 
   Evaluation and Localized Refinement**, `arXiv, 2411.15115`, [arxiv](http://arxiv.org/abs/2411.15115v1), [pdf](http://arxiv.org/pdf/2411.15115v1.pdf), cication: [**-1**](None) 
 
 	 *Daeun Lee, Jaehong Yoon, Jaemin Cho, ..., Mohit Bansal* · ([video-repair.github](https://video-repair.github.io/))
-- **DreamRunner: Fine-Grained Storytelling Video Generation with
+- **DreamRunner: Fine-Grained Storytelling Video Generation with 
   Retrieval-Augmented Motion Adaptation**, `arXiv, 2411.16657`, [arxiv](http://arxiv.org/abs/2411.16657v1), [pdf](http://arxiv.org/pdf/2411.16657v1.pdf), cication: [**-1**](None) 
 
 	 *Zun Wang, Jialu Li, Han Lin, ..., Jaehong Yoon, Mohit Bansal* · ([dreamrunner-story2video.github](https://dreamrunner-story2video.github.io/))
-- **AnchorCrafter: Animate CyberAnchors Saling Your Products via
+- **AnchorCrafter: Animate CyberAnchors Saling Your Products via 
   Human-Object Interacting Video Generation**, `arXiv, 2411.17383`, [arxiv](http://arxiv.org/abs/2411.17383v1), [pdf](http://arxiv.org/pdf/2411.17383v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyi Xu, Ziyao Huang, Juan Cao, ..., Jintao Li, Fan Tang* · ([cangcz.github](https://cangcz.github.io/Anchor-Crafter/))

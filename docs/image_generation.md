@@ -57,7 +57,7 @@
 
 ## Evaluation
 
-- **Interleaved Scene Graph for Interleaved Text-and-Image Generation
+- **Interleaved Scene Graph for Interleaved Text-and-Image Generation 
   Assessment**, `arXiv, 2411.17188`, [arxiv](http://arxiv.org/abs/2411.17188v1), [pdf](http://arxiv.org/pdf/2411.17188v1.pdf), cication: [**-1**](None) 
 
 	 *Dongping Chen, Ruoxi Chen, Shu Pu, ..., Pan Zhou, Ranjay Krishna* · ([interleave-eval.github](https://interleave-eval.github.io/)) · ([ISG](https://github.com/Dongping-Chen/ISG) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/ISG.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2411.17188)) · ([huggingface](https://huggingface.co/datasets/shuaishuaicdp/ISG-Bench))
@@ -167,7 +167,7 @@
 
 ## Personalization
 
-- 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot
+- 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot 
   Subject-Driven Image Generator**, `arXiv, 2411.15466`, [arxiv](http://arxiv.org/abs/2411.15466v1), [pdf](http://arxiv.org/pdf/2411.15466v1.pdf), cication: [**-1**](None) 
 
 	 *Chaehun Shin, Jooyoung Choi, Heeseung Kim, ..., Sungroh Yoon* · ([diptychprompting.github](https://diptychprompting.github.io/))
@@ -332,7 +332,7 @@
 
 ## Projects
 
-- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗
+- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 
 
@@ -354,7 +354,7 @@
 
 ## Products
 
-- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏
+- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
 

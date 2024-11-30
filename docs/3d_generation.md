@@ -39,7 +39,7 @@
 
 ## Text to 3D
 
-- **MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D
+- **MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D 
   Content Creation**, `arXiv, 2411.17945`, [arxiv](http://arxiv.org/abs/2411.17945v1), [pdf](http://arxiv.org/pdf/2411.17945v1.pdf), cication: [**-1**](None) 
 
 	 *Sankalp Sinha, Mohammad Sadil Khan, Muhammad Usama, ..., Sk Aziz Ali, Muhammad Zeshan Afzal*
@@ -94,7 +94,7 @@
 
 ## Gaussian Splatting
 
-- **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting
+- **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting 
   Synthesis**, `arXiv, 2411.16443`, [arxiv](http://arxiv.org/abs/2411.16443v1), [pdf](http://arxiv.org/pdf/2411.16443v1.pdf), cication: [**-1**](None) 
 
 	 *Hyojun Go, Byeongjun Park, Jiho Jang, ..., Soonwoo Kwon, Changick Kim* · ([gohyojun15.github](https://gohyojun15.github.io/SplatFlow/))
