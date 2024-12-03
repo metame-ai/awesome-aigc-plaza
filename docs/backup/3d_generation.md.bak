@@ -39,7 +39,7 @@
 
 ## Text to 3D
 
-- **MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D
+- **MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D 
   Content Creation**, `arXiv, 2411.17945`, [arxiv](http://arxiv.org/abs/2411.17945v1), [pdf](http://arxiv.org/pdf/2411.17945v1.pdf), cication: [**-1**](None) 
 
 	 *Sankalp Sinha, Mohammad Sadil Khan, Muhammad Usama, ..., Sk Aziz Ali, Muhammad Zeshan Afzal*
@@ -73,6 +73,9 @@
 
 ## 3D Reconstruction
 
+- [Paper page - 3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes](https://huggingface.co/papers/2411.14974)
+   - [convexsplatting.github.io](https://convexsplatting.github.io/)
+   - [x.com](https://x.com/Eng_Hemdi/status/1862191508679795180)
 - [Quark: Real-time, High-resolution, and General Neural View Synthesis](https://quark-3d.github.io/) 
 
 	 · ([arxiv](http://arxiv.org/abs/2411.16680))
@@ -94,7 +97,7 @@
 
 ## Gaussian Splatting
 
-- **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting
+- **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting 
   Synthesis**, `arXiv, 2411.16443`, [arxiv](http://arxiv.org/abs/2411.16443v1), [pdf](http://arxiv.org/pdf/2411.16443v1.pdf), cication: [**-1**](None) 
 
 	 *Hyojun Go, Byeongjun Park, Jiho Jang, ..., Soonwoo Kwon, Changick Kim* · ([gohyojun15.github](https://gohyojun15.github.io/SplatFlow/))

@@ -22,6 +22,15 @@
 
 ## Generation
 
+- [**HunyuanVideo**](https://github.com/Tencent/HunyuanVideo) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
+
+	 *A Systematic Framework For Large Video Generation Model Training* · ([HunyuanVideo](https://github.com/Tencent/HunyuanVideo/blob/main/assets/hunyuanvideo.pdf) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
+- **Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling**, `arXiv, 2411.18664`, [arxiv](http://arxiv.org/abs/2411.18664v1), [pdf](http://arxiv.org/pdf/2411.18664v1.pdf), cication: [**-1**](None) 
+
+	 *Junha Hyung, Kinam Kim, Susung Hong, ..., Min-Jung Kim, Jaegul Choo* · ([junhahyung.github](https://junhahyung.github.io/STGuidance/)) · ([STGuidance](https://github.com/junhahyung/STGuidance) - junhahyung) ![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)
+- **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**, `arXiv, 2411.19108`, [arxiv](http://arxiv.org/abs/2411.19108v1), [pdf](http://arxiv.org/pdf/2411.19108v1.pdf), cication: [**-1**](None) 
+
+	 *Feng Liu, Shiwei Zhang, Xiaofeng Wang, ..., Qixiang Ye, Fang Wan* · ([liewfeng.github](https://liewfeng.github.io/TeaCache/)) · ([TeaCache](https://github.com/LiewFeng/TeaCache) - LiewFeng) ![Star](https://img.shields.io/github/stars/LiewFeng/TeaCache.svg?style=social&label=Star)
 - **VideoRepair: Improving Text-to-Video Generation via Misalignment 
   Evaluation and Localized Refinement**, `arXiv, 2411.15115`, [arxiv](http://arxiv.org/abs/2411.15115v1), [pdf](http://arxiv.org/pdf/2411.15115v1.pdf), cication: [**-1**](None) 
 
@@ -101,6 +110,12 @@
 
 ## Animation
 
+- 🌟 **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, `arXiv, 2411.17697`, [arxiv](http://arxiv.org/abs/2411.17697v2), [pdf](http://arxiv.org/pdf/2411.17697v2.pdf), cication: [**-1**](None) 
+
+	 *Shuyuan Tu, Zhen Xing, Xintong Han, ..., Chong Luo, Zuxuan Wu* · ([StableAnimator](https://github.com/Francis-Rings/StableAnimator?tab=readme-ov-file) - Francis-Rings) ![Star](https://img.shields.io/github/stars/Francis-Rings/StableAnimator.svg?style=social&label=Star)
+- **Trajectory Attention for Fine-grained Video Motion Control**, `arXiv, 2411.19324`, [arxiv](http://arxiv.org/abs/2411.19324v1), [pdf](http://arxiv.org/pdf/2411.19324v1.pdf), cication: [**-1**](None) 
+
+	 *Zeqi Xiao, Wenqi Ouyang, Yifan Zhou, ..., Jianlou Si, Xingang Pan*
 - **AnimateAnything: Consistent and Controllable Animation for Video 
   Generation**, `arXiv, 2411.10836`, [arxiv](http://arxiv.org/abs/2411.10836v1), [pdf](http://arxiv.org/pdf/2411.10836v1.pdf), cication: [**-1**](None) 
 

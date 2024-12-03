@@ -37,6 +37,9 @@
 
 ## Generation
 
+- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)
+- [Paper page - ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting](https://huggingface.co/papers/2411.17176)|star|
+   - [chengyou-jia.github.io](https://chengyou-jia.github.io/ChatGen-Home)
 - **One Diffusion to Generate Them All**, `arXiv, 2411.16318`, [arxiv](http://arxiv.org/abs/2411.16318v1), [pdf](http://arxiv.org/pdf/2411.16318v1.pdf), cication: [**-1**](None) 
 
 	 *Duong H. Le, Tuan Pham, Sangho Lee, ..., Ranjay Krishna, Jiasen Lu* · ([OneDiffusion](https://github.com/lehduong/OneDiffusion) - lehduong) ![Star](https://img.shields.io/github/stars/lehduong/OneDiffusion.svg?style=social&label=Star)
@@ -57,7 +60,7 @@
 
 ## Evaluation
 
-- **Interleaved Scene Graph for Interleaved Text-and-Image Generation
+- **Interleaved Scene Graph for Interleaved Text-and-Image Generation 
   Assessment**, `arXiv, 2411.17188`, [arxiv](http://arxiv.org/abs/2411.17188v1), [pdf](http://arxiv.org/pdf/2411.17188v1.pdf), cication: [**-1**](None) 
 
 	 *Dongping Chen, Ruoxi Chen, Shu Pu, ..., Pan Zhou, Ranjay Krishna* · ([interleave-eval.github](https://interleave-eval.github.io/)) · ([ISG](https://github.com/Dongping-Chen/ISG) - Dongping-Chen) ![Star](https://img.shields.io/github/stars/Dongping-Chen/ISG.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2411.17188)) · ([huggingface](https://huggingface.co/datasets/shuaishuaicdp/ISG-Bench))
@@ -167,7 +170,7 @@
 
 ## Personalization
 
-- 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot
+- 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot 
   Subject-Driven Image Generator**, `arXiv, 2411.15466`, [arxiv](http://arxiv.org/abs/2411.15466v1), [pdf](http://arxiv.org/pdf/2411.15466v1.pdf), cication: [**-1**](None) 
 
 	 *Chaehun Shin, Jooyoung Choi, Heeseung Kim, ..., Sungroh Yoon* · ([diptychprompting.github](https://diptychprompting.github.io/))
@@ -198,6 +201,9 @@
 
 ## Try On
 
+- [Paper page - TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction  using Diffusion Models](https://huggingface.co/papers/2411.18350)
+   - [rizavelioglu.github.io](https://rizavelioglu.github.io/tryoffdiff)
+   - [github.com](https://github.com/rizavelioglu/tryoffdiff)
 - **FitDiT: Advancing the Authentic Garment Details for High-fidelity 
   Virtual Try-on**, `arXiv, 2411.10499`, [arxiv](http://arxiv.org/abs/2411.10499v1), [pdf](http://arxiv.org/pdf/2411.10499v1.pdf), cication: [**-1**](None) 
 
@@ -223,6 +229,12 @@
 
 ## Auto Regressive
 
+- [Paper page - Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient](https://huggingface.co/papers/2411.17787)
+   - [github.com](https://github.com/czg1225/CoDe)
+   - [czg1225.github.io](https://czg1225.github.io/CoDe_page/)
+   - [huggingface.co](https://huggingface.co/Zigeng/VAR_CoDe)
+- [Paper page - JetFormer: An Autoregressive Generative Model of Raw Images and Text](https://huggingface.co/papers/2411.19722)|star|
+   - [x.com](https://x.com/mtschannen/status/1863622784376586499)
 - **High-Resolution Image Synthesis via Next-Token Prediction**, `arXiv, 2411.14808`, [arxiv](http://arxiv.org/abs/2411.14808v1), [pdf](http://arxiv.org/pdf/2411.14808v1.pdf), cication: [**-1**](None) 
 
 	 *Dengsheng Chen, Jie Hu, Tiezhu Yue, ..., Xiaoming Wei* · ([d-jepa.github](https://d-jepa.github.io/t2i))
@@ -276,6 +288,8 @@
 
 ## Editting
 
+- [IC-Light V2-Vary](https://github.com/lllyasviel/IC-Light/discussions/109)
+   - [huggingface.co](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary)
 - **Pathways on the Image Manifold: Image Editing via Video Generation**, `arXiv, 2411.16819`, [arxiv](http://arxiv.org/abs/2411.16819v1), [pdf](http://arxiv.org/pdf/2411.16819v1.pdf), cication: [**-1**](None) 
 
 	 *Noam Rotstein, Gal Yona, Daniel Silver, ..., David Bensaïd, Ron Kimmel*
@@ -332,7 +346,7 @@
 
 ## Projects
 
-- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗
+- [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 
 
@@ -354,7 +368,8 @@
 
 ## Products
 
-- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏
+- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)
+- [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 
 

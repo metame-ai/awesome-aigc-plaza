@@ -37,6 +37,10 @@
 
 ## Generation
 
+- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)  🤗
+- 🌟 **ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**, `arXiv, 2411.17176`, [arxiv](http://arxiv.org/abs/2411.17176v1), [pdf](http://arxiv.org/pdf/2411.17176v1.pdf), cication: [**-1**](None) 
+
+	 *Chengyou Jia, Changliang Xia, Zhuohang Dang, ..., Hangwei Qian, Minnan Luo* · ([chengyou-jia.github](https://chengyou-jia.github.io/ChatGen-Home))
 - **One Diffusion to Generate Them All**, `arXiv, 2411.16318`, [arxiv](http://arxiv.org/abs/2411.16318v1), [pdf](http://arxiv.org/pdf/2411.16318v1.pdf), cication: [**-1**](None) 
 
 	 *Duong H. Le, Tuan Pham, Sangho Lee, ..., Ranjay Krishna, Jiasen Lu* · ([OneDiffusion](https://github.com/lehduong/OneDiffusion) - lehduong) ![Star](https://img.shields.io/github/stars/lehduong/OneDiffusion.svg?style=social&label=Star)
@@ -198,6 +202,10 @@
 
 ## Try On
 
+- **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction
+  using Diffusion Models**, `arXiv, 2411.18350`, [arxiv](http://arxiv.org/abs/2411.18350v1), [pdf](http://arxiv.org/pdf/2411.18350v1.pdf), cication: [**-1**](None) 
+
+	 *Riza Velioglu, Petra Bevandic, Robin Chan, ..., Barbara Hammer* · ([rizavelioglu.github](https://rizavelioglu.github.io/tryoffdiff)) · ([tryoffdiff](https://github.com/rizavelioglu/tryoffdiff) - rizavelioglu) ![Star](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff.svg?style=social&label=Star)
 - **FitDiT: Advancing the Authentic Garment Details for High-fidelity 
   Virtual Try-on**, `arXiv, 2411.10499`, [arxiv](http://arxiv.org/abs/2411.10499v1), [pdf](http://arxiv.org/pdf/2411.10499v1.pdf), cication: [**-1**](None) 
 
@@ -223,6 +231,12 @@
 
 ## Auto Regressive
 
+- **Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**, `arXiv, 2411.17787`, [arxiv](http://arxiv.org/abs/2411.17787v1), [pdf](http://arxiv.org/pdf/2411.17787v1.pdf), cication: [**-1**](None) 
+
+	 *Zigeng Chen, Xinyin Ma, Gongfan Fang, ..., Xinchao Wang* · ([CoDe](https://github.com/czg1225/CoDe) - czg1225) ![Star](https://img.shields.io/github/stars/czg1225/CoDe.svg?style=social&label=Star) · ([czg1225.github](https://czg1225.github.io/CoDe_page/)) · ([huggingface](https://huggingface.co/Zigeng/VAR_CoDe))
+- 🌟 **JetFormer: An Autoregressive Generative Model of Raw Images and Text**, `arXiv, 2411.19722`, [arxiv](http://arxiv.org/abs/2411.19722v1), [pdf](http://arxiv.org/pdf/2411.19722v1.pdf), cication: [**-1**](None) 
+
+	 *Michael Tschannen, André Susano Pinto, Alexander Kolesnikov* · ([𝕏](https://x.com/mtschannen/status/1863622784376586499))
 - **High-Resolution Image Synthesis via Next-Token Prediction**, `arXiv, 2411.14808`, [arxiv](http://arxiv.org/abs/2411.14808v1), [pdf](http://arxiv.org/pdf/2411.14808v1.pdf), cication: [**-1**](None) 
 
 	 *Dengsheng Chen, Jie Hu, Tiezhu Yue, ..., Xiaoming Wei* · ([d-jepa.github](https://d-jepa.github.io/t2i))
@@ -276,6 +290,9 @@
 
 ## Editting
 
+- [**IC-Light**](https://github.com/lllyasviel/IC-Light/discussions/109) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary))
 - **Pathways on the Image Manifold: Image Editing via Video Generation**, `arXiv, 2411.16819`, [arxiv](http://arxiv.org/abs/2411.16819v1), [pdf](http://arxiv.org/pdf/2411.16819v1.pdf), cication: [**-1**](None) 
 
 	 *Noam Rotstein, Gal Yona, Daniel Silver, ..., David Bensaïd, Ron Kimmel*
@@ -354,6 +371,7 @@
 
 ## Products
 
+- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 

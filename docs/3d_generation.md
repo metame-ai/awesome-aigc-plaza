@@ -73,6 +73,9 @@
 
 ## 3D Reconstruction
 
+- **3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**, `arXiv, 2411.14974`, [arxiv](http://arxiv.org/abs/2411.14974v2), [pdf](http://arxiv.org/pdf/2411.14974v2.pdf), cication: [**-1**](None) 
+
+	 *Jan Held, Renaud Vandeghen, Abdullah Hamdi, ..., Bernard Ghanem, Marc Van Droogenbroeck* · ([convexsplatting.github](https://convexsplatting.github.io/)) · ([𝕏](https://x.com/Eng_Hemdi/status/1862191508679795180))
 - [Quark: Real-time, High-resolution, and General Neural View Synthesis](https://quark-3d.github.io/) 
 
 	 · ([arxiv](http://arxiv.org/abs/2411.16680))
