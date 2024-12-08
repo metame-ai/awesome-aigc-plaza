@@ -15,6 +15,8 @@
 
 ## LoRA
 
+- [pipe.load_lora_weights](https://github.com/huggingface/diffusers/issues/9078)
+   - [www.reddit.com](https://www.reddit.com/r/StableDiffusion/comments/1ff6ed1/loading_an_unquantized_lora_into_an_8bit_flux1dev/)
 - [strangerzonehf / Flux-Super-Realism-LoRA](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA)  🤗 
 - [prithivMLmods / FLUX-LoRA-DLC](https://huggingface.co/spaces/prithivMLmods/FLUX-LoRA-DLC/tree/main)  🤗 
 
@@ -33,6 +35,8 @@
 
 ## Misc
 
+- [Single File Loading for the FluxTransformer2DModel](https://huggingface.co/docs/diffusers/main/en/api/pipelines/flux)
+   - [github.com](https://github.com/pytorch/vision/issues/2360)
 - [**qwen2vl-flux**](https://github.com/erwold/qwen2vl-flux) - erwold ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star) 
 
 	 *Unifying Image and Text Guidance for Controllable Image Generation* · ([qwen2vl-flux](https://github.com/erwold/qwen2vl-flux/blob/main/technical-report.pdf) - erwold) ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star)

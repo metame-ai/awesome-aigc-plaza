@@ -37,9 +37,12 @@
 
 ## Generation
 
-- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)
-- [Paper page - ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting](https://huggingface.co/papers/2411.17176)|star|
-   - [chengyou-jia.github.io](https://chengyou-jia.github.io/ChatGen-Home)
+- [Paper page - Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis](https://huggingface.co/papers/2412.01819)
+   - [github.com](https://github.com/yandex-research/switti)
+- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)  🤗
+- 🌟 **ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**, `arXiv, 2411.17176`, [arxiv](http://arxiv.org/abs/2411.17176v1), [pdf](http://arxiv.org/pdf/2411.17176v1.pdf), cication: [**-1**](None) 
+
+	 *Chengyou Jia, Changliang Xia, Zhuohang Dang, ..., Hangwei Qian, Minnan Luo* · ([chengyou-jia.github](https://chengyou-jia.github.io/ChatGen-Home))
 - **One Diffusion to Generate Them All**, `arXiv, 2411.16318`, [arxiv](http://arxiv.org/abs/2411.16318v1), [pdf](http://arxiv.org/pdf/2411.16318v1.pdf), cication: [**-1**](None) 
 
 	 *Duong H. Le, Tuan Pham, Sangho Lee, ..., Ranjay Krishna, Jiasen Lu* · ([OneDiffusion](https://github.com/lehduong/OneDiffusion) - lehduong) ![Star](https://img.shields.io/github/stars/lehduong/OneDiffusion.svg?style=social&label=Star)
@@ -60,6 +63,9 @@
 
 ## Evaluation
 
+- [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100)
+- [Paper page - GATE OpenING: A Comprehensive Benchmark for Judging Open-ended  Interleaved Image-Text Generation](https://huggingface.co/papers/2411.18499)
+   - [opening-benchmark.github.io](https://opening-benchmark.github.io/)
 - **Interleaved Scene Graph for Interleaved Text-and-Image Generation 
   Assessment**, `arXiv, 2411.17188`, [arxiv](http://arxiv.org/abs/2411.17188v1), [pdf](http://arxiv.org/pdf/2411.17188v1.pdf), cication: [**-1**](None) 
 
@@ -97,6 +103,8 @@
 
 ## Control Generation
 
+- [Paper page - Steering Rectified Flow Models in the Vector Field for Controlled Image  Generation](https://huggingface.co/papers/2412.00100)
+   - [flowchef.github.io](https://flowchef.github.io/)
 - **Style-Friendly SNR Sampler for Style-Driven Generation**, `arXiv, 2411.14793`, [arxiv](http://arxiv.org/abs/2411.14793v1), [pdf](http://arxiv.org/pdf/2411.14793v1.pdf), cication: [**-1**](None) 
 
 	 *Jooyoung Choi, Chaehun Shin, Yeongtak Oh, ..., Heeseung Kim, Sungroh Yoon*
@@ -201,9 +209,10 @@
 
 ## Try On
 
-- [Paper page - TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction  using Diffusion Models](https://huggingface.co/papers/2411.18350)
-   - [rizavelioglu.github.io](https://rizavelioglu.github.io/tryoffdiff)
-   - [github.com](https://github.com/rizavelioglu/tryoffdiff)
+- **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction
+  using Diffusion Models**, `arXiv, 2411.18350`, [arxiv](http://arxiv.org/abs/2411.18350v1), [pdf](http://arxiv.org/pdf/2411.18350v1.pdf), cication: [**-1**](None) 
+
+	 *Riza Velioglu, Petra Bevandic, Robin Chan, ..., Barbara Hammer* · ([rizavelioglu.github](https://rizavelioglu.github.io/tryoffdiff)) · ([tryoffdiff](https://github.com/rizavelioglu/tryoffdiff) - rizavelioglu) ![Star](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff.svg?style=social&label=Star)
 - **FitDiT: Advancing the Authentic Garment Details for High-fidelity 
   Virtual Try-on**, `arXiv, 2411.10499`, [arxiv](http://arxiv.org/abs/2411.10499v1), [pdf](http://arxiv.org/pdf/2411.10499v1.pdf), cication: [**-1**](None) 
 
@@ -229,12 +238,14 @@
 
 ## Auto Regressive
 
-- [Paper page - Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient](https://huggingface.co/papers/2411.17787)
-   - [github.com](https://github.com/czg1225/CoDe)
-   - [czg1225.github.io](https://czg1225.github.io/CoDe_page/)
-   - [huggingface.co](https://huggingface.co/Zigeng/VAR_CoDe)
-- [Paper page - JetFormer: An Autoregressive Generative Model of Raw Images and Text](https://huggingface.co/papers/2411.19722)|star|
-   - [x.com](https://x.com/mtschannen/status/1863622784376586499)
+- [Paper page - X-Prompt: Towards Universal In-Context Image Generation in  Auto-Regressive Vision Language Foundation Models](https://huggingface.co/papers/2412.01824)|star|
+   - [github.com](https://github.com/SunzeY/X-Prompt)
+- **Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**, `arXiv, 2411.17787`, [arxiv](http://arxiv.org/abs/2411.17787v1), [pdf](http://arxiv.org/pdf/2411.17787v1.pdf), cication: [**-1**](None) 
+
+	 *Zigeng Chen, Xinyin Ma, Gongfan Fang, ..., Xinchao Wang* · ([CoDe](https://github.com/czg1225/CoDe) - czg1225) ![Star](https://img.shields.io/github/stars/czg1225/CoDe.svg?style=social&label=Star) · ([czg1225.github](https://czg1225.github.io/CoDe_page/)) · ([huggingface](https://huggingface.co/Zigeng/VAR_CoDe))
+- 🌟 **JetFormer: An Autoregressive Generative Model of Raw Images and Text**, `arXiv, 2411.19722`, [arxiv](http://arxiv.org/abs/2411.19722v1), [pdf](http://arxiv.org/pdf/2411.19722v1.pdf), cication: [**-1**](None) 
+
+	 *Michael Tschannen, André Susano Pinto, Alexander Kolesnikov* · ([𝕏](https://x.com/mtschannen/status/1863622784376586499))
 - **High-Resolution Image Synthesis via Next-Token Prediction**, `arXiv, 2411.14808`, [arxiv](http://arxiv.org/abs/2411.14808v1), [pdf](http://arxiv.org/pdf/2411.14808v1.pdf), cication: [**-1**](None) 
 
 	 *Dengsheng Chen, Jie Hu, Tiezhu Yue, ..., Xiaoming Wei* · ([d-jepa.github](https://d-jepa.github.io/t2i))
@@ -288,8 +299,11 @@
 
 ## Editting
 
-- [IC-Light V2-Vary](https://github.com/lllyasviel/IC-Light/discussions/109)
-   - [huggingface.co](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary)
+- [Paper page - OmniCreator: Self-Supervised Unified Generation with Universal Editing](https://huggingface.co/papers/2412.02114)
+   - [haroldchen19.github.io](https://haroldchen19.github.io/OmniCreator-Page/)
+- [**IC-Light**](https://github.com/lllyasviel/IC-Light/discussions/109) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary))
 - **Pathways on the Image Manifold: Image Editing via Video Generation**, `arXiv, 2411.16819`, [arxiv](http://arxiv.org/abs/2411.16819v1), [pdf](http://arxiv.org/pdf/2411.16819v1.pdf), cication: [**-1**](None) 
 
 	 *Noam Rotstein, Gal Yona, Daniel Silver, ..., David Bensaïd, Ron Kimmel*
@@ -368,7 +382,7 @@
 
 ## Products
 
-- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)
+- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 

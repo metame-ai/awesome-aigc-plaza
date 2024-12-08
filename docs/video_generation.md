@@ -22,7 +22,20 @@
 
 ## Generation
 
-- [**HunyuanVideo**](https://github.com/Tencent/HunyuanVideo) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
+- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) 
+
+	 · ([𝕏](https://x.com/GoogleDeepMind/status/1864367798132039836))
+- **Mimir: Improving Video Diffusion Models for Precise Text Understanding**, `arXiv, 2412.03085`, [arxiv](http://arxiv.org/abs/2412.03085v1), [pdf](http://arxiv.org/pdf/2412.03085v1.pdf), cication: [**-1**](None) 
+
+	 *Shuai Tan, Biao Gong, Yutong Feng, ..., Jingdong Chen, Ming Yang* · ([lucaria-academy.github](https://lucaria-academy.github.io/Mimir/))
+- **Open-Sora Plan: Open-Source Large Video Generation Model**, `arXiv, 2412.00131`, [arxiv](http://arxiv.org/abs/2412.00131v1), [pdf](http://arxiv.org/pdf/2412.00131v1.pdf), cication: [**-1**](None) 
+
+	 *Bin Lin, Yunyang Ge, Xinhua Cheng, ..., Yonghong Tian, Li Yuan* · ([Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)
+- 🌟 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video
+  Generation**, `arXiv, 2412.02259`, [arxiv](http://arxiv.org/abs/2412.02259v1), [pdf](http://arxiv.org/pdf/2412.02259v1.pdf), cication: [**-1**](None) 
+
+	 *Mingzhe Zheng, Yongqi Xu, Haojian Huang, ..., Harry Yang, Ser-Nam Lim* · ([cheliosoops.github](https://cheliosoops.github.io/VGoT))
+- [**HunyuanVideo**](https://github.com/Tencent/HunyuanVideo) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star) 
 
 	 *A Systematic Framework For Large Video Generation Model Training* · ([HunyuanVideo](https://github.com/Tencent/HunyuanVideo/blob/main/assets/hunyuanvideo.pdf) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
 - **Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling**, `arXiv, 2411.18664`, [arxiv](http://arxiv.org/abs/2411.18664v1), [pdf](http://arxiv.org/pdf/2411.18664v1.pdf), cication: [**-1**](None) 
@@ -110,6 +123,10 @@
 
 ## Animation
 
+- **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D
+  Poses**, `arXiv, 2412.00397`, [arxiv](http://arxiv.org/abs/2412.00397v1), [pdf](http://arxiv.org/pdf/2412.00397v1.pdf), cication: [**-1**](None) 
+
+	 *Yatian Pang, Bin Zhu, Bin Lin, ..., Harry Yang, Li Yuan*
 - 🌟 **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, `arXiv, 2411.17697`, [arxiv](http://arxiv.org/abs/2411.17697v2), [pdf](http://arxiv.org/pdf/2411.17697v2.pdf), cication: [**-1**](None) 
 
 	 *Shuyuan Tu, Zhen Xing, Xintong Han, ..., Chong Luo, Zuxuan Wu* · ([StableAnimator](https://github.com/Francis-Rings/StableAnimator?tab=readme-ov-file) - Francis-Rings) ![Star](https://img.shields.io/github/stars/Francis-Rings/StableAnimator.svg?style=social&label=Star)
@@ -171,6 +188,9 @@
 
 ## Editting
 
+- **DIVE: Taming DINO for Subject-Driven Video Editing**, `arXiv, 2412.03347`, [arxiv](http://arxiv.org/abs/2412.03347v1), [pdf](http://arxiv.org/pdf/2412.03347v1.pdf), cication: [**-1**](None) 
+
+	 *Yi Huang, Wei Xiong, He Zhang, ..., Mingfu Yan, Shifeng Chen* · ([dino-video-editing.github](https://dino-video-editing.github.io/))
 - **MyTimeMachine: Personalized Facial Age Transformation**, `arXiv, 2411.14521`, [arxiv](http://arxiv.org/abs/2411.14521v1), [pdf](http://arxiv.org/pdf/2411.14521v1.pdf), cication: [**-1**](None) 
 
 	 *Luchao Qi, Jiaye Wu, Bang Gong, ..., David W. Jacobs, Roni Sengupta* · ([mytimemachine.github](https://mytimemachine.github.io/))

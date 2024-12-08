@@ -37,7 +37,10 @@
 
 ## Generation
 
-- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)  🤗
+- **Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis**, `arXiv, 2412.01819`, [arxiv](http://arxiv.org/abs/2412.01819v3), [pdf](http://arxiv.org/pdf/2412.01819v3.pdf), cication: [**-1**](None) 
+
+	 *Anton Voronov, Denis Kuznedelev, Mikhail Khoroshikh, ..., Valentin Khrulkov, Dmitry Baranchuk* · ([switti](https://github.com/yandex-research/switti) - yandex-research) ![Star](https://img.shields.io/github/stars/yandex-research/switti.svg?style=social&label=Star)
+- [Shuttle 3.1 Aesthetic is a text-to-image AI model designed to create detailed and aesthetic images from textual prompts in just 4 to 6 steps.](https://huggingface.co/shuttleai/shuttle-3.1-aesthetic)  🤗 
 - 🌟 **ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting**, `arXiv, 2411.17176`, [arxiv](http://arxiv.org/abs/2411.17176v1), [pdf](http://arxiv.org/pdf/2411.17176v1.pdf), cication: [**-1**](None) 
 
 	 *Chengyou Jia, Changliang Xia, Zhuohang Dang, ..., Hangwei Qian, Minnan Luo* · ([chengyou-jia.github](https://chengyou-jia.github.io/ChatGen-Home))
@@ -61,6 +64,14 @@
 
 ## Evaluation
 
+- **Multimodal Large Language Model is a Human-Aligned Annotator for
+  Text-to-Image Generation**, `arXiv, 2404.15100`, [arxiv](http://arxiv.org/abs/2404.15100v1), [pdf](http://arxiv.org/pdf/2404.15100v1.pdf), cication: [**-1**](None) 
+
+	 *Xun Wu, Shaohan Huang, Furu Wei*
+- **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended
+  Interleaved Image-Text Generation**, `arXiv, 2411.18499`, [arxiv](http://arxiv.org/abs/2411.18499v2), [pdf](http://arxiv.org/pdf/2411.18499v2.pdf), cication: [**-1**](None) 
+
+	 *Pengfei Zhou, Xiaopeng Peng, Jiajun Song, ..., Wenqi Shao, Kaipeng Zhang* · ([opening-benchmark.github](https://opening-benchmark.github.io/))
 - **Interleaved Scene Graph for Interleaved Text-and-Image Generation 
   Assessment**, `arXiv, 2411.17188`, [arxiv](http://arxiv.org/abs/2411.17188v1), [pdf](http://arxiv.org/pdf/2411.17188v1.pdf), cication: [**-1**](None) 
 
@@ -98,6 +109,10 @@
 
 ## Control Generation
 
+- **Steering Rectified Flow Models in the Vector Field for Controlled Image
+  Generation**, `arXiv, 2412.00100`, [arxiv](http://arxiv.org/abs/2412.00100v1), [pdf](http://arxiv.org/pdf/2412.00100v1.pdf), cication: [**-1**](None) 
+
+	 *Maitreya Patel, Song Wen, Dimitris N. Metaxas, ..., Yezhou Yang* · ([flowchef.github](https://flowchef.github.io/))
 - **Style-Friendly SNR Sampler for Style-Driven Generation**, `arXiv, 2411.14793`, [arxiv](http://arxiv.org/abs/2411.14793v1), [pdf](http://arxiv.org/pdf/2411.14793v1.pdf), cication: [**-1**](None) 
 
 	 *Jooyoung Choi, Chaehun Shin, Yeongtak Oh, ..., Heeseung Kim, Sungroh Yoon*
@@ -202,7 +217,7 @@
 
 ## Try On
 
-- **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction
+- **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction 
   using Diffusion Models**, `arXiv, 2411.18350`, [arxiv](http://arxiv.org/abs/2411.18350v1), [pdf](http://arxiv.org/pdf/2411.18350v1.pdf), cication: [**-1**](None) 
 
 	 *Riza Velioglu, Petra Bevandic, Robin Chan, ..., Barbara Hammer* · ([rizavelioglu.github](https://rizavelioglu.github.io/tryoffdiff)) · ([tryoffdiff](https://github.com/rizavelioglu/tryoffdiff) - rizavelioglu) ![Star](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff.svg?style=social&label=Star)
@@ -231,6 +246,10 @@
 
 ## Auto Regressive
 
+- 🌟 **X-Prompt: Towards Universal In-Context Image Generation in
+  Auto-Regressive Vision Language Foundation Models**, `arXiv, 2412.01824`, [arxiv](http://arxiv.org/abs/2412.01824v1), [pdf](http://arxiv.org/pdf/2412.01824v1.pdf), cication: [**-1**](None) 
+
+	 *Zeyi Sun, Ziyang Chu, Pan Zhang, ..., Dahua Lin, Jiaqi Wang* · ([X-Prompt](https://github.com/SunzeY/X-Prompt) - SunzeY) ![Star](https://img.shields.io/github/stars/SunzeY/X-Prompt.svg?style=social&label=Star)
 - **Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**, `arXiv, 2411.17787`, [arxiv](http://arxiv.org/abs/2411.17787v1), [pdf](http://arxiv.org/pdf/2411.17787v1.pdf), cication: [**-1**](None) 
 
 	 *Zigeng Chen, Xinyin Ma, Gongfan Fang, ..., Xinchao Wang* · ([CoDe](https://github.com/czg1225/CoDe) - czg1225) ![Star](https://img.shields.io/github/stars/czg1225/CoDe.svg?style=social&label=Star) · ([czg1225.github](https://czg1225.github.io/CoDe_page/)) · ([huggingface](https://huggingface.co/Zigeng/VAR_CoDe))
@@ -290,7 +309,10 @@
 
 ## Editting
 
-- [**IC-Light**](https://github.com/lllyasviel/IC-Light/discussions/109) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star)
+- **OmniCreator: Self-Supervised Unified Generation with Universal Editing**, `arXiv, 2412.02114`, [arxiv](http://arxiv.org/abs/2412.02114v1), [pdf](http://arxiv.org/pdf/2412.02114v1.pdf), cication: [**-1**](None) 
+
+	 *Haodong Chen, Lan Wang, Harry Yang, ..., Ser-Nam Lim* · ([haroldchen19.github](https://haroldchen19.github.io/OmniCreator-Page/))
+- [**IC-Light**](https://github.com/lllyasviel/IC-Light/discussions/109) - lllyasviel ![Star](https://img.shields.io/github/stars/lllyasviel/IC-Light.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary))
 - **Pathways on the Image Manifold: Image Editing via Video Generation**, `arXiv, 2411.16819`, [arxiv](http://arxiv.org/abs/2411.16819v1), [pdf](http://arxiv.org/pdf/2411.16819v1.pdf), cication: [**-1**](None) 
@@ -371,7 +393,7 @@
 
 ## Products
 
-- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏
+- [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏 
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 
   AI Applications**, `arXiv, 2410.22370`, [arxiv](http://arxiv.org/abs/2410.22370v1), [pdf](http://arxiv.org/pdf/2410.22370v1.pdf), cication: [**-1**](None) 

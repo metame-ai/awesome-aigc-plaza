@@ -22,14 +22,23 @@
 
 ## Generation
 
-- [HunyuanVideo: A Systematic Framework For Large Video Generation Model Training](https://github.com/Tencent/HunyuanVideo)
-   - [github.com](https://github.com/Tencent/HunyuanVideo/blob/main/assets/hunyuanvideo.pdf)
-- [Paper page - Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling](https://huggingface.co/papers/2411.18664)
-   - [junhahyung.github.io](https://junhahyung.github.io/STGuidance/)
-   - [github.com](https://github.com/junhahyung/STGuidance)
-- [Paper page - Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model](https://huggingface.co/papers/2411.19108)
-   - [liewfeng.github.io](https://liewfeng.github.io/TeaCache/)
-   - [github.com](https://github.com/LiewFeng/TeaCache)
+- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+   - [x.com](https://x.com/GoogleDeepMind/status/1864367798132039836)
+- [Paper page - Mimir: Improving Video Diffusion Models for Precise Text Understanding](https://huggingface.co/papers/2412.03085)
+   - [lucaria-academy.github.io](https://lucaria-academy.github.io/Mimir/)
+- [Paper page - Open-Sora Plan: Open-Source Large Video Generation Model](https://huggingface.co/papers/2412.00131)
+   - [github.com](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+- [Paper page - VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video  Generation](https://huggingface.co/papers/2412.02259)|star|
+   - [cheliosoops.github.io](https://cheliosoops.github.io/VGoT)
+- [**HunyuanVideo**](https://github.com/Tencent/HunyuanVideo) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
+
+	 *A Systematic Framework For Large Video Generation Model Training* · ([HunyuanVideo](https://github.com/Tencent/HunyuanVideo/blob/main/assets/hunyuanvideo.pdf) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Star)
+- **Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling**, `arXiv, 2411.18664`, [arxiv](http://arxiv.org/abs/2411.18664v1), [pdf](http://arxiv.org/pdf/2411.18664v1.pdf), cication: [**-1**](None) 
+
+	 *Junha Hyung, Kinam Kim, Susung Hong, ..., Min-Jung Kim, Jaegul Choo* · ([junhahyung.github](https://junhahyung.github.io/STGuidance/)) · ([STGuidance](https://github.com/junhahyung/STGuidance) - junhahyung) ![Star](https://img.shields.io/github/stars/junhahyung/STGuidance.svg?style=social&label=Star)
+- **Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**, `arXiv, 2411.19108`, [arxiv](http://arxiv.org/abs/2411.19108v1), [pdf](http://arxiv.org/pdf/2411.19108v1.pdf), cication: [**-1**](None) 
+
+	 *Feng Liu, Shiwei Zhang, Xiaofeng Wang, ..., Qixiang Ye, Fang Wan* · ([liewfeng.github](https://liewfeng.github.io/TeaCache/)) · ([TeaCache](https://github.com/LiewFeng/TeaCache) - LiewFeng) ![Star](https://img.shields.io/github/stars/LiewFeng/TeaCache.svg?style=social&label=Star)
 - **VideoRepair: Improving Text-to-Video Generation via Misalignment 
   Evaluation and Localized Refinement**, `arXiv, 2411.15115`, [arxiv](http://arxiv.org/abs/2411.15115v1), [pdf](http://arxiv.org/pdf/2411.15115v1.pdf), cication: [**-1**](None) 
 
@@ -109,9 +118,13 @@
 
 ## Animation
 
-- [Paper page - StableAnimator: High-Quality Identity-Preserving Human Image Animation](https://huggingface.co/papers/2411.17697)|star|
-   - [github.com](https://github.com/Francis-Rings/StableAnimator?tab=readme-ov-file)
-- [Paper page - Trajectory Attention for Fine-grained Video Motion Control](https://huggingface.co/papers/2411.19324)
+- [DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses](https://arxiv.org/abs/2412.00397)
+- 🌟 **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, `arXiv, 2411.17697`, [arxiv](http://arxiv.org/abs/2411.17697v2), [pdf](http://arxiv.org/pdf/2411.17697v2.pdf), cication: [**-1**](None) 
+
+	 *Shuyuan Tu, Zhen Xing, Xintong Han, ..., Chong Luo, Zuxuan Wu* · ([StableAnimator](https://github.com/Francis-Rings/StableAnimator?tab=readme-ov-file) - Francis-Rings) ![Star](https://img.shields.io/github/stars/Francis-Rings/StableAnimator.svg?style=social&label=Star)
+- **Trajectory Attention for Fine-grained Video Motion Control**, `arXiv, 2411.19324`, [arxiv](http://arxiv.org/abs/2411.19324v1), [pdf](http://arxiv.org/pdf/2411.19324v1.pdf), cication: [**-1**](None) 
+
+	 *Zeqi Xiao, Wenqi Ouyang, Yifan Zhou, ..., Jianlou Si, Xingang Pan*
 - **AnimateAnything: Consistent and Controllable Animation for Video 
   Generation**, `arXiv, 2411.10836`, [arxiv](http://arxiv.org/abs/2411.10836v1), [pdf](http://arxiv.org/pdf/2411.10836v1.pdf), cication: [**-1**](None) 
 
@@ -167,6 +180,8 @@
 
 ## Editting
 
+- [DIVE: Taming DINO for Subject-Driven Video Editing](https://arxiv.org/abs/2412.03347)
+   - [dino-video-editing.github.io](https://dino-video-editing.github.io/)
 - **MyTimeMachine: Personalized Facial Age Transformation**, `arXiv, 2411.14521`, [arxiv](http://arxiv.org/abs/2411.14521v1), [pdf](http://arxiv.org/pdf/2411.14521v1.pdf), cication: [**-1**](None) 
 
 	 *Luchao Qi, Jiaye Wu, Bang Gong, ..., David W. Jacobs, Roni Sengupta* · ([mytimemachine.github](https://mytimemachine.github.io/))
