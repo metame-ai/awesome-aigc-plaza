@@ -19,6 +19,12 @@
 
 ## 3D Generation
 
+- **Structured 3D Latents for Scalable and Versatile 3D Generation**, `arXiv, 2412.01506`, [arxiv](http://arxiv.org/abs/2412.01506v1), [pdf](http://arxiv.org/pdf/2412.01506v1.pdf), cication: [**-1**](None) 
+
+	 *Jianfeng Xiang, Zelong Lv, Sicheng Xu, ..., Xin Tong, Jiaolong Yang* · ([trellis3d.github](https://trellis3d.github.io)) · ([TRELLIS](https://github.com/Microsoft/TRELLIS) - Microsoft) ![Star](https://img.shields.io/github/stars/Microsoft/TRELLIS.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/JeffreyXiang/TRELLIS))
+- **MV-Adapter: Multi-view Consistent Image Generation Made Easy**, `arXiv, 2412.03632`, [arxiv](http://arxiv.org/abs/2412.03632v1), [pdf](http://arxiv.org/pdf/2412.03632v1.pdf), cication: [**-1**](None) 
+
+	 *Zehuan Huang, Yuan-Chen Guo, Haoran Wang, ..., Yan-Pei Cao, Lu Sheng*
 - **GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D 
   Generation**, `arXiv, 2411.08033`, [arxiv](http://arxiv.org/abs/2411.08033v1), [pdf](http://arxiv.org/pdf/2411.08033v1.pdf), cication: [**-1**](None) 
 

@@ -15,7 +15,7 @@
 
 ## LoRA
 
-- [**diffusers**](https://github.com/huggingface/diffusers/issues/9078) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star)
+- [**diffusers**](https://github.com/huggingface/diffusers/issues/9078) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/diffusers.svg?style=social&label=Star) 
 
 	 · ([reddit](https://www.reddit.com/r/StableDiffusion/comments/1ff6ed1/loading_an_unquantized_lora_into_an_8bit_flux1dev/))
 - [strangerzonehf / Flux-Super-Realism-LoRA](https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA)  🤗 
@@ -36,7 +36,7 @@
 
 ## Misc
 
-- [Single File Loading for the FluxTransformer2DModel](https://huggingface.co/docs/diffusers/main/en/api/pipelines/flux)  🤗
+- [Single File Loading for the FluxTransformer2DModel](https://huggingface.co/docs/diffusers/main/en/api/pipelines/flux)  🤗 
 
 	 · ([vision](https://github.com/pytorch/vision/issues/2360) - pytorch) ![Star](https://img.shields.io/github/stars/pytorch/vision.svg?style=social&label=Star)
 - [**qwen2vl-flux**](https://github.com/erwold/qwen2vl-flux) - erwold ![Star](https://img.shields.io/github/stars/erwold/qwen2vl-flux.svg?style=social&label=Star) 

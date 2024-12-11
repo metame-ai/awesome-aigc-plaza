@@ -37,6 +37,9 @@
 
 ## Generation
 
+- **A Noise is Worth Diffusion Guidance**, `arXiv, 2412.03895`, [arxiv](http://arxiv.org/abs/2412.03895v1), [pdf](http://arxiv.org/pdf/2412.03895v1.pdf), cication: [**-1**](None) 
+
+	 *Donghoon Ahn, Jiwon Kang, Sanghyun Lee, ..., Kyong Hwan Jin, Seungryong Kim* · ([cvlab-kaist.github](https://cvlab-kaist.github.io/NoiseRefine/))
 - **Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis**, `arXiv, 2412.01819`, [arxiv](http://arxiv.org/abs/2412.01819v3), [pdf](http://arxiv.org/pdf/2412.01819v3.pdf), cication: [**-1**](None) 
 
 	 *Anton Voronov, Denis Kuznedelev, Mikhail Khoroshikh, ..., Valentin Khrulkov, Dmitry Baranchuk* · ([switti](https://github.com/yandex-research/switti) - yandex-research) ![Star](https://img.shields.io/github/stars/yandex-research/switti.svg?style=social&label=Star)
@@ -64,11 +67,11 @@
 
 ## Evaluation
 
-- **Multimodal Large Language Model is a Human-Aligned Annotator for
+- **Multimodal Large Language Model is a Human-Aligned Annotator for 
   Text-to-Image Generation**, `arXiv, 2404.15100`, [arxiv](http://arxiv.org/abs/2404.15100v1), [pdf](http://arxiv.org/pdf/2404.15100v1.pdf), cication: [**-1**](None) 
 
 	 *Xun Wu, Shaohan Huang, Furu Wei*
-- **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended
+- **GATE OpenING: A Comprehensive Benchmark for Judging Open-ended 
   Interleaved Image-Text Generation**, `arXiv, 2411.18499`, [arxiv](http://arxiv.org/abs/2411.18499v2), [pdf](http://arxiv.org/pdf/2411.18499v2.pdf), cication: [**-1**](None) 
 
 	 *Pengfei Zhou, Xiaopeng Peng, Jiajun Song, ..., Wenqi Shao, Kaipeng Zhang* · ([opening-benchmark.github](https://opening-benchmark.github.io/))
@@ -109,7 +112,7 @@
 
 ## Control Generation
 
-- **Steering Rectified Flow Models in the Vector Field for Controlled Image
+- **Steering Rectified Flow Models in the Vector Field for Controlled Image 
   Generation**, `arXiv, 2412.00100`, [arxiv](http://arxiv.org/abs/2412.00100v1), [pdf](http://arxiv.org/pdf/2412.00100v1.pdf), cication: [**-1**](None) 
 
 	 *Maitreya Patel, Song Wen, Dimitris N. Metaxas, ..., Yezhou Yang* · ([flowchef.github](https://flowchef.github.io/))
@@ -166,6 +169,14 @@
 
 ## Efficient
 
+- **SNOOPI: Supercharged One-step Diffusion Distillation with Proper
+  Guidance**, `arXiv, 2412.02687`, [arxiv](http://arxiv.org/abs/2412.02687v2), [pdf](http://arxiv.org/pdf/2412.02687v2.pdf), cication: [**-1**](None) 
+
+	 *Viet Nguyen, Anh Nguyen, Trung Dao, ..., Toan Tran, Anh Tran* · ([snoopi-onestep.github](https://snoopi-onestep.github.io/))
+- **NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic
+  Adversarial Training**, `arXiv, 2412.02030`, [arxiv](http://arxiv.org/abs/2412.02030v2), [pdf](http://arxiv.org/pdf/2412.02030v2.pdf), cication: [**-1**](None) 
+
+	 *Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, ..., Yi-Zhe Song* · ([chendaryen.github](https://chendaryen.github.io/NitroFusion.github.io/)) · ([arxiv](https://arxiv.org/abs/2412.03552)) · ([huggingface](https://huggingface.co/ChenDY/NitroFusion)) · ([huggingface](https://huggingface.co/spaces/ChenDY/NitroFusion_1step_T2I))
 - **IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**, `arXiv, 2410.21759`, [arxiv](http://arxiv.org/abs/2410.21759v2), [pdf](http://arxiv.org/pdf/2410.21759v2.pdf), cication: [**-1**](None) 
 
 	 *Hang Guo, Yawei Li, Tao Dai, ..., Shu-Tao Xia, Luca Benini* · ([IntLoRA](https://github.com/csguoh/IntLoRA) - csguoh) ![Star](https://img.shields.io/github/stars/csguoh/IntLoRA.svg?style=social&label=Star)
@@ -217,6 +228,10 @@
 
 ## Try On
 
+- **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent
+  Diffusion Models**, `arXiv, 2412.04146`, [arxiv](http://arxiv.org/abs/2412.04146v1), [pdf](http://arxiv.org/pdf/2412.04146v1.pdf), cication: [**-1**](None) 
+
+	 *Xinghui Li, Qichao Sun, Pengze Zhang, ..., Songtao Zhao, Qian He* · ([crayon-shinchan.github](https://crayon-shinchan.github.io/AnyDressing/)) · ([AnyDressing](https://github.com/Crayon-Shinchan/AnyDressing) - Crayon-Shinchan) ![Star](https://img.shields.io/github/stars/Crayon-Shinchan/AnyDressing.svg?style=social&label=Star)
 - **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction 
   using Diffusion Models**, `arXiv, 2411.18350`, [arxiv](http://arxiv.org/abs/2411.18350v1), [pdf](http://arxiv.org/pdf/2411.18350v1.pdf), cication: [**-1**](None) 
 
@@ -246,7 +261,11 @@
 
 ## Auto Regressive
 
-- 🌟 **X-Prompt: Towards Universal In-Context Image Generation in
+- **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution
+  Image Synthesis**, `arXiv, 2412.04431`, [arxiv](http://arxiv.org/abs/2412.04431v1), [pdf](http://arxiv.org/pdf/2412.04431v1.pdf), cication: [**-1**](None) 
+
+	 *Jian Han, Jinlai Liu, Yi Jiang, ..., Bingyue Peng, Xiaobing Liu*
+- 🌟 **X-Prompt: Towards Universal In-Context Image Generation in 
   Auto-Regressive Vision Language Foundation Models**, `arXiv, 2412.01824`, [arxiv](http://arxiv.org/abs/2412.01824v1), [pdf](http://arxiv.org/pdf/2412.01824v1.pdf), cication: [**-1**](None) 
 
 	 *Zeyi Sun, Ziyang Chu, Pan Zhang, ..., Dahua Lin, Jiaqi Wang* · ([X-Prompt](https://github.com/SunzeY/X-Prompt) - SunzeY) ![Star](https://img.shields.io/github/stars/SunzeY/X-Prompt.svg?style=social&label=Star)
@@ -309,6 +328,13 @@
 
 ## Editting
 
+- **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step
+  Diffusion**, `arXiv, 2412.04301`, [arxiv](http://arxiv.org/abs/2412.04301v2), [pdf](http://arxiv.org/pdf/2412.04301v2.pdf), cication: [**-1**](None) 
+
+	 *Trong-Tung Nguyen, Quang Nguyen, Khoi Nguyen, ..., Anh Tran, Cuong Pham* · ([swift-edit.github](https://swift-edit.github.io/))
+- [**OSDFace**](https://github.com/jkwang28/OSDFace) - jkwang28 ![Star](https://img.shields.io/github/stars/jkwang28/OSDFace.svg?style=social&label=Star)
+
+	 *One-Step Diffusion Model for Face Restoration*
 - **OmniCreator: Self-Supervised Unified Generation with Universal Editing**, `arXiv, 2412.02114`, [arxiv](http://arxiv.org/abs/2412.02114v1), [pdf](http://arxiv.org/pdf/2412.02114v1.pdf), cication: [**-1**](None) 
 
 	 *Haodong Chen, Lan Wang, Harry Yang, ..., Ser-Nam Lim* · ([haroldchen19.github](https://haroldchen19.github.io/OmniCreator-Page/))
@@ -360,6 +386,7 @@
 
 ## Alignment
 
+- [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](https://huggingface.co/blog/image-preferences) 
 - **Scalable Ranked Preference Optimization for Text-to-Image Generation**, `arXiv, 2410.18013`, [arxiv](http://arxiv.org/abs/2410.18013v2), [pdf](http://arxiv.org/pdf/2410.18013v2.pdf), cication: [**-1**](None) 
 
 	 *Shyamgopal Karthik, Huseyin Coskun, Zeynep Akata, ..., Jian Ren, Anil Kag*
@@ -393,6 +420,7 @@
 
 ## Products
 
+- [Grok Image Generation Release](https://x.ai/blog/grok-image-generation-release) 
 - [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏 
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 
 - **Survey of User Interface Design and Interaction Techniques in Generative 

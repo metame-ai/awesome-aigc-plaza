@@ -22,6 +22,10 @@
 
 ## Generation
 
+- **GenMAC: Compositional Text-to-Video Generation with Multi-Agent
+  Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
+
+	 *Kaiyi Huang, Yukun Huang, Xuefei Ning, ..., Yu Wang, Xihui Liu* · ([karine-h.github](https://karine-h.github.io/GenMAC/)) · ([arxiv](https://arxiv.org/pdf/2412.04440))
 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) 
 
 	 · ([𝕏](https://x.com/GoogleDeepMind/status/1864367798132039836))
@@ -31,7 +35,7 @@
 - **Open-Sora Plan: Open-Source Large Video Generation Model**, `arXiv, 2412.00131`, [arxiv](http://arxiv.org/abs/2412.00131v1), [pdf](http://arxiv.org/pdf/2412.00131v1.pdf), cication: [**-1**](None) 
 
 	 *Bin Lin, Yunyang Ge, Xinhua Cheng, ..., Yonghong Tian, Li Yuan* · ([Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)
-- 🌟 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video
+- 🌟 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video 
   Generation**, `arXiv, 2412.02259`, [arxiv](http://arxiv.org/abs/2412.02259v1), [pdf](http://arxiv.org/pdf/2412.02259v1.pdf), cication: [**-1**](None) 
 
 	 *Mingzhe Zheng, Yongqi Xu, Haojian Huang, ..., Harry Yang, Ser-Nam Lim* · ([cheliosoops.github](https://cheliosoops.github.io/VGoT))
@@ -123,7 +127,7 @@
 
 ## Animation
 
-- **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D
+- **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D 
   Poses**, `arXiv, 2412.00397`, [arxiv](http://arxiv.org/abs/2412.00397v1), [pdf](http://arxiv.org/pdf/2412.00397v1.pdf), cication: [**-1**](None) 
 
 	 *Yatian Pang, Bin Zhu, Bin Lin, ..., Harry Yang, Li Yuan*
@@ -177,9 +181,15 @@
 
 ## Alignment
 
+- **LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment**, `arXiv, 2412.04814`, [arxiv](http://arxiv.org/abs/2412.04814v1), [pdf](http://arxiv.org/pdf/2412.04814v1.pdf), cication: [**-1**](None) 
+
+	 *Yibin Wang, Zhiyu Tan, Junyan Wang, ..., Cheng Jin, Hao Li* · ([codegoat24.github](https://codegoat24.github.io/LiFT)) · ([LiFT](https://github.com/CodeGoat24/LiFT) - CodeGoat24) ![Star](https://img.shields.io/github/stars/CodeGoat24/LiFT.svg?style=social&label=Star)
 
 ## Auto Regressive
 
+- **From Slow Bidirectional to Fast Causal Video Generators**, `arXiv, 2412.07772`, [arxiv](http://arxiv.org/abs/2412.07772v1), [pdf](http://arxiv.org/pdf/2412.07772v1.pdf), cication: [**-1**](None) 
+
+	 *Tianwei Yin, Qiang Zhang, Richard Zhang, ..., Eli Shechtman, Xun Huang* · ([causvid.github](https://causvid.github.io/))
 - **Progressive Autoregressive Video Diffusion Models**, `arXiv, 2410.08151`, [arxiv](http://arxiv.org/abs/2410.08151v1), [pdf](http://arxiv.org/pdf/2410.08151v1.pdf), cication: [**-1**](None) 
 
 	 *Desai Xie, Zhan Xu, Yicong Hong, ..., Arie Kaufman, Yang Zhou*
@@ -241,6 +251,7 @@
 
 ## Products
 
+- [Sora System Card](https://openai.com/index/sora-system-card/) 
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
 
 	 · ([reddit](https://www.reddit.com/r/singularity/comments/1gfrmvt/wonder_animation_transform_any_video_into_a_3d/))
