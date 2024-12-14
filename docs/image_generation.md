@@ -169,11 +169,11 @@
 
 ## Efficient
 
-- **SNOOPI: Supercharged One-step Diffusion Distillation with Proper
+- **SNOOPI: Supercharged One-step Diffusion Distillation with Proper 
   Guidance**, `arXiv, 2412.02687`, [arxiv](http://arxiv.org/abs/2412.02687v2), [pdf](http://arxiv.org/pdf/2412.02687v2.pdf), cication: [**-1**](None) 
 
 	 *Viet Nguyen, Anh Nguyen, Trung Dao, ..., Toan Tran, Anh Tran* · ([snoopi-onestep.github](https://snoopi-onestep.github.io/))
-- **NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic
+- **NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic 
   Adversarial Training**, `arXiv, 2412.02030`, [arxiv](http://arxiv.org/abs/2412.02030v2), [pdf](http://arxiv.org/pdf/2412.02030v2.pdf), cication: [**-1**](None) 
 
 	 *Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, ..., Yi-Zhe Song* · ([chendaryen.github](https://chendaryen.github.io/NitroFusion.github.io/)) · ([arxiv](https://arxiv.org/abs/2412.03552)) · ([huggingface](https://huggingface.co/ChenDY/NitroFusion)) · ([huggingface](https://huggingface.co/spaces/ChenDY/NitroFusion_1step_T2I))
@@ -228,7 +228,7 @@
 
 ## Try On
 
-- **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent
+- **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent 
   Diffusion Models**, `arXiv, 2412.04146`, [arxiv](http://arxiv.org/abs/2412.04146v1), [pdf](http://arxiv.org/pdf/2412.04146v1.pdf), cication: [**-1**](None) 
 
 	 *Xinghui Li, Qichao Sun, Pengze Zhang, ..., Songtao Zhao, Qian He* · ([crayon-shinchan.github](https://crayon-shinchan.github.io/AnyDressing/)) · ([AnyDressing](https://github.com/Crayon-Shinchan/AnyDressing) - Crayon-Shinchan) ![Star](https://img.shields.io/github/stars/Crayon-Shinchan/AnyDressing.svg?style=social&label=Star)
@@ -261,7 +261,7 @@
 
 ## Auto Regressive
 
-- **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution
+- **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution 
   Image Synthesis**, `arXiv, 2412.04431`, [arxiv](http://arxiv.org/abs/2412.04431v1), [pdf](http://arxiv.org/pdf/2412.04431v1.pdf), cication: [**-1**](None) 
 
 	 *Jian Han, Jinlai Liu, Yi Jiang, ..., Bingyue Peng, Xiaobing Liu*
@@ -328,11 +328,11 @@
 
 ## Editting
 
-- **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step
+- **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step 
   Diffusion**, `arXiv, 2412.04301`, [arxiv](http://arxiv.org/abs/2412.04301v2), [pdf](http://arxiv.org/pdf/2412.04301v2.pdf), cication: [**-1**](None) 
 
 	 *Trong-Tung Nguyen, Quang Nguyen, Khoi Nguyen, ..., Anh Tran, Cuong Pham* · ([swift-edit.github](https://swift-edit.github.io/))
-- [**OSDFace**](https://github.com/jkwang28/OSDFace) - jkwang28 ![Star](https://img.shields.io/github/stars/jkwang28/OSDFace.svg?style=social&label=Star)
+- [**OSDFace**](https://github.com/jkwang28/OSDFace) - jkwang28 ![Star](https://img.shields.io/github/stars/jkwang28/OSDFace.svg?style=social&label=Star) 
 
 	 *One-Step Diffusion Model for Face Restoration*
 - **OmniCreator: Self-Supervised Unified Generation with Universal Editing**, `arXiv, 2412.02114`, [arxiv](http://arxiv.org/abs/2412.02114v1), [pdf](http://arxiv.org/pdf/2412.02114v1.pdf), cication: [**-1**](None) 
