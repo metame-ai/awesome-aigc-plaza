@@ -37,6 +37,8 @@
 
 ## Generation
 
+- [Paper page - SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices  with Efficient Architectures and Training](https://huggingface.co/papers/2412.09619)
+   - [snap-research.github.io](https://snap-research.github.io/snapgen/)
 - **A Noise is Worth Diffusion Guidance**, `arXiv, 2412.03895`, [arxiv](http://arxiv.org/abs/2412.03895v1), [pdf](http://arxiv.org/pdf/2412.03895v1.pdf), cication: [**-1**](None) 
 
 	 *Donghoon Ahn, Jiwon Kang, Sanghyun Lee, ..., Kyong Hwan Jin, Seungryong Kim* · ([cvlab-kaist.github](https://cvlab-kaist.github.io/NoiseRefine/))
@@ -112,6 +114,10 @@
 
 ## Control Generation
 
+- [Paper page - Learning Flow Fields in Attention for Controllable Person Image  Generation](https://huggingface.co/papers/2412.08486)
+   - [github.com](https://github.com/franciszzj/Leffa)
+   - [huggingface.co](https://huggingface.co/spaces/franciszzj/Leffa)
+   - [huggingface.co](https://huggingface.co/franciszzj/Leffa)
 - **Steering Rectified Flow Models in the Vector Field for Controlled Image 
   Generation**, `arXiv, 2412.00100`, [arxiv](http://arxiv.org/abs/2412.00100v1), [pdf](http://arxiv.org/pdf/2412.00100v1.pdf), cication: [**-1**](None) 
 
@@ -169,11 +175,11 @@
 
 ## Efficient
 
-- **SNOOPI: Supercharged One-step Diffusion Distillation with Proper
+- **SNOOPI: Supercharged One-step Diffusion Distillation with Proper 
   Guidance**, `arXiv, 2412.02687`, [arxiv](http://arxiv.org/abs/2412.02687v2), [pdf](http://arxiv.org/pdf/2412.02687v2.pdf), cication: [**-1**](None) 
 
 	 *Viet Nguyen, Anh Nguyen, Trung Dao, ..., Toan Tran, Anh Tran* · ([snoopi-onestep.github](https://snoopi-onestep.github.io/))
-- **NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic
+- **NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic 
   Adversarial Training**, `arXiv, 2412.02030`, [arxiv](http://arxiv.org/abs/2412.02030v2), [pdf](http://arxiv.org/pdf/2412.02030v2.pdf), cication: [**-1**](None) 
 
 	 *Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, ..., Yi-Zhe Song* · ([chendaryen.github](https://chendaryen.github.io/NitroFusion.github.io/)) · ([arxiv](https://arxiv.org/abs/2412.03552)) · ([huggingface](https://huggingface.co/ChenDY/NitroFusion)) · ([huggingface](https://huggingface.co/spaces/ChenDY/NitroFusion_1step_T2I))
@@ -228,7 +234,7 @@
 
 ## Try On
 
-- **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent
+- **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent 
   Diffusion Models**, `arXiv, 2412.04146`, [arxiv](http://arxiv.org/abs/2412.04146v1), [pdf](http://arxiv.org/pdf/2412.04146v1.pdf), cication: [**-1**](None) 
 
 	 *Xinghui Li, Qichao Sun, Pengze Zhang, ..., Songtao Zhao, Qian He* · ([crayon-shinchan.github](https://crayon-shinchan.github.io/AnyDressing/)) · ([AnyDressing](https://github.com/Crayon-Shinchan/AnyDressing) - Crayon-Shinchan) ![Star](https://img.shields.io/github/stars/Crayon-Shinchan/AnyDressing.svg?style=social&label=Star)
@@ -248,6 +254,7 @@
 
 ## Detection
 
+- [Paper page - Hidden in the Noise: Two-Stage Robust Watermarking for Images](https://huggingface.co/papers/2412.04653)
 - **Detecting Human Artifacts from Text-to-Image Models**, `arXiv, 2411.13842`, [arxiv](http://arxiv.org/abs/2411.13842v1), [pdf](http://arxiv.org/pdf/2411.13842v1.pdf), cication: [**-1**](None) 
 
 	 *Kaihong Wang, Lingzhi Zhang, Jianming Zhang* · ([HADM](https://github.com/wangkaihong/HADM) - wangkaihong) ![Star](https://img.shields.io/github/stars/wangkaihong/HADM.svg?style=social&label=Star)
@@ -261,7 +268,9 @@
 
 ## Auto Regressive
 
-- **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution
+- [Paper page - ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion  Transformer](https://huggingface.co/papers/2412.07720)
+   - [github.com](https://github.com/thunlp/ACDiT)
+- **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution 
   Image Synthesis**, `arXiv, 2412.04431`, [arxiv](http://arxiv.org/abs/2412.04431v1), [pdf](http://arxiv.org/pdf/2412.04431v1.pdf), cication: [**-1**](None) 
 
 	 *Jian Han, Jinlai Liu, Yi Jiang, ..., Bingyue Peng, Xiaobing Liu*
@@ -328,11 +337,13 @@
 
 ## Editting
 
-- **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step
+- [Paper page - UniReal: Universal Image Generation and Editing via Learning Real-world  Dynamics](https://huggingface.co/papers/2412.07774)
+   - [xavierchen34.github.io](https://xavierchen34.github.io/UniReal-Page/)
+- **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step 
   Diffusion**, `arXiv, 2412.04301`, [arxiv](http://arxiv.org/abs/2412.04301v2), [pdf](http://arxiv.org/pdf/2412.04301v2.pdf), cication: [**-1**](None) 
 
 	 *Trong-Tung Nguyen, Quang Nguyen, Khoi Nguyen, ..., Anh Tran, Cuong Pham* · ([swift-edit.github](https://swift-edit.github.io/))
-- [**OSDFace**](https://github.com/jkwang28/OSDFace) - jkwang28 ![Star](https://img.shields.io/github/stars/jkwang28/OSDFace.svg?style=social&label=Star)
+- [**OSDFace**](https://github.com/jkwang28/OSDFace) - jkwang28 ![Star](https://img.shields.io/github/stars/jkwang28/OSDFace.svg?style=social&label=Star) 
 
 	 *One-Step Diffusion Model for Face Restoration*
 - **OmniCreator: Self-Supervised Unified Generation with Universal Editing**, `arXiv, 2412.02114`, [arxiv](http://arxiv.org/abs/2412.02114v1), [pdf](http://arxiv.org/pdf/2412.02114v1.pdf), cication: [**-1**](None) 

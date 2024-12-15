@@ -22,6 +22,16 @@
 
 ## Generation
 
+- 🌟 **STIV: Scalable Text and Image Conditioned Video Generation**, `arXiv, 2412.07730`, [arxiv](http://arxiv.org/abs/2412.07730v1), [pdf](http://arxiv.org/pdf/2412.07730v1.pdf), cication: [**-1**](None) 
+
+	 *Zongyu Lin, Wei Liu, Chen Chen, ..., Kai-Wei Chang, Yinfei Yang*
+- **Mobile Video Diffusion**, `arXiv, 2412.07583`, [arxiv](http://arxiv.org/abs/2412.07583v1), [pdf](http://arxiv.org/pdf/2412.07583v1.pdf), cication: [**-1**](None) 
+
+	 *Haitam Ben Yahia, Denis Korzhenkov, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian* · ([qualcomm-ai-research.github](https://qualcomm-ai-research.github.io/mobile-video-diffusion/))
+- 🌟 **SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse
+  Viewpoints**, `arXiv, 2412.07760`, [arxiv](http://arxiv.org/abs/2412.07760v1), [pdf](http://arxiv.org/pdf/2412.07760v1.pdf), cication: [**-1**](None) 
+
+	 *Jianhong Bai, Menghan Xia, Xintao Wang, ..., Pengfei Wan, Di Zhang* · ([jianhongbai.github](https://jianhongbai.github.io/SynCamMaster/))
 - **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
 
@@ -198,6 +208,9 @@
 
 ## Editting
 
+- **MoViE: Mobile Diffusion for Video Editing**, `arXiv, 2412.06578`, [arxiv](http://arxiv.org/abs/2412.06578v1), [pdf](http://arxiv.org/pdf/2412.06578v1.pdf), cication: [**-1**](None) 
+
+	 *Adil Karjauv, Noor Fathima, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian*
 - **DIVE: Taming DINO for Subject-Driven Video Editing**, `arXiv, 2412.03347`, [arxiv](http://arxiv.org/abs/2412.03347v1), [pdf](http://arxiv.org/pdf/2412.03347v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Huang, Wei Xiong, He Zhang, ..., Mingfu Yan, Shifeng Chen* · ([dino-video-editing.github](https://dino-video-editing.github.io/))
