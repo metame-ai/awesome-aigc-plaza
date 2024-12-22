@@ -37,7 +37,11 @@
 
 ## Generation
 
-- **SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices
+- **LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style
+  Conditioned Image Generation**, `arXiv, 2412.05148`, [arxiv](http://arxiv.org/abs/2412.05148v1), [pdf](http://arxiv.org/pdf/2412.05148v1.pdf), cication: [**-1**](None) 
+
+	 *Donald Shenaj, Ondrej Bohdal, Mete Ozay, ..., Pietro Zanuttigh, Umberto Michieli*
+- **SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices 
   with Efficient Architectures and Training**, `arXiv, 2412.09619`, [arxiv](http://arxiv.org/abs/2412.09619v1), [pdf](http://arxiv.org/pdf/2412.09619v1.pdf), cication: [**-1**](None) 
 
 	 *Dongting Hu, Jierun Chen, Xijie Huang, ..., Yanwu Xu, Jian Ren* · ([snap-research.github](https://snap-research.github.io/snapgen/))
@@ -116,7 +120,7 @@
 
 ## Control Generation
 
-- **Learning Flow Fields in Attention for Controllable Person Image
+- **Learning Flow Fields in Attention for Controllable Person Image 
   Generation**, `arXiv, 2412.08486`, [arxiv](http://arxiv.org/abs/2412.08486v2), [pdf](http://arxiv.org/pdf/2412.08486v2.pdf), cication: [**-1**](None) 
 
 	 *Zijian Zhou, Shikun Liu, Xiao Han, ..., Miaojing Shi, Sen He* · ([Leffa](https://github.com/franciszzj/Leffa) - franciszzj) ![Star](https://img.shields.io/github/stars/franciszzj/Leffa.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/franciszzj/Leffa)) · ([huggingface](https://huggingface.co/franciszzj/Leffa))
@@ -205,6 +209,10 @@
 
 ## Personalization
 
+- **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven
+  Generation**, `arXiv, 2412.08645`, [arxiv](http://arxiv.org/abs/2412.08645v1), [pdf](http://arxiv.org/pdf/2412.08645v1.pdf), cication: [**-1**](None) 
+
+	 *Daniel Winter, Asaf Shul, Matan Cohen, ..., Alex Rav-Acha, Yedid Hoshen* · ([object-mate](https://object-mate.com))
 - 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot 
   Subject-Driven Image Generator**, `arXiv, 2411.15466`, [arxiv](http://arxiv.org/abs/2411.15466v1), [pdf](http://arxiv.org/pdf/2411.15466v1.pdf), cication: [**-1**](None) 
 
@@ -272,7 +280,10 @@
 
 ## Auto Regressive
 
-- **ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion
+- **Causal Diffusion Transformers for Generative Modeling**, `arXiv, 2412.12095`, [arxiv](http://arxiv.org/abs/2412.12095v2), [pdf](http://arxiv.org/pdf/2412.12095v2.pdf), cication: [**-1**](None) 
+
+	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Shi Guang, Haoqi Fan* · ([causalfusion.](https://github.com/causalfusion/causalfusion.) - causalfusion) ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion..svg?style=social&label=Star)
+- **ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion 
   Transformer**, `arXiv, 2412.07720`, [arxiv](http://arxiv.org/abs/2412.07720v1), [pdf](http://arxiv.org/pdf/2412.07720v1.pdf), cication: [**-1**](None) 
 
 	 *Jinyi Hu, Shengding Hu, Yuxuan Song, ..., Wei-Ying Ma, Maosong Sun* · ([ACDiT](https://github.com/thunlp/ACDiT) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/ACDiT.svg?style=social&label=Star)
@@ -343,7 +354,18 @@
 
 ## Editting
 
-- **UniReal: Universal Image Generation and Editing via Learning Real-world
+- **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free
+  Scale Fusion**, `arXiv, 2412.09626`, [arxiv](http://arxiv.org/abs/2412.09626v1), [pdf](http://arxiv.org/pdf/2412.09626v1.pdf), cication: [**-1**](None) 
+
+	 *Haonan Qiu, Shiwei Zhang, Yujie Wei, ..., Yingya Zhang, Ziwei Liu* · ([haonanqiu](http://haonanqiu.com/projects/FreeScale.html)) · ([FreeScale](https://github.com/ali-vilab/FreeScale) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/FreeScale.svg?style=social&label=Star)
+- **Arbitrary-steps Image Super-resolution via Diffusion Inversion**, `arXiv, 2412.09013`, [arxiv](http://arxiv.org/abs/2412.09013v1), [pdf](http://arxiv.org/pdf/2412.09013v1.pdf), cication: [**-1**](None) 
+
+	 *Zongsheng Yue, Kang Liao, Chen Change Loy* · ([InvSR](https://github.com/zsyOAOA/InvSR) - zsyOAOA) ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star)
+- **BrushEdit: All-In-One Image Inpainting and Editing**, `arXiv, 2412.10316`, [arxiv](http://arxiv.org/abs/2412.10316v2), [pdf](http://arxiv.org/pdf/2412.10316v2.pdf), cication: [**-1**](None) 
+
+	 *Yaowei Li, Yuxuan Bian, Xuan Ju, ..., Yuexian Zou, Qiang Xu* · ([huggingface](https://huggingface.co/TencentARC/BrushEdit)) · ([huggingface](https://huggingface.co/spaces/TencentARC/BrushEdit)) · ([BrushEdit](https://github.com/TencentARC/BrushEdit) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/BrushEdit.svg?style=social&label=Star) · ([liyaowei-stu.github](https://liyaowei-stu.github.io/project/BrushEdit/))
+- [**facechain**](https://github.com/modelscope/facechain) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/facechain.svg?style=social&label=Star)
+- **UniReal: Universal Image Generation and Editing via Learning Real-world 
   Dynamics**, `arXiv, 2412.07774`, [arxiv](http://arxiv.org/abs/2412.07774v2), [pdf](http://arxiv.org/pdf/2412.07774v2.pdf), cication: [**-1**](None) 
 
 	 *Xi Chen, Zhifei Zhang, He Zhang, ..., Zhe Lin, Hengshuang Zhao* · ([xavierchen34.github](https://xavierchen34.github.io/UniReal-Page/))
@@ -439,6 +461,7 @@
 
 ## Products
 
+- [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) 
 - [Grok Image Generation Release](https://x.ai/blog/grok-image-generation-release) 
 - [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏 
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 

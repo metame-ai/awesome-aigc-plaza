@@ -37,8 +37,11 @@
 
 ## Generation
 
-- [Paper page - SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices  with Efficient Architectures and Training](https://huggingface.co/papers/2412.09619)
-   - [snap-research.github.io](https://snap-research.github.io/snapgen/)
+- [Paper page - LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style  Conditioned Image Generation](https://huggingface.co/papers/2412.05148)
+- **SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices
+  with Efficient Architectures and Training**, `arXiv, 2412.09619`, [arxiv](http://arxiv.org/abs/2412.09619v1), [pdf](http://arxiv.org/pdf/2412.09619v1.pdf), cication: [**-1**](None) 
+
+	 *Dongting Hu, Jierun Chen, Xijie Huang, ..., Yanwu Xu, Jian Ren* · ([snap-research.github](https://snap-research.github.io/snapgen/))
 - **A Noise is Worth Diffusion Guidance**, `arXiv, 2412.03895`, [arxiv](http://arxiv.org/abs/2412.03895v1), [pdf](http://arxiv.org/pdf/2412.03895v1.pdf), cication: [**-1**](None) 
 
 	 *Donghoon Ahn, Jiwon Kang, Sanghyun Lee, ..., Kyong Hwan Jin, Seungryong Kim* · ([cvlab-kaist.github](https://cvlab-kaist.github.io/NoiseRefine/))
@@ -114,10 +117,10 @@
 
 ## Control Generation
 
-- [Paper page - Learning Flow Fields in Attention for Controllable Person Image  Generation](https://huggingface.co/papers/2412.08486)
-   - [github.com](https://github.com/franciszzj/Leffa)
-   - [huggingface.co](https://huggingface.co/spaces/franciszzj/Leffa)
-   - [huggingface.co](https://huggingface.co/franciszzj/Leffa)
+- **Learning Flow Fields in Attention for Controllable Person Image
+  Generation**, `arXiv, 2412.08486`, [arxiv](http://arxiv.org/abs/2412.08486v2), [pdf](http://arxiv.org/pdf/2412.08486v2.pdf), cication: [**-1**](None) 
+
+	 *Zijian Zhou, Shikun Liu, Xiao Han, ..., Miaojing Shi, Sen He* · ([Leffa](https://github.com/franciszzj/Leffa) - franciszzj) ![Star](https://img.shields.io/github/stars/franciszzj/Leffa.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/franciszzj/Leffa)) · ([huggingface](https://huggingface.co/franciszzj/Leffa))
 - **Steering Rectified Flow Models in the Vector Field for Controlled Image 
   Generation**, `arXiv, 2412.00100`, [arxiv](http://arxiv.org/abs/2412.00100v1), [pdf](http://arxiv.org/pdf/2412.00100v1.pdf), cication: [**-1**](None) 
 
@@ -203,6 +206,8 @@
 
 ## Personalization
 
+- [Paper page - ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven  Generation](https://huggingface.co/papers/2412.08645)
+   - [object-mate.com](https://object-mate.com)
 - 🌟 **Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot 
   Subject-Driven Image Generator**, `arXiv, 2411.15466`, [arxiv](http://arxiv.org/abs/2411.15466v1), [pdf](http://arxiv.org/pdf/2411.15466v1.pdf), cication: [**-1**](None) 
 
@@ -254,7 +259,9 @@
 
 ## Detection
 
-- [Paper page - Hidden in the Noise: Two-Stage Robust Watermarking for Images](https://huggingface.co/papers/2412.04653)
+- **Hidden in the Noise: Two-Stage Robust Watermarking for Images**, `arXiv, 2412.04653`, [arxiv](http://arxiv.org/abs/2412.04653v2), [pdf](http://arxiv.org/pdf/2412.04653v2.pdf), cication: [**-1**](None) 
+
+	 *Kasra Arabi, Benjamin Feuer, R. Teal Witter, ..., Chinmay Hegde, Niv Cohen*
 - **Detecting Human Artifacts from Text-to-Image Models**, `arXiv, 2411.13842`, [arxiv](http://arxiv.org/abs/2411.13842v1), [pdf](http://arxiv.org/pdf/2411.13842v1.pdf), cication: [**-1**](None) 
 
 	 *Kaihong Wang, Lingzhi Zhang, Jianming Zhang* · ([HADM](https://github.com/wangkaihong/HADM) - wangkaihong) ![Star](https://img.shields.io/github/stars/wangkaihong/HADM.svg?style=social&label=Star)
@@ -268,8 +275,12 @@
 
 ## Auto Regressive
 
-- [Paper page - ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion  Transformer](https://huggingface.co/papers/2412.07720)
-   - [github.com](https://github.com/thunlp/ACDiT)
+- [Paper page - Causal Diffusion Transformers for Generative Modeling](https://huggingface.co/papers/2412.12095)
+   - [github.com](https://github.com/causalfusion/causalfusion.)
+- **ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion
+  Transformer**, `arXiv, 2412.07720`, [arxiv](http://arxiv.org/abs/2412.07720v1), [pdf](http://arxiv.org/pdf/2412.07720v1.pdf), cication: [**-1**](None) 
+
+	 *Jinyi Hu, Shengding Hu, Yuxuan Song, ..., Wei-Ying Ma, Maosong Sun* · ([ACDiT](https://github.com/thunlp/ACDiT) - thunlp) ![Star](https://img.shields.io/github/stars/thunlp/ACDiT.svg?style=social&label=Star)
 - **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution 
   Image Synthesis**, `arXiv, 2412.04431`, [arxiv](http://arxiv.org/abs/2412.04431v1), [pdf](http://arxiv.org/pdf/2412.04431v1.pdf), cication: [**-1**](None) 
 
@@ -337,8 +348,21 @@
 
 ## Editting
 
-- [Paper page - UniReal: Universal Image Generation and Editing via Learning Real-world  Dynamics](https://huggingface.co/papers/2412.07774)
-   - [xavierchen34.github.io](https://xavierchen34.github.io/UniReal-Page/)
+- [Paper page - FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free  Scale Fusion](https://huggingface.co/papers/2412.09626)
+   - [haonanqiu.com](http://haonanqiu.com/projects/FreeScale.html)
+   - [github.com](https://github.com/ali-vilab/FreeScale)
+- [Paper page - Arbitrary-steps Image Super-resolution via Diffusion Inversion](https://huggingface.co/papers/2412.09013)
+   - [github.com](https://github.com/zsyOAOA/InvSR)
+- [Paper page - BrushEdit: All-In-One Image Inpainting and Editing](https://huggingface.co/papers/2412.10316)
+   - [huggingface.co](https://huggingface.co/TencentARC/BrushEdit)
+   - [huggingface.co](https://huggingface.co/spaces/TencentARC/BrushEdit)
+   - [github.com](https://github.com/TencentARC/BrushEdit)
+   - [liyaowei-stu.github.io](https://liyaowei-stu.github.io/project/BrushEdit/)
+- [FaceChain](https://github.com/modelscope/facechain)
+- **UniReal: Universal Image Generation and Editing via Learning Real-world
+  Dynamics**, `arXiv, 2412.07774`, [arxiv](http://arxiv.org/abs/2412.07774v2), [pdf](http://arxiv.org/pdf/2412.07774v2.pdf), cication: [**-1**](None) 
+
+	 *Xi Chen, Zhifei Zhang, He Zhang, ..., Zhe Lin, Hengshuang Zhao* · ([xavierchen34.github](https://xavierchen34.github.io/UniReal-Page/))
 - **SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step 
   Diffusion**, `arXiv, 2412.04301`, [arxiv](http://arxiv.org/abs/2412.04301v2), [pdf](http://arxiv.org/pdf/2412.04301v2.pdf), cication: [**-1**](None) 
 
@@ -431,6 +455,7 @@
 
 ## Products
 
+- [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/)
 - [Grok Image Generation Release](https://x.ai/blog/grok-image-generation-release) 
 - [Luma Photon text-to-image models](https://x.com/LumaLabsAI/status/1863688635780042795)  𝕏 
 - [Frames: An image generation model offering unprecedented stylistic control.](https://x.com/runwayml/status/1861047681163857924)  𝕏 

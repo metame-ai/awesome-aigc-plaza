@@ -22,13 +22,20 @@
 
 ## Generation
 
+- **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation
+  with Linear Computational Complexity**, `arXiv, 2412.09856`, [arxiv](http://arxiv.org/abs/2412.09856v1), [pdf](http://arxiv.org/pdf/2412.09856v1.pdf), cication: [**-1**](None) 
+
+	 *Hongjie Wang, Chih-Yao Ma, Yen-Cheng Liu, ..., Niraj K. Jha, Xiaoliang Dai* · ([lineargen.github](https://lineargen.github.io/))
+- 🌟 [**FastVideo**](https://github.com/hao-ai-lab/FastVideo) - hao-ai-lab ![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/FastVideo/FastHunyuan)) · ([huggingface](https://huggingface.co/FastVideo/FastMochi-diffusers)) · ([𝕏](https://x.com/haoailab/status/1869119459249758680))
 - 🌟 **STIV: Scalable Text and Image Conditioned Video Generation**, `arXiv, 2412.07730`, [arxiv](http://arxiv.org/abs/2412.07730v1), [pdf](http://arxiv.org/pdf/2412.07730v1.pdf), cication: [**-1**](None) 
 
 	 *Zongyu Lin, Wei Liu, Chen Chen, ..., Kai-Wei Chang, Yinfei Yang*
 - **Mobile Video Diffusion**, `arXiv, 2412.07583`, [arxiv](http://arxiv.org/abs/2412.07583v1), [pdf](http://arxiv.org/pdf/2412.07583v1.pdf), cication: [**-1**](None) 
 
 	 *Haitam Ben Yahia, Denis Korzhenkov, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian* · ([qualcomm-ai-research.github](https://qualcomm-ai-research.github.io/mobile-video-diffusion/))
-- 🌟 **SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse
+- 🌟 **SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse 
   Viewpoints**, `arXiv, 2412.07760`, [arxiv](http://arxiv.org/abs/2412.07760v1), [pdf](http://arxiv.org/pdf/2412.07760v1.pdf), cication: [**-1**](None) 
 
 	 *Jianhong Bai, Menghan Xia, Xintao Wang, ..., Pengfei Wan, Di Zhang* · ([jianhongbai.github](https://jianhongbai.github.io/SynCamMaster/))
@@ -137,6 +144,9 @@
 
 ## Animation
 
+- [An image-to-video model by CreateAI.](https://huggingface.co/IamCreateAI/Ruyi-Mini-7B)  🤗
+
+	 · ([Ruyi-Models](https://github.com/IamCreateAI/Ruyi-Models) - IamCreateAI) ![Star](https://img.shields.io/github/stars/IamCreateAI/Ruyi-Models.svg?style=social&label=Star)
 - **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D 
   Poses**, `arXiv, 2412.00397`, [arxiv](http://arxiv.org/abs/2412.00397v1), [pdf](http://arxiv.org/pdf/2412.00397v1.pdf), cication: [**-1**](None) 
 
@@ -177,6 +187,10 @@
 
 ## Evaluation
 
+- 🌟 **Evaluation Agent: Efficient and Promptable Evaluation Framework for
+  Visual Generative Models**, `arXiv, 2412.09645`, [arxiv](http://arxiv.org/abs/2412.09645v2), [pdf](http://arxiv.org/pdf/2412.09645v2.pdf), cication: [**-1**](None) 
+
+	 *Fan Zhang, Shulin Tian, Ziqi Huang, ..., Yu Qiao, Ziwei Liu*
 - **VBench++: Comprehensive and Versatile Benchmark Suite for Video 
   Generative Models**, `arXiv, 2411.13503`, [arxiv](http://arxiv.org/abs/2411.13503v1), [pdf](http://arxiv.org/pdf/2411.13503v1.pdf), cication: [**-1**](None) 
 
@@ -188,6 +202,9 @@
 
 ## Detection
 
+- **Video Seal: Open and Efficient Video Watermarking**, `arXiv, 2412.09492`, [arxiv](http://arxiv.org/abs/2412.09492v1), [pdf](http://arxiv.org/pdf/2412.09492v1.pdf), cication: [**-1**](None) 
+
+	 *Pierre Fernandez, Hady Elsahar, I. Zeki Yalniz, ..., Alexandre Mourachko* · ([videoseal](https://github.com/facebookresearch/videoseal) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/videoseal.svg?style=social&label=Star)
 
 ## Alignment
 
@@ -243,6 +260,10 @@
 
 ## Datasets
 
+- **InstanceCap: Improving Text-to-Video Generation via Instance-aware
+  Structured Caption**, `arXiv, 2412.09283`, [arxiv](http://arxiv.org/abs/2412.09283v1), [pdf](http://arxiv.org/pdf/2412.09283v1.pdf), cication: [**-1**](None) 
+
+	 *Tiehan Fan, Kepan Nan, Rui Xie, ..., Jian Yang, Ying Tai* · ([InstanceCap](https://github.com/NJU-PCALab/InstanceCap) - NJU-PCALab) ![Star](https://img.shields.io/github/stars/NJU-PCALab/InstanceCap.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2412.09283))
 - **EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video 
   Generation**, `arXiv, 2411.08380`, [arxiv](http://arxiv.org/abs/2411.08380v1), [pdf](http://arxiv.org/pdf/2411.08380v1.pdf), cication: [**-1**](None) 
 
@@ -264,6 +285,7 @@
 
 ## Products
 
+- [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) 
 - [Sora System Card](https://openai.com/index/sora-system-card/) 
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
 

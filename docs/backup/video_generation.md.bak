@@ -22,11 +22,22 @@
 
 ## Generation
 
-- [Paper page - STIV: Scalable Text and Image Conditioned Video Generation](https://huggingface.co/papers/2412.07730)|star|
-- [Paper page - Mobile Video Diffusion](https://huggingface.co/papers/2412.07583)
-   - [qualcomm-ai-research.github.io](https://qualcomm-ai-research.github.io/mobile-video-diffusion/)
-- [Paper page - SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse  Viewpoints](https://huggingface.co/papers/2412.07760)|star|
-   - [jianhongbai.github.io](https://jianhongbai.github.io/SynCamMaster/)
+- [Paper page - LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation  with Linear Computational Complexity](https://huggingface.co/papers/2412.09856)
+   - [lineargen.github.io](https://lineargen.github.io/)
+- [FastVideo is a lightweight framework for accelerating large video diffusion models.](https://github.com/hao-ai-lab/FastVideo)|star|
+   - [huggingface.co](https://huggingface.co/FastVideo/FastHunyuan)
+   - [huggingface.co](https://huggingface.co/FastVideo/FastMochi-diffusers)
+   - [x.com](https://x.com/haoailab/status/1869119459249758680)
+- 🌟 **STIV: Scalable Text and Image Conditioned Video Generation**, `arXiv, 2412.07730`, [arxiv](http://arxiv.org/abs/2412.07730v1), [pdf](http://arxiv.org/pdf/2412.07730v1.pdf), cication: [**-1**](None) 
+
+	 *Zongyu Lin, Wei Liu, Chen Chen, ..., Kai-Wei Chang, Yinfei Yang*
+- **Mobile Video Diffusion**, `arXiv, 2412.07583`, [arxiv](http://arxiv.org/abs/2412.07583v1), [pdf](http://arxiv.org/pdf/2412.07583v1.pdf), cication: [**-1**](None) 
+
+	 *Haitam Ben Yahia, Denis Korzhenkov, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian* · ([qualcomm-ai-research.github](https://qualcomm-ai-research.github.io/mobile-video-diffusion/))
+- 🌟 **SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse
+  Viewpoints**, `arXiv, 2412.07760`, [arxiv](http://arxiv.org/abs/2412.07760v1), [pdf](http://arxiv.org/pdf/2412.07760v1.pdf), cication: [**-1**](None) 
+
+	 *Jianhong Bai, Menghan Xia, Xintao Wang, ..., Pengfei Wan, Di Zhang* · ([jianhongbai.github](https://jianhongbai.github.io/SynCamMaster/))
 - **GenMAC: Compositional Text-to-Video Generation with Multi-Agent 
   Collaboration**, `arXiv, 2412.04440`, [arxiv](http://arxiv.org/abs/2412.04440v1), [pdf](http://arxiv.org/pdf/2412.04440v1.pdf), cication: [**-1**](None) 
 
@@ -132,6 +143,8 @@
 
 ## Animation
 
+- [An image-to-video model by CreateAI.](https://huggingface.co/IamCreateAI/Ruyi-Mini-7B)
+   - [github.com](https://github.com/IamCreateAI/Ruyi-Models)
 - **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D 
   Poses**, `arXiv, 2412.00397`, [arxiv](http://arxiv.org/abs/2412.00397v1), [pdf](http://arxiv.org/pdf/2412.00397v1.pdf), cication: [**-1**](None) 
 
@@ -172,6 +185,7 @@
 
 ## Evaluation
 
+- [Paper page - Evaluation Agent: Efficient and Promptable Evaluation Framework for  Visual Generative Models](https://huggingface.co/papers/2412.09645)|star|
 - **VBench++: Comprehensive and Versatile Benchmark Suite for Video 
   Generative Models**, `arXiv, 2411.13503`, [arxiv](http://arxiv.org/abs/2411.13503v1), [pdf](http://arxiv.org/pdf/2411.13503v1.pdf), cication: [**-1**](None) 
 
@@ -183,6 +197,8 @@
 
 ## Detection
 
+- [Video Seal: Open and Efficient Video Watermarking](https://arxiv.org/abs/2412.09492)
+   - [github.com](https://github.com/facebookresearch/videoseal)
 
 ## Alignment
 
@@ -203,7 +219,9 @@
 
 ## Editting
 
-- [Paper page - MoViE: Mobile Diffusion for Video Editing](https://huggingface.co/papers/2412.06578)
+- **MoViE: Mobile Diffusion for Video Editing**, `arXiv, 2412.06578`, [arxiv](http://arxiv.org/abs/2412.06578v1), [pdf](http://arxiv.org/pdf/2412.06578v1.pdf), cication: [**-1**](None) 
+
+	 *Adil Karjauv, Noor Fathima, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian*
 - **DIVE: Taming DINO for Subject-Driven Video Editing**, `arXiv, 2412.03347`, [arxiv](http://arxiv.org/abs/2412.03347v1), [pdf](http://arxiv.org/pdf/2412.03347v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Huang, Wei Xiong, He Zhang, ..., Mingfu Yan, Shifeng Chen* · ([dino-video-editing.github](https://dino-video-editing.github.io/))
@@ -236,6 +254,9 @@
 
 ## Datasets
 
+- [Paper page - InstanceCap: Improving Text-to-Video Generation via Instance-aware  Structured Caption](https://huggingface.co/papers/2412.09283)
+   - [github.com](https://github.com/NJU-PCALab/InstanceCap)
+   - [arxiv.org](https://arxiv.org/abs/2412.09283)
 - **EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video 
   Generation**, `arXiv, 2411.08380`, [arxiv](http://arxiv.org/abs/2411.08380v1), [pdf](http://arxiv.org/pdf/2411.08380v1.pdf), cication: [**-1**](None) 
 
@@ -257,6 +278,7 @@
 
 ## Products
 
+- [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/)
 - [Sora System Card](https://openai.com/index/sora-system-card/) 
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
 
