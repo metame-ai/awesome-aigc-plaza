@@ -19,6 +19,9 @@
 
 ## 3D Generation
 
+- **Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**, `arXiv, 2412.17808`, [arxiv](http://arxiv.org/abs/2412.17808v2), [pdf](http://arxiv.org/pdf/2412.17808v2.pdf), cication: [**-1**](None) 
+
+	 *Rui Chen, Jianfeng Zhang, Yixun Liang, ..., Jiashi Feng, Ping Tan* · ([aruichen.github](https://aruichen.github.io/Dora/))
 - **Structured 3D Latents for Scalable and Versatile 3D Generation**, `arXiv, 2412.01506`, [arxiv](http://arxiv.org/abs/2412.01506v1), [pdf](http://arxiv.org/pdf/2412.01506v1.pdf), cication: [**-1**](None) 
 
 	 *Jianfeng Xiang, Zelong Lv, Sicheng Xu, ..., Xin Tong, Jiaolong Yang* · ([trellis3d.github](https://trellis3d.github.io)) · ([TRELLIS](https://github.com/Microsoft/TRELLIS) - Microsoft) ![Star](https://img.shields.io/github/stars/Microsoft/TRELLIS.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/JeffreyXiang/TRELLIS))
@@ -79,6 +82,7 @@
 
 ## 3D Reconstruction
 
+- [Reconstructing People, Places, and Cameras](https://muelea.github.io/hsfm/) 
 - **3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**, `arXiv, 2411.14974`, [arxiv](http://arxiv.org/abs/2411.14974v2), [pdf](http://arxiv.org/pdf/2411.14974v2.pdf), cication: [**-1**](None) 
 
 	 *Jan Held, Renaud Vandeghen, Abdullah Hamdi, ..., Bernard Ghanem, Marc Van Droogenbroeck* · ([convexsplatting.github](https://convexsplatting.github.io/)) · ([𝕏](https://x.com/Eng_Hemdi/status/1862191508679795180))

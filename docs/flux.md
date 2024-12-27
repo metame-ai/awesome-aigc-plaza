@@ -11,6 +11,10 @@
 
 ## Efficient
 
+- **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers
+  Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
+
+	 *Songhua Liu, Zhenxiong Tan, Xinchao Wang* · ([CLEAR](https://github.com/Huage001/CLEAR) - Huage001) ![Star](https://img.shields.io/github/stars/Huage001/CLEAR.svg?style=social&label=Star)
 - [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star) 
 
 ## LoRA

@@ -37,7 +37,7 @@
 
 ## Generation
 
-- **LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style
+- **LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style 
   Conditioned Image Generation**, `arXiv, 2412.05148`, [arxiv](http://arxiv.org/abs/2412.05148v1), [pdf](http://arxiv.org/pdf/2412.05148v1.pdf), cication: [**-1**](None) 
 
 	 *Donald Shenaj, Ondrej Bohdal, Mete Ozay, ..., Pietro Zanuttigh, Umberto Michieli*
@@ -181,6 +181,10 @@
 
 ## Efficient
 
+- **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers
+  Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
+
+	 *Songhua Liu, Zhenxiong Tan, Xinchao Wang* · ([CLEAR](https://github.com/Huage001/CLEAR) - Huage001) ![Star](https://img.shields.io/github/stars/Huage001/CLEAR.svg?style=social&label=Star)
 - **SNOOPI: Supercharged One-step Diffusion Distillation with Proper 
   Guidance**, `arXiv, 2412.02687`, [arxiv](http://arxiv.org/abs/2412.02687v2), [pdf](http://arxiv.org/pdf/2412.02687v2.pdf), cication: [**-1**](None) 
 
@@ -209,7 +213,11 @@
 
 ## Personalization
 
-- **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven
+- **Dense-Face: Personalized Face Generation Model via Dense Annotation
+  Prediction**, `arXiv, 2412.18149`, [arxiv](http://arxiv.org/abs/2412.18149v1), [pdf](http://arxiv.org/pdf/2412.18149v1.pdf), cication: [**-1**](None) 
+
+	 *Xiao Guo, Manh Tran, Jiaxin Cheng, ..., Xiaoming Liu*
+- **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven 
   Generation**, `arXiv, 2412.08645`, [arxiv](http://arxiv.org/abs/2412.08645v1), [pdf](http://arxiv.org/pdf/2412.08645v1.pdf), cication: [**-1**](None) 
 
 	 *Daniel Winter, Asaf Shul, Matan Cohen, ..., Alex Rav-Acha, Yedid Hoshen* · ([object-mate](https://object-mate.com))
@@ -244,6 +252,9 @@
 
 ## Try On
 
+- **FashionComposer: Compositional Fashion Image Generation**, `arXiv, 2412.14168`, [arxiv](http://arxiv.org/abs/2412.14168v2), [pdf](http://arxiv.org/pdf/2412.14168v2.pdf), cication: [**-1**](None) 
+
+	 *Sihui Ji, Yiyang Wang, Xi Chen, ..., Hao Luo, Hengshuang Zhao* · ([sihuiji.github](https://sihuiji.github.io/FashionComposer-Page/))
 - **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent 
   Diffusion Models**, `arXiv, 2412.04146`, [arxiv](http://arxiv.org/abs/2412.04146v1), [pdf](http://arxiv.org/pdf/2412.04146v1.pdf), cication: [**-1**](None) 
 
@@ -280,6 +291,16 @@
 
 ## Auto Regressive
 
+- 🌟 **Parallelized Autoregressive Visual Generation**, `arXiv, 2412.15119`, [arxiv](http://arxiv.org/abs/2412.15119v1), [pdf](http://arxiv.org/pdf/2412.15119v1.pdf), cication: [**-1**](None) 
+
+	 *Yuqing Wang, Shuhuai Ren, Zhijie Lin, ..., Jiashi Feng, Xihui Liu* · ([epiphqny.github](https://epiphqny.github.io/PAR-project/)) · ([PAR](https://github.com/Epiphqny/PAR) - Epiphqny) ![Star](https://img.shields.io/github/stars/Epiphqny/PAR.svg?style=social&label=Star)
+- **Next Patch Prediction for Autoregressive Visual Generation**, `arXiv, 2412.15321`, [arxiv](http://arxiv.org/abs/2412.15321v1), [pdf](http://arxiv.org/pdf/2412.15321v1.pdf), cication: [**-1**](None) 
+
+	 *Yatian Pang, Peng Jin, Shuo Yang, ..., Harry Yang, Li Yuan* · ([Next-Patch-Prediction](https://github.com/PKU-YuanGroup/Next-Patch-Prediction) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Next-Patch-Prediction.svg?style=social&label=Star)
+- **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models
+  with Flow Matching**, `arXiv, 2412.17153`, [arxiv](http://arxiv.org/abs/2412.17153v2), [pdf](http://arxiv.org/pdf/2412.17153v2.pdf), cication: [**-1**](None) 
+
+	 *Enshu Liu, Xuefei Ning, Yu Wang, ..., Zinan Lin* · ([imagination-research.github](https://imagination-research.github.io/distilled-decoding/))
 - **Causal Diffusion Transformers for Generative Modeling**, `arXiv, 2412.12095`, [arxiv](http://arxiv.org/abs/2412.12095v2), [pdf](http://arxiv.org/pdf/2412.12095v2.pdf), cication: [**-1**](None) 
 
 	 *Chaorui Deng, Deyao Zhu, Kunchang Li, ..., Shi Guang, Haoqi Fan* · ([causalfusion.](https://github.com/causalfusion/causalfusion.) - causalfusion) ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion..svg?style=social&label=Star)
@@ -354,7 +375,8 @@
 
 ## Editting
 
-- **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free
+- [**InvSR**](https://github.com/zsyOAOA/InvSR) - zsyOAOA ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star)
+- **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free 
   Scale Fusion**, `arXiv, 2412.09626`, [arxiv](http://arxiv.org/abs/2412.09626v1), [pdf](http://arxiv.org/pdf/2412.09626v1.pdf), cication: [**-1**](None) 
 
 	 *Haonan Qiu, Shiwei Zhang, Yujie Wei, ..., Yingya Zhang, Ziwei Liu* · ([haonanqiu](http://haonanqiu.com/projects/FreeScale.html)) · ([FreeScale](https://github.com/ali-vilab/FreeScale) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/FreeScale.svg?style=social&label=Star)
@@ -364,7 +386,7 @@
 - **BrushEdit: All-In-One Image Inpainting and Editing**, `arXiv, 2412.10316`, [arxiv](http://arxiv.org/abs/2412.10316v2), [pdf](http://arxiv.org/pdf/2412.10316v2.pdf), cication: [**-1**](None) 
 
 	 *Yaowei Li, Yuxuan Bian, Xuan Ju, ..., Yuexian Zou, Qiang Xu* · ([huggingface](https://huggingface.co/TencentARC/BrushEdit)) · ([huggingface](https://huggingface.co/spaces/TencentARC/BrushEdit)) · ([BrushEdit](https://github.com/TencentARC/BrushEdit) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/BrushEdit.svg?style=social&label=Star) · ([liyaowei-stu.github](https://liyaowei-stu.github.io/project/BrushEdit/))
-- [**facechain**](https://github.com/modelscope/facechain) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/facechain.svg?style=social&label=Star)
+- [**facechain**](https://github.com/modelscope/facechain) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/facechain.svg?style=social&label=Star) 
 - **UniReal: Universal Image Generation and Editing via Learning Real-world 
   Dynamics**, `arXiv, 2412.07774`, [arxiv](http://arxiv.org/abs/2412.07774v2), [pdf](http://arxiv.org/pdf/2412.07774v2.pdf), cication: [**-1**](None) 
 
@@ -439,6 +461,7 @@
 
 ## Projects
 
+- [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star)
 - [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 

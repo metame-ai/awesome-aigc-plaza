@@ -11,6 +11,8 @@
 
 ## Efficient
 
+- [Paper page - CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers  Up](https://huggingface.co/papers/2412.16112)
+   - [github.com](https://github.com/Huage001/CLEAR)
 - [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star) 
 
 ## LoRA
