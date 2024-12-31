@@ -11,8 +11,10 @@
 
 ## Efficient
 
-- [Paper page - CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers  Up](https://huggingface.co/papers/2412.16112)
-   - [github.com](https://github.com/Huage001/CLEAR)
+- **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers
+  Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
+
+	 *Songhua Liu, Zhenxiong Tan, Xinchao Wang* · ([CLEAR](https://github.com/Huage001/CLEAR) - Huage001) ![Star](https://img.shields.io/github/stars/Huage001/CLEAR.svg?style=social&label=Star)
 - [**flux-fp8-api**](https://github.com/aredden/flux-fp8-api) - aredden ![Star](https://img.shields.io/github/stars/aredden/flux-fp8-api.svg?style=social&label=Star) 
 
 ## LoRA
@@ -38,6 +40,7 @@
 
 ## Misc
 
+- [Paper page - 1.58-bit FLUX](https://huggingface.co/papers/2412.18653)
 - [Single File Loading for the FluxTransformer2DModel](https://huggingface.co/docs/diffusers/main/en/api/pipelines/flux)  🤗 
 
 	 · ([vision](https://github.com/pytorch/vision/issues/2360) - pytorch) ![Star](https://img.shields.io/github/stars/pytorch/vision.svg?style=social&label=Star)

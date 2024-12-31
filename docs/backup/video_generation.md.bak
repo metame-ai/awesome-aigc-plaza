@@ -22,17 +22,21 @@
 
 ## Generation
 
-- [Paper page - Autoregressive Video Generation without Vector Quantization](https://huggingface.co/papers/2412.14169)
-   - [github.com](https://github.com/baaivision/NOVA)
-- [DirectorLLM for Human-Centric Video Generation](https://arxiv.org/abs/2412.14484)
-- [Paper page - DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion  Transformer for Tuning-Free Multi-Prompt Longer Video Generation](https://huggingface.co/papers/2412.18597)
-   - [onevfall.github.io](https://onevfall.github.io/project_page/ditctrl/)
-   - [github.com](https://github.com/TencentARC/DiTCtrl)
-- **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation
+- **Autoregressive Video Generation without Vector Quantization**, `arXiv, 2412.14169`, [arxiv](http://arxiv.org/abs/2412.14169v1), [pdf](http://arxiv.org/pdf/2412.14169v1.pdf), cication: [**-1**](None) 
+
+	 *Haoge Deng, Ting Pan, Haiwen Diao, ..., Yonggang Qi, Xinlong Wang* · ([NOVA](https://github.com/baaivision/NOVA) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)
+- **DirectorLLM for Human-Centric Video Generation**, `arXiv, 2412.14484`, [arxiv](http://arxiv.org/abs/2412.14484v1), [pdf](http://arxiv.org/pdf/2412.14484v1.pdf), cication: [**-1**](None) 
+
+	 *Kunpeng Song, Tingbo Hou, Zecheng He, ..., Ahmed Elgammal, Felix Juefei-Xu*
+- **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion
+  Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, `arXiv, 2412.18597`, [arxiv](http://arxiv.org/abs/2412.18597v1), [pdf](http://arxiv.org/pdf/2412.18597v1.pdf), cication: [**-1**](None) 
+
+	 *Minghong Cai, Xiaodong Cun, Xiaoyu Li, ..., Ying Shan, Xiangyu Yue* · ([onevfall.github](https://onevfall.github.io/project_page/ditctrl/)) · ([DiTCtrl](https://github.com/TencentARC/DiTCtrl) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/DiTCtrl.svg?style=social&label=Star)
+- **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation 
   with Linear Computational Complexity**, `arXiv, 2412.09856`, [arxiv](http://arxiv.org/abs/2412.09856v1), [pdf](http://arxiv.org/pdf/2412.09856v1.pdf), cication: [**-1**](None) 
 
 	 *Hongjie Wang, Chih-Yao Ma, Yen-Cheng Liu, ..., Niraj K. Jha, Xiaoliang Dai* · ([lineargen.github](https://lineargen.github.io/))
-- 🌟 [**FastVideo**](https://github.com/hao-ai-lab/FastVideo) - hao-ai-lab ![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social&label=Star)
+- 🌟 [**FastVideo**](https://github.com/hao-ai-lab/FastVideo) - hao-ai-lab ![Star](https://img.shields.io/github/stars/hao-ai-lab/FastVideo.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/FastVideo/FastHunyuan)) · ([huggingface](https://huggingface.co/FastVideo/FastMochi-diffusers)) · ([𝕏](https://x.com/haoailab/status/1869119459249758680))
 - 🌟 **STIV: Scalable Text and Image Conditioned Video Generation**, `arXiv, 2412.07730`, [arxiv](http://arxiv.org/abs/2412.07730v1), [pdf](http://arxiv.org/pdf/2412.07730v1.pdf), cication: [**-1**](None) 
@@ -150,10 +154,11 @@
 
 ## Animation
 
-- [Paper page - DisPose: Disentangling Pose Guidance for Controllable Human Image  Animation](https://huggingface.co/papers/2412.09349)
-   - [lihxxx.github.io](https://lihxxx.github.io/DisPose/)
-   - [github.com](https://github.com/lihxxx/DisPose)
-- [An image-to-video model by CreateAI.](https://huggingface.co/IamCreateAI/Ruyi-Mini-7B)  🤗
+- **DisPose: Disentangling Pose Guidance for Controllable Human Image
+  Animation**, `arXiv, 2412.09349`, [arxiv](http://arxiv.org/abs/2412.09349v2), [pdf](http://arxiv.org/pdf/2412.09349v2.pdf), cication: [**-1**](None) 
+
+	 *Hongxiang Li, Yaowei Li, Yuhang Yang, ..., Xuxin Cheng, Long Chen* · ([lihxxx.github](https://lihxxx.github.io/DisPose/)) · ([DisPose](https://github.com/lihxxx/DisPose) - lihxxx) ![Star](https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star)
+- [An image-to-video model by CreateAI.](https://huggingface.co/IamCreateAI/Ruyi-Mini-7B)  🤗 
 
 	 · ([Ruyi-Models](https://github.com/IamCreateAI/Ruyi-Models) - IamCreateAI) ![Star](https://img.shields.io/github/stars/IamCreateAI/Ruyi-Models.svg?style=social&label=Star)
 - **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D 
@@ -196,7 +201,7 @@
 
 ## Evaluation
 
-- 🌟 **Evaluation Agent: Efficient and Promptable Evaluation Framework for
+- 🌟 **Evaluation Agent: Efficient and Promptable Evaluation Framework for 
   Visual Generative Models**, `arXiv, 2412.09645`, [arxiv](http://arxiv.org/abs/2412.09645v2), [pdf](http://arxiv.org/pdf/2412.09645v2.pdf), cication: [**-1**](None) 
 
 	 *Fan Zhang, Shulin Tian, Ziqi Huang, ..., Yu Qiao, Ziwei Liu*
@@ -217,8 +222,9 @@
 
 ## Alignment
 
-- [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](https://arxiv.org/abs/2412.14167)
-   - [videodpo.github.io](https://videodpo.github.io/)
+- **VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**, `arXiv, 2412.14167`, [arxiv](http://arxiv.org/abs/2412.14167v1), [pdf](http://arxiv.org/pdf/2412.14167v1.pdf), cication: [**-1**](None) 
+
+	 *Runtao Liu, Haoyu Wu, Zheng Ziqiang, ..., Renjie Pi, Qifeng Chen* · ([videodpo.github](https://videodpo.github.io/))
 - **LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment**, `arXiv, 2412.04814`, [arxiv](http://arxiv.org/abs/2412.04814v1), [pdf](http://arxiv.org/pdf/2412.04814v1.pdf), cication: [**-1**](None) 
 
 	 *Yibin Wang, Zhiyu Tan, Junyan Wang, ..., Cheng Jin, Hao Li* · ([codegoat24.github](https://codegoat24.github.io/LiFT)) · ([LiFT](https://github.com/CodeGoat24/LiFT) - CodeGoat24) ![Star](https://img.shields.io/github/stars/CodeGoat24/LiFT.svg?style=social&label=Star)
@@ -271,7 +277,7 @@
 
 ## Datasets
 
-- **InstanceCap: Improving Text-to-Video Generation via Instance-aware
+- **InstanceCap: Improving Text-to-Video Generation via Instance-aware 
   Structured Caption**, `arXiv, 2412.09283`, [arxiv](http://arxiv.org/abs/2412.09283v1), [pdf](http://arxiv.org/pdf/2412.09283v1.pdf), cication: [**-1**](None) 
 
 	 *Tiehan Fan, Kepan Nan, Rui Xie, ..., Jian Yang, Ying Tai* · ([InstanceCap](https://github.com/NJU-PCALab/InstanceCap) - NJU-PCALab) ![Star](https://img.shields.io/github/stars/NJU-PCALab/InstanceCap.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2412.09283))
@@ -296,7 +302,7 @@
 
 ## Products
 
-- [Our BIGGEST feature drop of the year: AI Music Videos!](https://x.com/rendernet_ai/status/1871557625441394938)
+- [Our BIGGEST feature drop of the year: AI Music Videos!](https://x.com/rendernet_ai/status/1871557625441394938)  𝕏
 - [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) 
 - [Sora System Card](https://openai.com/index/sora-system-card/) 
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
