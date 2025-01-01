@@ -120,7 +120,10 @@
 
 ## Control Generation
 
-- [Paper page - From Elements to Design: A Layered Approach for Automatic Graphic Design  Composition](https://huggingface.co/papers/2412.19712)
+- **From Elements to Design: A Layered Approach for Automatic Graphic Design
+  Composition**, `arXiv, 2412.19712`, [arxiv](http://arxiv.org/abs/2412.19712v1), [pdf](http://arxiv.org/pdf/2412.19712v1.pdf), cication: [**-1**](None) 
+
+	 *Jiawei Lin, Shizhao Sun, Danqing Huang, ..., Ji Li, Jiang Bian*
 - **Learning Flow Fields in Attention for Controllable Person Image 
   Generation**, `arXiv, 2412.08486`, [arxiv](http://arxiv.org/abs/2412.08486v2), [pdf](http://arxiv.org/pdf/2412.08486v2.pdf), cication: [**-1**](None) 
 
@@ -182,8 +185,8 @@
 
 ## Efficient
 
-- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)
-- **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers
+- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper:
+- **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers 
   Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
 
 	 *Songhua Liu, Zhenxiong Tan, Xinchao Wang* · ([CLEAR](https://github.com/Huage001/CLEAR) - Huage001) ![Star](https://img.shields.io/github/stars/Huage001/CLEAR.svg?style=social&label=Star)
@@ -215,7 +218,7 @@
 
 ## Personalization
 
-- **Dense-Face: Personalized Face Generation Model via Dense Annotation
+- **Dense-Face: Personalized Face Generation Model via Dense Annotation 
   Prediction**, `arXiv, 2412.18149`, [arxiv](http://arxiv.org/abs/2412.18149v1), [pdf](http://arxiv.org/pdf/2412.18149v1.pdf), cication: [**-1**](None) 
 
 	 *Xiao Guo, Manh Tran, Jiaxin Cheng, ..., Xiaoming Liu*
@@ -299,7 +302,7 @@
 - **Next Patch Prediction for Autoregressive Visual Generation**, `arXiv, 2412.15321`, [arxiv](http://arxiv.org/abs/2412.15321v1), [pdf](http://arxiv.org/pdf/2412.15321v1.pdf), cication: [**-1**](None) 
 
 	 *Yatian Pang, Peng Jin, Shuo Yang, ..., Harry Yang, Li Yuan* · ([Next-Patch-Prediction](https://github.com/PKU-YuanGroup/Next-Patch-Prediction) - PKU-YuanGroup) ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Next-Patch-Prediction.svg?style=social&label=Star)
-- **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models
+- **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models 
   with Flow Matching**, `arXiv, 2412.17153`, [arxiv](http://arxiv.org/abs/2412.17153v2), [pdf](http://arxiv.org/pdf/2412.17153v2.pdf), cication: [**-1**](None) 
 
 	 *Enshu Liu, Xuefei Ning, Yu Wang, ..., Zinan Lin* · ([imagination-research.github](https://imagination-research.github.io/distilled-decoding/))
@@ -377,7 +380,7 @@
 
 ## Editting
 
-- [**InvSR**](https://github.com/zsyOAOA/InvSR) - zsyOAOA ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star)
+- [**InvSR**](https://github.com/zsyOAOA/InvSR) - zsyOAOA ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star) 
 - **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free 
   Scale Fusion**, `arXiv, 2412.09626`, [arxiv](http://arxiv.org/abs/2412.09626v1), [pdf](http://arxiv.org/pdf/2412.09626v1.pdf), cication: [**-1**](None) 
 
@@ -463,7 +466,7 @@
 
 ## Projects
 
-- [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star)
+- [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star) 
 - [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
 - 🌟 [**Sana**](https://github.com/NVlabs/Sana) - NVlabs ![Star](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star) 

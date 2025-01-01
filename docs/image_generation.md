@@ -120,7 +120,7 @@
 
 ## Control Generation
 
-- **From Elements to Design: A Layered Approach for Automatic Graphic Design
+- **From Elements to Design: A Layered Approach for Automatic Graphic Design 
   Composition**, `arXiv, 2412.19712`, [arxiv](http://arxiv.org/abs/2412.19712v1), [pdf](http://arxiv.org/pdf/2412.19712v1.pdf), cication: [**-1**](None) 
 
 	 *Jiawei Lin, Shizhao Sun, Danqing Huang, ..., Ji Li, Jiang Bian*
@@ -185,7 +185,7 @@
 
 ## Efficient
 
-- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper:
+- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper: 
 - **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers 
   Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
 

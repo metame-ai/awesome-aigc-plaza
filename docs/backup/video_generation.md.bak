@@ -28,7 +28,7 @@
 - **DirectorLLM for Human-Centric Video Generation**, `arXiv, 2412.14484`, [arxiv](http://arxiv.org/abs/2412.14484v1), [pdf](http://arxiv.org/pdf/2412.14484v1.pdf), cication: [**-1**](None) 
 
 	 *Kunpeng Song, Tingbo Hou, Zecheng He, ..., Ahmed Elgammal, Felix Juefei-Xu*
-- **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion
+- **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion 
   Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, `arXiv, 2412.18597`, [arxiv](http://arxiv.org/abs/2412.18597v1), [pdf](http://arxiv.org/pdf/2412.18597v1.pdf), cication: [**-1**](None) 
 
 	 *Minghong Cai, Xiaodong Cun, Xiaoyu Li, ..., Ying Shan, Xiangyu Yue* · ([onevfall.github](https://onevfall.github.io/project_page/ditctrl/)) · ([DiTCtrl](https://github.com/TencentARC/DiTCtrl) - TencentARC) ![Star](https://img.shields.io/github/stars/TencentARC/DiTCtrl.svg?style=social&label=Star)
@@ -154,7 +154,7 @@
 
 ## Animation
 
-- **DisPose: Disentangling Pose Guidance for Controllable Human Image
+- **DisPose: Disentangling Pose Guidance for Controllable Human Image 
   Animation**, `arXiv, 2412.09349`, [arxiv](http://arxiv.org/abs/2412.09349v2), [pdf](http://arxiv.org/pdf/2412.09349v2.pdf), cication: [**-1**](None) 
 
 	 *Hongxiang Li, Yaowei Li, Yuhang Yang, ..., Xuxin Cheng, Long Chen* · ([lihxxx.github](https://lihxxx.github.io/DisPose/)) · ([DisPose](https://github.com/lihxxx/DisPose) - lihxxx) ![Star](https://img.shields.io/github/stars/lihxxx/DisPose.svg?style=social&label=Star)
@@ -302,7 +302,7 @@
 
 ## Products
 
-- [Our BIGGEST feature drop of the year: AI Music Videos!](https://x.com/rendernet_ai/status/1871557625441394938)  𝕏
+- [Our BIGGEST feature drop of the year: AI Music Videos!](https://x.com/rendernet_ai/status/1871557625441394938)  𝕏 
 - [State-of-the-art video and image generation with Veo 2 and Imagen 3](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/) 
 - [Sora System Card](https://openai.com/index/sora-system-card/) 
 - [Introducing Wonder Animation:  New AI solution for animated films, powered by cutting-edge Video to 3D Scene technology](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/) 
