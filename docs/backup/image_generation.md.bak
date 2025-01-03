@@ -120,7 +120,8 @@
 
 ## Control Generation
 
-- **From Elements to Design: A Layered Approach for Automatic Graphic Design
+- [DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation](https://arxiv.org/abs/2412.03255)
+- **From Elements to Design: A Layered Approach for Automatic Graphic Design 
   Composition**, `arXiv, 2412.19712`, [arxiv](http://arxiv.org/abs/2412.19712v1), [pdf](http://arxiv.org/pdf/2412.19712v1.pdf), cication: [**-1**](None) 
 
 	 *Jiawei Lin, Shizhao Sun, Danqing Huang, ..., Ji Li, Jiang Bian*
@@ -185,7 +186,7 @@
 
 ## Efficient
 
-- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper:
+- [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper: 
 - **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers 
   Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
 
@@ -380,6 +381,7 @@
 
 ## Editting
 
+- [Paper page - Edicho: Consistent Image Editing in the Wild](https://huggingface.co/papers/2412.21079)
 - [**InvSR**](https://github.com/zsyOAOA/InvSR) - zsyOAOA ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star) 
 - **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free 
   Scale Fusion**, `arXiv, 2412.09626`, [arxiv](http://arxiv.org/abs/2412.09626v1), [pdf](http://arxiv.org/pdf/2412.09626v1.pdf), cication: [**-1**](None) 
@@ -454,6 +456,7 @@
 
 ## Alignment
 
+- [VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation](https://arxiv.org/abs/2412.21059)
 - [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](https://huggingface.co/blog/image-preferences) 
 - **Scalable Ranked Preference Optimization for Text-to-Image Generation**, `arXiv, 2410.18013`, [arxiv](http://arxiv.org/abs/2410.18013v2), [pdf](http://arxiv.org/pdf/2410.18013v2.pdf), cication: [**-1**](None) 
 

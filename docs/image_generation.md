@@ -120,6 +120,10 @@
 
 ## Control Generation
 
+- **DynamicControl: Adaptive Condition Selection for Improved Text-to-Image
+  Generation**, `arXiv, 2412.03255`, [arxiv](http://arxiv.org/abs/2412.03255v1), [pdf](http://arxiv.org/pdf/2412.03255v1.pdf), cication: [**-1**](None) 
+
+	 *Qingdong He, Jinlong Peng, Pengcheng Xu, ..., Xiangtai Li, Jiangning Zhang*
 - **From Elements to Design: A Layered Approach for Automatic Graphic Design 
   Composition**, `arXiv, 2412.19712`, [arxiv](http://arxiv.org/abs/2412.19712v1), [pdf](http://arxiv.org/pdf/2412.19712v1.pdf), cication: [**-1**](None) 
 
@@ -380,6 +384,9 @@
 
 ## Editting
 
+- **Edicho: Consistent Image Editing in the Wild**, `arXiv, 2412.21079`, [arxiv](http://arxiv.org/abs/2412.21079v2), [pdf](http://arxiv.org/pdf/2412.21079v2.pdf), cication: [**-1**](None) 
+
+	 *Qingyan Bai, Hao Ouyang, Yinghao Xu, ..., Yujun Shen, Qifeng Chen*
 - [**InvSR**](https://github.com/zsyOAOA/InvSR) - zsyOAOA ![Star](https://img.shields.io/github/stars/zsyOAOA/InvSR.svg?style=social&label=Star) 
 - **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free 
   Scale Fusion**, `arXiv, 2412.09626`, [arxiv](http://arxiv.org/abs/2412.09626v1), [pdf](http://arxiv.org/pdf/2412.09626v1.pdf), cication: [**-1**](None) 
@@ -454,6 +461,10 @@
 
 ## Alignment
 
+- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning
+  for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
+
+	 *Jiazheng Xu, Yu Huang, Jiale Cheng, ..., Jie Tang, Yuxiao Dong*
 - [Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](https://huggingface.co/blog/image-preferences) 
 - **Scalable Ranked Preference Optimization for Text-to-Image Generation**, `arXiv, 2410.18013`, [arxiv](http://arxiv.org/abs/2410.18013v2), [pdf](http://arxiv.org/pdf/2410.18013v2.pdf), cication: [**-1**](None) 
 

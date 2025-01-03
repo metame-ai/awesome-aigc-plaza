@@ -22,6 +22,12 @@
 
 ## Generation
 
+- **Open-Sora: Democratizing Efficient Video Production for All**, `arXiv, 2412.20404`, [arxiv](http://arxiv.org/abs/2412.20404v1), [pdf](http://arxiv.org/pdf/2412.20404v1.pdf), cication: [**-1**](None) 
+
+	 *Zangwei Zheng, Xiangyu Peng, Tianji Yang, ..., Tianyi Li, Yang You* · ([Open-Sora](https://github.com/hpcaitech/Open-Sora) - hpcaitech) ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)
+- [**musubi-tuner**](https://github.com/kohya-ss/musubi-tuner) - kohya-ss ![Star](https://img.shields.io/github/stars/kohya-ss/musubi-tuner.svg?style=social&label=Star)
+
+	 · ([civitai](https://civitai.com/user/ttplanet)) · ([bilibili](https://www.bilibili.com/video/BV1QircYaE7M?t=64.2))
 - **Autoregressive Video Generation without Vector Quantization**, `arXiv, 2412.14169`, [arxiv](http://arxiv.org/abs/2412.14169v1), [pdf](http://arxiv.org/pdf/2412.14169v1.pdf), cication: [**-1**](None) 
 
 	 *Haoge Deng, Ting Pan, Haiwen Diao, ..., Yonggang Qi, Xinlong Wang* · ([NOVA](https://github.com/baaivision/NOVA) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)

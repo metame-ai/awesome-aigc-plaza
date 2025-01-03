@@ -22,6 +22,11 @@
 
 ## Generation
 
+- [Open-Sora: Democratizing Efficient Video Production for All](https://arxiv.org/abs/2412.20404)
+   - [github.com](https://github.com/hpcaitech/Open-Sora)
+- [This repository provides scripts for training LoRA (Low-Rank Adaptation) models with HunyuanVideo.](https://github.com/kohya-ss/musubi-tuner)
+   - [civitai.com](https://civitai.com/user/ttplanet)
+   - [www.bilibili.com](https://www.bilibili.com/video/BV1QircYaE7M?t=64.2)
 - **Autoregressive Video Generation without Vector Quantization**, `arXiv, 2412.14169`, [arxiv](http://arxiv.org/abs/2412.14169v1), [pdf](http://arxiv.org/pdf/2412.14169v1.pdf), cication: [**-1**](None) 
 
 	 *Haoge Deng, Ting Pan, Haiwen Diao, ..., Yonggang Qi, Xinlong Wang* · ([NOVA](https://github.com/baaivision/NOVA) - baaivision) ![Star](https://img.shields.io/github/stars/baaivision/NOVA.svg?style=social&label=Star)
