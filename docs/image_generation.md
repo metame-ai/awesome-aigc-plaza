@@ -120,7 +120,7 @@
 
 ## Control Generation
 
-- **DynamicControl: Adaptive Condition Selection for Improved Text-to-Image
+- **DynamicControl: Adaptive Condition Selection for Improved Text-to-Image 
   Generation**, `arXiv, 2412.03255`, [arxiv](http://arxiv.org/abs/2412.03255v1), [pdf](http://arxiv.org/pdf/2412.03255v1.pdf), cication: [**-1**](None) 
 
 	 *Qingdong He, Jinlong Peng, Pengcheng Xu, ..., Xiangtai Li, Jiangning Zhang*
@@ -461,7 +461,7 @@
 
 ## Alignment
 
-- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning
+- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning 
   for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
 
 	 *Jiazheng Xu, Yu Huang, Jiale Cheng, ..., Jie Tang, Yuxiao Dong*
