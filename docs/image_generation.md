@@ -75,6 +75,7 @@
 
 ## Evaluation
 
+- [Text-to-Image Arena Leaderboard i](https://x.com/lmarena_ai/status/1876318670621901018)  𝕏
 - **Multimodal Large Language Model is a Human-Aligned Annotator for 
   Text-to-Image Generation**, `arXiv, 2404.15100`, [arxiv](http://arxiv.org/abs/2404.15100v1), [pdf](http://arxiv.org/pdf/2404.15100v1.pdf), cication: [**-1**](None) 
 
@@ -222,6 +223,10 @@
 
 ## Personalization
 
+- **Nested Attention: Semantic-aware Attention Values for Concept
+  Personalization**, `arXiv, 2501.01407`, [arxiv](http://arxiv.org/abs/2501.01407v1), [pdf](http://arxiv.org/pdf/2501.01407v1.pdf), cication: [**-1**](None) 
+
+	 *Or Patashnik, Rinon Gal, Daniil Ostashev, ..., Kfir Aberman, Daniel Cohen-Or*
 - **Dense-Face: Personalized Face Generation Model via Dense Annotation 
   Prediction**, `arXiv, 2412.18149`, [arxiv](http://arxiv.org/abs/2412.18149v1), [pdf](http://arxiv.org/pdf/2412.18149v1.pdf), cication: [**-1**](None) 
 
@@ -261,6 +266,9 @@
 
 ## Try On
 
+- **TryOffAnyone: Tiled Cloth Generation from a Dressed Person**, `arXiv, 2412.08573`, [arxiv](http://arxiv.org/abs/2412.08573v2), [pdf](http://arxiv.org/pdf/2412.08573v2.pdf), cication: [**-1**](None) 
+
+	 *Ioannis Xarchakos, Theodoros Koukopoulos*
 - **FashionComposer: Compositional Fashion Image Generation**, `arXiv, 2412.14168`, [arxiv](http://arxiv.org/abs/2412.14168v2), [pdf](http://arxiv.org/pdf/2412.14168v2.pdf), cication: [**-1**](None) 
 
 	 *Sihui Ji, Yiyang Wang, Xi Chen, ..., Hao Luo, Hengshuang Zhao* · ([sihuiji.github](https://sihuiji.github.io/FashionComposer-Page/))
@@ -477,6 +485,9 @@
 
 ## Projects
 
+- [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star)
+
+	 *Taming Optimization Dilemma in Latent Diffusion Models*
 - [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star) 
 - [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 

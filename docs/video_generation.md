@@ -22,6 +22,9 @@
 
 ## Generation
 
+- **LTX-Video: Realtime Video Latent Diffusion**, `arXiv, 2501.00103`, [arxiv](http://arxiv.org/abs/2501.00103v1), [pdf](http://arxiv.org/pdf/2501.00103v1.pdf), cication: [**-1**](None) 
+
+	 *Yoav HaCohen, Nisan Chiprut, Benny Brazowski, ..., Zeev Melumian, Ofir Bibi* · ([LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks) ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
 - **Open-Sora: Democratizing Efficient Video Production for All**, `arXiv, 2412.20404`, [arxiv](http://arxiv.org/abs/2412.20404v1), [pdf](http://arxiv.org/pdf/2412.20404v1.pdf), cication: [**-1**](None) 
 
 	 *Zangwei Zheng, Xiangyu Peng, Tianji Yang, ..., Tianyi Li, Yang You* · ([Open-Sora](https://github.com/hpcaitech/Open-Sora) - hpcaitech) ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)
@@ -248,6 +251,9 @@
 
 ## Editting
 
+- **Generative Video Propagation**, `arXiv, 2412.19761`, [arxiv](http://arxiv.org/abs/2412.19761v1), [pdf](http://arxiv.org/pdf/2412.19761v1.pdf), cication: [**-1**](None) 
+
+	 *Shaoteng Liu, Tianyu Wang, Jui-Hsien Wang, ..., Soo Ye Kim, Jiaya Jia*
 - **MoViE: Mobile Diffusion for Video Editing**, `arXiv, 2412.06578`, [arxiv](http://arxiv.org/abs/2412.06578v1), [pdf](http://arxiv.org/pdf/2412.06578v1.pdf), cication: [**-1**](None) 
 
 	 *Adil Karjauv, Noor Fathima, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian*
