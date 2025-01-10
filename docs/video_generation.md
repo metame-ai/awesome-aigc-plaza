@@ -22,6 +22,18 @@
 
 ## Generation
 
+- [Hunyuan Video Speed Up with Teacache method has been added to my comfyui toolset](https://x.com/ttplanet/status/1876837116950597867)  𝕏
+- **TransPixar: Advancing Text-to-Video Generation with Transparency**, `arXiv, 2501.03006`, [arxiv](http://arxiv.org/abs/2501.03006v1), [pdf](http://arxiv.org/pdf/2501.03006v1.pdf), cication: [**-1**](None) 
+
+	 *Luozhou Wang, Yijun Li, Zhifei Chen, ..., Zhe Lin, Yingcong Chen* · ([wileewang.github](https://wileewang.github.io/TransPixar/)) · ([huggingface](https://huggingface.co/spaces/wileewang/TransPixar))
+- **Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video
+  Generation Control**, `arXiv, 2501.03847`, [arxiv](http://arxiv.org/abs/2501.03847v2), [pdf](http://arxiv.org/pdf/2501.03847v2.pdf), cication: [**-1**](None) 
+
+	 *Zekai Gu, Rui Yan, Jiahao Lu, ..., Wenping Wang, Yuan Liu* · ([DiffusionAsShader](https://github.com/IGL-HKUST/DiffusionAsShader) - IGL-HKUST) ![Star](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Star)
+- **Magic Mirror: ID-Preserved Video Generation in Video Diffusion
+  Transformers**, `arXiv, 2501.03931`, [arxiv](http://arxiv.org/abs/2501.03931v1), [pdf](http://arxiv.org/pdf/2501.03931v1.pdf), cication: [**-1**](None) 
+
+	 *Yuechen Zhang, Yaoyang Liu, Bin Xia, ..., Eric Lo, Jiaya Jia* · ([julianjuaner.github](https://julianjuaner.github.io/projects/MagicMirror/index.html)) · ([MagicMirror](https://github.com/dvlab-research/MagicMirror) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/MagicMirror.svg?style=social&label=Star)
 - **LTX-Video: Realtime Video Latent Diffusion**, `arXiv, 2501.00103`, [arxiv](http://arxiv.org/abs/2501.00103v1), [pdf](http://arxiv.org/pdf/2501.00103v1.pdf), cication: [**-1**](None) 
 
 	 *Yoav HaCohen, Nisan Chiprut, Benny Brazowski, ..., Zeev Melumian, Ofir Bibi* · ([LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks) ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
@@ -251,6 +263,14 @@
 
 ## Editting
 
+- 🌟 **STAR: Spatial-Temporal Augmentation with Text-to-Video Models for
+  Real-World Video Super-Resolution**, `arXiv, 2501.02976`, [arxiv](http://arxiv.org/abs/2501.02976v1), [pdf](http://arxiv.org/pdf/2501.02976v1.pdf), cication: [**-1**](None) 
+
+	 *Rui Xie, Yinhong Liu, Penghao Zhou, ..., Zhenheng Yang, Ying Tai* · ([STAR](https://github.com/NJU-PCALab/STAR) - NJU-PCALab) ![Star](https://img.shields.io/github/stars/NJU-PCALab/STAR.svg?style=social&label=Star) · ([arxiv](https://arxiv.org/abs/2501.02976)) · ([nju-pcalab.github](https://nju-pcalab.github.io/projects/STAR/))
+- **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video
+  Restoration**, `arXiv, 2501.01320`, [arxiv](http://arxiv.org/abs/2501.01320v2), [pdf](http://arxiv.org/pdf/2501.01320v2.pdf), cication: [**-1**](None) 
+
+	 *Jianyi Wang, Zhijie Lin, Meng Wei, ..., Chen Change Loy, Lu Jiang* · ([iceclear.github](https://iceclear.github.io/projects/seedvr/))
 - **Generative Video Propagation**, `arXiv, 2412.19761`, [arxiv](http://arxiv.org/abs/2412.19761v1), [pdf](http://arxiv.org/pdf/2412.19761v1.pdf), cication: [**-1**](None) 
 
 	 *Shaoteng Liu, Tianyu Wang, Jui-Hsien Wang, ..., Soo Ye Kim, Jiaya Jia*

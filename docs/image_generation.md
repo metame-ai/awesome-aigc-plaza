@@ -37,6 +37,10 @@
 
 ## Generation
 
+- **Proactive Agents for Multi-Turn Text-to-Image Generation Under
+  Uncertainty**, `arXiv, 2412.06771`, [arxiv](http://arxiv.org/abs/2412.06771v1), [pdf](http://arxiv.org/pdf/2412.06771v1.pdf), cication: [**-1**](None) 
+
+	 *Meera Hahn, Wenjun Zeng, Nithish Kannen, ..., Been Kim, Zi Wang* · ([proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/proactive_t2i_agents.svg?style=social&label=Star)
 - **LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style 
   Conditioned Image Generation**, `arXiv, 2412.05148`, [arxiv](http://arxiv.org/abs/2412.05148v1), [pdf](http://arxiv.org/pdf/2412.05148v1.pdf), cication: [**-1**](None) 
 
@@ -75,7 +79,7 @@
 
 ## Evaluation
 
-- [Text-to-Image Arena Leaderboard i](https://x.com/lmarena_ai/status/1876318670621901018)  𝕏
+- [Text-to-Image Arena Leaderboard i](https://x.com/lmarena_ai/status/1876318670621901018)  𝕏 
 - **Multimodal Large Language Model is a Human-Aligned Annotator for 
   Text-to-Image Generation**, `arXiv, 2404.15100`, [arxiv](http://arxiv.org/abs/2404.15100v1), [pdf](http://arxiv.org/pdf/2404.15100v1.pdf), cication: [**-1**](None) 
 
@@ -223,7 +227,7 @@
 
 ## Personalization
 
-- **Nested Attention: Semantic-aware Attention Values for Concept
+- **Nested Attention: Semantic-aware Attention Values for Concept 
   Personalization**, `arXiv, 2501.01407`, [arxiv](http://arxiv.org/abs/2501.01407v1), [pdf](http://arxiv.org/pdf/2501.01407v1.pdf), cication: [**-1**](None) 
 
 	 *Or Patashnik, Rinon Gal, Daniil Ostashev, ..., Kfir Aberman, Daniel Cohen-Or*
@@ -469,6 +473,10 @@
 
 ## Alignment
 
+- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning
+  for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
+
+	 *Jiazheng Xu, Yu Huang, Jiale Cheng, ..., Jie Tang, Yuxiao Dong* · ([VisionReward](https://github.com/THUDM/VisionReward) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisionReward.svg?style=social&label=Star)
 - **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning 
   for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
 
@@ -485,7 +493,7 @@
 
 ## Projects
 
-- [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star)
+- [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star) 
 
 	 *Taming Optimization Dilemma in Latent Diffusion Models*
 - [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star) 

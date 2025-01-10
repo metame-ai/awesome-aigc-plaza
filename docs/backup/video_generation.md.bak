@@ -22,8 +22,18 @@
 
 ## Generation
 
-- [Paper page - LTX-Video: Realtime Video Latent Diffusion](https://huggingface.co/papers/2501.00103)
-   - [github.com](https://github.com/Lightricks/LTX-Video)
+- [Hunyuan Video Speed Up with Teacache method has been added to my comfyui toolset](https://x.com/ttplanet/status/1876837116950597867)
+- [Paper page - TransPixar: Advancing Text-to-Video Generation with Transparency](https://huggingface.co/papers/2501.03006)
+   - [wileewang.github.io](https://wileewang.github.io/TransPixar/)
+   - [huggingface.co](https://huggingface.co/spaces/wileewang/TransPixar)
+- [Paper page - Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video  Generation Control](https://huggingface.co/papers/2501.03847)
+   - [github.com](https://github.com/IGL-HKUST/DiffusionAsShader)
+- [Paper page - Magic Mirror: ID-Preserved Video Generation in Video Diffusion  Transformers](https://huggingface.co/papers/2501.03931)
+   - [julianjuaner.github.io](https://julianjuaner.github.io/projects/MagicMirror/index.html)
+   - [github.com](https://github.com/dvlab-research/MagicMirror)
+- **LTX-Video: Realtime Video Latent Diffusion**, `arXiv, 2501.00103`, [arxiv](http://arxiv.org/abs/2501.00103v1), [pdf](http://arxiv.org/pdf/2501.00103v1.pdf), cication: [**-1**](None) 
+
+	 *Yoav HaCohen, Nisan Chiprut, Benny Brazowski, ..., Zeev Melumian, Ofir Bibi* · ([LTX-Video](https://github.com/Lightricks/LTX-Video) - Lightricks) ![Star](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Star)
 - **Open-Sora: Democratizing Efficient Video Production for All**, `arXiv, 2412.20404`, [arxiv](http://arxiv.org/abs/2412.20404v1), [pdf](http://arxiv.org/pdf/2412.20404v1.pdf), cication: [**-1**](None) 
 
 	 *Zangwei Zheng, Xiangyu Peng, Tianji Yang, ..., Tianyi Li, Yang You* · ([Open-Sora](https://github.com/hpcaitech/Open-Sora) - hpcaitech) ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)
@@ -250,7 +260,15 @@
 
 ## Editting
 
-- [Paper page - Generative Video Propagation](https://huggingface.co/papers/2412.19761)
+- [Paper page - STAR: Spatial-Temporal Augmentation with Text-to-Video Models for  Real-World Video Super-Resolution](https://huggingface.co/papers/2501.02976)|star|
+   - [github.com](https://github.com/NJU-PCALab/STAR)
+   - [arxiv.org](https://arxiv.org/abs/2501.02976)
+   - [nju-pcalab.github.io](https://nju-pcalab.github.io/projects/STAR/)
+- [Paper page - SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video  Restoration](https://huggingface.co/papers/2501.01320)
+   - [iceclear.github.io](https://iceclear.github.io/projects/seedvr/)
+- **Generative Video Propagation**, `arXiv, 2412.19761`, [arxiv](http://arxiv.org/abs/2412.19761v1), [pdf](http://arxiv.org/pdf/2412.19761v1.pdf), cication: [**-1**](None) 
+
+	 *Shaoteng Liu, Tianyu Wang, Jui-Hsien Wang, ..., Soo Ye Kim, Jiaya Jia*
 - **MoViE: Mobile Diffusion for Video Editing**, `arXiv, 2412.06578`, [arxiv](http://arxiv.org/abs/2412.06578v1), [pdf](http://arxiv.org/pdf/2412.06578v1.pdf), cication: [**-1**](None) 
 
 	 *Adil Karjauv, Noor Fathima, Ioannis Lelekas, ..., Amir Ghodrati, Amirhossein Habibian*

@@ -37,6 +37,8 @@
 
 ## Generation
 
+- [Paper page - Proactive Agents for Multi-Turn Text-to-Image Generation Under  Uncertainty](https://huggingface.co/papers/2412.06771)
+   - [github.com](https://github.com/google-deepmind/proactive_t2i_agents)
 - **LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style 
   Conditioned Image Generation**, `arXiv, 2412.05148`, [arxiv](http://arxiv.org/abs/2412.05148v1), [pdf](http://arxiv.org/pdf/2412.05148v1.pdf), cication: [**-1**](None) 
 
@@ -75,7 +77,7 @@
 
 ## Evaluation
 
-- [Text-to-Image Arena Leaderboard i](https://x.com/lmarena_ai/status/1876318670621901018)
+- [Text-to-Image Arena Leaderboard i](https://x.com/lmarena_ai/status/1876318670621901018)  𝕏
 - **Multimodal Large Language Model is a Human-Aligned Annotator for 
   Text-to-Image Generation**, `arXiv, 2404.15100`, [arxiv](http://arxiv.org/abs/2404.15100v1), [pdf](http://arxiv.org/pdf/2404.15100v1.pdf), cication: [**-1**](None) 
 
@@ -223,7 +225,10 @@
 
 ## Personalization
 
-- [Paper page - Nested Attention: Semantic-aware Attention Values for Concept  Personalization](https://huggingface.co/papers/2501.01407)
+- **Nested Attention: Semantic-aware Attention Values for Concept
+  Personalization**, `arXiv, 2501.01407`, [arxiv](http://arxiv.org/abs/2501.01407v1), [pdf](http://arxiv.org/pdf/2501.01407v1.pdf), cication: [**-1**](None) 
+
+	 *Or Patashnik, Rinon Gal, Daniil Ostashev, ..., Kfir Aberman, Daniel Cohen-Or*
 - **Dense-Face: Personalized Face Generation Model via Dense Annotation 
   Prediction**, `arXiv, 2412.18149`, [arxiv](http://arxiv.org/abs/2412.18149v1), [pdf](http://arxiv.org/pdf/2412.18149v1.pdf), cication: [**-1**](None) 
 
@@ -263,7 +268,9 @@
 
 ## Try On
 
-- [Paper page - TryOffAnyone: Tiled Cloth Generation from a Dressed Person](https://huggingface.co/papers/2412.08573)
+- **TryOffAnyone: Tiled Cloth Generation from a Dressed Person**, `arXiv, 2412.08573`, [arxiv](http://arxiv.org/abs/2412.08573v2), [pdf](http://arxiv.org/pdf/2412.08573v2.pdf), cication: [**-1**](None) 
+
+	 *Ioannis Xarchakos, Theodoros Koukopoulos*
 - **FashionComposer: Compositional Fashion Image Generation**, `arXiv, 2412.14168`, [arxiv](http://arxiv.org/abs/2412.14168v2), [pdf](http://arxiv.org/pdf/2412.14168v2.pdf), cication: [**-1**](None) 
 
 	 *Sihui Ji, Yiyang Wang, Xi Chen, ..., Hao Luo, Hengshuang Zhao* · ([sihuiji.github](https://sihuiji.github.io/FashionComposer-Page/))
@@ -464,6 +471,8 @@
 
 ## Alignment
 
+- [Paper page - VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning  for Image and Video Generation](https://huggingface.co/papers/2412.21059)
+   - [github.com](https://github.com/THUDM/VisionReward)
 - **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning 
   for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
 
@@ -480,7 +489,9 @@
 
 ## Projects
 
-- [Reconstruction vs. Generation:Taming Optimization Dilemma in Latent Diffusion Models](https://github.com/hustvl/LightningDiT)
+- [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star)
+
+	 *Taming Optimization Dilemma in Latent Diffusion Models*
 - [**causalfusion**](https://github.com/causalfusion/causalfusion) - causalfusion ![Star](https://img.shields.io/github/stars/causalfusion/causalfusion.svg?style=social&label=Star) 
 - [Spaces:   takarajordan / CineDiffusion](https://huggingface.co/spaces/takarajordan/CineDiffusion/tree/main)  🤗 
 - [Shuttle 3 Diffusion is a text-to-image AI model designed to create detailed and diverse images from textual prompts in just 4 steps.](https://huggingface.co/shuttleai/shuttle-3-diffusion)  🤗 
