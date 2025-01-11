@@ -37,7 +37,7 @@
 
 ## Generation
 
-- **Proactive Agents for Multi-Turn Text-to-Image Generation Under
+- **Proactive Agents for Multi-Turn Text-to-Image Generation Under 
   Uncertainty**, `arXiv, 2412.06771`, [arxiv](http://arxiv.org/abs/2412.06771v1), [pdf](http://arxiv.org/pdf/2412.06771v1.pdf), cication: [**-1**](None) 
 
 	 *Meera Hahn, Wenjun Zeng, Nithish Kannen, ..., Been Kim, Zi Wang* · ([proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/proactive_t2i_agents.svg?style=social&label=Star)
@@ -473,7 +473,7 @@
 
 ## Alignment
 
-- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning
+- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning 
   for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
 
 	 *Jiazheng Xu, Yu Huang, Jiale Cheng, ..., Jie Tang, Yuxiao Dong* · ([VisionReward](https://github.com/THUDM/VisionReward) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisionReward.svg?style=social&label=Star)

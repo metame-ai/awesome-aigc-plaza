@@ -62,7 +62,7 @@
 
 ## Image to 3D
 
-- [Stable Point Aware 3D (SPAR3D) is a large reconstruction model based on SF3D](https://huggingface.co/stabilityai/stable-point-aware-3d)
+- [Stable Point Aware 3D (SPAR3D) is a large reconstruction model based on SF3D](https://huggingface.co/stabilityai/stable-point-aware-3d)  🤗
 - **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**, `arXiv, 2411.05738`, [arxiv](http://arxiv.org/abs/2411.05738v1), [pdf](http://arxiv.org/pdf/2411.05738v1.pdf), cication: [**-1**](None) 
 
 	 *Yuze He, Yanning Zhou, Wang Zhao, ..., Yong-Jin Liu, Xiao Han* · ([stdgen.github](https://stdgen.github.io))
