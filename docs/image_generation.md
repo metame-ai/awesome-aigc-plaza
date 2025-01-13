@@ -37,6 +37,9 @@
 
 ## Generation
 
+- 🌟 **The GAN is dead; long live the GAN! A Modern GAN Baseline**, `arXiv, 2501.05441`, [arxiv](http://arxiv.org/abs/2501.05441v1), [pdf](http://arxiv.org/pdf/2501.05441v1.pdf), cication: [**-1**](None) 
+
+	 *Yiwen Huang, Aaron Gokaslan, Volodymyr Kuleshov, ..., James Tompkin* · ([R3GAN](https://github.com/brownvc/R3GAN/) - brownvc) ![Star](https://img.shields.io/github/stars/brownvc/R3GAN.svg?style=social&label=Star)
 - **Proactive Agents for Multi-Turn Text-to-Image Generation Under 
   Uncertainty**, `arXiv, 2412.06771`, [arxiv](http://arxiv.org/abs/2412.06771v1), [pdf](http://arxiv.org/pdf/2412.06771v1.pdf), cication: [**-1**](None) 
 
@@ -194,6 +197,9 @@
 
 ## Efficient
 
+- **BiDM: Pushing the Limit of Quantization for Diffusion Models**, `arXiv, 2412.05926`, [arxiv](http://arxiv.org/abs/2412.05926v1), [pdf](http://arxiv.org/pdf/2412.05926v1.pdf), cication: [**-1**](None) 
+
+	 *Xingyu Zheng, Xianglong Liu, Yichen Bian, ..., Jinyang Guo, Haotong Qin*
 - [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper: 
 - **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers 
   Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 

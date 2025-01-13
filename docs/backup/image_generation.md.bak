@@ -37,7 +37,9 @@
 
 ## Generation
 
-- **Proactive Agents for Multi-Turn Text-to-Image Generation Under
+- [Paper page - The GAN is dead; long live the GAN! A Modern GAN Baseline](https://huggingface.co/papers/2501.05441)|star|
+   - [github.com](https://github.com/brownvc/R3GAN/)
+- **Proactive Agents for Multi-Turn Text-to-Image Generation Under 
   Uncertainty**, `arXiv, 2412.06771`, [arxiv](http://arxiv.org/abs/2412.06771v1), [pdf](http://arxiv.org/pdf/2412.06771v1.pdf), cication: [**-1**](None) 
 
 	 *Meera Hahn, Wenjun Zeng, Nithish Kannen, ..., Been Kim, Zi Wang* · ([proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents) - google-deepmind) ![Star](https://img.shields.io/github/stars/google-deepmind/proactive_t2i_agents.svg?style=social&label=Star)
@@ -194,6 +196,7 @@
 
 ## Efficient
 
+- [BiDM: Pushing the Limit of Quantization for Diffusion Models](https://arxiv.org/abs/2412.05926)
 - [EfficientML.ai 2024 | Introduction to SVDQuant for 4-bit Diffusion Models](https://www.youtube.com/watch?v=nYujDH9r69s)  :clapper: 
 - **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers 
   Up**, `arXiv, 2412.16112`, [arxiv](http://arxiv.org/abs/2412.16112v1), [pdf](http://arxiv.org/pdf/2412.16112v1.pdf), cication: [**-1**](None) 
@@ -473,7 +476,7 @@
 
 ## Alignment
 
-- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning
+- **VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning 
   for Image and Video Generation**, `arXiv, 2412.21059`, [arxiv](http://arxiv.org/abs/2412.21059v1), [pdf](http://arxiv.org/pdf/2412.21059v1.pdf), cication: [**-1**](None) 
 
 	 *Jiazheng Xu, Yu Huang, Jiale Cheng, ..., Jie Tang, Yuxiao Dong* · ([VisionReward](https://github.com/THUDM/VisionReward) - THUDM) ![Star](https://img.shields.io/github/stars/THUDM/VisionReward.svg?style=social&label=Star)
