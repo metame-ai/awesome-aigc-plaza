@@ -37,8 +37,9 @@
 
 ## Generation
 
-- [Paper page - Decentralized Diffusion Models](https://huggingface.co/papers/2501.05450)
-   - [decentralizeddiffusion.github.io](https://decentralizeddiffusion.github.io/)
+- **Decentralized Diffusion Models**, `arXiv, 2501.05450`, [arxiv](http://arxiv.org/abs/2501.05450v2), [pdf](http://arxiv.org/pdf/2501.05450v2.pdf), cication: [**-1**](None) 
+
+	 *David McAllister, Matthew Tancik, Jiaming Song, ..., Angjoo Kanazawa* · ([decentralizeddiffusion.github](https://decentralizeddiffusion.github.io/))
 - 🌟 **The GAN is dead; long live the GAN! A Modern GAN Baseline**, `arXiv, 2501.05441`, [arxiv](http://arxiv.org/abs/2501.05441v1), [pdf](http://arxiv.org/pdf/2501.05441v1.pdf), cication: [**-1**](None) 
 
 	 *Yiwen Huang, Aaron Gokaslan, Volodymyr Kuleshov, ..., James Tompkin* · ([R3GAN](https://github.com/brownvc/R3GAN/) - brownvc) ![Star](https://img.shields.io/github/stars/brownvc/R3GAN.svg?style=social&label=Star)
@@ -199,7 +200,9 @@
 
 ## Efficient
 
-- [Accelerated Diffusion Models via Speculative Sampling](https://arxiv.org/abs/2501.05370)
+- **Accelerated Diffusion Models via Speculative Sampling**, `arXiv, 2501.05370`, [arxiv](http://arxiv.org/abs/2501.05370v1), [pdf](http://arxiv.org/pdf/2501.05370v1.pdf), cication: [**-1**](None) 
+
+	 *Valentin De Bortoli, Alexandre Galashov, Arthur Gretton, ..., Arnaud Doucet*
 - **BiDM: Pushing the Limit of Quantization for Diffusion Models**, `arXiv, 2412.05926`, [arxiv](http://arxiv.org/abs/2412.05926v1), [pdf](http://arxiv.org/pdf/2412.05926v1.pdf), cication: [**-1**](None) 
 
 	 *Xingyu Zheng, Xianglong Liu, Yichen Bian, ..., Jinyang Guo, Haotong Qin*
@@ -502,6 +505,7 @@
 
 ## Projects
 
+- [Flex.1 alpha is a pre-trained base 8 billion parameter rectified flow transformer capable of generating images from text descriptions.](https://huggingface.co/ostris/Flex.1-alpha)
 - [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star) 
 
 	 *Taming Optimization Dilemma in Latent Diffusion Models*

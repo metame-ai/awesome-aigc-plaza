@@ -505,6 +505,7 @@
 
 ## Projects
 
+- [Flex.1 alpha is a pre-trained base 8 billion parameter rectified flow transformer capable of generating images from text descriptions.](https://huggingface.co/ostris/Flex.1-alpha)  🤗
 - [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star) 
 
 	 *Taming Optimization Dilemma in Latent Diffusion Models*
