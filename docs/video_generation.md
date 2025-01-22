@@ -22,6 +22,13 @@
 
 ## Generation
 
+- **Diffusion Adversarial Post-Training for One-Step Video Generation**, `arXiv, 2501.08316`, [arxiv](http://arxiv.org/abs/2501.08316v1), [pdf](http://arxiv.org/pdf/2501.08316v1.pdf), cication: [**-1**](None) 
+
+	 *Shanchuan Lin, Xin Xia, Yuxi Ren, ..., Xuefeng Xiao, Lu Jiang* · ([seaweed-apt](https://seaweed-apt.com/))
+- **Do generative video models learn physical principles from watching
+  videos?**, `arXiv, 2501.09038`, [arxiv](http://arxiv.org/abs/2501.09038v1), [pdf](http://arxiv.org/pdf/2501.09038v1.pdf), cication: [**-1**](None) 
+
+	 *Saman Motamed, Laura Culp, Kevin Swersky, ..., Priyank Jaini, Robert Geirhos*
 - [Hunyuan Video Speed Up with Teacache method has been added to my comfyui toolset](https://x.com/ttplanet/status/1876837116950597867)  𝕏 
 - **TransPixar: Advancing Text-to-Video Generation with Transparency**, `arXiv, 2501.03006`, [arxiv](http://arxiv.org/abs/2501.03006v1), [pdf](http://arxiv.org/pdf/2501.03006v1.pdf), cication: [**-1**](None) 
 

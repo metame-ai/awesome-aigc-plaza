@@ -37,6 +37,7 @@
 
 ## Generation
 
+- [Paper page - Inference-Time Scaling for Diffusion Models beyond Scaling Denoising  Steps](https://huggingface.co/papers/2501.09732)
 - **Decentralized Diffusion Models**, `arXiv, 2501.05450`, [arxiv](http://arxiv.org/abs/2501.05450v2), [pdf](http://arxiv.org/pdf/2501.05450v2.pdf), cication: [**-1**](None) 
 
 	 *David McAllister, Matthew Tancik, Jiaming Song, ..., Angjoo Kanazawa* · ([decentralizeddiffusion.github](https://decentralizeddiffusion.github.io/))
@@ -131,6 +132,7 @@
 
 ## Control Generation
 
+- [Paper page - 3DIS-FLUX: simple and efficient multi-instance generation with DiT  rendering](https://huggingface.co/papers/2501.05131)
 - **DynamicControl: Adaptive Condition Selection for Improved Text-to-Image 
   Generation**, `arXiv, 2412.03255`, [arxiv](http://arxiv.org/abs/2412.03255v1), [pdf](http://arxiv.org/pdf/2412.03255v1.pdf), cication: [**-1**](None) 
 
@@ -408,6 +410,8 @@
 
 ## Editting
 
+- [Paper page - MangaNinja: Line Art Colorization with Precise Reference Following](https://huggingface.co/papers/2501.08332)|star|
+   - [johanan528.github.io](https://johanan528.github.io/MangaNinjia/)
 - **Edicho: Consistent Image Editing in the Wild**, `arXiv, 2412.21079`, [arxiv](http://arxiv.org/abs/2412.21079v2), [pdf](http://arxiv.org/pdf/2412.21079v2.pdf), cication: [**-1**](None) 
 
 	 *Qingyan Bai, Hao Ouyang, Yinghao Xu, ..., Yujun Shen, Qifeng Chen*
@@ -505,7 +509,7 @@
 
 ## Projects
 
-- [Flex.1 alpha is a pre-trained base 8 billion parameter rectified flow transformer capable of generating images from text descriptions.](https://huggingface.co/ostris/Flex.1-alpha)
+- [Flex.1 alpha is a pre-trained base 8 billion parameter rectified flow transformer capable of generating images from text descriptions.](https://huggingface.co/ostris/Flex.1-alpha)  🤗
 - [**LightningDiT**](https://github.com/hustvl/LightningDiT) - hustvl ![Star](https://img.shields.io/github/stars/hustvl/LightningDiT.svg?style=social&label=Star) 
 
 	 *Taming Optimization Dilemma in Latent Diffusion Models*
