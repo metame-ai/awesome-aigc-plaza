@@ -37,7 +37,11 @@
 
 ## Generation
 
-- **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising
+- **Can We Generate Images with CoT? Let's Verify and Reinforce Image
+  Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, ..., Hongsheng Li, Pheng-Ann Heng* · ([Image-Generation-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT) - ZiyuGuo99) ![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)
+- **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising 
   Steps**, `arXiv, 2501.09732`, [arxiv](http://arxiv.org/abs/2501.09732v1), [pdf](http://arxiv.org/pdf/2501.09732v1.pdf), cication: [**-1**](None) 
 
 	 *Nanye Ma, Shangyuan Tong, Haolin Jia, ..., Xuhui Jia, Saining Xie*
@@ -135,7 +139,7 @@
 
 ## Control Generation
 
-- **3DIS-FLUX: simple and efficient multi-instance generation with DiT
+- **3DIS-FLUX: simple and efficient multi-instance generation with DiT 
   rendering**, `arXiv, 2501.05131`, [arxiv](http://arxiv.org/abs/2501.05131v1), [pdf](http://arxiv.org/pdf/2501.05131v1.pdf), cication: [**-1**](None) 
 
 	 *Dewei Zhou, Ji Xie, Zongxin Yang, ..., Yi Yang*
