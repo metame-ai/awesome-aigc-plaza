@@ -22,10 +22,11 @@
 
 ## Generation
 
+- [Paper page - EchoVideo: Identity-Preserving Human Video Generation by Multimodal  Feature Fusion](https://huggingface.co/papers/2501.13452)
 - **Diffusion Adversarial Post-Training for One-Step Video Generation**, `arXiv, 2501.08316`, [arxiv](http://arxiv.org/abs/2501.08316v1), [pdf](http://arxiv.org/pdf/2501.08316v1.pdf), cication: [**-1**](None) 
 
 	 *Shanchuan Lin, Xin Xia, Yuxi Ren, ..., Xuefeng Xiao, Lu Jiang* · ([seaweed-apt](https://seaweed-apt.com/))
-- **Do generative video models learn physical principles from watching
+- **Do generative video models learn physical principles from watching 
   videos?**, `arXiv, 2501.09038`, [arxiv](http://arxiv.org/abs/2501.09038v1), [pdf](http://arxiv.org/pdf/2501.09038v1.pdf), cication: [**-1**](None) 
 
 	 *Saman Motamed, Laura Culp, Kevin Swersky, ..., Priyank Jaini, Robert Geirhos*
@@ -250,6 +251,8 @@
 
 ## Alignment
 
+- [Paper page - Improving Video Generation with Human Feedback](https://huggingface.co/papers/2501.13918)
+   - [gongyeliu.github.io](https://gongyeliu.github.io/videoalign)
 - **VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**, `arXiv, 2412.14167`, [arxiv](http://arxiv.org/abs/2412.14167v1), [pdf](http://arxiv.org/pdf/2412.14167v1.pdf), cication: [**-1**](None) 
 
 	 *Runtao Liu, Haoyu Wu, Zheng Ziqiang, ..., Renjie Pi, Qifeng Chen* · ([videodpo.github](https://videodpo.github.io/))

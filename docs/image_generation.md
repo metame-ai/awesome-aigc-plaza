@@ -37,7 +37,11 @@
 
 ## Generation
 
-- **Can We Generate Images with CoT? Let's Verify and Reinforce Image
+- **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art
+  Text-to-Image Models**, `arXiv, 2501.13920`, [arxiv](http://arxiv.org/abs/2501.13920v1), [pdf](http://arxiv.org/pdf/2501.13920v1.pdf), cication: [**-1**](None) 
+
+	 *Jiayi Lei, Renrui Zhang, Xiangfei Hu, ..., Peng Gao, Hongsheng Li* · ([Imagine-e.](https://github.com/jylei16/Imagine-e.) - jylei16) ![Star](https://img.shields.io/github/stars/jylei16/Imagine-e..svg?style=social&label=Star)
+- **Can We Generate Images with CoT? Let's Verify and Reinforce Image 
   Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, ..., Hongsheng Li, Pheng-Ann Heng* · ([Image-Generation-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT) - ZiyuGuo99) ![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)
@@ -251,6 +255,10 @@
 
 ## Personalization
 
+- **TokenVerse: Versatile Multi-concept Personalization in Token Modulation
+  Space**, `arXiv, 2501.12224`, [arxiv](http://arxiv.org/abs/2501.12224v1), [pdf](http://arxiv.org/pdf/2501.12224v1.pdf), cication: [**-1**](None) 
+
+	 *Daniel Garibi, Shahar Yadin, Roni Paiss, ..., Inbar Mosseri, Tali Dekel*
 - **Nested Attention: Semantic-aware Attention Values for Concept 
   Personalization**, `arXiv, 2501.01407`, [arxiv](http://arxiv.org/abs/2501.01407v1), [pdf](http://arxiv.org/pdf/2501.01407v1.pdf), cication: [**-1**](None) 
 

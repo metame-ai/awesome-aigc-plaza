@@ -37,9 +37,13 @@
 
 ## Generation
 
-- [Paper page - Can We Generate Images with CoT? Let's Verify and Reinforce Image  Generation Step by Step](https://huggingface.co/papers/2501.13926)
-   - [github.com](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-- **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising
+- [Paper page - IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art  Text-to-Image Models](https://huggingface.co/papers/2501.13920)
+   - [github.com](https://github.com/jylei16/Imagine-e.)
+- **Can We Generate Images with CoT? Let's Verify and Reinforce Image
+  Generation Step by Step**, `arXiv, 2501.13926`, [arxiv](http://arxiv.org/abs/2501.13926v1), [pdf](http://arxiv.org/pdf/2501.13926v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyu Guo, Renrui Zhang, Chengzhuo Tong, ..., Hongsheng Li, Pheng-Ann Heng* · ([Image-Generation-CoT](https://github.com/ZiyuGuo99/Image-Generation-CoT) - ZiyuGuo99) ![Star](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT.svg?style=social&label=Star)
+- **Inference-Time Scaling for Diffusion Models beyond Scaling Denoising 
   Steps**, `arXiv, 2501.09732`, [arxiv](http://arxiv.org/abs/2501.09732v1), [pdf](http://arxiv.org/pdf/2501.09732v1.pdf), cication: [**-1**](None) 
 
 	 *Nanye Ma, Shangyuan Tong, Haolin Jia, ..., Xuhui Jia, Saining Xie*
@@ -137,7 +141,7 @@
 
 ## Control Generation
 
-- **3DIS-FLUX: simple and efficient multi-instance generation with DiT
+- **3DIS-FLUX: simple and efficient multi-instance generation with DiT 
   rendering**, `arXiv, 2501.05131`, [arxiv](http://arxiv.org/abs/2501.05131v1), [pdf](http://arxiv.org/pdf/2501.05131v1.pdf), cication: [**-1**](None) 
 
 	 *Dewei Zhou, Ji Xie, Zongxin Yang, ..., Yi Yang*
@@ -249,6 +253,7 @@
 
 ## Personalization
 
+- [Paper page - TokenVerse: Versatile Multi-concept Personalization in Token Modulation  Space](https://huggingface.co/papers/2501.12224)
 - **Nested Attention: Semantic-aware Attention Values for Concept 
   Personalization**, `arXiv, 2501.01407`, [arxiv](http://arxiv.org/abs/2501.01407v1), [pdf](http://arxiv.org/pdf/2501.01407v1.pdf), cication: [**-1**](None) 
 

@@ -19,6 +19,10 @@
 
 ## 3D Generation
 
+- **Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D
+  Assets Generation**, `arXiv, 2501.12202`, [arxiv](http://arxiv.org/abs/2501.12202v2), [pdf](http://arxiv.org/pdf/2501.12202v2.pdf), cication: [**-1**](None) 
+
+	 *Zibo Zhao, Zeqiang Lai, Qingxiang Lin, ..., Jingwei Huang, Chunchao Guo* · ([Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - Tencent) ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star)
 - **Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**, `arXiv, 2412.17808`, [arxiv](http://arxiv.org/abs/2412.17808v2), [pdf](http://arxiv.org/pdf/2412.17808v2.pdf), cication: [**-1**](None) 
 
 	 *Rui Chen, Jianfeng Zhang, Yixun Liang, ..., Jiashi Feng, Ping Tan* · ([aruichen.github](https://aruichen.github.io/Dora/))

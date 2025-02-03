@@ -19,6 +19,8 @@
 
 ## 3D Generation
 
+- [Paper page - Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D  Assets Generation](https://huggingface.co/papers/2501.12202)
+   - [github.com](https://github.com/Tencent/Hunyuan3D-2)
 - **Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**, `arXiv, 2412.17808`, [arxiv](http://arxiv.org/abs/2412.17808v2), [pdf](http://arxiv.org/pdf/2412.17808v2.pdf), cication: [**-1**](None) 
 
 	 *Rui Chen, Jianfeng Zhang, Yixun Liang, ..., Jiashi Feng, Ping Tan* · ([aruichen.github](https://aruichen.github.io/Dora/))
