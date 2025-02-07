@@ -37,7 +37,8 @@
 
 ## Generation
 
-- **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art
+- [Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transformer capable of generating images from text descriptions.](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)  🤗
+- **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art 
   Text-to-Image Models**, `arXiv, 2501.13920`, [arxiv](http://arxiv.org/abs/2501.13920v1), [pdf](http://arxiv.org/pdf/2501.13920v1.pdf), cication: [**-1**](None) 
 
 	 *Jiayi Lei, Renrui Zhang, Xiangfei Hu, ..., Peng Gao, Hongsheng Li* · ([Imagine-e.](https://github.com/jylei16/Imagine-e.) - jylei16) ![Star](https://img.shields.io/github/stars/jylei16/Imagine-e..svg?style=social&label=Star)
@@ -255,7 +256,7 @@
 
 ## Personalization
 
-- **TokenVerse: Versatile Multi-concept Personalization in Token Modulation
+- **TokenVerse: Versatile Multi-concept Personalization in Token Modulation 
   Space**, `arXiv, 2501.12224`, [arxiv](http://arxiv.org/abs/2501.12224v1), [pdf](http://arxiv.org/pdf/2501.12224v1.pdf), cication: [**-1**](None) 
 
 	 *Daniel Garibi, Shahar Yadin, Roni Paiss, ..., Inbar Mosseri, Tali Dekel*
