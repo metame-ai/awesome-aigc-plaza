@@ -22,7 +22,7 @@
 
 ## Generation
 
-- **EchoVideo: Identity-Preserving Human Video Generation by Multimodal
+- **EchoVideo: Identity-Preserving Human Video Generation by Multimodal 
   Feature Fusion**, `arXiv, 2501.13452`, [arxiv](http://arxiv.org/abs/2501.13452v1), [pdf](http://arxiv.org/pdf/2501.13452v1.pdf), cication: [**-1**](None) 
 
 	 *Jiangchuan Wei, Shiyue Yan, Wenfeng Lin, ..., Renjie Chen, Mingyu Guo*

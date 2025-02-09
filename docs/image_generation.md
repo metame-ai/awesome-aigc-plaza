@@ -37,7 +37,7 @@
 
 ## Generation
 
-- [Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transformer capable of generating images from text descriptions.](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)  🤗
+- [Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transformer capable of generating images from text descriptions.](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)  🤗 
 - **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art 
   Text-to-Image Models**, `arXiv, 2501.13920`, [arxiv](http://arxiv.org/abs/2501.13920v1), [pdf](http://arxiv.org/pdf/2501.13920v1.pdf), cication: [**-1**](None) 
 
