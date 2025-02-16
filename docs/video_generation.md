@@ -323,7 +323,7 @@
 
 ## Datasets
 
-- [**video-dataset-scripts**](https://github.com/huggingface/video-dataset-scripts) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/video-dataset-scripts.svg?style=social&label=Star)
+- [**video-dataset-scripts**](https://github.com/huggingface/video-dataset-scripts) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/video-dataset-scripts.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/RisingSayak/status/1889632398465228998))
 - **InstanceCap: Improving Text-to-Video Generation via Instance-aware 
