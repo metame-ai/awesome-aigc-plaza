@@ -217,6 +217,10 @@
 
 ## Efficient
 
+- **SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute
+  in Linear Diffusion Transformer**, `arXiv, 2501.18427`, [arxiv](http://arxiv.org/abs/2501.18427v2), [pdf](http://arxiv.org/pdf/2501.18427v2.pdf), cication: [**-1**](None) 
+
+	 *Enze Xie, Junsong Chen, Yuyang Zhao, ..., Daquan Zhou, Song Han*
 - **Accelerated Diffusion Models via Speculative Sampling**, `arXiv, 2501.05370`, [arxiv](http://arxiv.org/abs/2501.05370v1), [pdf](http://arxiv.org/pdf/2501.05370v1.pdf), cication: [**-1**](None) 
 
 	 *Valentin De Bortoli, Alexandre Galashov, Arthur Gretton, ..., Arnaud Doucet*

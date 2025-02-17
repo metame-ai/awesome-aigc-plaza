@@ -112,6 +112,7 @@
 
 ## Gaussian Splatting
 
+- [Daily Papers - Hugging Face](https://huggingface.co/papers?date=2025-01-29)
 - **SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting 
   Synthesis**, `arXiv, 2411.16443`, [arxiv](http://arxiv.org/abs/2411.16443v1), [pdf](http://arxiv.org/pdf/2411.16443v1.pdf), cication: [**-1**](None) 
 

@@ -22,6 +22,24 @@
 
 ## Generation
 
+- **VFX Creator: Animated Visual Effect Generation with Controllable
+  Diffusion Transformer**, `arXiv, 2502.05979`, [arxiv](http://arxiv.org/abs/2502.05979v2), [pdf](http://arxiv.org/pdf/2502.05979v2.pdf), cication: [**-1**](None) 
+
+	 *Xinyu Liu, Ailing Zeng, Wei Xue, ..., Qifeng Liu, Yike Guo* · ([vfx-creator0.github](https://vfx-creator0.github.io/))
+- **Animate Anyone 2: High-Fidelity Character Image Animation with
+  Environment Affordance**, `arXiv, 2502.06145`, [arxiv](http://arxiv.org/abs/2502.06145v1), [pdf](http://arxiv.org/pdf/2502.06145v1.pdf), cication: [**-1**](None) 
+
+	 *Li Hu, Guangyuan Wang, Zhen Shen, ..., Bang Zhang, Liefeng Bo* · ([humanaigc.github](https://humanaigc.github.io/animate-anyone-2/))
+- **VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion
+  Generation in Video Models**, `arXiv, 2502.02492`, [arxiv](http://arxiv.org/abs/2502.02492v1), [pdf](http://arxiv.org/pdf/2502.02492v1.pdf), cication: [**-1**](None) 
+
+	 *Hila Chefer, Uriel Singer, Amit Zohar, ..., Lior Wolf, Shelly Sheynin* · ([hila-chefer.github](https://hila-chefer.github.io/videojam-paper.github.io/))
+- 🌟 **Goku: Flow Based Video Generative Foundation Models**, `arXiv, 2502.04896`, [arxiv](http://arxiv.org/abs/2502.04896v2), [pdf](http://arxiv.org/pdf/2502.04896v2.pdf), cication: [**-1**](None) 
+
+	 *Shoufa Chen, Chongjian Ge, Yuqi Zhang, ..., Bingyue Peng, Xiaobing Liu* · ([saiyan-world.github](https://saiyan-world.github.io/goku/))
+- **Fast Video Generation with Sliding Tile Attention**, `arXiv, 2502.04507`, [arxiv](http://arxiv.org/abs/2502.04507v1), [pdf](http://arxiv.org/pdf/2502.04507v1.pdf), cication: [**-1**](None) 
+
+	 *Peiyuan Zhang, Yongqi Chen, Runlong Su, ..., Zhenghong Liu, Hao Zhang*
 - **EchoVideo: Identity-Preserving Human Video Generation by Multimodal 
   Feature Fusion**, `arXiv, 2501.13452`, [arxiv](http://arxiv.org/abs/2501.13452v1), [pdf](http://arxiv.org/pdf/2501.13452v1.pdf), cication: [**-1**](None) 
 

@@ -22,6 +22,15 @@
 
 ## Generation
 
+- [Paper page - VFX Creator: Animated Visual Effect Generation with Controllable  Diffusion Transformer](https://huggingface.co/papers/2502.05979)
+   - [vfx-creator0.github.io](https://vfx-creator0.github.io/)
+- [Paper page - Animate Anyone 2: High-Fidelity Character Image Animation with  Environment Affordance](https://huggingface.co/papers/2502.06145)
+   - [humanaigc.github.io](https://humanaigc.github.io/animate-anyone-2/)
+- [Paper page - VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion  Generation in Video Models](https://huggingface.co/papers/2502.02492)
+   - [hila-chefer.github.io](https://hila-chefer.github.io/videojam-paper.github.io/)
+- [Paper page - Goku: Flow Based Video Generative Foundation Models](https://huggingface.co/papers/2502.04896)|star|
+   - [saiyan-world.github.io](https://saiyan-world.github.io/goku/)
+- [Paper page - Fast Video Generation with Sliding Tile Attention](https://huggingface.co/papers/2502.04507)
 - **EchoVideo: Identity-Preserving Human Video Generation by Multimodal 
   Feature Fusion**, `arXiv, 2501.13452`, [arxiv](http://arxiv.org/abs/2501.13452v1), [pdf](http://arxiv.org/pdf/2501.13452v1.pdf), cication: [**-1**](None) 
 
@@ -323,7 +332,7 @@
 
 ## Datasets
 
-- [**video-dataset-scripts**](https://github.com/huggingface/video-dataset-scripts) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/video-dataset-scripts.svg?style=social&label=Star)
+- [**video-dataset-scripts**](https://github.com/huggingface/video-dataset-scripts) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/video-dataset-scripts.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/RisingSayak/status/1889632398465228998))
 - **InstanceCap: Improving Text-to-Video Generation via Instance-aware 
