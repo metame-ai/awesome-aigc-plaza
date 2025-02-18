@@ -37,6 +37,10 @@
 
 ## Generation
 
+- [Paper page - TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](https://huggingface.co/papers/2502.07870)
+   - [textatlas5m.github.io](https://textatlas5m.github.io)
+- [Paper page - Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient  Text-to-Image Generation](https://huggingface.co/papers/2502.08690)
+- [Paper page - Region-Adaptive Sampling for Diffusion Transformers](https://huggingface.co/papers/2502.10389)|star|
 - [Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transformer capable of generating images from text descriptions.](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)  🤗 
 - **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art 
   Text-to-Image Models**, `arXiv, 2501.13920`, [arxiv](http://arxiv.org/abs/2501.13920v1), [pdf](http://arxiv.org/pdf/2501.13920v1.pdf), cication: [**-1**](None) 
@@ -217,7 +221,10 @@
 
 ## Efficient
 
-- [Paper page - SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute  in Linear Diffusion Transformer](https://huggingface.co/papers/2501.18427)
+- **SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute
+  in Linear Diffusion Transformer**, `arXiv, 2501.18427`, [arxiv](http://arxiv.org/abs/2501.18427v2), [pdf](http://arxiv.org/pdf/2501.18427v2.pdf), cication: [**-1**](None) 
+
+	 *Enze Xie, Junsong Chen, Yuyang Zhao, ..., Daquan Zhou, Song Han*
 - **Accelerated Diffusion Models via Speculative Sampling**, `arXiv, 2501.05370`, [arxiv](http://arxiv.org/abs/2501.05370v1), [pdf](http://arxiv.org/pdf/2501.05370v1.pdf), cication: [**-1**](None) 
 
 	 *Valentin De Bortoli, Alexandre Galashov, Arthur Gretton, ..., Arnaud Doucet*

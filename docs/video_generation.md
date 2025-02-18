@@ -22,15 +22,26 @@
 
 ## Generation
 
-- **VFX Creator: Animated Visual Effect Generation with Controllable
+- **Magic 1-For-1: Generating One Minute Video Clips within One Minute**, `arXiv, 2502.07701`, [arxiv](http://arxiv.org/abs/2502.07701v3), [pdf](http://arxiv.org/pdf/2502.07701v3.pdf), cication: [**-1**](None) 
+
+	 *Hongwei Yi, Shitong Shao, Tian Ye, ..., Enze Xie, Daquan Zhou* · ([Magic-1-For-1](https://github.com/DA-Group-PKU/Magic-1-For-1) - DA-Group-PKU) ![Star](https://img.shields.io/github/stars/DA-Group-PKU/Magic-1-For-1.svg?style=social&label=Star) · ([magic-141.github](https://magic-141.github.io/Magic-141/))
+- **CineMaster: A 3D-Aware and Controllable Framework for Cinematic
+  Text-to-Video Generation**, `arXiv, 2502.08639`, [arxiv](http://arxiv.org/abs/2502.08639v1), [pdf](http://arxiv.org/pdf/2502.08639v1.pdf), cication: [**-1**](None) 
+
+	 *Qinghe Wang, Yawen Luo, Xiaoyu Shi, ..., Di Zhang, Kun Gai* · ([cinemaster-dev.github](https://cinemaster-dev.github.io/))
+- 🌟 **Step-Video-T2V Technical Report: The Practice, Challenges, and Future of
+  Video Foundation Model**, `arXiv, 2502.10248`, [arxiv](http://arxiv.org/abs/2502.10248v2), [pdf](http://arxiv.org/pdf/2502.10248v2.pdf), cication: [**-1**](None) 
+
+	 *Guoqing Ma, Haoyang Huang, Kun Yan, ..., Heung-Yeung Shum, Daxin Jiang* · ([Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V.svg?style=social&label=Star)
+- **VFX Creator: Animated Visual Effect Generation with Controllable 
   Diffusion Transformer**, `arXiv, 2502.05979`, [arxiv](http://arxiv.org/abs/2502.05979v2), [pdf](http://arxiv.org/pdf/2502.05979v2.pdf), cication: [**-1**](None) 
 
 	 *Xinyu Liu, Ailing Zeng, Wei Xue, ..., Qifeng Liu, Yike Guo* · ([vfx-creator0.github](https://vfx-creator0.github.io/))
-- **Animate Anyone 2: High-Fidelity Character Image Animation with
+- **Animate Anyone 2: High-Fidelity Character Image Animation with 
   Environment Affordance**, `arXiv, 2502.06145`, [arxiv](http://arxiv.org/abs/2502.06145v1), [pdf](http://arxiv.org/pdf/2502.06145v1.pdf), cication: [**-1**](None) 
 
 	 *Li Hu, Guangyuan Wang, Zhen Shen, ..., Bang Zhang, Liefeng Bo* · ([humanaigc.github](https://humanaigc.github.io/animate-anyone-2/))
-- **VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion
+- **VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion 
   Generation in Video Models**, `arXiv, 2502.02492`, [arxiv](http://arxiv.org/abs/2502.02492v1), [pdf](http://arxiv.org/pdf/2502.02492v1.pdf), cication: [**-1**](None) 
 
 	 *Hila Chefer, Uriel Singer, Amit Zohar, ..., Lior Wolf, Shelly Sheynin* · ([hila-chefer.github](https://hila-chefer.github.io/videojam-paper.github.io/))
