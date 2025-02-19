@@ -19,7 +19,10 @@
 
 ## 3D Generation
 
-- [Paper page - TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified  Flow Models](https://huggingface.co/papers/2502.06608)
+- **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified
+  Flow Models**, `arXiv, 2502.06608`, [arxiv](http://arxiv.org/abs/2502.06608v1), [pdf](http://arxiv.org/pdf/2502.06608v1.pdf), cication: [**-1**](None) 
+
+	 *Yangguang Li, Zi-Xin Zou, Zexiang Liu, ..., Wanli Ouyang, Yan-Pei Cao*
 - **Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D 
   Assets Generation**, `arXiv, 2501.12202`, [arxiv](http://arxiv.org/abs/2501.12202v2), [pdf](http://arxiv.org/pdf/2501.12202v2.pdf), cication: [**-1**](None) 
 

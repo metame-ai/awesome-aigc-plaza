@@ -37,10 +37,16 @@
 
 ## Generation
 
-- [Paper page - TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation](https://huggingface.co/papers/2502.07870)
-   - [textatlas5m.github.io](https://textatlas5m.github.io)
-- [Paper page - Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient  Text-to-Image Generation](https://huggingface.co/papers/2502.08690)
-- [Paper page - Region-Adaptive Sampling for Diffusion Transformers](https://huggingface.co/papers/2502.10389)|star|
+- **TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation**, `arXiv, 2502.07870`, [arxiv](http://arxiv.org/abs/2502.07870v1), [pdf](http://arxiv.org/pdf/2502.07870v1.pdf), cication: [**-1**](None) 
+
+	 *Alex Jinpeng Wang, Dongxing Mao, Jiawei Zhang, ..., Lijuan Wang, Min Li* · ([textatlas5m.github](https://textatlas5m.github.io))
+- **Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient
+  Text-to-Image Generation**, `arXiv, 2502.08690`, [arxiv](http://arxiv.org/abs/2502.08690v1), [pdf](http://arxiv.org/pdf/2502.08690v1.pdf), cication: [**-1**](None) 
+
+	 *Hoigi Seo, Wongi Jeong, Jae-sun Seo, ..., Se Young Chun*
+- 🌟 **Region-Adaptive Sampling for Diffusion Transformers**, `arXiv, 2502.10389`, [arxiv](http://arxiv.org/abs/2502.10389v1), [pdf](http://arxiv.org/pdf/2502.10389v1.pdf), cication: [**-1**](None) 
+
+	 *Ziming Liu, Yifan Yang, Chengruidong Zhang, ..., Yang You, Yuqing Yang*
 - [Lumina-Image-2.0 is a 2 billion parameter flow-based diffusion transformer capable of generating images from text descriptions.](https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0)  🤗 
 - **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art 
   Text-to-Image Models**, `arXiv, 2501.13920`, [arxiv](http://arxiv.org/abs/2501.13920v1), [pdf](http://arxiv.org/pdf/2501.13920v1.pdf), cication: [**-1**](None) 
@@ -221,7 +227,7 @@
 
 ## Efficient
 
-- **SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute
+- **SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute 
   in Linear Diffusion Transformer**, `arXiv, 2501.18427`, [arxiv](http://arxiv.org/abs/2501.18427v2), [pdf](http://arxiv.org/pdf/2501.18427v2.pdf), cication: [**-1**](None) 
 
 	 *Enze Xie, Junsong Chen, Yuyang Zhao, ..., Daquan Zhou, Song Han*

@@ -40,7 +40,7 @@
 - **TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation**, `arXiv, 2502.07870`, [arxiv](http://arxiv.org/abs/2502.07870v1), [pdf](http://arxiv.org/pdf/2502.07870v1.pdf), cication: [**-1**](None) 
 
 	 *Alex Jinpeng Wang, Dongxing Mao, Jiawei Zhang, ..., Lijuan Wang, Min Li* · ([textatlas5m.github](https://textatlas5m.github.io))
-- **Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient
+- **Skrr: Skip and Re-use Text Encoder Layers for Memory Efficient 
   Text-to-Image Generation**, `arXiv, 2502.08690`, [arxiv](http://arxiv.org/abs/2502.08690v1), [pdf](http://arxiv.org/pdf/2502.08690v1.pdf), cication: [**-1**](None) 
 
 	 *Hoigi Seo, Wongi Jeong, Jae-sun Seo, ..., Se Young Chun*
