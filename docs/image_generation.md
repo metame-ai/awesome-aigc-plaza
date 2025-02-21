@@ -40,7 +40,7 @@
 - **Diffusion Models without Classifier-free Guidance**, `arXiv, 2502.12154`, [arxiv](http://arxiv.org/abs/2502.12154v1), [pdf](http://arxiv.org/pdf/2502.12154v1.pdf), cication: [**-1**](None) 
 
 	 *Zhicong Tang, Jianmin Bao, Dong Chen, ..., Baining Guo*
-- [Illustrious XL v1.0 is a cutting-edge generative model developed by OnomaAI, built on the Stable Diffusion XL architecture.](https://huggingface.co/Liberata/illustrious-xl-v1.0)  🤗
+- [Illustrious XL v1.0 is a cutting-edge generative model developed by OnomaAI, built on the Stable Diffusion XL architecture.](https://huggingface.co/Liberata/illustrious-xl-v1.0)  🤗 
 - **TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation**, `arXiv, 2502.07870`, [arxiv](http://arxiv.org/abs/2502.07870v1), [pdf](http://arxiv.org/pdf/2502.07870v1.pdf), cication: [**-1**](None) 
 
 	 *Alex Jinpeng Wang, Dongxing Mao, Jiawei Zhang, ..., Lijuan Wang, Min Li* · ([textatlas5m.github](https://textatlas5m.github.io))

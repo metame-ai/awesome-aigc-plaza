@@ -22,11 +22,11 @@
 
 ## Generation
 
-- **MaskFlow: Discrete Flows For Flexible and Efficient Long Video
+- **MaskFlow: Discrete Flows For Flexible and Efficient Long Video 
   Generation**, `arXiv, 2502.11234`, [arxiv](http://arxiv.org/abs/2502.11234v1), [pdf](http://arxiv.org/pdf/2502.11234v1.pdf), cication: [**-1**](None) 
 
 	 *Michael Fuest, Vincent Tao Hu, Björn Ommer*
-- [World and Human Action Model (WHAM)](https://huggingface.co/microsoft/wham)  🤗
+- [World and Human Action Model (WHAM)](https://huggingface.co/microsoft/wham)  🤗 
 
 	 · ([nature](https://www.nature.com/articles/s41586-025-08600-3))
 - **Magic 1-For-1: Generating One Minute Video Clips within One Minute**, `arXiv, 2502.07701`, [arxiv](http://arxiv.org/abs/2502.07701v3), [pdf](http://arxiv.org/pdf/2502.07701v3.pdf), cication: [**-1**](None) 
@@ -222,7 +222,7 @@
 
 ## Animation
 
-- [Skyreels V1: Human-Centric Video Foundation Model](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V)  🤗
+- [Skyreels V1: Human-Centric Video Foundation Model](https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-I2V)  🤗 
 - **DisPose: Disentangling Pose Guidance for Controllable Human Image 
   Animation**, `arXiv, 2412.09349`, [arxiv](http://arxiv.org/abs/2412.09349v2), [pdf](http://arxiv.org/pdf/2412.09349v2.pdf), cication: [**-1**](None) 
 
