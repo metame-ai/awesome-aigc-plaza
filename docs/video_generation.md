@@ -22,6 +22,18 @@
 
 ## Generation
 
+- 🌟 [**Wan2.1**](https://github.com/Wan-Video/Wan2.1) - Wan-Video ![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)
+
+	 *Open and Advanced Large-Scale Video Generative Models*
+- **Phantom: Subject-consistent video generation via cross-modal alignment**, `arXiv, 2502.11079`, [arxiv](http://arxiv.org/abs/2502.11079v1), [pdf](http://arxiv.org/pdf/2502.11079v1.pdf), cication: [**-1**](None) 
+
+	 *Lijie Liu, Tianxiang Ma, Bingchuan Li, ..., Qian He, Xinglong Wu* · ([phantom-video.github](https://phantom-video.github.io/Phantom/))
+- **Dynamic Concepts Personalization from Single Videos**, `arXiv, 2502.14844`, [arxiv](http://arxiv.org/abs/2502.14844v1), [pdf](http://arxiv.org/pdf/2502.14844v1.pdf), cication: [**-1**](None) 
+
+	 *Rameen Abdal, Or Patashnik, Ivan Skorokhodov, ..., Daniel Cohen-Or, Kfir Aberman* · ([snap-research.github](https://snap-research.github.io/dynamic_concepts/))
+- **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**, `arXiv, 2502.13995`, [arxiv](http://arxiv.org/abs/2502.13995v1), [pdf](http://arxiv.org/pdf/2502.13995v1.pdf), cication: [**-1**](None) 
+
+	 *Yunpeng Zhang, Qiang Wang, Fan Jiang, ..., Mu Xu, Yonggang Qi* · ([fantasy-amap.github](https://fantasy-amap.github.io/fantasy-id/))
 - **MaskFlow: Discrete Flows For Flexible and Efficient Long Video 
   Generation**, `arXiv, 2502.11234`, [arxiv](http://arxiv.org/abs/2502.11234v1), [pdf](http://arxiv.org/pdf/2502.11234v1.pdf), cication: [**-1**](None) 
 
@@ -314,6 +326,10 @@
 
 ## Editting
 
+- 🌟 **VideoGrain: Modulating Space-Time Attention for Multi-grained Video
+  Editing**, `arXiv, 2502.17258`, [arxiv](http://arxiv.org/abs/2502.17258v1), [pdf](http://arxiv.org/pdf/2502.17258v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangpeng Yang, Linchao Zhu, Hehe Fan, ..., Yi Yang* · ([knightyxp.github](https://knightyxp.github.io/VideoGrain_project_page/))
 - 🌟 **STAR: Spatial-Temporal Augmentation with Text-to-Video Models for 
   Real-World Video Super-Resolution**, `arXiv, 2501.02976`, [arxiv](http://arxiv.org/abs/2501.02976v1), [pdf](http://arxiv.org/pdf/2501.02976v1.pdf), cication: [**-1**](None) 
 

@@ -37,6 +37,12 @@
 
 ## Generation
 
+- [Paper page - FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality  Samples with Less Compute](https://huggingface.co/papers/2502.20126)
+- [FlexTok: Resampling Images into 1D Token Sequences of Flexible Length](https://arxiv.org/abs/2502.13967)
+   - [flextok.epfl.ch](https://flextok.epfl.ch/)
+- [Paper page - Fractal Generative Models](https://huggingface.co/papers/2502.17437)
+   - [github.com](https://github.com/LTH14/fractalgen.)
+- [Paper page - Is Noise Conditioning Necessary for Denoising Generative Models?](https://huggingface.co/papers/2502.13129)
 - **Diffusion Models without Classifier-free Guidance**, `arXiv, 2502.12154`, [arxiv](http://arxiv.org/abs/2502.12154v1), [pdf](http://arxiv.org/pdf/2502.12154v1.pdf), cication: [**-1**](None) 
 
 	 *Zhicong Tang, Jianmin Bao, Dong Chen, ..., Baining Guo*

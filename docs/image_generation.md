@@ -37,6 +37,19 @@
 
 ## Generation
 
+- **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality
+  Samples with Less Compute**, `arXiv, 2502.20126`, [arxiv](http://arxiv.org/abs/2502.20126v1), [pdf](http://arxiv.org/pdf/2502.20126v1.pdf), cication: [**-1**](None) 
+
+	 *Sotiris Anagnostidis, Gregor Bachmann, Yeongmin Kim, ..., Ali Thabet, Edgar Schönfeld*
+- **FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**, `arXiv, 2502.13967`, [arxiv](http://arxiv.org/abs/2502.13967v1), [pdf](http://arxiv.org/pdf/2502.13967v1.pdf), cication: [**-1**](None) 
+
+	 *Roman Bachmann, Jesse Allardice, David Mizrahi, ..., Amir Zamir, Afshin Dehghan* · ([flextok.epfl](https://flextok.epfl.ch/))
+- **Fractal Generative Models**, `arXiv, 2502.17437`, [arxiv](http://arxiv.org/abs/2502.17437v2), [pdf](http://arxiv.org/pdf/2502.17437v2.pdf), cication: [**-1**](None) 
+
+	 *Tianhong Li, Qinyi Sun, Lijie Fan, ..., Kaiming He* · ([fractalgen.](https://github.com/LTH14/fractalgen.) - LTH14) ![Star](https://img.shields.io/github/stars/LTH14/fractalgen..svg?style=social&label=Star)
+- **Is Noise Conditioning Necessary for Denoising Generative Models?**, `arXiv, 2502.13129`, [arxiv](http://arxiv.org/abs/2502.13129v1), [pdf](http://arxiv.org/pdf/2502.13129v1.pdf), cication: [**-1**](None) 
+
+	 *Qiao Sun, Zhicheng Jiang, Hanhong Zhao, ..., Kaiming He*
 - **Diffusion Models without Classifier-free Guidance**, `arXiv, 2502.12154`, [arxiv](http://arxiv.org/abs/2502.12154v1), [pdf](http://arxiv.org/pdf/2502.12154v1.pdf), cication: [**-1**](None) 
 
 	 *Zhicong Tang, Jianmin Bao, Dong Chen, ..., Baining Guo*
