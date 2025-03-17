@@ -22,7 +22,11 @@
 
 ## Generation
 
-- 🌟 [**Wan2.1**](https://github.com/Wan-Video/Wan2.1) - Wan-Video ![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)
+- **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in
+  $200k**, `arXiv, 2503.09642`, [arxiv](http://arxiv.org/abs/2503.09642v1), [pdf](http://arxiv.org/pdf/2503.09642v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangyu Peng, Zangwei Zheng, Chenhui Shen, ..., Ziang Wei, Yang You* · ([Open-Sora](https://github.com/hpcaitech/Open-Sora) - hpcaitech) ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)
+- 🌟 [**Wan2.1**](https://github.com/Wan-Video/Wan2.1) - Wan-Video ![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star) 
 
 	 *Open and Advanced Large-Scale Video Generative Models*
 - **Phantom: Subject-consistent video generation via cross-modal alignment**, `arXiv, 2502.11079`, [arxiv](http://arxiv.org/abs/2502.11079v1), [pdf](http://arxiv.org/pdf/2502.11079v1.pdf), cication: [**-1**](None) 
@@ -326,7 +330,10 @@
 
 ## Editting
 
-- 🌟 **VideoGrain: Modulating Space-Time Attention for Multi-grained Video
+- **VACE: All-in-One Video Creation and Editing**, `arXiv, 2503.07598`, [arxiv](http://arxiv.org/abs/2503.07598v2), [pdf](http://arxiv.org/pdf/2503.07598v2.pdf), cication: [**-1**](None) 
+
+	 *Zeyinzi Jiang, Zhen Han, Chaojie Mao, ..., Yulin Pan, Yu Liu* · ([ali-vilab.github](https://ali-vilab.github.io/VACE-Page/)) · ([VACE](https://github.com/ali-vilab/VACE) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/VACE.svg?style=social&label=Star)
+- 🌟 **VideoGrain: Modulating Space-Time Attention for Multi-grained Video 
   Editing**, `arXiv, 2502.17258`, [arxiv](http://arxiv.org/abs/2502.17258v1), [pdf](http://arxiv.org/pdf/2502.17258v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangpeng Yang, Linchao Zhu, Hehe Fan, ..., Yi Yang* · ([knightyxp.github](https://knightyxp.github.io/VideoGrain_project_page/))

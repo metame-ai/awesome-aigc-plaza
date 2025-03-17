@@ -37,7 +37,15 @@
 
 ## Generation
 
-- **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality
+- **Inductive Moment Matching**, `arXiv, 2503.07565`, [arxiv](http://arxiv.org/abs/2503.07565v3), [pdf](http://arxiv.org/pdf/2503.07565v3.pdf), cication: [**-1**](None) 
+
+	 *Linqi Zhou, Stefano Ermon, Jiaming Song*
+- [CogView4-6B](https://huggingface.co/THUDM/CogView4-6B)  🤗
+- **Seedream 2.0: A Native Chinese-English Bilingual Image Generation
+  Foundation Model**, `arXiv, 2503.07703`, [arxiv](http://arxiv.org/abs/2503.07703v1), [pdf](http://arxiv.org/pdf/2503.07703v1.pdf), cication: [**-1**](None) 
+
+	 *Lixue Gong, Xiaoxia Hou, Fanshi Li, ..., Jianchao Yang, Weilin Huang* · ([team.doubao](https://team.doubao.com/zh/tech/seedream))
+- **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality 
   Samples with Less Compute**, `arXiv, 2502.20126`, [arxiv](http://arxiv.org/abs/2502.20126v1), [pdf](http://arxiv.org/pdf/2502.20126v1.pdf), cication: [**-1**](None) 
 
 	 *Sotiris Anagnostidis, Gregor Bachmann, Yeongmin Kim, ..., Ali Thabet, Edgar Schönfeld*
@@ -376,6 +384,10 @@
 
 ## Auto Regressive
 
+- **Beyond Next-Token: Next-X Prediction for Autoregressive Visual
+  Generation**, `arXiv, 2502.20388`, [arxiv](http://arxiv.org/abs/2502.20388v1), [pdf](http://arxiv.org/pdf/2502.20388v1.pdf), cication: [**-1**](None) 
+
+	 *Sucheng Ren, Qihang Yu, Ju He, ..., Alan Yuille, Liang-Chieh Chen*
 - 🌟 **Parallelized Autoregressive Visual Generation**, `arXiv, 2412.15119`, [arxiv](http://arxiv.org/abs/2412.15119v1), [pdf](http://arxiv.org/pdf/2412.15119v1.pdf), cication: [**-1**](None) 
 
 	 *Yuqing Wang, Shuhuai Ren, Zhijie Lin, ..., Jiashi Feng, Xihui Liu* · ([epiphqny.github](https://epiphqny.github.io/PAR-project/)) · ([PAR](https://github.com/Epiphqny/PAR) - Epiphqny) ![Star](https://img.shields.io/github/stars/Epiphqny/PAR.svg?style=social&label=Star)
