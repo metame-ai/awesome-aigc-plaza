@@ -22,7 +22,7 @@
 
 ## Generation
 
-- **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in
+- **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in 
   $200k**, `arXiv, 2503.09642`, [arxiv](http://arxiv.org/abs/2503.09642v1), [pdf](http://arxiv.org/pdf/2503.09642v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangyu Peng, Zangwei Zheng, Chenhui Shen, ..., Ziang Wei, Yang You* · ([Open-Sora](https://github.com/hpcaitech/Open-Sora) - hpcaitech) ![Star](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Star)

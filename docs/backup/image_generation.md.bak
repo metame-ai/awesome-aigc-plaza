@@ -37,11 +37,15 @@
 
 ## Generation
 
-- [Paper page - Inductive Moment Matching](https://huggingface.co/papers/2503.07565)
-- [CogView4-6B](https://huggingface.co/THUDM/CogView4-6B)
-- [Paper page - Seedream 2.0: A Native Chinese-English Bilingual Image Generation  Foundation Model](https://huggingface.co/papers/2503.07703)
-   - [team.doubao.com](https://team.doubao.com/zh/tech/seedream)
-- **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality
+- **Inductive Moment Matching**, `arXiv, 2503.07565`, [arxiv](http://arxiv.org/abs/2503.07565v3), [pdf](http://arxiv.org/pdf/2503.07565v3.pdf), cication: [**-1**](None) 
+
+	 *Linqi Zhou, Stefano Ermon, Jiaming Song*
+- [CogView4-6B](https://huggingface.co/THUDM/CogView4-6B)  🤗
+- **Seedream 2.0: A Native Chinese-English Bilingual Image Generation
+  Foundation Model**, `arXiv, 2503.07703`, [arxiv](http://arxiv.org/abs/2503.07703v1), [pdf](http://arxiv.org/pdf/2503.07703v1.pdf), cication: [**-1**](None) 
+
+	 *Lixue Gong, Xiaoxia Hou, Fanshi Li, ..., Jianchao Yang, Weilin Huang* · ([team.doubao](https://team.doubao.com/zh/tech/seedream))
+- **FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality 
   Samples with Less Compute**, `arXiv, 2502.20126`, [arxiv](http://arxiv.org/abs/2502.20126v1), [pdf](http://arxiv.org/pdf/2502.20126v1.pdf), cication: [**-1**](None) 
 
 	 *Sotiris Anagnostidis, Gregor Bachmann, Yeongmin Kim, ..., Ali Thabet, Edgar Schönfeld*
@@ -291,6 +295,7 @@
 
 ## Personalization
 
+- [Paper page - InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity](https://huggingface.co/papers/2503.16418)
 - **TokenVerse: Versatile Multi-concept Personalization in Token Modulation 
   Space**, `arXiv, 2501.12224`, [arxiv](http://arxiv.org/abs/2501.12224v1), [pdf](http://arxiv.org/pdf/2501.12224v1.pdf), cication: [**-1**](None) 
 
@@ -380,7 +385,10 @@
 
 ## Auto Regressive
 
-- [Paper page - Beyond Next-Token: Next-X Prediction for Autoregressive Visual  Generation](https://huggingface.co/papers/2502.20388)
+- **Beyond Next-Token: Next-X Prediction for Autoregressive Visual
+  Generation**, `arXiv, 2502.20388`, [arxiv](http://arxiv.org/abs/2502.20388v1), [pdf](http://arxiv.org/pdf/2502.20388v1.pdf), cication: [**-1**](None) 
+
+	 *Sucheng Ren, Qihang Yu, Ju He, ..., Alan Yuille, Liang-Chieh Chen*
 - 🌟 **Parallelized Autoregressive Visual Generation**, `arXiv, 2412.15119`, [arxiv](http://arxiv.org/abs/2412.15119v1), [pdf](http://arxiv.org/pdf/2412.15119v1.pdf), cication: [**-1**](None) 
 
 	 *Yuqing Wang, Shuhuai Ren, Zhijie Lin, ..., Jiashi Feng, Xihui Liu* · ([epiphqny.github](https://epiphqny.github.io/PAR-project/)) · ([PAR](https://github.com/Epiphqny/PAR) - Epiphqny) ![Star](https://img.shields.io/github/stars/Epiphqny/PAR.svg?style=social&label=Star)
@@ -465,6 +473,7 @@
 
 ## Editting
 
+- [Gigapixel v8.3.0 with the world’s fastest diffusion model for high-res image restoration, Recover v2.](https://x.com/topazlabs/status/1902742856512446490)
 - 🌟 **MangaNinja: Line Art Colorization with Precise Reference Following**, `arXiv, 2501.08332`, [arxiv](http://arxiv.org/abs/2501.08332v1), [pdf](http://arxiv.org/pdf/2501.08332v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiheng Liu, Ka Leong Cheng, Xi Chen, ..., Qifeng Chen, Ping Luo* · ([johanan528.github](https://johanan528.github.io/MangaNinjia/))

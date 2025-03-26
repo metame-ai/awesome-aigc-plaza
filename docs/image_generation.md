@@ -40,8 +40,8 @@
 - **Inductive Moment Matching**, `arXiv, 2503.07565`, [arxiv](http://arxiv.org/abs/2503.07565v3), [pdf](http://arxiv.org/pdf/2503.07565v3.pdf), cication: [**-1**](None) 
 
 	 *Linqi Zhou, Stefano Ermon, Jiaming Song*
-- [CogView4-6B](https://huggingface.co/THUDM/CogView4-6B)  🤗
-- **Seedream 2.0: A Native Chinese-English Bilingual Image Generation
+- [CogView4-6B](https://huggingface.co/THUDM/CogView4-6B)  🤗 
+- **Seedream 2.0: A Native Chinese-English Bilingual Image Generation 
   Foundation Model**, `arXiv, 2503.07703`, [arxiv](http://arxiv.org/abs/2503.07703v1), [pdf](http://arxiv.org/pdf/2503.07703v1.pdf), cication: [**-1**](None) 
 
 	 *Lixue Gong, Xiaoxia Hou, Fanshi Li, ..., Jianchao Yang, Weilin Huang* · ([team.doubao](https://team.doubao.com/zh/tech/seedream))
@@ -295,6 +295,9 @@
 
 ## Personalization
 
+- **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**, `arXiv, 2503.16418`, [arxiv](http://arxiv.org/abs/2503.16418v1), [pdf](http://arxiv.org/pdf/2503.16418v1.pdf), cication: [**-1**](None) 
+
+	 *Liming Jiang, Qing Yan, Yumin Jia, ..., Hao Kang, Xin Lu*
 - **TokenVerse: Versatile Multi-concept Personalization in Token Modulation 
   Space**, `arXiv, 2501.12224`, [arxiv](http://arxiv.org/abs/2501.12224v1), [pdf](http://arxiv.org/pdf/2501.12224v1.pdf), cication: [**-1**](None) 
 
@@ -384,7 +387,7 @@
 
 ## Auto Regressive
 
-- **Beyond Next-Token: Next-X Prediction for Autoregressive Visual
+- **Beyond Next-Token: Next-X Prediction for Autoregressive Visual 
   Generation**, `arXiv, 2502.20388`, [arxiv](http://arxiv.org/abs/2502.20388v1), [pdf](http://arxiv.org/pdf/2502.20388v1.pdf), cication: [**-1**](None) 
 
 	 *Sucheng Ren, Qihang Yu, Ju He, ..., Alan Yuille, Liang-Chieh Chen*
@@ -472,6 +475,7 @@
 
 ## Editting
 
+- [Gigapixel v8.3.0 with the world’s fastest diffusion model for high-res image restoration, Recover v2.](https://x.com/topazlabs/status/1902742856512446490)  𝕏
 - 🌟 **MangaNinja: Line Art Colorization with Precise Reference Following**, `arXiv, 2501.08332`, [arxiv](http://arxiv.org/abs/2501.08332v1), [pdf](http://arxiv.org/pdf/2501.08332v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiheng Liu, Ka Leong Cheng, Xi Chen, ..., Qifeng Chen, Ping Luo* · ([johanan528.github](https://johanan528.github.io/MangaNinjia/))
