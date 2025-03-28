@@ -475,7 +475,7 @@
 
 ## Editting
 
-- [Gigapixel v8.3.0 with the world’s fastest diffusion model for high-res image restoration, Recover v2.](https://x.com/topazlabs/status/1902742856512446490)  𝕏
+- [Gigapixel v8.3.0 with the world’s fastest diffusion model for high-res image restoration, Recover v2.](https://x.com/topazlabs/status/1902742856512446490)  𝕏 
 - 🌟 **MangaNinja: Line Art Colorization with Precise Reference Following**, `arXiv, 2501.08332`, [arxiv](http://arxiv.org/abs/2501.08332v1), [pdf](http://arxiv.org/pdf/2501.08332v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiheng Liu, Ka Leong Cheng, Xi Chen, ..., Qifeng Chen, Ping Luo* · ([johanan528.github](https://johanan528.github.io/MangaNinjia/))
