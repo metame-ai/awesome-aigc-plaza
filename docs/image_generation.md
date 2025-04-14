@@ -37,6 +37,9 @@
 
 ## Generation
 
+- **OmniSVG: A Unified Scalable Vector Graphics Generation Model**, `arXiv, 2504.06263`, [arxiv](http://arxiv.org/abs/2504.06263v1), [pdf](http://arxiv.org/pdf/2504.06263v1.pdf), cication: [**-1**](None) 
+
+	 *Yiying Yang, Wei Cheng, Sijin Chen, ..., Xingjun Ma, Yu-Gang Jiang*
 - **Inductive Moment Matching**, `arXiv, 2503.07565`, [arxiv](http://arxiv.org/abs/2503.07565v3), [pdf](http://arxiv.org/pdf/2503.07565v3.pdf), cication: [**-1**](None) 
 
 	 *Linqi Zhou, Stefano Ermon, Jiaming Song*
@@ -384,6 +387,10 @@
 
 ## Text Rendering
 
+- **TextCrafter: Accurately Rendering Multiple Texts in Complex Visual
+  Scenes**, `arXiv, 2503.23461`, [arxiv](http://arxiv.org/abs/2503.23461v2), [pdf](http://arxiv.org/pdf/2503.23461v2.pdf), cication: [**-1**](None) 
+
+	 *Nikai Du, Zhennan Chen, Zhizhou Chen, ..., Jian Yang, Ying Tai*
 
 ## Auto Regressive
 

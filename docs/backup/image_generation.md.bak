@@ -37,6 +37,7 @@
 
 ## Generation
 
+- [Paper page - OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://huggingface.co/papers/2504.06263)
 - **Inductive Moment Matching**, `arXiv, 2503.07565`, [arxiv](http://arxiv.org/abs/2503.07565v3), [pdf](http://arxiv.org/pdf/2503.07565v3.pdf), cication: [**-1**](None) 
 
 	 *Linqi Zhou, Stefano Ermon, Jiaming Song*
@@ -384,6 +385,7 @@
 
 ## Text Rendering
 
+- [Paper page - TextCrafter: Accurately Rendering Multiple Texts in Complex Visual  Scenes](https://huggingface.co/papers/2503.23461)
 
 ## Auto Regressive
 
