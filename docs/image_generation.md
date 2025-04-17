@@ -387,7 +387,7 @@
 
 ## Text Rendering
 
-- **TextCrafter: Accurately Rendering Multiple Texts in Complex Visual
+- **TextCrafter: Accurately Rendering Multiple Texts in Complex Visual 
   Scenes**, `arXiv, 2503.23461`, [arxiv](http://arxiv.org/abs/2503.23461v2), [pdf](http://arxiv.org/pdf/2503.23461v2.pdf), cication: [**-1**](None) 
 
 	 *Nikai Du, Zhennan Chen, Zhizhou Chen, ..., Jian Yang, Ying Tai*

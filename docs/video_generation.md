@@ -22,7 +22,7 @@
 
 ## Generation
 
-- **DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal
+- **DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal 
   Consistent Video Generation**, `arXiv, 2503.06053`, [arxiv](http://arxiv.org/abs/2503.06053v1), [pdf](http://arxiv.org/pdf/2503.06053v1.pdf), cication: [**-1**](None) 
 
 	 *Runze Zhang, Guoguang Du, Xiaochuan Li, ..., Rengang Li, Baoyu Fan* · ([medium](https://medium.com/@guoguang35_68674/dropletvideo-promoting-spatio-temporal-consistent-video-generation-bd6d1d9b8086)) · ([DropletVideo](https://github.com/IEIT-AGI/DropletVideo) - IEIT-AGI) ![Star](https://img.shields.io/github/stars/IEIT-AGI/DropletVideo.svg?style=social&label=Star) · ([dropletx.github](https://dropletx.github.io/))

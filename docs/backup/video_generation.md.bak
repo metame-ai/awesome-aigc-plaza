@@ -22,18 +22,19 @@
 
 ## Generation
 
-- [Paper page - DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal  Consistent Video Generation](https://huggingface.co/papers/2503.06053)
-   - [medium.com](https://medium.com/@guoguang35_68674/dropletvideo-promoting-spatio-temporal-consistent-video-generation-bd6d1d9b8086)
-   - [github.com](https://github.com/IEIT-AGI/DropletVideo)
-   - [dropletx.github.io](https://dropletx.github.io/)
-- [Paper page - Video-T1: Test-Time Scaling for Video Generation](https://huggingface.co/papers/2503.18942)
-   - [liuff19.github.io](https://liuff19.github.io/Video-T1/)
-   - [github.com](https://github.com/liuff19/Video-T1)
-- [Paper page - Wan: Open and Advanced Large-Scale Video Generative Models](https://huggingface.co/papers/2503.20314)
-   - [github.com](https://github.com/Wan-Video/Wan2.1.)
-- [Paper page - One-Minute Video Generation with Test-Time Training](https://huggingface.co/papers/2504.05298)
-   - [test-time-training.github.io](https://test-time-training.github.io/video-dit/)
-   - [github.com](https://github.com/test-time-training/ttt-video-dit)
+- **DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal
+  Consistent Video Generation**, `arXiv, 2503.06053`, [arxiv](http://arxiv.org/abs/2503.06053v1), [pdf](http://arxiv.org/pdf/2503.06053v1.pdf), cication: [**-1**](None) 
+
+	 *Runze Zhang, Guoguang Du, Xiaochuan Li, ..., Rengang Li, Baoyu Fan* · ([medium](https://medium.com/@guoguang35_68674/dropletvideo-promoting-spatio-temporal-consistent-video-generation-bd6d1d9b8086)) · ([DropletVideo](https://github.com/IEIT-AGI/DropletVideo) - IEIT-AGI) ![Star](https://img.shields.io/github/stars/IEIT-AGI/DropletVideo.svg?style=social&label=Star) · ([dropletx.github](https://dropletx.github.io/))
+- **Video-T1: Test-Time Scaling for Video Generation**, `arXiv, 2503.18942`, [arxiv](http://arxiv.org/abs/2503.18942v2), [pdf](http://arxiv.org/pdf/2503.18942v2.pdf), cication: [**-1**](None) 
+
+	 *Fangfu Liu, Hanyang Wang, Yimo Cai, ..., Xiaohang Zhan, Yueqi Duan* · ([liuff19.github](https://liuff19.github.io/Video-T1/)) · ([Video-T1](https://github.com/liuff19/Video-T1) - liuff19) ![Star](https://img.shields.io/github/stars/liuff19/Video-T1.svg?style=social&label=Star)
+- **Wan: Open and Advanced Large-Scale Video Generative Models**, `arXiv, 2503.20314`, [arxiv](http://arxiv.org/abs/2503.20314v1), [pdf](http://arxiv.org/pdf/2503.20314v1.pdf), cication: [**-1**](None) 
+
+	 *WanTeam, :, Ang Wang, ..., Zhi-Fan Wu, Ziyu Liu* · ([Wan2.1.](https://github.com/Wan-Video/Wan2.1.) - Wan-Video) ![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1..svg?style=social&label=Star)
+- **One-Minute Video Generation with Test-Time Training**, `arXiv, 2504.05298`, [arxiv](http://arxiv.org/abs/2504.05298v1), [pdf](http://arxiv.org/pdf/2504.05298v1.pdf), cication: [**-1**](None) 
+
+	 *Karan Dalal, Daniel Koceja, Gashon Hussein, ..., Yu Sun, Xiaolong Wang* · ([test-time-training.github](https://test-time-training.github.io/video-dit/)) · ([ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) - test-time-training) ![Star](https://img.shields.io/github/stars/test-time-training/ttt-video-dit.svg?style=social&label=Star)
 - **Open-Sora 2.0: Training a Commercial-Level Video Generation Model in 
   $200k**, `arXiv, 2503.09642`, [arxiv](http://arxiv.org/abs/2503.09642v1), [pdf](http://arxiv.org/pdf/2503.09642v1.pdf), cication: [**-1**](None) 
 
@@ -342,8 +343,9 @@
 
 ## Editting
 
-- [Paper page - ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://huggingface.co/papers/2503.11647)
-   - [jianhongbai.github.io](https://jianhongbai.github.io/ReCamMaster/)
+- **ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**, `arXiv, 2503.11647`, [arxiv](http://arxiv.org/abs/2503.11647v1), [pdf](http://arxiv.org/pdf/2503.11647v1.pdf), cication: [**-1**](None) 
+
+	 *Jianhong Bai, Menghan Xia, Xiao Fu, ..., Pengfei Wan, Di Zhang* · ([jianhongbai.github](https://jianhongbai.github.io/ReCamMaster/))
 - **VACE: All-in-One Video Creation and Editing**, `arXiv, 2503.07598`, [arxiv](http://arxiv.org/abs/2503.07598v2), [pdf](http://arxiv.org/pdf/2503.07598v2.pdf), cication: [**-1**](None) 
 
 	 *Zeyinzi Jiang, Zhen Han, Chaojie Mao, ..., Yulin Pan, Yu Liu* · ([ali-vilab.github](https://ali-vilab.github.io/VACE-Page/)) · ([VACE](https://github.com/ali-vilab/VACE) - ali-vilab) ![Star](https://img.shields.io/github/stars/ali-vilab/VACE.svg?style=social&label=Star)
