@@ -37,6 +37,7 @@
 
 ## Generation
 
+- [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html)
 - **OmniSVG: A Unified Scalable Vector Graphics Generation Model**, `arXiv, 2504.06263`, [arxiv](http://arxiv.org/abs/2504.06263v1), [pdf](http://arxiv.org/pdf/2504.06263v1.pdf), cication: [**-1**](None) 
 
 	 *Yiying Yang, Wei Cheng, Sijin Chen, ..., Xingjun Ma, Yu-Gang Jiang*
@@ -394,6 +395,8 @@
 
 ## Auto Regressive
 
+- [Paper page - SimpleAR: Pushing the Frontier of Autoregressive Visual Generation  through Pretraining, SFT, and RL](https://huggingface.co/papers/2504.11455)
+   - [github.com](https://github.com/wdrink/SimpleAR.)
 - **Beyond Next-Token: Next-X Prediction for Autoregressive Visual 
   Generation**, `arXiv, 2502.20388`, [arxiv](http://arxiv.org/abs/2502.20388v1), [pdf](http://arxiv.org/pdf/2502.20388v1.pdf), cication: [**-1**](None) 
 
