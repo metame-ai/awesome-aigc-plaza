@@ -395,7 +395,7 @@
 
 ## Auto Regressive
 
-- **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation
+- **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation 
   through Pretraining, SFT, and RL**, `arXiv, 2504.11455`, [arxiv](http://arxiv.org/abs/2504.11455v1), [pdf](http://arxiv.org/pdf/2504.11455v1.pdf), cication: [**-1**](None) 
 
 	 *Junke Wang, Zhi Tian, Xun Wang, ..., Zuxuan Wu, Yu-Gang Jiang* · ([SimpleAR.](https://github.com/wdrink/SimpleAR.) - wdrink) ![Star](https://img.shields.io/github/stars/wdrink/SimpleAR..svg?style=social&label=Star)
