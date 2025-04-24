@@ -254,7 +254,7 @@
 
 ## Animation
 
-- **Packing Input Frame Context in Next-Frame Prediction Models for Video
+- **Packing Input Frame Context in Next-Frame Prediction Models for Video 
   Generation**, `arXiv, 2504.12626`, [arxiv](http://arxiv.org/abs/2504.12626v2), [pdf](http://arxiv.org/pdf/2504.12626v2.pdf), cication: [**-1**](None) 
 
 	 *Lvmin Zhang, Maneesh Agrawala* · ([FramePack](https://github.com/lllyasviel/FramePack) - lllyasviel) ![Star](https://img.shields.io/github/stars/lllyasviel/FramePack.svg?style=social&label=Star) · ([lllyasviel.github](https://lllyasviel.github.io/frame_pack_gitpage))
