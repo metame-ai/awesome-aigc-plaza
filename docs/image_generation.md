@@ -37,6 +37,9 @@
 
 ## Generation
 
+- **Seedream 3.0 Technical Report**, `arXiv, 2504.11346`, [arxiv](http://arxiv.org/abs/2504.11346v2), [pdf](http://arxiv.org/pdf/2504.11346v2.pdf), cication: [**-1**](None) 
+
+	 *Yu Gao, Lixue Gong, Qiushan Guo, ..., Jianchao Yang, Weilin Huang*
 - [Generative modelling in latent space](https://sander.ai/2025/04/15/latents.html) 
 - **OmniSVG: A Unified Scalable Vector Graphics Generation Model**, `arXiv, 2504.06263`, [arxiv](http://arxiv.org/abs/2504.06263v1), [pdf](http://arxiv.org/pdf/2504.06263v1.pdf), cication: [**-1**](None) 
 
@@ -395,6 +398,14 @@
 
 ## Auto Regressive
 
+- **Token-Shuffle: Towards High-Resolution Image Generation with
+  Autoregressive Models**, `arXiv, 2504.17789`, [arxiv](http://arxiv.org/abs/2504.17789v2), [pdf](http://arxiv.org/pdf/2504.17789v2.pdf), cication: [**-1**](None) 
+
+	 *Xu Ma, Peize Sun, Haoyu Ma, ..., Sam Tsai, Yun Fu*
+- **GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
+  Autoregressive Image Generation**, `arXiv, 2504.08736`, [arxiv](http://arxiv.org/abs/2504.08736v1), [pdf](http://arxiv.org/pdf/2504.08736v1.pdf), cication: [**-1**](None) 
+
+	 *Tianwei Xiong, Jun Hao Liew, Zilong Huang, ..., Jiashi Feng, Xihui Liu* · ([silentview.github](https://silentview.github.io/GigaTok/)) · ([GigaTok](https://github.com/SilentView/GigaTok) - SilentView) ![Star](https://img.shields.io/github/stars/SilentView/GigaTok.svg?style=social&label=Star)
 - **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation 
   through Pretraining, SFT, and RL**, `arXiv, 2504.11455`, [arxiv](http://arxiv.org/abs/2504.11455v1), [pdf](http://arxiv.org/pdf/2504.11455v1.pdf), cication: [**-1**](None) 
 
@@ -487,6 +498,9 @@
 
 ## Editting
 
+- **Step1X-Edit: A Practical Framework for General Image Editing**, `arXiv, 2504.17761`, [arxiv](http://arxiv.org/abs/2504.17761v2), [pdf](http://arxiv.org/pdf/2504.17761v2.pdf), cication: [**-1**](None) 
+
+	 *Shiyu Liu, Yucheng Han, Peng Xing, ..., Gang Yu, Daxin Jiang* · ([Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step1X-Edit.svg?style=social&label=Star)
 - [Gigapixel v8.3.0 with the world’s fastest diffusion model for high-res image restoration, Recover v2.](https://x.com/topazlabs/status/1902742856512446490)  𝕏 
 - 🌟 **MangaNinja: Line Art Colorization with Precise Reference Following**, `arXiv, 2501.08332`, [arxiv](http://arxiv.org/abs/2501.08332v1), [pdf](http://arxiv.org/pdf/2501.08332v1.pdf), cication: [**-1**](None) 
 

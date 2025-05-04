@@ -19,6 +19,7 @@
 
 ## 3D Generation
 
+- [High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.](https://github.com/Tencent/Hunyuan3D-2)
 - **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified 
   Flow Models**, `arXiv, 2502.06608`, [arxiv](http://arxiv.org/abs/2502.06608v1), [pdf](http://arxiv.org/pdf/2502.06608v1.pdf), cication: [**-1**](None) 
 
