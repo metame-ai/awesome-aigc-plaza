@@ -19,7 +19,7 @@
 
 ## 3D Generation
 
-- [**Hunyuan3D-2**](https://github.com/Tencent/Hunyuan3D-2) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star)
+- [**Hunyuan3D-2**](https://github.com/Tencent/Hunyuan3D-2) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star) 
 - **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified 
   Flow Models**, `arXiv, 2502.06608`, [arxiv](http://arxiv.org/abs/2502.06608v1), [pdf](http://arxiv.org/pdf/2502.06608v1.pdf), cication: [**-1**](None) 
 
