@@ -22,7 +22,7 @@
 
 ## Generation
 
-- [**MAGI-1**](https://github.com/SandAI-org/MAGI-1) - SandAI-org ![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star)
+- [**MAGI-1**](https://github.com/SandAI-org/MAGI-1) - SandAI-org ![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star) 
 
 	 *Autoregressive Video Generation at Scale*
 - 🌟 **Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**, `arXiv, 2504.08685`, [arxiv](http://arxiv.org/abs/2504.08685v1), [pdf](http://arxiv.org/pdf/2504.08685v1.pdf), cication: [**-1**](None) 

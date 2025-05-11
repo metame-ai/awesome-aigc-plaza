@@ -398,11 +398,11 @@
 
 ## Auto Regressive
 
-- **Token-Shuffle: Towards High-Resolution Image Generation with
+- **Token-Shuffle: Towards High-Resolution Image Generation with 
   Autoregressive Models**, `arXiv, 2504.17789`, [arxiv](http://arxiv.org/abs/2504.17789v2), [pdf](http://arxiv.org/pdf/2504.17789v2.pdf), cication: [**-1**](None) 
 
 	 *Xu Ma, Peize Sun, Haoyu Ma, ..., Sam Tsai, Yun Fu*
-- **GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
+- **GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for 
   Autoregressive Image Generation**, `arXiv, 2504.08736`, [arxiv](http://arxiv.org/abs/2504.08736v1), [pdf](http://arxiv.org/pdf/2504.08736v1.pdf), cication: [**-1**](None) 
 
 	 *Tianwei Xiong, Jun Hao Liew, Zilong Huang, ..., Jiashi Feng, Xihui Liu* · ([silentview.github](https://silentview.github.io/GigaTok/)) · ([GigaTok](https://github.com/SilentView/GigaTok) - SilentView) ![Star](https://img.shields.io/github/stars/SilentView/GigaTok.svg?style=social&label=Star)
