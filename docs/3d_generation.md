@@ -16,9 +16,14 @@
 
 ## Survey
 
+- [**Awesome-3D-Scene-Generation**](https://github.com/hzxie/Awesome-3D-Scene-Generation) - hzxie ![Star](https://img.shields.io/github/stars/hzxie/Awesome-3D-Scene-Generation.svg?style=social&label=Star)
 
 ## 3D Generation
 
+- **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured
+  3D Assets**, `arXiv, 2505.07747`, [arxiv](http://arxiv.org/abs/2505.07747v1), [pdf](http://arxiv.org/pdf/2505.07747v1.pdf), cication: [**-1**](None) 
+
+	 *Weiyu Li, Xuanyang Zhang, Zheng Sun, ..., Daxin Jiang, Ping Tan*
 - [**Hunyuan3D-2**](https://github.com/Tencent/Hunyuan3D-2) - Tencent ![Star](https://img.shields.io/github/stars/Tencent/Hunyuan3D-2.svg?style=social&label=Star) 
 - **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified 
   Flow Models**, `arXiv, 2502.06608`, [arxiv](http://arxiv.org/abs/2502.06608v1), [pdf](http://arxiv.org/pdf/2502.06608v1.pdf), cication: [**-1**](None) 

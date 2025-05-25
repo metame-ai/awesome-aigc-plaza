@@ -37,6 +37,8 @@
 
 ## Generation
 
+- [Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447)
+- [Paper page - T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level  and Token-level CoT](https://huggingface.co/papers/2505.00703)|star|
 - **Seedream 3.0 Technical Report**, `arXiv, 2504.11346`, [arxiv](http://arxiv.org/abs/2504.11346v2), [pdf](http://arxiv.org/pdf/2504.11346v2.pdf), cication: [**-1**](None) 
 
 	 *Yu Gao, Lixue Gong, Qiushan Guo, ..., Jianchao Yang, Weilin Huang*
@@ -498,6 +500,7 @@
 
 ## Editting
 
+- [Paper page - In-Context Edit: Enabling Instructional Image Editing with In-Context  Generation in Large Scale Diffusion Transformer](https://huggingface.co/papers/2504.20690)
 - **Step1X-Edit: A Practical Framework for General Image Editing**, `arXiv, 2504.17761`, [arxiv](http://arxiv.org/abs/2504.17761v2), [pdf](http://arxiv.org/pdf/2504.17761v2.pdf), cication: [**-1**](None) 
 
 	 *Shiyu Liu, Yucheng Han, Peng Xing, ..., Gang Yu, Daxin Jiang* · ([Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step1X-Edit.svg?style=social&label=Star)
