@@ -257,7 +257,7 @@
 
 ## Animation
 
-- **Generative AI for Character Animation: A Comprehensive Survey of
+- **Generative AI for Character Animation: A Comprehensive Survey of 
   Techniques, Applications, and Future Directions**, `arXiv, 2504.19056`, [arxiv](http://arxiv.org/abs/2504.19056v1), [pdf](http://arxiv.org/pdf/2504.19056v1.pdf), cication: [**-1**](None) 
 
 	 *Mohammad Mahdi Abootorabi, Omid Ghahroodi, Pardis Sadat Zahraei, ..., Meisam Ahmadi, Ehsaneddin Asgari*
@@ -357,7 +357,7 @@
 
 ## Editting
 
-- [**KrillinAI**](https://github.com/krillinai/KrillinAI) - krillinai ![Star](https://img.shields.io/github/stars/krillinai/KrillinAI.svg?style=social&label=Star)
+- [**KrillinAI**](https://github.com/krillinai/KrillinAI) - krillinai ![Star](https://img.shields.io/github/stars/krillinai/KrillinAI.svg?style=social&label=Star) 
 - **ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**, `arXiv, 2503.11647`, [arxiv](http://arxiv.org/abs/2503.11647v1), [pdf](http://arxiv.org/pdf/2503.11647v1.pdf), cication: [**-1**](None) 
 
 	 *Jianhong Bai, Menghan Xia, Xiao Fu, ..., Pengfei Wan, Di Zhang* · ([jianhongbai.github](https://jianhongbai.github.io/ReCamMaster/))
