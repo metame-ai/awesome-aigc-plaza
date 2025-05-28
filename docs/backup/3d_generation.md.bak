@@ -16,11 +16,11 @@
 
 ## Survey
 
-- [**Awesome-3D-Scene-Generation**](https://github.com/hzxie/Awesome-3D-Scene-Generation) - hzxie ![Star](https://img.shields.io/github/stars/hzxie/Awesome-3D-Scene-Generation.svg?style=social&label=Star)
+- [**Awesome-3D-Scene-Generation**](https://github.com/hzxie/Awesome-3D-Scene-Generation) - hzxie ![Star](https://img.shields.io/github/stars/hzxie/Awesome-3D-Scene-Generation.svg?style=social&label=Star) 
 
 ## 3D Generation
 
-- **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured
+- **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 
   3D Assets**, `arXiv, 2505.07747`, [arxiv](http://arxiv.org/abs/2505.07747v1), [pdf](http://arxiv.org/pdf/2505.07747v1.pdf), cication: [**-1**](None) 
 
 	 *Weiyu Li, Xuanyang Zhang, Zheng Sun, ..., Daxin Jiang, Ping Tan*

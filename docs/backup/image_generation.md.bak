@@ -40,7 +40,7 @@
 - **Mean Flows for One-step Generative Modeling**, `arXiv, 2505.13447`, [arxiv](http://arxiv.org/abs/2505.13447v1), [pdf](http://arxiv.org/pdf/2505.13447v1.pdf), cication: [**-1**](None) 
 
 	 *Zhengyang Geng, Mingyang Deng, Xingjian Bai, ..., J. Zico Kolter, Kaiming He*
-- 🌟 **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
+- 🌟 **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level 
   and Token-level CoT**, `arXiv, 2505.00703`, [arxiv](http://arxiv.org/abs/2505.00703v1), [pdf](http://arxiv.org/pdf/2505.00703v1.pdf), cication: [**-1**](None) 
 
 	 *Dongzhi Jiang, Ziyu Guo, Renrui Zhang, ..., Pheng-Ann Heng, Hongsheng Li*
@@ -505,7 +505,7 @@
 
 ## Editting
 
-- **In-Context Edit: Enabling Instructional Image Editing with In-Context
+- **In-Context Edit: Enabling Instructional Image Editing with In-Context 
   Generation in Large Scale Diffusion Transformer**, `arXiv, 2504.20690`, [arxiv](http://arxiv.org/abs/2504.20690v1), [pdf](http://arxiv.org/pdf/2504.20690v1.pdf), cication: [**-1**](None) 
 
 	 *Zechuan Zhang, Ji Xie, Yu Lu, ..., Zongxin Yang, Yi Yang*
