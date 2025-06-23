@@ -22,6 +22,8 @@
 
 ## Generation
 
+- [Paper page - Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://huggingface.co/papers/2506.09113)
+- [Paper page - Autoregressive Adversarial Post-Training for Real-Time Interactive Video  Generation](https://huggingface.co/papers/2506.09350)
 - [**MAGI-1**](https://github.com/SandAI-org/MAGI-1) - SandAI-org ![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star) 
 
 	 *Autoregressive Video Generation at Scale*
