@@ -25,7 +25,7 @@
 - **Seedance 1.0: Exploring the Boundaries of Video Generation Models**, `arXiv, 2506.09113`, [arxiv](http://arxiv.org/abs/2506.09113v1), [pdf](http://arxiv.org/pdf/2506.09113v1.pdf), cication: [**-1**](None) 
 
 	 *Yu Gao, Haoyuan Guo, Tuyen Hoang, ..., Jiaxin Zou, Feilong Zuo*
-- **Autoregressive Adversarial Post-Training for Real-Time Interactive Video
+- **Autoregressive Adversarial Post-Training for Real-Time Interactive Video 
   Generation**, `arXiv, 2506.09350`, [arxiv](http://arxiv.org/abs/2506.09350v1), [pdf](http://arxiv.org/pdf/2506.09350v1.pdf), cication: [**-1**](None) 
 
 	 *Shanchuan Lin, Ceyuan Yang, Hao He, ..., Xuefeng Xiao, Lu Jiang*

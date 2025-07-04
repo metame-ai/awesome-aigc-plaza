@@ -22,8 +22,13 @@
 
 ## Generation
 
-- [Paper page - Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://huggingface.co/papers/2506.09113)
-- [Paper page - Autoregressive Adversarial Post-Training for Real-Time Interactive Video  Generation](https://huggingface.co/papers/2506.09350)
+- **Seedance 1.0: Exploring the Boundaries of Video Generation Models**, `arXiv, 2506.09113`, [arxiv](http://arxiv.org/abs/2506.09113v1), [pdf](http://arxiv.org/pdf/2506.09113v1.pdf), cication: [**-1**](None) 
+
+	 *Yu Gao, Haoyuan Guo, Tuyen Hoang, ..., Jiaxin Zou, Feilong Zuo*
+- **Autoregressive Adversarial Post-Training for Real-Time Interactive Video
+  Generation**, `arXiv, 2506.09350`, [arxiv](http://arxiv.org/abs/2506.09350v1), [pdf](http://arxiv.org/pdf/2506.09350v1.pdf), cication: [**-1**](None) 
+
+	 *Shanchuan Lin, Ceyuan Yang, Hao He, ..., Xuefeng Xiao, Lu Jiang*
 - [**MAGI-1**](https://github.com/SandAI-org/MAGI-1) - SandAI-org ![Star](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Star) 
 
 	 *Autoregressive Video Generation at Scale*
