@@ -20,6 +20,7 @@
 
 ## 3D Generation
 
+- [Paper page - HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D  Worlds from Words or Pixels](https://huggingface.co/papers/2507.21809)
 - **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 
   3D Assets**, `arXiv, 2505.07747`, [arxiv](http://arxiv.org/abs/2505.07747v1), [pdf](http://arxiv.org/pdf/2505.07747v1.pdf), cication: [**-1**](None) 
 

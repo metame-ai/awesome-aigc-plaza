@@ -22,8 +22,13 @@
 
 ## Generation
 
-- [Paper page - PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and  Quantized Attention in Visual Generation Models](https://huggingface.co/papers/2506.16054)
-- [Paper page - nablaNABLA: Neighborhood Adaptive Block-Level Attention](https://huggingface.co/papers/2507.13546)
+- **PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and
+  Quantized Attention in Visual Generation Models**, `arXiv, 2506.16054`, [arxiv](http://arxiv.org/abs/2506.16054v1), [pdf](http://arxiv.org/pdf/2506.16054v1.pdf), cication: [**-1**](None) 
+
+	 *Tianchen Zhao, Ke Hong, Xinhao Yang, ..., Yichong Zhang, Yu Wang*
+- **$\nabla$NABLA: Neighborhood Adaptive Block-Level Attention**, `arXiv, 2507.13546`, [arxiv](http://arxiv.org/abs/2507.13546v1), [pdf](http://arxiv.org/pdf/2507.13546v1.pdf), cication: [**-1**](None) 
+
+	 *Dmitrii Mikhailov, Aleksey Letunovskiy, Maria Kovaleva, ..., Evelina Sidorova, Denis Dimitrov*
 - **Seedance 1.0: Exploring the Boundaries of Video Generation Models**, `arXiv, 2506.09113`, [arxiv](http://arxiv.org/abs/2506.09113v1), [pdf](http://arxiv.org/pdf/2506.09113v1.pdf), cication: [**-1**](None) 
 
 	 *Yu Gao, Haoyuan Guo, Tuyen Hoang, ..., Jiaxin Zou, Feilong Zuo*

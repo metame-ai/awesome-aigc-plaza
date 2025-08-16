@@ -37,6 +37,7 @@
 
 ## Generation
 
+- [Paper page - Qwen-Image Technical Report](https://huggingface.co/papers/2508.02324)|star|
 - **Mean Flows for One-step Generative Modeling**, `arXiv, 2505.13447`, [arxiv](http://arxiv.org/abs/2505.13447v1), [pdf](http://arxiv.org/pdf/2505.13447v1.pdf), cication: [**-1**](None) 
 
 	 *Zhengyang Geng, Mingyang Deng, Xingjian Bai, ..., J. Zico Kolter, Kaiming He*
@@ -359,6 +360,7 @@
 
 ## Try On
 
+- [Paper page - DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a  Stage-Wise Diffusion Transformer Framework](https://huggingface.co/papers/2508.02807)
 - **TryOffAnyone: Tiled Cloth Generation from a Dressed Person**, `arXiv, 2412.08573`, [arxiv](http://arxiv.org/abs/2412.08573v2), [pdf](http://arxiv.org/pdf/2412.08573v2.pdf), cication: [**-1**](None) 
 
 	 *Ioannis Xarchakos, Theodoros Koukopoulos*

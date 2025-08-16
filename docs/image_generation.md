@@ -37,6 +37,9 @@
 
 ## Generation
 
+- 🌟 **Qwen-Image Technical Report**, `arXiv, 2508.02324`, [arxiv](http://arxiv.org/abs/2508.02324v1), [pdf](http://arxiv.org/pdf/2508.02324v1.pdf), cication: [**-1**](None) 
+
+	 *Chenfei Wu, Jiahao Li, Jingren Zhou, ..., Yuxuan Cai, Zenan Liu*
 - **Mean Flows for One-step Generative Modeling**, `arXiv, 2505.13447`, [arxiv](http://arxiv.org/abs/2505.13447v1), [pdf](http://arxiv.org/pdf/2505.13447v1.pdf), cication: [**-1**](None) 
 
 	 *Zhengyang Geng, Mingyang Deng, Xingjian Bai, ..., J. Zico Kolter, Kaiming He*
@@ -359,6 +362,10 @@
 
 ## Try On
 
+- **DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a
+  Stage-Wise Diffusion Transformer Framework**, `arXiv, 2508.02807`, [arxiv](http://arxiv.org/abs/2508.02807v1), [pdf](http://arxiv.org/pdf/2508.02807v1.pdf), cication: [**-1**](None) 
+
+	 *Tongchun Zuo, Zaiyu Huang, Shuliang Ning, ..., Mingyuan Gao, Xin Dong*
 - **TryOffAnyone: Tiled Cloth Generation from a Dressed Person**, `arXiv, 2412.08573`, [arxiv](http://arxiv.org/abs/2412.08573v2), [pdf](http://arxiv.org/pdf/2412.08573v2.pdf), cication: [**-1**](None) 
 
 	 *Ioannis Xarchakos, Theodoros Koukopoulos*

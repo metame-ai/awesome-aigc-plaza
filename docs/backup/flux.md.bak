@@ -40,7 +40,7 @@
 
 ## Misc
 
-- [Fast LoRA inference for Flux with Diffusers and PEFT](https://huggingface.co/blog/lora-fast)
+- [Fast LoRA inference for Flux with Diffusers and PEFT](https://huggingface.co/blog/lora-fast)  🤗
 - [xey  / sldr_flux_nsfw_v2-studio](https://huggingface.co/xey/sldr_flux_nsfw_v2-studio)  🤗 
 - **1.58-bit FLUX**, `arXiv, 2412.18653`, [arxiv](http://arxiv.org/abs/2412.18653v1), [pdf](http://arxiv.org/pdf/2412.18653v1.pdf), cication: [**-1**](None) 
 

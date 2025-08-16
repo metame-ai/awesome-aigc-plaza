@@ -20,6 +20,10 @@
 
 ## 3D Generation
 
+- **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
+  Worlds from Words or Pixels**, `arXiv, 2507.21809`, [arxiv](http://arxiv.org/abs/2507.21809v2), [pdf](http://arxiv.org/pdf/2507.21809v2.pdf), cication: [**-1**](None) 
+
+	 *HunyuanWorld Team, Zhenwei Wang, Yuhao Liu, ..., Tengfei Wang, Chunchao Guo*
 - **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 
   3D Assets**, `arXiv, 2505.07747`, [arxiv](http://arxiv.org/abs/2505.07747v1), [pdf](http://arxiv.org/pdf/2505.07747v1.pdf), cication: [**-1**](None) 
 
