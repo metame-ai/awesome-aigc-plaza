@@ -22,7 +22,7 @@
 
 ## Generation
 
-- **PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and
+- **PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and 
   Quantized Attention in Visual Generation Models**, `arXiv, 2506.16054`, [arxiv](http://arxiv.org/abs/2506.16054v1), [pdf](http://arxiv.org/pdf/2506.16054v1.pdf), cication: [**-1**](None) 
 
 	 *Tianchen Zhao, Ke Hong, Xinhao Yang, ..., Yichong Zhang, Yu Wang*

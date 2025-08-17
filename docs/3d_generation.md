@@ -20,7 +20,7 @@
 
 ## 3D Generation
 
-- **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
+- **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D 
   Worlds from Words or Pixels**, `arXiv, 2507.21809`, [arxiv](http://arxiv.org/abs/2507.21809v2), [pdf](http://arxiv.org/pdf/2507.21809v2.pdf), cication: [**-1**](None) 
 
 	 *HunyuanWorld Team, Zhenwei Wang, Yuhao Liu, ..., Tengfei Wang, Chunchao Guo*
