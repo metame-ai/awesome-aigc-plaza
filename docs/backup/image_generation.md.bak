@@ -362,7 +362,7 @@
 
 ## Try On
 
-- **DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a
+- **DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a 
   Stage-Wise Diffusion Transformer Framework**, `arXiv, 2508.02807`, [arxiv](http://arxiv.org/abs/2508.02807v1), [pdf](http://arxiv.org/pdf/2508.02807v1.pdf), cication: [**-1**](None) 
 
 	 *Tongchun Zuo, Zaiyu Huang, Shuliang Ning, ..., Mingyuan Gao, Xin Dong*
@@ -412,9 +412,10 @@
 
 ## Auto Regressive
 
-- [Paper page - NextStep-1: Toward Autoregressive Image Generation with Continuous  Tokens at Scale](https://huggingface.co/papers/2508.10711)|star|
-   - [stepfun.ai](https://stepfun.ai/research/en/nextstep1)
-   - [github.com](https://github.com/stepfun-ai/NextStep-1)
+- 🌟 **NextStep-1: Toward Autoregressive Image Generation with Continuous
+  Tokens at Scale**, `arXiv, 2508.10711`, [arxiv](http://arxiv.org/abs/2508.10711v1), [pdf](http://arxiv.org/pdf/2508.10711v1.pdf), cication: [**-1**](None) 
+
+	 *NextStep Team, Chunrui Han, Guopeng Li, ..., Xiangyu Zhang, Yibo Zhu* · ([stepfun](https://stepfun.ai/research/en/nextstep1)) · ([NextStep-1](https://github.com/stepfun-ai/NextStep-1) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/NextStep-1.svg?style=social&label=Star)
 - **Token-Shuffle: Towards High-Resolution Image Generation with 
   Autoregressive Models**, `arXiv, 2504.17789`, [arxiv](http://arxiv.org/abs/2504.17789v2), [pdf](http://arxiv.org/pdf/2504.17789v2.pdf), cication: [**-1**](None) 
 
