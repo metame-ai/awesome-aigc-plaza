@@ -412,7 +412,7 @@
 
 ## Auto Regressive
 
-- 🌟 **NextStep-1: Toward Autoregressive Image Generation with Continuous
+- 🌟 **NextStep-1: Toward Autoregressive Image Generation with Continuous 
   Tokens at Scale**, `arXiv, 2508.10711`, [arxiv](http://arxiv.org/abs/2508.10711v1), [pdf](http://arxiv.org/pdf/2508.10711v1.pdf), cication: [**-1**](None) 
 
 	 *NextStep Team, Chunrui Han, Guopeng Li, ..., Xiangyu Zhang, Yibo Zhu* · ([stepfun](https://stepfun.ai/research/en/nextstep1)) · ([NextStep-1](https://github.com/stepfun-ai/NextStep-1) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/NextStep-1.svg?style=social&label=Star)
