@@ -74,6 +74,7 @@ Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitt
   - [Misc](./docs/image_generation.md#misc)
 
 ### [Video Generation](./docs/video_generation.md)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [Video Generation](./docs/video_generation.md#video-generation)
   - [Survey](./docs/video_generation.md#survey)
   - [Generation](./docs/video_generation.md#generation)
